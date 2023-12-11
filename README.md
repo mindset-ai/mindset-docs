@@ -201,17 +201,5 @@ At Mindset-AI, evaluating RAG assistants is pivotal to ensure their effectivenes
 
 SECURITY
 
-At Mindset-AI, we prioritise rigorous security measures to safeguard our RAG Assistants against potential interference. We apply Input Validation and Sanitization to neutralise harmful inputs. Our secure API integration fortifies protection against potential breaches while consistent usage and behaviour monitoring detect abnormal activities. Additionally, rate limiting cancels out high-frequency request attacks, making prompt injections unviable. Ultimately, users must pass our robust authentication before interacting with the RAG Assistants, ensuring only authorised access. Through these layers of protection, we strive to deliver a smooth, secure and reliable user experience.
-
-\
-
-
-\
-\
-
-
-\
-
-
-\
+At Mindset-AI, we prioritise rigorous security measures to safeguard our RAG Assistants against potential interference. We apply Input Validation and Sanitization to neutralise harmful inputs. Our secure API integration fortifies protection against potential breaches while consistent usage and behaviour monitoring detect abnormal activities. Additionally, rate limiting cancels out high-frequency request attacks, making prompt injections unviable. Ultimately, users must pass our robust authentication before interacting with the RAG Assistants, ensuring only authorised access. Through these layers of protection, we strive to deliver a smooth, secure and reliable user experience.\
 \
