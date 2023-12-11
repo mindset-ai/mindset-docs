@@ -5,21 +5,21 @@ description: >-
   in their solution.
 ---
 
-# AI Guidlines
+# AI Guidelines
 
 ## AI Q\&A
 
 ### What are you doing to mitigate bias in your AI?
 
-The Mindset AI system uses a RAG process to help our clients' users get to information and trigger automated actions efficiently. Each client’s instance is entirely separate and is fed from their nominated IP (a knowledge base in the form of documents, recordings, videos, etc).&#x20;
+The Mindset AI system uses a RAG process to help our clients' users get to information and trigger automated actions efficiently. Each client’s instance is entirely separate and is fed from their nominated IP (a knowledge base in the form of documents, recordings, videos, etc).
 
 The first major potential source of bias in such a system is source material bias: RAG systems retrieve information from a knowledge base or external sources to generate responses. The generated responses can inadvertently reflect these biases if these sources contain biased information or lack diverse perspectives. For instance, if the knowledge base is heavily skewed towards certain political views or lacks representation of certain cultures, the responses generated could be similarly skewed.
 
-Mindset AI’s goal is to help our clients successfully manage their AI assistants, and the principal step to crafting a successful AI assistant is to feed it with a well-rounded body of knowledge. To accomplish this, we are developing ways of identifying “blind spots” in a client’s knowledge base and reporting this information to them with actionable insights so that they can remedy the situation.&#x20;
+Mindset AI’s goal is to help our clients successfully manage their AI assistants, and the principal step to crafting a successful AI assistant is to feed it with a well-rounded body of knowledge. To accomplish this, we are developing ways of identifying “blind spots” in a client’s knowledge base and reporting this information to them with actionable insights so that they can remedy the situation.
 
-Another type is inherent adverse bias in interpreting the source material, where the system consistently and unfairly disadvantages certain groups or individuals based on characteristics like race, gender, age, location, etc.&#x20;
+Another type is inherent adverse bias in interpreting the source material, where the system consistently and unfairly disadvantages certain groups or individuals based on characteristics like race, gender, age, location, etc.
 
-Mindset AI conducts regular system bias audits where we simulate several reversed controlled experiments on many cohorts of synthetic users.&#x20;
+Mindset AI conducts regular system bias audits where we simulate several reversed controlled experiments on many cohorts of synthetic users.
 
 These synthetic cohorts are diverse in demographics, and the expectation is that system responses to two synthetic users in similar contexts but with different demographics should mostly be similar. Detected discrepancies are identified and form the basis of an actionable report we make available to our clients.
 
@@ -52,7 +52,7 @@ If the request is for information (“Ask”), the LLM’s output is returned to
 
 ### How do you ensure humans understand when they are interacting with AI?
 
-Each interaction with an Assistant starts with a Disclaimer message, which explains that the Assistant is an AI and the specific limitations of the assistant.&#x20;
+Each interaction with an Assistant starts with a Disclaimer message, which explains that the Assistant is an AI and the specific limitations of the assistant.
 
 ### What are your AI ethical principles?
 
@@ -60,7 +60,7 @@ Our goal is to build an AI-powered system which is honest, helpful and harmless.
 
 HONESTY
 
-* **Accurately reflect the client IP:** Enable our clients to craft knowledge bases containing accurate and reliable information.&#x20;
+* **Accurately reflect the client IP:** Enable our clients to craft knowledge bases containing accurate and reliable information.
 * **Transparency in Responses:** We communicate the source of the information (answers) provided by the system, enabling users to zero in on the specific IP fragments that informed the system’s response
 
 HELPFULLNESS
@@ -151,41 +151,29 @@ Mindset AI is committed to ensuring compliance with data protection regulations,
 
 ## Assistant Q\&A
 
-### How are 3rd party vendors chosen?
-
-SUITABILITY
-
-At Mindset-AI, we're deliberate and meticulous in selecting third-party vendors like OpenAI. A key criterion is IP Protection; we ensure that our client's data is never used to train the vendors' models, preserving the integrity and confidentiality of client data.
-
-Coming from the belief that we stand on the shoulders of giants, we capitalise on the excellent foundational work of such reputable vendors while contributing our unique, innovative layer to refine and advance their offerings.
-
-We also look keenly into the vendor's speciality. Each provider brings unique strengths to the table, and we select the most suitable tool for the job, even if it means adapting it to our specific requirements. The dependability of a vendor is quintessential in our selection. We opt for reliable and trustworthy vendors with a proven track record.
-
-Lastly, while we appreciate quality and reliability, we also know the cost. We strive for a careful balance of cost-effectiveness without compromising on product quality and client satisfaction.
-
 ### How are humans kept in the loop?
 
 OBJECTIVITY
 
-At Mindset AI, we believe in the mantra, 'AI works best with human involvement.' We offer a user-centred design that facilitates open and continuous interaction between our AI system and the user, creating a feedback loop that sharpens the system's responses over time.&#x20;
+At Mindset AI, we believe in the mantra, 'AI works best with human involvement.' We offer a user-centred design that facilitates open and continuous interaction between our AI system and the user, creating a feedback loop that sharpens the system's responses over time.
 
-Additionally, our AI assistants are crafted as tools to assist rather than replace their human counterparts, enabling users to make enlightened decisions – based on system responses – while keeping a full command over the overall process.&#x20;
+Additionally, our AI assistants are crafted as tools to assist rather than replace their human counterparts, enabling users to make enlightened decisions – based on system responses – while keeping a full command over the overall process.
 
 We fundamentally believe in the principle of human-in-the-loop as a significant step towards creating a more beneficial and effective AI solution.
 
-A good example of Mindset-AI's commitment to the human-in-the-loop model can be seen in its  Content Moderation feature. If users feel that the AI system generates a wrong, biased, or inappropriate response, they can report this instance. These reports are made available to the appropriate stakeholders for review and action. In this way, Mindset-AI ensures that human judgement is involved in refining and improving the AI system, thus keeping a human actively involved in the loop.
+A good example of Mindset-AI's commitment to the human-in-the-loop model can be seen in its Content Moderation feature. If users feel that the AI system generates a wrong, biased, or inappropriate response, they can report this instance. These reports are made available to the appropriate stakeholders for review and action. In this way, Mindset-AI ensures that human judgement is involved in refining and improving the AI system, thus keeping a human actively involved in the loop.
 
 ### How is user feedback incorporated?
 
 FEEDBACK
 
-We currently gather quality-type signals from empirical usage, with plans to gather many more.   This is in the form of user answer ratings (binary: thumbs-up and thumbs-down) but will be expanded to a star score and/or qualitative written/spoken input on user experience and answer quality. This signal is used to (a) report back to the admins of the system on “which types of questions are typically garnering negative user feedback” and (b) to provide our system with a set of subjectively well-answered questions for automated client-specific quality assurance processes.
+We currently gather quality-type signals from empirical usage, with plans to gather many more. This is in the form of user answer ratings (binary: thumbs-up and thumbs-down) but will be expanded to a star score and/or qualitative written/spoken input on user experience and answer quality. This signal is used to (a) report back to the admins of the system on “which types of questions are typically garnering negative user feedback” and (b) to provide our system with a set of subjectively well-answered questions for automated client-specific quality assurance processes.
 
-We believe a system where different users’ feedback is weighted differently: the feedback from specific users (system admins, SMEs, early adopters) would have a higher weight.&#x20;
+We believe a system where different users’ feedback is weighted differently: the feedback from specific users (system admins, SMEs, early adopters) would have a higher weight.
 
 We see the feedback loop from user to admin as vital: enabling the administrators to know to feed the system with the right, high-quality information is key to end-user engagement.
 
-### How are the assistants’ output explained to users?&#x20;
+### How are the assistants’ output explained to users?
 
 EXPLAINABILITY
 
@@ -197,8 +185,30 @@ VALIDITY
 
 At Mindset-AI, evaluating RAG assistants is pivotal to ensure their effectiveness. We rigorously monitor their performance across the three key metrics of the RAG Triad: Answer Relevance, Context Relevance, and Groundedness. By scrutinising these fundamental aspects, we guarantee that our RAG assistants provide precise, contextually relevant, and grounded responses, securing quality and reliability in user interactions.
 
-### What steps are taken to ensure the assistants cannot be interfered with?&#x20;
+### What steps are taken to ensure the assistants cannot be interfered with?
 
 SECURITY
 
 At Mindset-AI, we prioritise rigorous security measures to safeguard our RAG Assistants against potential interference. We apply Input Validation and Sanitization to neutralise harmful inputs. Our secure API integration fortifies protection against potential breaches while consistent usage and behaviour monitoring detect abnormal activities. Additionally, rate limiting cancels out high-frequency request attacks, making prompt injections unviable. Ultimately, users must pass our robust authentication before interacting with the RAG Assistants, ensuring only authorised access. Through these layers of protection, we strive to deliver a smooth, secure and reliable user experience.
+
+## 3rd Party AI Vendors
+
+### How are 3rd party vendors chosen?
+
+SUITABILITY
+
+At Mindset-AI, we're deliberate and meticulous in selecting third-party vendors like OpenAI. A key criterion is IP Protection; we ensure that our client's data is never used to train the vendors' models, preserving the integrity and confidentiality of client data.
+
+Coming from the belief that we stand on the shoulders of giants, we capitalise on the excellent foundational work of such reputable vendors while contributing our unique, innovative layer to refine and advance their offerings.
+
+We also look keenly into the vendor's speciality. Each provider brings unique strengths to the table, and we select the most suitable tool for the job, even if it means adapting it to our specific requirements. The dependability of a vendor is quintessential in our selection. We opt for reliable and trustworthy vendors with a proven track record.
+
+Lastly, while we appreciate quality and reliability, we also know the cost. We strive for a careful balance of cost-effectiveness without compromising product quality and client satisfaction.
+
+### 3rd Party Vendor Privacy and Security Commitments&#x20;
+
+| Service provider | Purpose                                             | Security information                                                                                                                                         |
+| ---------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| OpenAI           | LLM response generation                             | <p><a href="https://openai.com/enterprise-privacy#our-commitments">Privacy commitments</a></p><p><a href="https://trust.openai.com">trust.openai.com</a></p> |
+| Pinecone         | Vector database mapping topic and context           | [Pinecone security documentation](https://www.pinecone.io/security/)                                                                                         |
+| Assembly AI      | Audio Visual content transcription and segmentation | [Assembly AI security documentation](https://www.assemblyai.com/security)                                                                                    |
