@@ -1,4 +1,10 @@
 # Table of contents
 
-* [AI Guidlines](README.md)
-* [API & SDK](api-and-sdk.md)
+## General
+
+* [Introduction](README.md)
+* [AI Guidlines](general/readme.md)
+
+## Developers
+
+* [API & SDK](developers/api-and-sdk.md)
