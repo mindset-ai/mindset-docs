@@ -2,7 +2,7 @@
 
 ## General
 
-* [Overview](README.md)
+* [Welcome](README.md)
 * [AI Guidelines](general/ai-guidelines.md)
 * [Security Q\&A](general/security-q-and-a.md)
 
