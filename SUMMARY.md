@@ -10,6 +10,8 @@
 ## Platform
 
 * [Overview](platform/overview.md)
+* [Features](platform/features/README.md)
+  * [Knowledge Graph Workflow](platform/features/knowledge-graph-workflow.md)
 
 ## Developers
 
