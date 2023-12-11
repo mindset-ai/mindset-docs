@@ -3,8 +3,9 @@
 ## General
 
 * [Welcome](README.md)
-* [AI Guidelines](general/ai-guidelines.md)
-* [Security Q\&A](general/security-q-and-a.md)
+* [AI and Security](general/ai-and-security/README.md)
+  * [AI Guidelines](general/ai-and-security/ai-guidelines.md)
+  * [Security Q\&A](general/ai-and-security/security-q-and-a.md)
 
 ## Platform
 
