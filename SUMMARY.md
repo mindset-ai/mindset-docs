@@ -12,6 +12,8 @@
 * [Overview](platform/overview.md)
 * [Features](platform/features/README.md)
   * [Knowledge Graph Workflow](platform/features/knowledge-graph-workflow.md)
+  * [Engagements](platform/features/engagements/README.md)
+    * [Survey Engagement](platform/features/engagements/survey-engagement.md)
 
 ## Developers
 
