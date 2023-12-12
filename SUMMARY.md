@@ -37,6 +37,10 @@
 * [Overview](developers/overview.md)
 * [API & SDK](developers/api-and-sdk.md)
 
+## Analytics
+
+* [Overview](analytics/overview.md)
+
 ***
 
 * [Mindset AI Website](https://www.mindset.ai/)
