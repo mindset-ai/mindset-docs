@@ -51,6 +51,10 @@ Set the messages sent to both the assistant and end-users to get the conversatio
 
 ![](https://lh7-us.googleusercontent.com/Tb951YDWaGPescDlxBmH6HyhCpxZ5wmZBpm3lEAGkVbMeTsCD2aRNiyL62PUkNedHW1IQXRa\_enMZTAYUE268Dm6pBbt3Tx824pyWiJbfvRSw0L6r1ZVOge5CDgEwY8KY7rN0z33j6cRM4UGuQpSSbs)
 
+Please format your response using comprehensive Github Markdown styling. Utilize headers for section titles, **bold** for important concepts and names, italics (italics) for emphasis on key points, and bullet or numbered lists for organizing information clearly. Include tables as standard Markdown tables (not in code blocks). For quotes or particularly significant information, use blockquotes. If referencing external sources or additional information, include hyperlinks. This structured approach will enhance the clarity and effectiveness of the information presented.
+
+
+
 **Configuring the Ice-Breaker message**
 
 In addition to adding your AI Assistant guidance prompts, you can also add the configuration for an ice-breaker message here, too.
