@@ -1,4 +1,4 @@
-# Configuring Your Facilitation
+# Configuring Facilitations
 
 ### Setting up the base configuration
 

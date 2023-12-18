@@ -2,7 +2,7 @@
 description: A step-by-step explanation of how to invite users into a facilitation.
 ---
 
-# How to invite end users into a facilitation via the invite code
+# Inviting end-users into a Facilitation via the invite code
 
 Facilitations are a workflow that provides a flexible way to engage users through a facilitated learning process. A facilitator invites end users into a facilitation by sharing a code with them to join or manually adding them to the facilitation.&#x20;
 

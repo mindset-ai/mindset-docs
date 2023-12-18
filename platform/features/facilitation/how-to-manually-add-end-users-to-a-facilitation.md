@@ -2,7 +2,7 @@
 description: An explanation of adding end users manually to a facilitation
 ---
 
-# How to manually add end users to a facilitation
+# Manually adding end-users to a Facilitation
 
 You can now use the Add Attendees button on the Facilitation card to manually add users to the facilitation. Clicking this you can easily add the details of the attendees you would like to invite to that Facilitation.&#x20;
 
