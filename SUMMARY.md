@@ -68,16 +68,16 @@
 ## Analytics
 
 * [Overview](analytics/overview/README.md)
-  * [What is ThoughtSpot?](analytics/overview/what-is-thoughtspot.md)
-  * [How do I connect my own BI tool to the data?](analytics/overview/how-do-i-connect-my-own-bi-tool-to-the-data.md)
+  * [ThoughtSpot](analytics/overview/thoughtspot.md)
+  * [Connecting a BI tool to the application](analytics/overview/connecting-a-bi-tool-to-the-application.md)
 * [ThoughtSpot FAQs](analytics/thoughtspot-faqs/README.md)
   * [Adding a logo or image to a liveboard](analytics/thoughtspot-faqs/adding-a-logo-or-image-to-a-liveboard.md)
-  * [There is data missing from my ThoughtSpot account](analytics/thoughtspot-faqs/there-is-data-missing-from-my-thoughtspot-account.md)
-  * [Can I export my ThoughtSpot data to a csv file?](analytics/thoughtspot-faqs/can-i-export-my-thoughtspot-data-to-a-csv-file.md)
-  * [How to explore raw data in ThoughtSpot?](analytics/thoughtspot-faqs/how-to-explore-raw-data-in-thoughtspot.md)
-  * [How can I add a note to my liveaboard in ThoughtSpot?](analytics/thoughtspot-faqs/how-can-i-add-a-note-to-my-liveaboard-in-thoughtspot.md)
-  * [How can I pin something to my Liveboard in ThoughtSpot?](analytics/thoughtspot-faqs/how-can-i-pin-something-to-my-liveboard-in-thoughtspot.md)
-  * [How can I edit individual data visualisations in my liveboard?](analytics/thoughtspot-faqs/how-can-i-edit-individual-data-visualisations-in-my-liveboard.md)
+  * [There is data missing from my account](analytics/thoughtspot-faqs/there-is-data-missing-from-my-account.md)
+  * [Exporting raw data](analytics/thoughtspot-faqs/exporting-raw-data.md)
+  * [Exporting data to a csv file](analytics/thoughtspot-faqs/exporting-data-to-a-csv-file.md)
+  * [How to add a note to a liveboard](analytics/thoughtspot-faqs/how-to-add-a-note-to-a-liveboard.md)
+  * [How to pin in a liveboard](analytics/thoughtspot-faqs/how-to-pin-in-a-liveboard.md)
+  * [Editing individual data visualisations in a liveboard](analytics/thoughtspot-faqs/editing-individual-data-visualisations-in-a-liveboard.md)
 
 ## Support
 
