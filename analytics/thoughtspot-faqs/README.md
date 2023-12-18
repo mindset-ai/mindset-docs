@@ -1,0 +1,2 @@
+# ThoughtSpot FAQs
+
