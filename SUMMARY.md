@@ -71,7 +71,7 @@
   * [What is ThoughtSpot?](analytics/overview/what-is-thoughtspot.md)
   * [How do I connect my own BI tool to the data?](analytics/overview/how-do-i-connect-my-own-bi-tool-to-the-data.md)
 * [ThoughtSpot FAQs](analytics/thoughtspot-faqs/README.md)
-  * [How can I add a logo or image to my liveboard?](analytics/thoughtspot-faqs/how-can-i-add-a-logo-or-image-to-my-liveboard.md)
+  * [Adding a logo or image to a liveboard](analytics/thoughtspot-faqs/adding-a-logo-or-image-to-a-liveboard.md)
   * [There is data missing from my ThoughtSpot account](analytics/thoughtspot-faqs/there-is-data-missing-from-my-thoughtspot-account.md)
   * [Can I export my ThoughtSpot data to a csv file?](analytics/thoughtspot-faqs/can-i-export-my-thoughtspot-data-to-a-csv-file.md)
   * [How to explore raw data in ThoughtSpot?](analytics/thoughtspot-faqs/how-to-explore-raw-data-in-thoughtspot.md)
