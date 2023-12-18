@@ -28,8 +28,11 @@ On the Details tab, choose the desired header for your Content engagement. There
 3. Video header\
    \
    ![](https://lh7-us.googleusercontent.com/lPDIAVLYDEwaYNLEOp73D-USWZ-J1jr0f\_lDwXwGI1mxOl69YFSfuJ-FY0nwT-Z1H7Wop08\_KYHLrzJdPTzCULbntmRUcksOjMuUXkDDl3LOACnysnDO5rRfWvO9mAvxXWIm58Qjn6RlKw-M2UtvQUk)\
-   \
-   **Configuring a Text header**
+
+
+***
+
+**Configuring a Text header**
 
 Here you are able to configure what you would like the Text header to look like.&#x20;
 
@@ -41,7 +44,8 @@ Under Title background colour, press Select colour. Enter Hex colour code or pic
 
 Once you’ve configured the header of your engagement, you can add a Title, Summary and Body text to it. You also have the option of attaching up to 5 documents and adding external links and ratings.
 
-\
+***
+
 **Configuring an Image header**
 
 For the Image header type, upload a JPG, PNG, or SVG image type of 16:9 ratio by selecting Upload Image and clicking on Save.
@@ -50,6 +54,8 @@ For the Image header type, upload a JPG, PNG, or SVG image type of 16:9 ratio by
 ![](https://lh7-us.googleusercontent.com/uIaCr0Ry1wVznxUtlMcjI5I2pfZgjBTUv4-2EVecLrn\_xwVFNCeskLiH7A-Rh\_Ah9t51RFzr1OUCns9EBnGO1zcO8Z2Sh2qYoVxn0iT3kf0pjuV3SSh8l3u70AlrDxbAJfEHqMNJPF-4vSklzyMqQHE)\
 \
 Once you’ve configured the header of your engagement, you can add a Title, Summary and Body text to it. You also have the option of attaching up to 5 documents and adding external links and ratings.
+
+***
 
 #### Configuring a Video header
 

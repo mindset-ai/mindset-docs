@@ -37,8 +37,10 @@ Once the download engagement has been completed and saved, you can view it on th
 
 ![](https://lh7-us.googleusercontent.com/tf-hGVIcuIWFu0VZ6LHxwRX87z3f-EOUEquvcbb7q-DcsMzLEPxxsQCzRR-1IOU6ORANbQW7-ivRHarqBnyYD6dKEjSF6DHJwigZAjq7mdu6aUQ0uDDP6ABmpdMRoHqzlwmekSev7FQ5vmpPiHU6eYc)
 
+***
+
 \
-**Publishing from the Published locations tab**
+**Publishing from the Published Locations tab**
 
 This tab shows a list of the locations where this engagement has been published, namely the Broadcast Channels and the Home screen. You can also publish from this location by clicking the Publish a copy button.
 

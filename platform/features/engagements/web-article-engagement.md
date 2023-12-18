@@ -40,7 +40,7 @@ Once the web article engagement has been completed and saved, you can view it on
 
 ![](https://lh7-us.googleusercontent.com/UbXy-4JVV751dLvouzXlZrIRJClYMfRj8mKsF7TdJhfwyjLXdbDzyNNwhPjbZ1\_uAqLIscHJipQT\_BxVetUyOqBfdj9tqkzAhTu3IbYTiv1enYNQgYwUZDukQsmRk8miFrAW3oOyTJw3sgJf4N9e1Q)
 
-
+***
 
 #### Publishing from the Published locations tab
 
