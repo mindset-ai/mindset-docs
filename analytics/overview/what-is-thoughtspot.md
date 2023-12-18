@@ -1,7 +1,7 @@
 ---
 description: >-
-  An introduction to our new BI Tool, ThoughtSpot, and an explanation of how it
-  can add value to your application.
+  An introduction to our BI Tool and an explanation of how it can add value to
+  your application.
 ---
 
 # What is ThoughtSpot?
