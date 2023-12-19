@@ -61,6 +61,7 @@
   * [Navigation](platform/design/navigation.md)
   * [Branding](platform/design/branding.md)
   * [Thumbnail Design](platform/design/thumbnail-design.md)
+  * [SVG Images](platform/design/svg-images.md)
 
 ## Developers
 
