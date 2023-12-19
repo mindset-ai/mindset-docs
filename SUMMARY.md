@@ -89,6 +89,7 @@
 * [Resizing & compressing images](support/resizing-and-compressing-images.md)
 * [Using Vimeo video](support/using-vimeo-video.md)
 * [Performing a hard refresh](support/performing-a-hard-refresh.md)
+* [Application loading time](support/application-loading-time.md)
 * [Raise a support ticket](https://mindset-ai.atlassian.net/servicedesk/customer/portal/1)
 
 ***
