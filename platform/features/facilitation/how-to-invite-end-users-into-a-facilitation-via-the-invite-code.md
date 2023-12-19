@@ -173,7 +173,6 @@ For Account Level open Facilitation
 
 * The end user will be taken to the Request access screen after entering a valid 9-digit code and will have to send a request to the admin to add them into the Facilitation manually.
 
-\
 
 
 **Account Level Restricted Facilitation**

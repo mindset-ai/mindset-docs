@@ -125,6 +125,8 @@ It’s important to mention that the list of invited Reviewers acts as a safe-li
 
 
 
+***
+
 ### Run a 360 Feedback Survey
 
 Now that you’ve created your first “360 Feedback Survey” engagement you can add it to a new or existing Facilitation. Once published in the “Run Facilitation” tab, all facilitation attendees will be added as Leaders in the “360 Feedback Survey” engagement. Clicking on the engagement card in the “Run Facilitation” tab will reveal each Leader’s progress with the survey and the progress of the Reviewers they have invited. ![](https://lh7-us.googleusercontent.com/iwIHKpcmQ3ppfktEVi6dblelz8KG-KS1CzhID6mVzLPWbDBsQIOE0XVdJTZMqCHU0KPrkxo2xMtCR3Nw5PdYV\_XAqX5G0QL-pULqb8N2h7kmGTfgpXF17zIVJzDXD9vcFEHMieQ6vYsaUH0zHW6\_ym4)
@@ -156,6 +158,8 @@ Reviewers will receive an email containing an invitation link which will redirec
 
 
 
+***
+
 ## Important to note
 
 
@@ -164,6 +168,8 @@ Reviewers will receive an email containing an invitation link which will redirec
 * The list of invited Reviewers acts as a safe-list, so reviewers will be required to create an account or log into an existing account with the email address that has been added to the safe-list.
 
 
+
+***
 
 ## 360 Feedback Survey FAQs
 

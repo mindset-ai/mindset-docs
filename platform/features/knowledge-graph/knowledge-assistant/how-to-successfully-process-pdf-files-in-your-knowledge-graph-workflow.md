@@ -29,6 +29,8 @@ Before you upload your PDF files, it's important to follow the guidelines below.
 
 
 
+***
+
 **Understanding Content Segmentation: Audio/Visual vs. PDFs**
 
 Our platform efficiently organises audio and visual files by specific topics, allowing end-users to easily locate relevant content.

@@ -4,4 +4,8 @@ The Knowledge Assistant is a feature used to ask questions, to find out key info
 
 The Knowledge Assistant will also search for content from your content bank which refer to the specific question asked.&#x20;
 
+
+
+***
+
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p></p><p>How to set up the Knowledge Graph workflow</p></td><td></td><td></td><td><a href="knowledge-assistant/setting-up-the-knowledge-graph-workflow.md">setting-up-the-knowledge-graph-workflow.md</a></td></tr><tr><td></td><td>How to configure the Knowledge Graph banks</td><td></td><td><a href="knowledge-assistant/configuring-the-knowledge-graph-banks.md">configuring-the-knowledge-graph-banks.md</a></td></tr><tr><td></td><td>Knowledge Graph FAQs</td><td></td><td><a href="knowledge-assistant/knowledge-graph-workflow-faqs.md">knowledge-graph-workflow-faqs.md</a></td></tr><tr><td></td><td>How to exclude content from being viewable in the Knowledge Assistant</td><td></td><td><a href="knowledge-assistant/how-to-exclude-content-from-being-viewable-in-the-knowledge-assistant.md">how-to-exclude-content-from-being-viewable-in-the-knowledge-assistant.md</a></td></tr><tr><td></td><td>How to successfully process PDF files in your Knowledge Graph workflow</td><td></td><td><a href="knowledge-assistant/how-to-successfully-process-pdf-files-in-your-knowledge-graph-workflow.md">how-to-successfully-process-pdf-files-in-your-knowledge-graph-workflow.md</a></td></tr><tr><td></td><td>Mastering the art of thumbnail design for your Knowledge Graph workflow</td><td></td><td><a href="../../design/thumbnail-design.md">thumbnail-design.md</a></td></tr></tbody></table>

@@ -4,11 +4,13 @@ description: >-
   value to your application.
 ---
 
-# How to set up the Knowledge Graph Workflow
+# Setting up the Knowledge Graph Workflow
 
 The Knowledge Graph workflow is designed to help you interact with your users more efficiently and effectively through the implementation of an AI-powered chatbot. This chatbot is trained on your library of content, including videos, audio, and other intellectual property (IP).  With complete control in your hands, the Knowledge Graph (KG) acts as a loyal representative of your brand, answering users' questions, and offering a hyper-personalised user experience.
 
 &#x20;
+
+***
 
 **Watch the video here:**
 
@@ -88,6 +90,10 @@ Here you can design exactly how you would like the chat interface to look with t
 This is the card that would be displayed on the end-user's screen if the workflow is served with other features. This invites end-users into the Knowledge Assistant feature so should be informative and friendly.
 
 ![Screenshot (7)](https://info.mindset.ai/hs-fs/hubfs/Screenshot%20\(7\).png?width=688\&height=141\&name=Screenshot%20\(7\).png)
+
+####
+
+***
 
 #### Setting up Content Discovery
 

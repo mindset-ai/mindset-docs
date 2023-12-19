@@ -47,10 +47,16 @@ Under the same tab, you can create a Facilitation greeting which is a card that 
 
 
 
+***
+
 **Assigning Facilitators**
 
 To run facilitations, you must have assigned Facilitators. To assign a facilitator, go to the Facilitation screen, and under Facilitations select the ellipsis and Edit on the Facilitation chosen. Under General Settings > Facilitation details scroll down to Facilitators. From this drop-down, you can choose your Facilitator for the event.\
 
+
+
+
+***
 
 **Designing a Facilitation**
 
@@ -72,6 +78,10 @@ Should you want to edit or delete these engagements at any time, click on the el
 \
 ![](https://lh7-us.googleusercontent.com/muXpjWlAw-njscnBx\_kXrhnc2b6ZBb9cbslFmdErAwE-Gx2Drn1Ve\_TfazVlv2\_YM-235B-YyLjRp-ZvL2A0pqGKOu5FlNsIgfFmPYFnppN4OORoM7G05PWTaGMw8TjDC2cXmfo11Za1nx\_zXqbgBG8)\
 
+
+
+
+***
 
 **Publishing a Facilitation**
 
@@ -96,6 +106,10 @@ Once added you can view all attendees under the Facilitation attendees section b
 \
 ![](https://lh7-us.googleusercontent.com/TYBCp3Ewqpp6rDJx8aHvgToSvZdLBC4OaSDVJgXK8g-N-fEgTgocdumuUeZKUGB7\_zqBUu4DyOPrfuZH3N1SbJ55n-t1fS-HZoYWsJ5ZuzQB\_S94Lij3jioy-m29lhClhqGcgAweV1XkcKMO8Hr9YXY)\
 
+
+
+
+***
 
 **Running a Facilitation**
 

@@ -4,7 +4,7 @@ description: >-
   brand experience.
 ---
 
-# Mastering the Art of Thumbnail Design for your Knowledge Graph Workflow
+# Thumbnail Design
 
 **Thumbnails: What are they and why are they important?**&#x20;
 
@@ -21,6 +21,10 @@ Below is an example of how thumbnails will show in the user-facing front end of 
 
 \
 ![](https://lh7-us.googleusercontent.com/NS08PQk\_Abday0yyCp7tCq4HywOmIIyk5iQ2svspzld\_F83E01IHGhHaiNjSOQsozlpY1NF4Cs9ZAkZlUwieYvTs97BV1aZESZ0Qbv4UEVnXKaRFl6W96Dmb9WCp\_lLrhnk9TYct3Rsmha5pM-zS1QM)\
+
+
+***
+
 \
 **Designing Your Thumbnail**
 
@@ -35,6 +39,8 @@ Things to be aware of:
 
 
 
+***
+
 **Things to avoid:**
 
 * Don’t clutter your canvas: A busy thumbnail can obscure your content's message - too many images and text will make your thumbnail illegible.
@@ -45,6 +51,8 @@ Things to be aware of:
 
 
 
+***
+
 **Optimising the Display of Your Thumbnail**
 
 * Pay attention to the aspect ratio: Thumbnails should be designed in a 16:9 aspect ratio which is the widely accepted standard for video players and display screens.
@@ -52,6 +60,8 @@ Things to be aware of:
 * Test for Consistency: Test how your thumbnails on various devices to ensure the design communicates effectively across all platforms. You can do this easily by checking the preview of the Discovery part of the knowledge graph workflow.&#x20;
 
 
+
+***
 
 **Thumbnail examples**
 

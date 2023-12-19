@@ -163,7 +163,9 @@ Check-in Highlights can then be configured.
 
 &#x20;![](https://lh7-us.googleusercontent.com/R58BKoOVpG452Y9RvOBvgAyVH58ZqlKQPlpW0iQJJMO1FLm7qk7QqYagCdUgfvxwpLVBhdiTwToMLpdhLt5ADb\_wZnBD2AQ3wCU\_dgKiuC1SkbRzciVgMtJaG02YlkC5OHjUT0iBxLFLpBaPrLwDAOE)
 
-Here, the highest and lowest daily and weekly check-in information can be previewed by end-users. You can choose whether this score is based on the user's sliding scale answers, or alternatively their ranking check-in state. Please note that in order to display the highest and lowest ranking check-in state, you will need to assign ranking to the answer options of a filter wheel question in the survey questions section. ![](https://lh7-us.googleusercontent.com/RZoK5wzTXy4VO-2Y9gS\_geG\_AAgeJMRS0l5akTtBks8f-BX\_yruQEuK6P88F5skp\_vUR2a4BSpdOK9Ug\_zLu2kQw5EZBvOytMAXRFEJBZSb2WgL8-hab9OUfQVQWiPYNAchXLmzs5bubblCpqaxpKz8)
+Here, the highest and lowest daily and weekly check-in information can be previewed by end-users. You can choose whether this score is based on the user's sliding scale answers, or alternatively their ranking check-in state. Please note that in order to display the highest and lowest ranking check-in state, you will need to assign ranking to the answer options of a filter wheel question in the survey questions section.
+
+&#x20;![](https://lh7-us.googleusercontent.com/RZoK5wzTXy4VO-2Y9gS\_geG\_AAgeJMRS0l5akTtBks8f-BX\_yruQEuK6P88F5skp\_vUR2a4BSpdOK9Ug\_zLu2kQw5EZBvOytMAXRFEJBZSb2WgL8-hab9OUfQVQWiPYNAchXLmzs5bubblCpqaxpKz8)
 
 Next, you can configure your Check-in Summaries. This will display to end-users their most frequent daily and weekly check-in state. In addition to their most frequent check-in, you can also choose whether to present the most frequently selected trigger reasons for end-users to reflect on. The titles for the check-in summaries can also be configured here. ![](https://lh7-us.googleusercontent.com/yXoVXq6wsI5W4Y2\_B4QLskLQYp9MpiOt2LVjDSpXACBO7LrOiyYgyRH197okekhC1Elz6T7O-nhRJIA8LP8i2uFfW6OJJtXszbDFQE6SivHnSfJh4cryZRb2PvHeheoSypTt6vFR15bIUC50LUQo3fc)
 

@@ -2,4 +2,8 @@
 
 The Knowledge Graph workflow is designed to help you interact with your users more efficiently and effectively through the implementation of an AI-powered chatbot. This chatbot is trained on your library of content, including videos, audio, and other intellectual property (IP).  With complete control in your hands, the Knowledge Graph (KG) acts as a loyal representative of your brand, answering users' questions, and offering a hyper-personalised user experience.
 
+
+
+***
+
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Content Discovery</td><td></td><td><a href="content-discovery.md">content-discovery.md</a></td></tr><tr><td></td><td>Knowledge Assistant </td><td></td><td><a href="../knowledge-graph/knowledge-assistant.md">knowledge-assistant.md</a></td></tr><tr><td></td><td>Events</td><td></td><td><a href="../knowledge-graph/events.md">events.md</a></td></tr></tbody></table>
