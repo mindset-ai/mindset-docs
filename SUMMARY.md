@@ -84,6 +84,10 @@
 ## Support
 
 * [Contacting support](support/contacting-support.md)
+* [Taking a screenshot on any laptop](support/taking-a-screenshot-on-any-laptop.md)
+* [Resizing & compressing images](support/resizing-and-compressing-images.md)
+* [Using Vimeo video](support/using-vimeo-video.md)
+* [Performing a hard refresh](support/performing-a-hard-refresh.md)
 * [Raise a support ticket](https://mindset-ai.atlassian.net/servicedesk/customer/portal/1)
 
 ***
