@@ -1,7 +1,3 @@
----
-description: 'Mindset meter: sliding scale question'
----
-
 # Mindset Meter
 
 The Mindset Meter is designed to understand and support the well-being of users. It's a well-being check-in system that allows users to provide feedback on their current state of mind, ensuring that they remain engaged, feel valued and can gain self-awareness on how they feel that day.
