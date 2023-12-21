@@ -58,6 +58,7 @@
   * [Journeys](platform/features/journeys/README.md)
     * [Journeys overview](platform/features/journeys/journeys-overview.md)
     * [How to configure Journeys](platform/features/journeys/how-to-configure-journeys.md)
+    * [Journey best practices](platform/features/journeys/journey-best-practices.md)
     * [Selecting and formatting your Journey images](platform/features/journeys/selecting-and-formatting-your-journey-images.md)
 * [Design](platform/design/README.md)
   * [Navigation](platform/design/navigation.md)
