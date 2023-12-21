@@ -1,7 +1,5 @@
 ---
-description: >-
-  How to deal with long application loading times and what you can do to
-  minimise this.
+description: The Application is taking too long to load
 ---
 
 # Application loading time
