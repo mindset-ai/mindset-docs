@@ -21,7 +21,8 @@
     * [Web Article Engagement](platform/features/engagements/web-article-engagement.md)
     * [Download Engagement](platform/features/engagements/download-engagement.md)
     * [Content Engagement](platform/features/engagements/content-engagement.md)
-    * [360 Feedback Survey](platform/features/engagements/360-feedback-survey.md)
+    * [360 Feedback Survey](platform/features/engagements/360-feedback-survey/README.md)
+      * [360 FAQs](platform/features/engagements/360-feedback-survey/360-faqs.md)
     * [Reflection Engagement](platform/features/engagements/reflection-engagement.md)
     * [Assessment Engagement](platform/features/engagements/assessment-engagement.md)
     * [Survey Engagement](platform/features/engagements/survey-engagement.md)
@@ -53,6 +54,7 @@
     * [How to configure a content feed](platform/features/content-feeds/how-to-configure-a-content-feed.md)
     * [What are content feeds and how do they add value?](platform/features/content-feeds/what-are-content-feeds-and-how-do-they-add-value.md)
     * [Content feed best practices](platform/features/content-feeds/content-feed-best-practices.md)
+  * [Roles](platform/features/roles.md)
   * [Journeys](platform/features/journeys/README.md)
     * [Journeys overview](platform/features/journeys/journeys-overview.md)
     * [How to configure Journeys](platform/features/journeys/how-to-configure-journeys.md)
@@ -68,6 +70,7 @@
 * [Tags](platform/tags/README.md)
   * [General Tags](platform/tags/general-tags.md)
   * [Restrictive Tags](platform/tags/restrictive-tags.md)
+  * [Tags FAQ](platform/tags/tags-faq.md)
 * [Humans](platform/humans.md)
 
 ## Developers
