@@ -1,5 +1,5 @@
 ---
-description: Guidelines for Vimeo video within your Application
+description: Guidelines for using Vimeo video
 ---
 
 # Using Vimeo video

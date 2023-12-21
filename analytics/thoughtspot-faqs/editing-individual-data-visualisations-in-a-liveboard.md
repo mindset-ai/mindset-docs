@@ -1,4 +1,8 @@
-# How can I edit individual data visualisations in my liveboard?
+---
+description: How to edit individual data visualisations in a liveboard in ThoughtSpot
+---
+
+# Editing individual data visualisations in a liveboard
 
 You can individually edit each of your data visualisations by clicking the three dots in the top right corner of the selected tile, and clicking ‘Edit’.&#x20;
 

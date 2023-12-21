@@ -1,5 +1,5 @@
 ---
-description: Configuring the Goals Tracking Workflow
+description: Learn about the Goals Tracking workflow
 ---
 
 # Goals Tracking

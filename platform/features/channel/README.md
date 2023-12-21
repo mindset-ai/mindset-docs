@@ -1,3 +1,7 @@
+---
+description: Learn about the Channel workflow
+---
+
 # Channel
 
 Channels allow app or account level announcements to be sent to the end-users. The broadcast channel displays all engagements that have been published. The channels workflow enables the creation of channels within your app. We have 2 types of channels - a chat channel which enables a 1:1 chat between an end-user and an account admin and a broadcast channel which allows app or account level announcements to be sent to the end-users.&#x20;

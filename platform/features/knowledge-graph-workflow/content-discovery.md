@@ -1,3 +1,7 @@
+---
+description: Learn about the Content Discovery feature in the Knowledge graph workflow
+---
+
 # Content Discovery
 
 The Content Discovery feature links to the answers provided by the Knowledge Assistant in segments. Once a segment is provided and clicked on - it takes the end user through to the content player where they can continue to jump through segments or carry on chatting to the Assistant.

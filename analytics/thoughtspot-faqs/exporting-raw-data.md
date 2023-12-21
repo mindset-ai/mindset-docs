@@ -1,4 +1,8 @@
-# How to explore raw data in ThoughtSpot?
+---
+description: How to export raw data from ThoughtSpot
+---
+
+# Exporting raw data
 
 Exploring your raw data in ThoughtSpot allows you to add and edit filters and columns, as well as comparing your own values.
 

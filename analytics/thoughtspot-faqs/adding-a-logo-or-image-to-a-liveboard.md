@@ -1,10 +1,8 @@
 ---
-description: >-
-  An article outlining how to add images to your company’s’ liveboard in
-  ThoughtSpot.
+description: An article outlining how to add images to a liveboard in ThoughtSpot.
 ---
 
-# How can I add a logo or image to my liveboard?
+# Adding a logo or image to a liveboard
 
 Images or logos can be added to your company’s liveboard in order to personalise your data visualisation and ensure they fully represent your brand. In order to add your images, locate the ‘Edit’ button in the top right hand corner of your liveboard report in ThoughtSpot.&#x20;
 

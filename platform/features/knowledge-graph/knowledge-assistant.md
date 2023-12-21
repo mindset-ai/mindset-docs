@@ -1,3 +1,7 @@
+---
+description: Learn about the Knowledge Assistant feature in the Knowledge graph workflow
+---
+
 # Knowledge Assistant
 
 The Knowledge Assistant is a feature used to ask questions, to find out key information that can help end-users learn. The Knowledge Assistant will  answer user’s questions using the bank of content that you have uploaded into the administration portal of your application.&#x20;

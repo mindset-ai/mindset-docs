@@ -1,12 +1,8 @@
 ---
-description: What is the Events workflow and how can it be configured?
+description: Learn about the Events feature in the Knowledge graph workflow
 ---
 
 # Events
-
-An explanation of what the Events workflow is, and how it can be used and configured in your application.
-
-
 
 **What are Events?**
 
@@ -25,9 +21,7 @@ Under Design→ Navigation and Layout, you will be able to select the navigation
 \
 ![](https://lh7-us.googleusercontent.com/WAHhCQEjiZj\_p1R9cTlJD\_rEFolcpxRWvvxMDQpP0Q0PlXPPcB3lQYNmSY8AE7MOOJ4I7l78R2LLTij98F1DGF5QnK3g38HJRL\_8e5tzZM\_XB94ai7QvAU-qRW-3OUzqqbikVUGLBpQDSlZyj5oa5bI)
 
-Please see our article ‘How to set up the Knowledge Graph workflow’ for more details on configuring your navigation bar.&#x20;
-
-\
+Please see our article ‘How to set up the Knowledge Graph workflow’ for more details on configuring your navigation bar. \
 
 
 **How can I configure Events in my application?**&#x20;
@@ -74,7 +68,7 @@ Finally, the watch now card button can be configured. This includes adding in th
 \
 **How to add Events to my Knowledge Graph?**&#x20;
 
-In order to set up an event in your Knowledge Graph, first go to Manage → Knowledge Graph in your application admin portal. Here, you will be able to see that there is a separate bank from your ‘Content bank’ called ‘Events bank’ - this is where you are able to add in upcoming events.
+To set up an event in your Knowledge Graph, first go to Manage → Knowledge Graph in your application admin portal. Here, you will be able to see that there is a separate bank from your ‘Content bank’ called ‘Events bank’ - this is where you can add in upcoming events.
 
 &#x20;![](https://lh7-us.googleusercontent.com/lj1N4m9N2a-Vp3wbRjKSjW2uXHFZ4OlkBeyFqSxAFjolKetvNetOWLDdCXo5zkNC1dWqju4zY\_SOBtuHXUd\_eUZfEgfLP7ZEl3c7chzt0VeKxPu1J-8vfmslR8kyXdazofYKEyZtI-1Qc0I3rm2w8bg)
 

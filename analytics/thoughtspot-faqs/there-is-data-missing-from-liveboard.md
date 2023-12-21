@@ -1,10 +1,10 @@
 ---
 description: >-
   An article outlining what to do should you suspect that there is data missing
-  from your company’s ThoughtSpot account.
+  from liveboard in ThoughtSpot
 ---
 
-# There is data missing from my account
+# There is data missing from liveboard
 
 It is rare that data may be missing from your ThoughtSpot account, however, if this is something that you notice, there are a few suggestions we recommend you try.
 

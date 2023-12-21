@@ -1,8 +1,10 @@
 ---
-description: Understand the technical capabilities of ThoughtSpot when exporting data.
+description: >-
+  Understand the technical capabilities of ThoughtSpot when exporting data to a
+  csv file.
 ---
 
-# Can I export my ThoughtSpot data to a csv file?
+# Exporting data to a csv file
 
 ThoughtSpot is Mindset AI chosen BI tool which is embedded into the platform. If you would like to export data directly from ThoughtSpot please follow the below steps.
 

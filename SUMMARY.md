@@ -70,12 +70,12 @@
 
 ## Analytics
 
-* [Overview](analytics/overview/README.md)
-  * [ThoughtSpot](analytics/overview/thoughtspot.md)
-  * [Connecting a BI tool to the application](analytics/overview/connecting-a-bi-tool-to-the-application.md)
+* [Overview](analytics/overview.md)
+* [ThoughtSpot](analytics/thoughtspot.md)
+* [Connecting a BI tool](analytics/connecting-a-bi-tool.md)
 * [ThoughtSpot FAQs](analytics/thoughtspot-faqs/README.md)
   * [Adding a logo or image to a liveboard](analytics/thoughtspot-faqs/adding-a-logo-or-image-to-a-liveboard.md)
-  * [There is data missing from my account](analytics/thoughtspot-faqs/there-is-data-missing-from-my-account.md)
+  * [There is data missing from liveboard](analytics/thoughtspot-faqs/there-is-data-missing-from-liveboard.md)
   * [Exporting raw data](analytics/thoughtspot-faqs/exporting-raw-data.md)
   * [Exporting data to a csv file](analytics/thoughtspot-faqs/exporting-data-to-a-csv-file.md)
   * [How to add a note to a liveboard](analytics/thoughtspot-faqs/how-to-add-a-note-to-a-liveboard.md)
@@ -95,3 +95,4 @@
 ***
 
 * [Mindset AI Website](https://www.mindset.ai/)
+* [Start a free trial](https://www.mindset.ai/free-trial)

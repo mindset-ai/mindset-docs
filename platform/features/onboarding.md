@@ -1,5 +1,5 @@
 ---
-description: How to manage and configure the Onboarding workflow
+description: Learn about the Onboarding workflow
 ---
 
 # Onboarding

@@ -1,3 +1,7 @@
+---
+description: Learn about the Journeys workflow
+---
+
 # Journeys
 
 Journeys are a structured way of navigating content to help people reach learning or realisation. Each journey consists of a series of steps, and a step can consist of one or more step items, including videos, surveys, and downloadable material.&#x20;

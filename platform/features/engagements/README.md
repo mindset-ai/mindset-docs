@@ -1,6 +1,10 @@
+---
+description: Learn about the Engagement workflow
+---
+
 # Engagements
 
-### What are engagements?&#x20;
+### What are Engagements?&#x20;
 
 Engagements are the basic building blocks used to communicate and interact with users through content. An engagement could be a single or a multi-step process. It enables app creators to deliver different types of content, and encourages users to perform actions or gather inputs.
 

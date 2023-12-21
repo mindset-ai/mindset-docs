@@ -1,3 +1,7 @@
+---
+description: Learn about the Facilitation workflow
+---
+
 # Facilitation
 
 Facilitations are a workflow that provides a flexible way to engage users through a facilitated learning process. The facilitation workflow could be used to support a 1:1 or group workshop process or even a remote or in-person workshop - any session that would typically deliver engaging content that a user or group of users interacts with over time.
