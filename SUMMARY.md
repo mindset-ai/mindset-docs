@@ -15,7 +15,8 @@
   * [Welcome](platform/features/welcome/README.md)
     * [How to configure the Welcome workflow](platform/features/welcome/how-to-configure-the-welcome-workflow.md)
     * [Welcome workflow best practices](platform/features/welcome/welcome-workflow-best-practices.md)
-  * [Onboarding](platform/features/onboarding.md)
+  * [Onboarding](platform/features/onboarding/README.md)
+    * [Onboarding best practices](platform/features/onboarding/onboarding-best-practices.md)
   * [Engagements](platform/features/engagements/README.md)
     * [Web Article Engagement](platform/features/engagements/web-article-engagement.md)
     * [Download Engagement](platform/features/engagements/download-engagement.md)
@@ -61,6 +62,13 @@
   * [Branding](platform/design/branding.md)
   * [Thumbnail Design](platform/design/thumbnail-design.md)
   * [SVG Images](platform/design/svg-images.md)
+* [Accounts](platform/accounts/README.md)
+  * [How to configure Accounts](platform/accounts/how-to-configure-accounts/README.md)
+    * [How to invite end-users to an Account](platform/accounts/how-to-configure-accounts/how-to-invite-end-users-to-an-account.md)
+* [Tags](platform/tags/README.md)
+  * [General Tags](platform/tags/general-tags.md)
+  * [Restrictive Tags](platform/tags/restrictive-tags.md)
+* [Humans](platform/humans.md)
 
 ## Developers
 
@@ -71,7 +79,6 @@
 
 * [Overview](analytics/overview.md)
 * [ThoughtSpot](analytics/thoughtspot.md)
-* [Connecting a BI tool](analytics/connecting-a-bi-tool.md)
 * [ThoughtSpot FAQs](analytics/thoughtspot-faqs/README.md)
   * [Adding a logo or image to a liveboard](analytics/thoughtspot-faqs/adding-a-logo-or-image-to-a-liveboard.md)
   * [There is data missing from liveboard](analytics/thoughtspot-faqs/there-is-data-missing-from-liveboard.md)
@@ -80,6 +87,7 @@
   * [How to add a note to a liveboard](analytics/thoughtspot-faqs/how-to-add-a-note-to-a-liveboard.md)
   * [How to pin in a liveboard](analytics/thoughtspot-faqs/how-to-pin-in-a-liveboard.md)
   * [Editing individual data visualisations in a liveboard](analytics/thoughtspot-faqs/editing-individual-data-visualisations-in-a-liveboard.md)
+* [Connecting a BI tool](analytics/connecting-a-bi-tool.md)
 
 ## Support
 
