@@ -15,7 +15,6 @@
   * [Welcome](platform/features/welcome/README.md)
     * [How to configure the Welcome workflow](platform/features/welcome/how-to-configure-the-welcome-workflow.md)
     * [Welcome workflow best practices](platform/features/welcome/welcome-workflow-best-practices.md)
-    * [What is the Welcome workflow and how does it add value?](platform/features/welcome/what-is-the-welcome-workflow-and-how-does-it-add-value.md)
   * [Onboarding](platform/features/onboarding.md)
   * [Engagements](platform/features/engagements/README.md)
     * [Web Article Engagement](platform/features/engagements/web-article-engagement.md)
