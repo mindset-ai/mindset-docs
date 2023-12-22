@@ -73,7 +73,7 @@
 ## Developers
 
 * [Overview](developers/overview.md)
-* [Mindset API](developers/mindset-api.md)
+* [Mindset API](developers/api-and-sdk.md)
 * [Mindset Embedded](developers/mindset-embedded.md)
 
 ## Analytics
