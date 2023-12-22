@@ -6,6 +6,7 @@
 * [AI and Security](general/ai-and-security/README.md)
   * [AI Guidelines](general/ai-and-security/ai-guidelines.md)
   * [Security Q\&A](general/ai-and-security/security-q-and-a.md)
+  * [AI Buyers Guide](general/ai-and-security/ai-buyers-guide.md)
 
 ## Platform
 
