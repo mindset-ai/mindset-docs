@@ -6,7 +6,6 @@
 * [AI and Security](general/ai-and-security/README.md)
   * [AI Guidelines](general/ai-and-security/ai-guidelines.md)
   * [Security Q\&A](general/ai-and-security/security-q-and-a.md)
-  * [Service Level Agreement](general/ai-and-security/service-level-agreement.md)
 
 ## Platform
 
@@ -99,6 +98,7 @@
 * [Performing a hard refresh](support/performing-a-hard-refresh.md)
 * [Application loading time](support/application-loading-time.md)
 * [Raise a support ticket](https://mindset-ai.atlassian.net/servicedesk/customer/portal/1)
+* [Service Level Agreement (SLA)](https://www.mindset.ai/legal/service-level-agreement)
 
 ***
 
