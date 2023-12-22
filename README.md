@@ -6,8 +6,6 @@ description: Welcome to the Mindset documentation site.
 
 ## Mindset AI Overview
 
-### What is Mindset AI?
-
 Mindset is a beautiful human interface to complex backend systems and siloed knowledge. Our vision is to provide personalised, human-centric user interfaces powered by AI to abstract complex back-end systems and leverage knowledge within and without organisation.&#x20;
 
 Mindset AI consists of the following core components:
@@ -18,6 +16,4 @@ Mindset AI consists of the following core components:
 * Mindset API & Embedding SDK for embedding Mindset into portals and websites.
 * Advanced analytics and data are provided natively in BigQuery and through our embedded BI ThoughtSpot instance within the Mindset platform.
 * Integrations into over 500 SaaS platforms to either input information into the Mindset platform or to initiate Workflow tasks across other systems.
-
-### How to use this documentation
 
