@@ -73,8 +73,12 @@
 ## Developers
 
 * [Overview](developers/overview.md)
-* [Mindset API](developers/api-and-sdk.md)
-* [Mindset Embedded](developers/mindset-embedded.md)
+* [Mindset API](developers/mindset-api/README.md)
+  * [gPRC API](developers/mindset-api/gprc-api.md)
+  * [REST API](developers/mindset-api/rest-api.md)
+* [Mindset Embedding](developers/mindset-embedding/README.md)
+  * [Embedding SDK](developers/mindset-embedding/embedding-sdk.md)
+  * [iFrame Embedding](developers/mindset-embedding/iframe-embedding.md)
 
 ## Analytics
 

@@ -8,8 +8,8 @@ description: Overview of the Mindset API and Mindset Embedded
 
 Mindset provides two modes of integration:
 
-* [Mindset API](api-and-sdk.md) (headless REST and gRPC APIs)
-* [Mindset Embedded](mindset-embedded.md) (Components embedded on webpages)
+* [Mindset API](broken-reference) (headless REST and gRPC APIs)
+* [Mindset Embedded](mindset-embedding/) (Components embedded on webpages)
 
 The method of integration depends on your objectives.&#x20;
 
