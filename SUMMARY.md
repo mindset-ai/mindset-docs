@@ -84,15 +84,15 @@
 ## Analytics
 
 * [Overview](analytics/overview.md)
-* [ThoughtSpot](analytics/thoughtspot.md)
-* [ThoughtSpot FAQs](analytics/thoughtspot-faqs/README.md)
-  * [Adding a logo or image to a liveboard](analytics/thoughtspot-faqs/adding-a-logo-or-image-to-a-liveboard.md)
-  * [There is data missing from liveboard](analytics/thoughtspot-faqs/there-is-data-missing-from-liveboard.md)
-  * [Exporting raw data](analytics/thoughtspot-faqs/exporting-raw-data.md)
-  * [Exporting data to a csv file](analytics/thoughtspot-faqs/exporting-data-to-a-csv-file.md)
-  * [How to add a note to a liveboard](analytics/thoughtspot-faqs/how-to-add-a-note-to-a-liveboard.md)
-  * [How to pin in a liveboard](analytics/thoughtspot-faqs/how-to-pin-in-a-liveboard.md)
-  * [Editing individual data visualisations in a liveboard](analytics/thoughtspot-faqs/editing-individual-data-visualisations-in-a-liveboard.md)
+* [ThoughtSpot](analytics/thoughtspot/README.md)
+  * [ThoughtSpot FAQs](analytics/thoughtspot/thoughtspot-faqs/README.md)
+    * [Adding a logo or image to a liveboard](analytics/thoughtspot/thoughtspot-faqs/adding-a-logo-or-image-to-a-liveboard.md)
+    * [There is data missing from liveboard](analytics/thoughtspot/thoughtspot-faqs/there-is-data-missing-from-liveboard.md)
+    * [Exporting raw data](analytics/thoughtspot/thoughtspot-faqs/exporting-raw-data.md)
+    * [Exporting data to a csv file](analytics/thoughtspot/thoughtspot-faqs/exporting-data-to-a-csv-file.md)
+    * [How to add a note to a liveboard](analytics/thoughtspot/thoughtspot-faqs/how-to-add-a-note-to-a-liveboard.md)
+    * [How to pin in a liveboard](analytics/thoughtspot/thoughtspot-faqs/how-to-pin-in-a-liveboard.md)
+    * [Editing individual data visualisations in a liveboard](analytics/thoughtspot/thoughtspot-faqs/editing-individual-data-visualisations-in-a-liveboard.md)
 * [Connecting a BI tool](analytics/connecting-a-bi-tool.md)
 
 ## Support
