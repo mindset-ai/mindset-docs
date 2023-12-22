@@ -1,3 +1,20 @@
+---
+description: Overview of the Mindset API and Mindset Embedded
+---
+
 # Overview
 
-Overview of the Mindset API and SDK
+## Integration Methods
+
+Mindset provides two modes of integration:
+
+* [Mindset API](mindset-api.md) (headless REST and gRPC APIs)
+* [Mindset Embedded](mindset-embedded.md) (Components embedded on webpages)
+
+The method of integration depends on your objectives.&#x20;
+
+If you want to interact with Mindset as a headless service and provide all the UI, then the Mindset API is the perfect route. You will interact with Mindset through our REST or modern gRPC APIs (which both provide the same features), and you will need to implement all the user interfaces for your users.
+
+To leverage Mindset's user interface components in your web application, the Mindset Embedded approach is better for you. Individual UI components can be added to your application, and you can interact with these components using JavaScript. All of the UI configuration is handled through the [Mindset Platform](broken-reference).
+
+Whichever method you choose, you will need to set up a Mindset Application and have obtained an API key from support. Please [contact support](../support/contacting-support.md) if you have not done this yet, and we will help you get started.
