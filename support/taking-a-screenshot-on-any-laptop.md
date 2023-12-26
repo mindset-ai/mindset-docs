@@ -1,5 +1,5 @@
 ---
-description: Learn how to take a screenshot on any laptop
+description: Guidance on how to take a screenshot on any laptop
 ---
 
 # Taking a screenshot on any laptop

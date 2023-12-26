@@ -1,5 +1,5 @@
 ---
-description: The Application is taking too long to load
+description: If the application is taking too long to load follow the guidance below
 ---
 
 # Application loading time
