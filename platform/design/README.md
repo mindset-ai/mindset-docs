@@ -1,5 +1,7 @@
 ---
-description: Learn about how to Design an application
+description: >-
+  Learn about how you can show your brand identity and best practices on
+  designing an application.
 ---
 
 # Design

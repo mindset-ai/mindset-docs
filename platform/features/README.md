@@ -1,6 +1,6 @@
 ---
 description: >-
-  The Mindset platform is made-up of different configuration features which can
+  The Mindset platform is made-up of different configurable features which can
   be designed and constructed per application. Read below about the different
   features available.
 ---

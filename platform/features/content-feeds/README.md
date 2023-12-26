@@ -1,6 +1,8 @@
-# Content Feeds
+---
+description: Learn about the Content Feeds workflow
+---
 
-#### What is the Content Feed workflow?
+# Content Feeds
 
 Content Feeds are a way of delivering relevant content to end-users (much like social media or news applications) in an unstructured fashion. \
 
@@ -13,15 +15,9 @@ Users are fed information according to a predefined schedule, linking to their T
 
 Content feeds display the most recent and relevant information to the users based on their interest tags and preferences. Content feeds add value to your application by:
 
-
-
 1\. Boosting Customer Engagement and Loyalty - By curating content feeds you ensure that the end-user will see something of value or interest each time they open the app as long as you have configured content. This improves customer engagement and interactions within the app.&#x20;
 
-
-
 2\. Authentic User Feedback - Content feeds help you understand what your users like and dislike about your application. Though surveying customers is a good idea, content feeds help you gain access to customer activity and how they interact within the app.&#x20;
-
-
 
 3\. Better Conversions - Content feeds deliver personalised relevant content to your users. Personalised content feeds and recommendations ensure that you are tailoring your offerings to targeted users based on their preferences and driving more engagement and conversions.
 

@@ -1,14 +1,10 @@
 ---
-description: SVG Image Best Practice
+description: >-
+  An explanation of what SVGs are and where they are used across the Mindset
+  platform
 ---
 
 # SVG Images
-
-An explanation of what SVGs are and where they are used across the Mindset platform
-
-&#x20;
-
-**What are SVGs?**
 
 An SVG file, short for scalable vector graphic, is a standard graphics file type used for rendering two-dimensional images on the web or mobile devices.\
 

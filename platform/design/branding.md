@@ -1,5 +1,5 @@
 ---
-description: How Can I Brand My Application?
+description: Learn how to brand an application
 ---
 
 # Branding

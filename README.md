@@ -1,5 +1,5 @@
 ---
-description: Welcome to the Mindset documentation site.
+description: Welcome to the Mindset AI documentation site.
 ---
 
 # Welcome
