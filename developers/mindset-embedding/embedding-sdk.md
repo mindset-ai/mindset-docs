@@ -6,7 +6,7 @@ The Mindset Embed SDK is installed from the server hosting your Mindset applicat
 
 ```html
 <head>
-    <script src="http://YOUR-MINDSET-URL/mindset-sdk.js"></script>
+    <script src="https://YOUR-MINDSET-URL/mindset-sdk.js"></script>
 </head>
 ```
 
