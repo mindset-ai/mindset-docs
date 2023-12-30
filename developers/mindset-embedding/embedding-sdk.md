@@ -28,3 +28,7 @@ The Mindset Embed SDK is installed from the server hosting your Mindset applicat
 </body>
 ```
 
+{% embed url="https://codepen.io/Barrie-Hadfield/pen/gOEpEVR" %}
+Try this basic example
+{% endembed %}
+
