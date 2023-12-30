@@ -77,9 +77,9 @@
 * [Mindset API](developers/mindset-api/README.md)
   * [gPRC API](developers/mindset-api/gprc-api.md)
   * [REST API](developers/mindset-api/rest-api.md)
-* [Mindset Embedding](developers/mindset-embedding/README.md)
-  * [Embedding SDK](developers/mindset-embedding/embedding-sdk.md)
-  * [iFrame Embedding](developers/mindset-embedding/iframe-embedding.md)
+* [Embed SDK](developers/embed-sdk/README.md)
+  * [Embed SDK](developers/embed-sdk/embed-sdk.md)
+  * [iFrame Embedding](developers/embed-sdk/iframe-embedding.md)
 
 ## Analytics
 
