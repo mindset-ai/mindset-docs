@@ -22,8 +22,9 @@ The Mindset Embed SDK is installed from the server hosting your Mindset applicat
 <div id="my-div" class="my-div-class"></div>
 
 <script>
-        mindset.init({ appUid: 'APPUID', humanUid: '12345' });
-        mindset.render({ elementId: 'my-div', view: 'home', showAppMenu: false });        
+   //Ensure this code runs after the div has been inserted 
+    mindset.init({ appUid: 'APPUID', humanUid: '12345' });
+    mindset.render({ elementId: 'my-div', view: 'home', showAppMenu: false });        
 </script>
 </body>
 ```
