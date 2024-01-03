@@ -92,11 +92,11 @@ A simple HTML page would look like this:
 
 **Purpose:** Render a Mindset CoPilot into the specified HTML container.
 
-**Usage:** `component: 'copilot', options: {...}`
+**Usage:** `component: 'copilot', options: {heading: 'My CoPilot'}`
 
 **Options:**&#x20;
 
-<table><thead><tr><th width="130">Option</th><th width="103">Type</th><th>Purpose</th><th>Default value</th></tr></thead><tbody><tr><td>heading</td><td>String</td><td>Specifies the heading of the CoPilot Component.</td><td>"CoPilot"</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="130">Option</th><th width="103">Type</th><th width="136">Deafult</th><th>Purpose</th></tr></thead><tbody><tr><td>heading</td><td>String</td><td>"heading"</td><td>Specifies the heading of the CoPilot Component.</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 **Example:**
 
