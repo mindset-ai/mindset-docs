@@ -23,7 +23,7 @@ The Mindset Embed SDK is installed from the server hosting your Mindset applicat
 
 <script>
    //Ensure this code runs after the div has been inserted 
-    mindset.init({ appUid: 'APPUID', humanUid: '12345' });
+    mindset.init({ appUid: 'YOUR-APPUID', humanUid: '12345' });
     mindset.render({ containerId: 'my-div', component: 'test', options: {} });        
 </script>
 </body>
@@ -33,7 +33,7 @@ The Mindset Embed SDK is installed from the server hosting your Mindset applicat
 Try this basic example
 {% endembed %}
 
-A fully working HTML page would look like this:
+A simple HTML page would look like this:
 
 {% code fullWidth="true" %}
 ```html
@@ -64,12 +64,41 @@ A fully working HTML page would look like this:
     <div id="copilot-div" class="copilot-div-class"></div>
 
     <script>
-        mindset.init({ appUid: 'barrie', humanUid: '12345' });
-        mindset.render({ containerId: 'check-sdk-div', component: 'checkSdk', options: {} });
-        mindset.render({ containerId: 'copilot-div', component: 'copilot', options: {} });
-    </script>
+    mindset.init({ appUid: 'YOUR-APPUID', humanUid: '12345' });
+    mindset.render({ containerId: 'check-sdk-div', component: 'checkSdk', options: {} });
+    mindset.render({ containerId: 'copilot-div', component: 'copilot', options: {} });
+    </script>    
 </body>
 
 </html>
 ```
 {% endcode %}
+
+## Components
+
+### checkSdk
+
+**Purpose:** Tests to see if the SDK is working. Rendered a confirmation message if all is well. This component is not needed for any other purpose, but is useful when installing the SDK to be assured it is working as expected.
+
+**Usage:** `component: 'checkSdk', options: {}`
+
+**Options:** none
+
+**Example:**
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+### copilot
+
+**Purpose:** Render a Mindset CoPilot into the specified HTML container.
+
+**Usage:** `component: 'copilot', options: {...}`
+
+**Options:**&#x20;
+
+<table><thead><tr><th width="130">Option</th><th width="103">Type</th><th>Purpose</th><th>Default value</th></tr></thead><tbody><tr><td>heading</td><td>String</td><td>Specifies the heading of the CoPilot Component.</td><td>"CoPilot"</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+**Example:**
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
