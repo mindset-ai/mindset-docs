@@ -10,7 +10,7 @@ The Mindset Embed SDK is installed from the server hosting your Mindset applicat
 </head>
 ```
 
-### Basic Usage
+## Usage
 
 1. You can place an HTML container (`div` , `span` , etc) anywhere on a page where you would like the Mindset Component to be embedded.
 2. Set the ID of the HTML container and use a standard CSS class to define its width, height, and other properties.
