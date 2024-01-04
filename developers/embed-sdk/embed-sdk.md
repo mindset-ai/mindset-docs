@@ -92,6 +92,8 @@ Documentation TODO
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ### coPilot
 
 **Purpose:** Render a Mindset CoPilot into the specified HTML container.
@@ -110,3 +112,5 @@ Documentation TODO
 
 * All of the configuration of the CoPilot is handled within the Mindset Platform. Please see the [Knowledge Graph](../../platform/features/knowledge-graph-workflow/) section of the Platform documentation.
 * All content & analytics is handled by the Mindset platform itself.&#x20;
+
+***
