@@ -23,8 +23,8 @@ The Mindset Embed SDK is installed from the server hosting your Mindset applicat
 
 <script>
    //Ensure this code runs after the div has been inserted 
-    mindset.init({ appUid: 'YOUR-APPUID', humanUid: '12345' });
-    mindset.render({ containerId: 'my-div', component: 'test', options: {} });        
+    mindset.init({ appUid: "YOUR-APPUID", authToken:"AUTH-TOKEN-FOR-CURRENT-USER" });
+    mindset.render({ containerId: "my-div", component: "checkSdk", options: {} });        
 </script>
 </body>
 ```
@@ -60,9 +60,9 @@ A complete HTML page would look like this:
     <div id="copilot-div" class="copilot-div-class"></div>
 
     <script>
-    mindset.init({ appUid: 'YOUR-APPUID', authToken:'AUTH-TOKEN-FOR-CURRENT-USER' });
-    mindset.render({ containerId: 'check-sdk-div', component: 'checkSdk', options: {} });
-    mindset.render({ containerId: 'copilot-div', component: 'coPilot', options: {} });
+    mindset.init({ appUid: "YOUR-APPUID", authToken:"AUTH-TOKEN-FOR-CURRENT-USER" });
+    mindset.render({ containerId: "check-sdk-div", component: "checkSdk", options: {} });
+    mindset.render({ containerId: "copilot-div", component: "coPilot", options: {} });
     </script>    
 </body>
 
@@ -101,7 +101,7 @@ If such a user does not exist, one will first be created.
 
 **Purpose:** Tests to see if the SDK is working. Rendered a confirmation message if all is well. This component is not needed for any other purpose, but is useful when installing the SDK to be assured it is working as expected.
 
-**Usage:** `component: 'checkSdk', options: {}`
+**Usage:** `component: "checkSdk", options: {}`
 
 **Options:** none
 
@@ -115,11 +115,11 @@ If such a user does not exist, one will first be created.
 
 **Purpose:** Render a Mindset CoPilot into the specified HTML container.
 
-**Usage:** `component: 'coPilot', options: {heading: 'My CoPilot'}`
+**Usage:** `component: "coPilot", options: {heading: "My CoPilot"}`
 
 **Options:**
 
-<table><thead><tr><th width="130">Option</th><th width="103">Type</th><th width="136">Deafult</th><th>Purpose</th></tr></thead><tbody><tr><td>heading</td><td>String</td><td>'heading'</td><td>Specifies the heading of the CoPilot Component.</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="237.18453427065026">Option</th><th width="103">Type</th><th width="107">Deafult</th><th>Purpose</th></tr></thead><tbody><tr><td>heading</td><td>String</td><td>"heading"</td><td>Specifies the heading of the CoPilot Component.</td></tr><tr><td>runWelcomeWorkflow</td><td>bool</td><td>false</td><td>The WelcomeWorkflow is used to welcome the user to the application and establish if they should login or create a new account. This will generally not be needed as a user would have been created already.</td></tr><tr><td>runOnboardingWorkflow</td><td>bool</td><td>false</td><td>The OnboardingWorkflow is used to gather essential initial information from the user. If this information is needed before the user uses the CoPilot, then this will run the first time this user logs in.</td></tr></tbody></table>
 
 **Example:**
 
