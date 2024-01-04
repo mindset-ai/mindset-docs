@@ -66,7 +66,7 @@ A simple HTML page would look like this:
     <script>
     mindset.init({ appUid: 'YOUR-APPUID', humanUid: '12345' });
     mindset.render({ containerId: 'check-sdk-div', component: 'checkSdk', options: {} });
-    mindset.render({ containerId: 'copilot-div', component: 'copilot', options: {} });
+    mindset.render({ containerId: 'copilot-div', component: 'coPilot', options: {} });
     </script>    
 </body>
 
