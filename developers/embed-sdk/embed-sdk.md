@@ -77,11 +77,14 @@ Users need to be authenticated in the Mindset system to use Mindset functionalit
 You can generate the `AUTH-TOKEN-FOR-CURRENT-USER` needed by calling the following API:
 
 ```html
-POST to https://MINDSET-API-HOST/authenticate-embedded-user
+POST to https://YOUR-MINDSET-URL/authenticate-embedded-user
 
-with body
+with body:
 
-{"appUid":"YOUR-APPUID", "apiKey": "YOUR-API-KEY", "userEmail":"USER-EMAIL-ADDRESS"}
+{ "appUid": "YOUR-APPUID",
+  "apiKey": "YOUR-API-KEY", 
+  "userEmail": "USER-EMAIL-ADDRESS"
+}
 ```
 
 If a user with that email address exists in your application then an authentication token will be generated for them.
