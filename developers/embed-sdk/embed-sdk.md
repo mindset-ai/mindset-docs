@@ -41,7 +41,7 @@ A simple HTML page would look like this:
 <html>
 
 <!-- Ensure to change this to the server hosting the SDK -->
-<script src="http://YOUR-MINDSET-URL/mindset-sdk.js"></script>
+<script src="https://YOUR-MINDSET-URL/mindset-sdk.js"></script>
 
 <head>
     <style>
@@ -64,7 +64,7 @@ A simple HTML page would look like this:
     <div id="copilot-div" class="copilot-div-class"></div>
 
     <script>
-    mindset.init({ appUid: 'YOUR-APPUID', humanUid: '12345' });
+    mindset.init({ appUid: 'YOUR-APPUID', authToken:'AUTH-TOKEN-FOR-CURRENT-USER' });
     mindset.render({ containerId: 'check-sdk-div', component: 'checkSdk', options: {} });
     mindset.render({ containerId: 'copilot-div', component: 'coPilot', options: {} });
     </script>    
@@ -74,9 +74,29 @@ A simple HTML page would look like this:
 ```
 {% endcode %}
 
+
+
 ## Authentication
 
-Documentation TODO
+Users need to be authenticated in the Mindset system to use Mindset functionality.
+
+You can generate the `AUTH-TOKEN-FOR-CURRENT-USER` needed by calling the following API:
+
+```
+POST to https://MINDSET-API-HOST/authenticate_embedded_user
+
+with body
+
+{"appUid":"YOUR-APPUID", "apiKey": "YOUR-API-KEY", "userEmail":"USER-EMAIL-ADDRESS"}
+```
+If a user with that email address exists in your application then an authentication token will be generated for them.
+
+If such a user does not yet exist then one will first be created.
+
+`YOUR-API-KEY` can be retrieved from your app admin UI.
+
+**Keep your API key secure** As it can be used to create a valid session for any user to access your content, you should make sure you know who it is being used for.
+
 
 ## Components
 
