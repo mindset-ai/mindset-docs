@@ -4,10 +4,6 @@ description: Learn about the Roles feature
 
 # Roles
 
-## What is the Roles workflow and how does it add value?
-
-### This article explains the roles workflow and how it can add value to the application.
-
 **What is the Roles Workflow?**
 
 The Roles workflow on the Mindset platform is an additional feature that allows administrators to define and manage a different role within the application. It provides a structured way to assign specific capabilities and permissions to different users based on their role.  By effectively utilising this feature, organisations can optimise their user experience, ensure data privacy, and promote workflows within the platform.
@@ -16,8 +12,6 @@ The Roles workflow on the Mindset platform is an additional feature that allows 
 
 Currently Mindset provides only the **Coach role.** The Individuals who are assigned coach roles can track the Goals of their assigned coachees. The Coach role can be assigned to any app user at the app level, and any account user at the account level.\
 
-
-_Read more:_ [_How to Configure the Coach Role_](https://info.mindset.ai/help/how-to-configure-coach-role)
 
 **Coach Portal**&#x20;
 

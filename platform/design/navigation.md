@@ -4,8 +4,6 @@ description: Learn how to configure and design the navigation bar in the applica
 
 # Navigation
 
-## How to Configure the design of your application?
-
 The Design workflow on Mindset helps you customise the aspects of the user experience that help your end users recognise and connect with your brand from the very first interaction they have with your application.&#x20;
 
 

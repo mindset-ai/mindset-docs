@@ -6,20 +6,6 @@ description: An explanation of how to create and configure Accounts
 
 An account is a way of grouping customers within your application and separating access and delivery to certain features and content. As an app owner, you can create many accounts within your application and assign people as account administrators to independently administer their accounts and invite people to them.
 
-***
-
-## How do I configure Accounts?
-
-### An explanation of how to create and configure Accounts
-
-This article is relevant for **Application and Account Admins.**
-
-&#x20;
-
-**What are Accounts?**
-
-An account is a way of grouping customers within your application and separating access and delivery to certain features and content. As an app owner, you can create many accounts within your application and assign people as account administrators to independently administer their accounts and invite people to them.
-
 
 
 **Creating an account**
