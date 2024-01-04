@@ -29,11 +29,7 @@ The Mindset Embed SDK is installed from the server hosting your Mindset applicat
 </body>
 ```
 
-{% embed url="https://codepen.io/Barrie-Hadfield/pen/gOEpEVR" fullWidth="true" %}
-Try this basic example
-{% endembed %}
-
-A simple HTML page would look like this:
+A complete HTML page would look like this:
 
 {% code fullWidth="true" %}
 ```html
