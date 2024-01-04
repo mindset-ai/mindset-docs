@@ -12,10 +12,10 @@ The Mindset Embed SDK is installed from the server hosting your Mindset applicat
 
 ## Usage
 
-1. You can place an HTML container (`div` , `span` , etc) anywhere on a page where you would like the Mindset Component to be embedded.
+1. You can embed a Mindset Component into any HTML container (`div` , `span` , etc) anywhere on a page.
 2. Set the ID of the HTML container and use a standard CSS class to define its width, height, and other properties.
-3. Ensure that `mindset.init` is called before any other SDK function.&#x20;
-4. Call `mindset.render` to render the Mindset Component in the HTML container provided
+3. Please make sure that `mindset.init` is called before any other SDK function.&#x20;
+4. Call `mindset.render` to render the Mindset Component in the HTML container provided by passing its ID and options used for the specific configuration of this instance of the Component.
 
 ```html
 <body>
@@ -74,6 +74,10 @@ A simple HTML page would look like this:
 ```
 {% endcode %}
 
+## Authentication
+
+Documentation TODO
+
 ## Components
 
 ### checkSdk
@@ -88,17 +92,21 @@ A simple HTML page would look like this:
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-### copilot
+### coPilot
 
 **Purpose:** Render a Mindset CoPilot into the specified HTML container.
 
-**Usage:** `component: 'copilot', options: {heading: 'My CoPilot'}`
+**Usage:** `component: 'coPilot', options: {heading: 'My CoPilot'}`
 
 **Options:**&#x20;
 
-<table><thead><tr><th width="130">Option</th><th width="103">Type</th><th width="136">Deafult</th><th>Purpose</th></tr></thead><tbody><tr><td>heading</td><td>String</td><td>"heading"</td><td>Specifies the heading of the CoPilot Component.</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="130">Option</th><th width="103">Type</th><th width="136">Deafult</th><th>Purpose</th></tr></thead><tbody><tr><td>heading</td><td>String</td><td>'heading'</td><td>Specifies the heading of the CoPilot Component.</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 **Example:**
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Note</p></figcaption></figure>
 
+**Notes:**
+
+* All of the configuration of the CoPilot is handled within the Mindset Platform. Please see the [Knowledge Graph](../../platform/features/knowledge-graph-workflow/) section of the Platform documentation.
+* All content & analytics is handled by the Mindset platform itself.&#x20;
