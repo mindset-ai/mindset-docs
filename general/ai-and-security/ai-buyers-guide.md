@@ -138,14 +138,14 @@ When it comes to data and security, there are many well-known good practices exp
 
 ### 3. Bias Mitigation
 
-Work on bias identification and mitigation is changing fast. Ultimately, the underlying LLM cannot be understood. OpenAI cannot explain ChatGPT. However, identifying how your data set has biassed the underlying model is essential.&#x20;
+Work on bias identification and mitigation is changing fast. Ultimately, the underlying LLM cannot be understood. OpenAI cannot explain ChatGPT. However, identifying how your data set has biased the underlying model is essential.&#x20;
 
 \
 <mark style="background-color:blue;">**What are you doing to identify and mitigate bias?**</mark>&#x20;
 
 **Capabilities to look out for in a vendor:**&#x20;
 
-**Data Visualisation**: The vendor must be able to visualise all data that has been synthesised into the platform to identify how your system has been biassed.&#x20;
+**Data Visualisation**: The vendor must be able to visualise all data that has been synthesised into the platform to identify how your system has been biased.&#x20;
 
 **Simulations**: Vendors must be able to simulate responses and questions by users, before deployment and on a consistent basis.&#x20;
 
