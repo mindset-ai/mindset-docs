@@ -31,20 +31,34 @@ At a high level, the Mindset AI system for any particular client consists of:
 * The client-segregated instance of the Mindset Knowledge Graph.
 * A process by which their user engages with the Knowledge Graph using asking questions (“Ask”) and conversationally triggering predefined actions (“Do”).
 
+
+
 IP ASSIMILATION
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Fig 1. Assimilation of IP</p></figcaption></figure>
 
 The ingestion of clients’ IP documents follows a process which starts with text extraction and document format abstraction. This is followed by the semantic segmentation of the extracted text, speaker detection and identification (in the event of audio/video input), topic detection, text splitting and embedding and knowledge-entitlement segregation.
 
 * Assimilated IP is never used to train any LLM shared between clients nor used for any process other than answering questions posed by users of the Assistants created by your organisation for your purpose.
 * Data is stored in GCP (Google Cloud Platform) hosted databases and secured with row-level security, which Google manages.
 
+
+
 MINDSET KNOWLEDGE GRAPH
 
 The Mindset KG is a collection of different databases; each used to aid the efficient and contextual retrieval of client IP document fragments. This collection stores IP such that the contents and the context of information are equally important.
 
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Fig 2. The Knowledge Graph</p></figcaption></figure>
+
+
+
+
+
 USER INTERACTIONS WITH THE KNOWLEDGE GRAPH
 
 Users interact with the KG through an embedded chat interface where they can get answers to their questions (“Ask”) and also trigger predefined actions (“Do”).
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Fig 3. Interaction with the Knowledge Graph</p></figcaption></figure>
 
 This interaction flow starts with the user’s input passing through an entitlement filter, where the specific information that the user is entitled to is determined. After this, the best Knowledge Graph elements are fetched and, based on the user’s specific context, the best answer/action strategy is decided on. Suppose a semantic interface (LLM) is needed. In that case, the best interface is chosen based on availability and specialisation to the task (Mindset is LLM agnostic in that we can route to GPT, Claude, PaLM, etc.)
 

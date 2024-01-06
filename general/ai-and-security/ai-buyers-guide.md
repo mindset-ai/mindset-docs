@@ -15,9 +15,11 @@ This guide aims to provide businesses with crucial considerations when investing
 
 Accuracy is one of the most important focuses for any AI buyer. Currently, companies do not pay much attention to the accuracy of responses from AI vendors. In 2024, as buyers become more educated, this will start to change.&#x20;
 
-<mark style="background-color:blue;">**What techniques and technology processes have you used to increase the accuracy of responses?**</mark>
+### **What techniques and technology processes have you used to increase the accuracy of responses?**
 
 Because the questions we ask Large Language Models (LLMs) heavily influence their outputs, “prompt engineering” is a key part of getting LLMs to do what we want them to do. This entails testing how close different methods of prompting LLMs (i.e., asking them questions) get us to our desired LLM responses.&#x20;
+
+The term "prompt engineering" is greatly misunderstood and ill-defined. It ranges from simple augmentation of the API calls sent to the LLM (which is pretty much what you can do when configuring your own Assistant in ChatGPT) to extremely sophisticated technology platforms as outlined below.&#x20;
 
 **Capabilities to look out for:**&#x20;
 
@@ -37,9 +39,7 @@ Knowledge graphs store a variety of data, including information about people, th
 
 For instance, they can record how employees in a company are connected, track the participants in various events, link individuals to specific projects, note office locations, and establish connections based on common topics. Knowledge graphs enable AI to make sense of intricate data connections and deliver precise information.
 
-
-
-<mark style="background-color:blue;">**How do you stop inaccuracies from reaching end users?**</mark>
+### **How do you stop inaccuracies from reaching end users?**
 
 No matter how good AI gets, there can still be mistakes. Every AI vendor must have capabilities which stop any inaccurate responses from reaching end-users.&#x20;
 
@@ -53,8 +53,7 @@ No matter how good AI gets, there can still be mistakes. Every AI vendor must ha
 
 **Feedback Loops**: Continuously gather feedback from users and data sources, then incorporate it into model updates and improvements.
 
-\
-<mark style="background-color:blue;">**How do you train the AI to improve responses for my business?**</mark>&#x20;
+### **How do you train the AI to improve responses for my business?**&#x20;
 
 **Capabilities to look out for in a vendor:**&#x20;
 
@@ -66,13 +65,13 @@ No matter how good AI gets, there can still be mistakes. Every AI vendor must ha
 
 **Simulations**: The buyer should be able to ask the system to simulate all possible questions and responses based on the data. The system must then identify outliers to the buyer which are inaccurate or questionable.&#x20;
 
-<mark style="background-color:blue;">**How do you ensure all AI responses are personalised?**</mark>&#x20;
+### **How do you ensure all AI responses are personalised?**&#x20;
 
 **Knowledge Graphs**: Knowledge graphs store a variety of data, including information about people, their relationships, events, locations, concepts and terminology that is specific to a company. This enables the AI to personalise responses.
 
 **Context Integrations**: The AI vendor must be able to integrate with an active directory or another source of data which provides context on the user to personalise responses.&#x20;
 
-<mark style="background-color:blue;">**How do you ensure end-users trust AI responses?**</mark>&#x20;
+### **How do you ensure end-users trust AI responses?**&#x20;
 
 **Capabilities to look out for in a vendor:**&#x20;
 
@@ -82,15 +81,17 @@ No matter how good AI gets, there can still be mistakes. Every AI vendor must ha
 
 **Personalisation**: People trust AI when the responses are highly personalised, demonstrating the system understands the person it is speaking with.&#x20;
 
+***
+
 ## 2. Security & Data Managment
 
 For an AI solution to be successful, it must process a significant portion of your enterprise data. From documents, processes and even contextual data about a user.&#x20;
 
-<mark style="background-color:blue;">**How are third-party AI vendors chosen?**</mark>
+### **How are third-party AI vendors chosen?**
 
 Vendors should be able to provide a full process and system for selecting third-party AI vendors.&#x20;
 
-<mark style="background-color:blue;">**What data is collected and incorporated into AI interactions?**</mark>
+### **What data is collected and incorporated into AI interactions?**
 
 **Capabilities to look out for in a vendor:**&#x20;
 
@@ -100,7 +101,7 @@ Vendors should be able to provide a full process and system for selecting third-
 
 **User-Specific Information**: The information gathered during user onboarding and subsequent interaction with the system is used to personalise user experience, helping tailor responses to be more relevant and effective.
 
-<mark style="background-color:blue;">**How does your AI solution ensure the security of sensitive data, and what measures are in place to prevent data leakage to the LLM?**</mark>
+### **How does your AI solution ensure the security of sensitive data, and what measures are in place to prevent data leakage to the LLM?**
 
 When it comes to data and security, there are many well-known good practices expected from technology providers. However, when it comes to AI solutions, there are now many new approaches vendors can take to protect from data issues that can arise from LLMs.
 
@@ -112,8 +113,7 @@ When it comes to data and security, there are many well-known good practices exp
 
 **Data Isolation**: Isolating data for specific companies, ensuring that different customers' data does not get leaked to the LLM, and no data is used across different customers.&#x20;
 
-\
-<mark style="background-color:blue;">**How does your platform ensure the safety of sensitive data?**</mark>
+### **How does your platform ensure the safety of sensitive data?**
 
 **Capabilities to look out for in a vendor:**&#x20;
 
@@ -136,12 +136,13 @@ When it comes to data and security, there are many well-known good practices exp
 
 **Access Controls**: Can you define and enforce granular access controls? Ensuring that only authorised personnel can access specific data is fundamental to security
 
-### 3. Bias Mitigation
+***
+
+## 3. Bias Mitigation
 
 Work on bias identification and mitigation is changing fast. Ultimately, the underlying LLM cannot be understood. OpenAI cannot explain ChatGPT. However, identifying how your data set has biased the underlying model is essential.&#x20;
 
-\
-<mark style="background-color:blue;">**What are you doing to identify and mitigate bias?**</mark>&#x20;
+### **What are you doing to identify and mitigate bias?**&#x20;
 
 **Capabilities to look out for in a vendor:**&#x20;
 
