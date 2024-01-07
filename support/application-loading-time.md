@@ -16,7 +16,6 @@ When the application is taking too long to load either on the web on a mobile de
 Please contact the success team by raising an MSP ticket if the issue remains unresolved to enable the team to investigate further.
 
 
-
 **Raise a ticket here:**
 
 [https://mindset-ai.atlassian.net/servicedesk/customer/portal/1](https://mindset-ai.atlassian.net/servicedesk/customer/portal/1)&#x20;
