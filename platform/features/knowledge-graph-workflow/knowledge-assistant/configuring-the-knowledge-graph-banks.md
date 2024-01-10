@@ -2,7 +2,7 @@
 description: How to use and configure the Knowledge Graph Banks for your end-users.
 ---
 
-# How to configure the Knowledge Graph Banks
+# Configuring the Knowledge Graph Banks
 
 The Knowledge Graph Banks are the section in which your content is stored and filed. The end-user would never know they were accessing particular banks of content but for the admin, it is a way of separating content. In the future, this may be how content is permissioned to specific users, so we would recommend thinking of the banks as perhaps free vs paid for content. There is no limit on the amount of content you can upload to one bank, initially, we recommend keeping fewer banks, each with lots of rich content. The content here is what the Knowledge Assistant will use to ‘learn’ from in order to deliver accurate and informative answers for your end users.
 
@@ -10,7 +10,7 @@ The Knowledge Graph Banks are the section in which your content is stored and fi
 
 Under the Manage tab of the left-hand navigation bar, go to the Knowledge Graph section, here you will be able to configure the Banks for the Learning Assistant.
 
-Can’t find the **Knowledge Graph** section under **Manage**? You may need to check the workflow has been turned on. Go to **Configure > Settings > Workflows** and check the **Knowledge Graph** toggle is on.
+
 
 Select Add New Bank and give the Bank a name and short description - this is only used for the administrator and is not end-user facing.
 
@@ -82,12 +82,27 @@ Once **Published** you will see the green tick appear in the left-hand corner.
 
 If you go back to the **Knowledge Graph** area, out of the **Bank**, you can see more tabs along the top.
 
-&#x20;
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-10 at 15.15.34.png" alt=""><figcaption></figcaption></figure>
 
-![](https://lh5.googleusercontent.com/MeHF3cxRqHk6QGYmoIDxIkzWLWUeo5hK3s0sjy1azt722au3YTxXAbQAUAGGydNORFD85oAHbbNePVODxn2ssUr5VTO8-2oXCG34reQv-MKrR0GhpNFHrWoMkJpgEchs\_FImv3Zqa5T3NF1EQOlVY00)
+The **People** tab will show you all of the speakers you have added.&#x20;
 
-The **People** tab will show you all of the speakers you have added, currently you cannot amend these here.
+
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-10 at 15.22.15.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Within the list of speakers, you can edit their profile by selecting the three dots by their name, followed by 'edit'.
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-10 at 15.23.36.png" alt="" width="375"><figcaption></figcaption></figure>
+
+You can add their Profile URL (LinkedIn, social or other website url for this person). When the Flow UI is selected as the Chat UI style (in Configure > Knowledge Graph > Chat UI style) at the front end people will be related to the suggested content segments and will link to any associated Profile URLs.
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-10 at 15.27.21.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 The **Discover** tab will show you how the Content Discovery feature will look to end-users, so you can test it on the admin side. _Please note Trending, Continue and Bookmarks have not been developed yet._
 
 The **Assistant** tab will show you how the Knowledge Assistant feature will look to end-users, so you can test it on the admin side. Ask questions and engage with the segments to get a feel for the users’ experience.
+
+Finally, the Labels tab enables the configuration of labels, these can be added to help organise your content for your end-users. To find out more about setting up labels, please read our article on Setting up Content Discovery carousels [here.](../content-discovery/setting-up-content-discovery-carousels.md)
+

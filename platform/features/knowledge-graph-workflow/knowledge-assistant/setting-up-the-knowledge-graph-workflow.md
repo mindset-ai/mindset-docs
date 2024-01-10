@@ -85,6 +85,18 @@ This can be altered between 1-5, where 1 yields quick response times, but also l
 
 Here you can design exactly how you would like the chat interface to look with text and bubble colours as well as the segment panel. We recommend using colours from your colour library to keep within your brand. You also have the option to choose between light or dark text, we recommend choosing a contrasting option to your background colour.
 
+**Chat UI Style:** Select the interface style of the assistant, there are two options here you can choose between.
+
+**Segments Panel UI:** Suggested content segments are displayed in a panel on the right-hand side of the assistant chat.&#x20;
+
+**Flow UI (Web only):** Suggested content segments are displayed in line with the assistant’s answers alongside related concepts and people. Mobile application users will still see the Segments Panel UI.
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-10 at 14.50.39.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Here, you can also enable prompts. If you would like to learn more about how you can use prompts to add value to your application please see our prompts article [here](../prompts.md).
+
+
+
 **Initial workflow card**
 
 This is the card that would be displayed on the end-user's screen if the workflow is served with other features. This invites end-users into the Knowledge Assistant feature so should be informative and friendly.

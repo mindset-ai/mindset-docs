@@ -93,91 +93,6 @@ In this example, two Mindset components (`checkSdk` and `coPilot`) are embedded 
 
 ***
 
-## Authentication
-
-**Overview:**
-
-The Mindset SDK employs an authentication mechanism that uses an authentication token. This token is pivotal in linking the client-side session to a user account within the Mindset platform. The process ensures a seamless integration of user sessions with the platform's functionalities.
-
-The authentication approach is two-fold:
-
-1. **Existing User Linkage**: If the user already exists in the Mindset platform, the authentication process will generate a token that links the current client-side session to this existing user account. This facilitates a continuous and integrated experience for returning users.
-2. **Automatic User Creation**: In cases where a user does not exist on the platform, the authentication process automatically triggers the creation of a new user account based on the provided email address. A corresponding authentication token is generated, linking the new user account to the client-side session. This streamlined process ensures new users are smoothly onboarded without additional manual steps.
-
-The authentication token is a critical component in this process, serving as the key to accessing and interacting with the SDK's features while maintaining user-specific contexts and preferences.
-
-**Authentication Token Generation:**
-
-A secure server-side HTTP POST request is made to the Mindset authentication endpoint to generate the `AUTH-TOKEN-FOR-CURRENT-USER`. This process involves sending user identification details (such as email address) and your application credentials.
-
-```
-POST https://YOUR-MINDSET-URL/authenticate-embedded-user
-```
-
-#### **Request Body:**
-
-The body of the request should include:
-
-* `appUid` (String): Your application's unique identifier.
-* `apiKey` (String): Your application's API key, retrievable from your app's admin UI.
-* `userEmail` (String): The email address of the user to authenticate.
-
-#### Example JSON body:
-
-```json
-{
-  "appUid": "YOUR-APPUID",
-  "apiKey": "YOUR-API-KEY",
-  "userEmail": "USER-EMAIL-ADDRESS"
-}
-```
-
-#### **Server-Side Authentication:**
-
-* **Critical**: The authentication process must be handled server-side. This is to ensure the security of your API key and the overall integrity of the user authentication process.
-* Upon successful authentication, the API returns an authentication token. This token is then used in subsequent SDK function calls to authenticate the user.
-
-#### **User Account Handling:**
-
-* An authentication token will be generated if a user with the provided email address exists in your application.
-* If no such user exists, a new user account will be created using the provided email address, and an authentication token will be generated.
-
-#### **Security Considerations:**
-
-* **API Key Confidentiality**: Keep your API key confidential. It should be securely stored and never exposed in client-side code.
-* **Authentication Tokens**: Handle authentication tokens securely. They should be transmitted and stored using secure methods to prevent unauthorised access.
-
-#### **Example Server-Side Usage:**
-
-```javascript
-// Example Node.js code to make a server-side HTTP POST request for user authentication
-// Adapt this example based on your server-side programming environment
-
-const fetch = require('node-fetch');
-
-const requestBody = {
-  appUid: "YOUR-APPUID",
-  apiKey: "YOUR-API-KEY",
-  userEmail: "user@example.com"
-};
-
-fetch('https://YOUR-MINDSET-URL/authenticate-embedded-user', {
-  method: 'POST',
-  headers: {
-    'Content-Type': 'application/json'
-  },
-  body: JSON.stringify(requestBody)
-})
-.then(response => response.json())
-.then(data => {
-  console.log('Authentication Token:', data.authToken);
-})
-.catch((error) => {
-  console.error('Error:', error);
-});
-
-```
-
 ## Functions
 
 ### `mindset.init`
@@ -194,7 +109,7 @@ mindset.init({
 #### Parameters:
 
 * `appUid` (String): The unique identifier for your application. This is required to link the SDK to your specific application instance.
-* `authToken` (String): The authentication token for the current user. This token is used to manage user sessions and access control. Ensure that the token is valid and correctly configured for the user's session. See the [Authentication](embed-sdk.md#authentication) section above for details on generating an authentication token.
+* `authToken` (String): The authentication token for the current user. This token is used to manage user sessions and access control. Ensure that the token is valid and correctly configured for the user's session. See the [Authentication](authentication.md) section for details on generating an authentication token.
 
 #### Behavior:
 
@@ -229,66 +144,5 @@ mindset.render({
 * **Options Handling**: The function utilises the `options` object to customise the component's behaviour and appearance. These options should be tailored to the specific requirements of the component.
 * **Error Handling**: If an invalid `containerId` is provided or if the specified `component` does not exist, the function will throw errors or fail to render the component. Ensure that the parameters are correctly set.
 * **Idempotency**: Calling `mindset.render()` multiple times with the same `containerId` will typically replace the container's content with the new component render. The exact behaviour may depend on the component's internal implementation.
-
-***
-
-## Components
-
-### `checkSdk`
-
-#### **Purpose:**&#x20;
-
-The `checkSdk` component serves as a diagnostic tool to verify the successful integration and operation of the Mindset SDK. It displays a confirmation message, confirming that the SDK is working correctly. This component is particularly useful during the SDK's initial installation and setup process.
-
-#### **Usage:**&#x20;
-
-```javascript
-mindset.render({
-  containerId: "container-id",
-  component: "checkSdk",
-  options: {}
-});
-```
-
-#### **Options:**&#x20;
-
-* None. The `checkSdk` component does not require any additional options. Pass an empty `{}`.
-
-#### **Example output:**
-
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-
-***
-
-### `coPilot`
-
-#### **Purpose:**&#x20;
-
-The `coPilot` component is designed to render an interactive Mindset CoPilot interface within a specified HTML container. It integrates seamlessly with the Mindset platform to provide dynamic, user-interactive content.
-
-#### **Usage:**
-
-```javascript
-mindset.render({
-  containerId: "container-id",
-  component: "coPilot",
-  options: { heading: "Your CoPilot Heading" }
-});
-```
-
-#### **Options:**
-
-* `heading` (String): Specifies the heading or title for the CoPilot interface.
-
-#### **Notes:**
-
-* All configurations for the `coPilot` component, including content and analytics, are managed through the Mindset Platform. Refer to the [Knowledge Graph](../../platform/features/knowledge-graph-workflow/) section in the Platform documentation for detailed configuration guidelines.
-* Use CSS to style the HTML container hosting the component and configure the behaviour, look and feel of the CoPilot within the Mindset Platform Admin interface.
-
-#### **Example output:**
-
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Note</p></figcaption></figure>
-
-
 
 ***

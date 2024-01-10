@@ -2,7 +2,7 @@
 description: A how-to guide for setting up your carousels in your Content Discovery UI.
 ---
 
-# How to set up your Content Discovery carousels
+# Setting up Content Discovery carousels
 
 **Labels: What are they?**&#x20;
 
@@ -12,9 +12,12 @@ When setting up the Content Discovery feature of your Knowledge Graph workflow, 
 
 **Where can they be found?**
 
-&#x20;![](https://lh7-us.googleusercontent.com/Xu273HRB\_RgtJKBA8iX8\_WKy1DDWjAXp23Eu7G0HpQilU6hsFx6Cv0OK2eUrAYpZpcQxlXvXQRKVCHGgMMtKPJDESggDAeg1a7N30lf1Ii9eL\_t5Le3ZZH\_-Du1yKFulrfcFwwhUoF2edWfjImTXCgo)
+<div align="left">
 
-\
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-10 at 15.09.16.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
 Labels can be created in the administration portal of your application under Manage→ Knowledge Graph.&#x20;
 
 \
