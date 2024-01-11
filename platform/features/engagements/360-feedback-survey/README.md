@@ -4,42 +4,6 @@ description: How to configure the 360 Feedback Engagement
 
 # 360 Feedback Survey
 
-[How to configure the 360 workflow 2](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.vztqmmfkndw5)
-
-[Switch on the “360 Feedback”, “Facilitation”, and “Engagement” workflows 2](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.af0kkoncwhh)
-
-[Set up the template for invitation emails sent to Reviewers 2](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.e2l5b7yvnany)
-
-[Configure “360 Feedback” workflow settings 3](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.m52l2kh3zulq)
-
-[Create and configure a 360 Feedback Survey 3](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.f2pybb35wg8i)
-
-[Configure the “Display details” of the 360 Feedback Survey engagement 4](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.pgkrvc1il63g)
-
-[Configure the “Survey” 5](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.xdig7n5v2xqo)
-
-[Introduction screen 5](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.slnm5onzm2fc)
-
-[Survey questions 5](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.aqkrjo2653a6)
-
-[Completed state 6](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.1klgqqg2ht00)
-
-[Configure “Deadline and Reminders” 7](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.9hsxt5yimk39)
-
-[Configure “Participants” 8](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.646hsgq5pu10)
-
-[Publishing from the Published locations tab 9](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.wamo6wq5g2jm)
-
-[Run a 360 Feedback Survey 10](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.oqvv62yyx8jj)
-
-[What this workflow looks like ‘in-app’ for the end-user 11](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.78tyf8q7sfzz)
-
-[Leader experience 11](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.1zxfwucn80d7)
-
-[Reviewer experience 13](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.xgokb81mt7e9)
-
-[Important to note 14](https://docs.google.com/document/d/1a1vQuW8ZUIXK7Cc1wQCdguxownuV2XycWwrrf8VzRXU/edit#heading=h.efdkbck82emx)
-
 ## How to configure the 360 Engagement
 
 The first steps before creating and running a 360 Feedback Survey Engagement are to:
