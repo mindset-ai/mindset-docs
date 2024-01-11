@@ -26,6 +26,7 @@
     * [Reflection Engagement](platform/features/engagements/reflection-engagement.md)
     * [Assessment Engagement](platform/features/engagements/assessment-engagement.md)
     * [Survey Engagement](platform/features/engagements/survey-engagement.md)
+  * [Anonymised Surveys](platform/features/anonymised-surveys.md)
   * [Knowledge Graph](platform/features/knowledge-graph-workflow/README.md)
     * [Content Discovery](platform/features/knowledge-graph-workflow/content-discovery/README.md)
       * [Setting up Content Discovery carousels](platform/features/knowledge-graph-workflow/content-discovery/setting-up-content-discovery-carousels.md)
