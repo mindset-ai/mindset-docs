@@ -16,3 +16,9 @@ To ensure smooth delivery, we recommend assigning Restrictive Tags sparingly on 
 
 The difference between General Tags and Restrictive Tags lies within how the platform engine matches users with content. A piece of content that has only General Tags will be delivered to a user if they have any General Tag in common. On the other hand, content that has General Tags and a Restrictive Tag will be delivered only to users who possess the same Restrictive Tag.
 
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>General Tags</td><td></td><td><a href="general-tags.md">general-tags.md</a></td><td><a href="../../.gitbook/assets/Frame 1533208565 (1).jpg">Frame 1533208565 (1).jpg</a></td></tr><tr><td></td><td>Restrictive Tags</td><td></td><td><a href="restrictive-tags.md">restrictive-tags.md</a></td><td><a href="../../.gitbook/assets/Frame 1533208565 (1) (1).jpg">Frame 1533208565 (1) (1).jpg</a></td></tr><tr><td></td><td>Tags FAQs</td><td></td><td><a href="tags-faq.md">tags-faq.md</a></td><td><a href="../../.gitbook/assets/Frame 1533208565 (10).jpg">Frame 1533208565 (10).jpg</a></td></tr></tbody></table>
+
+
+
