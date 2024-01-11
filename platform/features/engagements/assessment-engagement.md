@@ -23,7 +23,7 @@ You will then see the Assessment display tab where you can configure the foundat
 ![](https://lh7-us.googleusercontent.com/4ONsUyT86ibTerce1ThKmp7fzy4TEvb0cyjn2B3DfrhMb212SWRofYz0q9IMfl3DJ3KUFPkEd3kpDsqwf--EcviBp9bFCHaofrkqqPOV0RynwStprE1\_GeSFY\_XhQcnL226XIc9ou9Sr0S9qD2qeiGU)\
 
 
-Much like [Survey Engagements](https://info.mindset.ai/help/how-to-create-and-configure-surveys), you can choose to include an intro step with a video to explain more about the Assessment and why end-users should complete it.![](https://lh7-us.googleusercontent.com/g\_dg9\_FiGPSifARWJoyw42YAySpaZ0MiiQCxoNOLUgiKParVQUhM7UuH85NRqOZMzJAEhVdRz-VVTXjluXWG1vWpoPGShanWr0pK0iYTS\_qcYgKJK4gh5ffssEQEAudxbahHhDf0i13Tq4Gq2y8a5wg)
+Much like [Survey Engagements](survey-engagement.md), you can choose to include an intro step with a video to explain more about the Assessment and why end-users should complete it.![](https://lh7-us.googleusercontent.com/g\_dg9\_FiGPSifARWJoyw42YAySpaZ0MiiQCxoNOLUgiKParVQUhM7UuH85NRqOZMzJAEhVdRz-VVTXjluXWG1vWpoPGShanWr0pK0iYTS\_qcYgKJK4gh5ffssEQEAudxbahHhDf0i13Tq4Gq2y8a5wg)
 
 
 
