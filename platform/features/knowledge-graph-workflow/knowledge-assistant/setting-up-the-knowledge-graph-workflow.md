@@ -95,7 +95,7 @@ Here you can design exactly how you would like the chat interface to look with t
 
 Here, you can also enable prompts. If you would like to learn more about how you can use prompts to add value to your application please see our prompts article [here](../prompts.md).
 
-
+**Please note:** _The flow UI feature currently lies behind a labs switch. We do not advise you have the flow UI feature enabled currently. Please contact your Customer Success Representative for more details._&#x20;
 
 **Initial workflow card**
 
