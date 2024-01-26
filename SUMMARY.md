@@ -98,6 +98,7 @@
     * [How to pin in a liveboard](analytics/thoughtspot/thoughtspot-faqs/how-to-pin-in-a-liveboard.md)
     * [Editing individual data visualisations in a liveboard](analytics/thoughtspot/thoughtspot-faqs/editing-individual-data-visualisations-in-a-liveboard.md)
 * [Connecting a BI tool](analytics/connecting-a-bi-tool.md)
+* [Integrations](analytics/integrations.md)
 
 ## Support
 
