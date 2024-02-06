@@ -13,7 +13,7 @@ The authentication approach is two-fold:
 
 The authentication token is a critical component in this process, serving as the key to accessing and interacting with the SDK's features while maintaining user-specific contexts and preferences.
 
-**Authentication Token Generation:**
+**Client Authentication Token Generation:**
 
 A secure server-side HTTP POST request is made to the Mindset authentication endpoint to generate the `AUTH-TOKEN-FOR-CURRENT-USER`. This process involves sending user identification details (such as email address) and your application credentials.
 
@@ -21,20 +21,28 @@ A secure server-side HTTP POST request is made to the Mindset authentication end
 POST https://YOUR-MINDSET-URL/authenticate-embedded-user
 ```
 
+#### **Authorisation Header:**
+
+You must supply an API key header with your request.
+
+API keys are managed in the app admin UI.
+
+The header should be passed as:
+
+```
+x-api-key: YOUR-API-KEY
+```
+
 #### **Request Body:**
 
 The body of the request should include:
 
-* `appUid` (String): Your application's unique identifier.
-* `apiKey` (String): Your application's API key, retrievable from your app's admin UI.
 * `userEmail` (String): The email address of the user to authenticate.
 
 #### Example JSON body:
 
 ```json
 {
-  "appUid": "YOUR-APPUID",
-  "apiKey": "YOUR-API-KEY",
   "userEmail": "USER-EMAIL-ADDRESS"
 }
 ```
@@ -63,15 +71,14 @@ The body of the request should include:
 const fetch = require('node-fetch');
 
 const requestBody = {
-  appUid: "YOUR-APPUID",
-  apiKey: "YOUR-API-KEY",
   userEmail: "user@example.com"
 };
 
 fetch('https://YOUR-MINDSET-URL/authenticate-embedded-user', {
   method: 'POST',
   headers: {
-    'Content-Type': 'application/json'
+    'Content-Type': 'application/json',
+    'x-api-key': 'YOUR-API-KEY'
   },
   body: JSON.stringify(requestBody)
 })
