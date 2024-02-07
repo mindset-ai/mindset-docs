@@ -285,13 +285,13 @@ The "Additional Information" field equips the Agent with essential background or
 **1. Customer Support Agent**
 
 ```plaintext
-<< stecific information the agent might use to provide links to support sites >>
+<< specific information the agent might use to provide links to support sites >>
 ```
 
 **3. Coaching Agent**
 
 ```plaintext
-<< a summary of the coaching methadology and key concepts >>
+<< a summary of the coaching methodology and key concepts >>
 ```
 
 **2. Policy Explanation Agent**
