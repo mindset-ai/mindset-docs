@@ -41,6 +41,7 @@
     * [Prompts](platform/features/knowledge-graph-workflow/prompts.md)
   * [Agents](platform/features/agents/README.md)
     * [Configuration](platform/features/agents/configuration.md)
+    * [Tools](platform/features/agents/tools.md)
   * [Facilitation](platform/features/facilitation/README.md)
     * [Configuring Facilitations](platform/features/facilitation/configuring-your-facilitation.md)
     * [How to configure community Chat inside Facilitations](platform/features/facilitation/how-to-configure-community-chat-inside-facilitations.md)
