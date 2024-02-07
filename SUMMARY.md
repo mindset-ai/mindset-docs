@@ -37,6 +37,7 @@
       * [Knowledge Graph Workflow FAQs](platform/features/knowledge-graph-workflow/knowledge-assistant/knowledge-graph-workflow-faqs.md)
       * [How to exclude content from being viewable in the Knowledge Assistant](platform/features/knowledge-graph-workflow/knowledge-assistant/how-to-exclude-content-from-being-viewable-in-the-knowledge-assistant.md)
       * [How to Successfully Process PDF Files in your Knowledge Graph Workflow](platform/features/knowledge-graph-workflow/knowledge-assistant/how-to-successfully-process-pdf-files-in-your-knowledge-graph-workflow.md)
+      * [How to Successfully Process PDF Files in your Knowledge Graph Workflow](platform/features/knowledge-graph-workflow/knowledge-assistant/how-to-successfully-process-pdf-files-in-your-knowledge-graph-workflow-1.md)
     * [Events](platform/features/knowledge-graph-workflow/events.md)
     * [Prompts](platform/features/knowledge-graph-workflow/prompts.md)
   * [Agents](platform/features/agents/README.md)
