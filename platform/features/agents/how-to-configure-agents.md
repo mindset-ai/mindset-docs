@@ -2,19 +2,23 @@
 description: BETA
 ---
 
-# Configuration
+# How to configure Agents
 
-The configuration of the Agent is a critical blueprint that guides its behavior and interactions with users. It is finely tuned and persistent throughout the entirety of the user engagement, where even minor adjustments in tone, language, or operational parameters can significantly influence the Agent's performance and user perception.&#x20;
+### An Introduction to Agent Configuration
 
-Given the configuration's sensitive nature, it's paramount to approach modifications with caution, ensuring that any alterations are thoughtfully assessed for their impact. Monitoring these changes is essential to maintaining an optimal balance between user satisfaction and the Agent's effectiveness, allowing for continuous improvement in the interaction experience.&#x20;
+The Agent's configuration shapes how it behaves and interacts with users. This finely-tuned setup remains constant throughout user engagement, where even small changes in tone or language can significantly affect performance and user perception.
 
-This dynamic configuration encompasses a wide range of elements, from defining the Agent's purpose and embedding its personality to setting operational rules and utilizing specialized tools, all tailored to enhance the quality and efficiency of user interactions.
+Due to its sensitivity, any modifications to the configuration must be approached with care, ensuring they are carefully evaluated for their impact. Monitoring these changes is essential for maintaining a balance between user satisfaction and the Agent's effectiveness, allowing for ongoing improvement in the interaction experience.&#x20;
+
+This dynamic configuration covers various aspects, from defining the Agent's purpose and personality to establishing operational rules and using specialised tools, all aimed at improving the quality and efficiency of user interactions.
 
 ### Purpose
 
-The "Purpose" field outlines the main role or function of the Agent. This could range from customer support, providing information, facilitating transactions, to entertaining users. Defining the purpose is critical because it guides the overall design of the Agent, including its interactions, responses, and the specific needs it addresses for its users.
+The "Purpose" field outlines the main role or function of the Agent. This could range from customer support, providing information, facilitating transactions, to entertaining users.&#x20;
 
-**Best Practices**
+Defining the purpose is critical because it guides the overall design of the Agent, including its interactions, responses, and the specific needs it addresses for its users.
+
+#### Best Practices
 
 * **Clarity and Specificity:** Clearly define what the Agent is designed to do. A specific purpose enables targeted interactions that meet user expectations.
 * **User-Centric:** The purpose should focus on addressing the needs or solving the problems of its users. Understanding your target audience can help tailor the Agent’s purpose to their requirements.
@@ -54,7 +58,7 @@ well-being, and making positive life changes.
 
 ### Personality
 
-The "Personality" field configures the demeanor, tone, and interaction style of the Agent. This aspect is pivotal in defining how the Agent engages with users, influencing the perception of the Agent's warmth, professionalism, and approachability. A well-defined personality helps in creating a consistent user experience that aligns with the brand's voice and the expectations of the target audience.
+The "Personality" field sets the tone and style of interaction for the Agent. It's crucial for determining how users perceive the Agent's friendliness, professionalism, and approachability. A clearly defined personality ensures a cohesive user experience that matches the brand's voice and meets the audience's expectations.
 
 **Best Practices**
 
@@ -87,12 +91,12 @@ understanding of users’ personal growth challenges.
 
 ### Policy Rules
 
-The "Policy Rules" field is crucial for setting specific operational guidelines that dictate what the Agent can and cannot do. It includes limitations on the scope of the Agent's responses and actions, safeguards against the Agent undertaking tasks outside its designated role, and measures to prevent "jailbreaking" or actions that would allow the Agent to bypass these limitations. This ensures the Agent remains focused on its purpose, respects ethical boundaries, and provides a safe, reliable experience for users.
+The "Policy Rules" field is vital for establishing operational guidelines that outline the boundaries of the Agent's actions. It covers restrictions on the Agent's responses and behaviors, safeguards against overstepping its designated role, and measures to prevent unauthorized actions. These rules ensure the Agent stays on track, adheres to ethical standards, and delivers a secure, dependable experience for users.
 
 **Best Practices**
 
 * **Specific Limitations:** Clearly define the scope of tasks and topics the Agent can address, including explicit mentions of actions or query types it should not attempt to handle.
-* **Jailbreak Prevention:** Incorporate specific rules or phrases that the Agent recognizes as cues to avoid engaging in behaviors that could lead to bypassing its operational constraints.
+* **Jailbreak Prevention:** Incorporate specific rules or phrases that the Agent recognises as cues to avoid engaging in behaviours that could lead to bypassing its operational constraints.
 * **User Guidance:** Inform users about the limitations of the Agent’s capabilities and suggest alternative actions or referrals when requests fall outside the Agent's scope.
 
 **Examples**
@@ -118,7 +122,7 @@ Encourages users seeking such advice to consult with qualified professionals.
 
 ### Output Formatting
 
-The "Output Formatting" field specifies how the Agent's responses are structured and presented to the user. This includes the use of language, formatting elements (like bullet points, numbered lists, or paragraphs), and the inclusion of visual aids or links where appropriate. Proper output formatting is essential for enhancing readability, ensuring clarity, and improving the overall user experience.
+The "Output Formatting" field determines how the Agent's responses appear to users. It covers language use, formatting (such as bullet points or paragraphs), and including visuals or links when needed. Good output formatting improves readability, clarity, and the user experience.
 
 **Best Practices**
 
@@ -190,7 +194,9 @@ you might help them with.
 
 ### Process Steps
 
-The "Process Steps" field outlines the sequence of actions or operations that the Agent follows to fulfill its purpose once the interaction has started. This structured approach guides the Agent through handling user queries, ensuring a systematic and coherent response that aligns with the Agent's objectives and user expectations.
+The "Process Steps" field lays out the series of actions the Agent takes to achieve its goal during an interaction. This methodical approach helps the Agent respond to user queries in an organised and cohesive manner, meeting both the Agent's objectives and user expectations.
+
+
 
 **Best Practices**
 
@@ -232,7 +238,7 @@ The "Process Steps" field outlines the sequence of actions or operations that th
 
 ### Completion Step
 
-The "Completion Step" field provides instructions for the Agent on how to recognize and handle the conclusion of an interaction. This includes acknowledging the user's achievement of their goal, summarizing the assistance provided, and ending the conversation with a positive and supportive message. It's essential for reinforcing the user's satisfaction and leaving a lasting good impression.
+The "Completion Step" field guides the Agent on recognizing and concluding interactions. It involves acknowledging the user's accomplishment, summarising assistance, and ending with a positive message. This step is crucial for ensuring user satisfaction and leaving a positive impression.
 
 **Best Practices**
 
@@ -272,7 +278,7 @@ and remind them that support is always available should they need it in the futu
 
 ### Additional Information
 
-The "Additional Information" field equips the Agent with essential background or contextual information that influences its interactions with users. This could encompass guidelines on tone, references to external knowledge not contained within its training data, or directives on handling sensitive topics. It ensures the Agent's responses are appropriately informed by considerations beyond its standard operational knowledge.
+The "Additional Information" field provides crucial background or context for the Agent's interactions. This might include guidance on tone, references to external knowledge, or instructions for handling sensitive topics. It ensures the Agent's responses are well-informed by factors beyond its usual knowledge.
 
 **Best Practices**
 

@@ -4,28 +4,30 @@ description: BETA
 
 # Tools
 
-The Tools section within an Agent's configuration serves as a repository of additional functionalities or external modules that the Agent can leverage to enhance user interactions. These tools can range from language model functions, like the ClarificationTool, to integrations with external databases, APIs for retrieving information, or interactive elements designed to improve the engagement and effectiveness of the Agent's responses. The invocation of these tools during a conversation is determined by the Agent's underlying logic and decision-making processes, which assess the context and requirements of the interaction to decide when a specific tool is necessary.
+### What are Tools?&#x20;
+
+The Tools section in an Agent's setup serves as a storage for extra features or external modules to improve user interactions. These can include language tools, database integrations, APIs for information retrieval, or interactive elements. The Agent decides when to use these tools based on its logic and understanding of the conversation's context and needs.
 
 **How Tools Are Invoked**
 
-1. **Contextual Analysis:** The Agent continuously analyzes the conversation's context to understand the user's needs and the type of assistance required. This analysis is based on the user's queries, responses, and the conversational flow established by the Agent's purpose and process steps.
-2. **Decision Points:** During the interaction, the Agent identifies decision points or moments where the conversation could benefit from the use of a specific tool. This could be a need for clarification, the requirement to pull in external data, or the opportunity to present information in a more engaging way.
-3. **Tool Selection:** Based on the identified need, the Agent selects the appropriate tool from its configuration. The selection is guided by the tool's intended use case, the potential for enhancing the conversation, and the overall goal of addressing the user's query effectively.
-4. **Automatic Activation:** Once a tool is selected, the Agent automatically activates or invokes it without requiring explicit instructions from the user or the Agent operator. This seamless integration allows for a fluid conversation experience, where the use of tools feels like a natural extension of the Agent's capabilities.
-5. **User Interaction:** The tool interacts with the user according to its design—whether it's by providing visual options, retrieving information, or facilitating a specific task. The user's engagement with the tool informs the next steps in the conversation, allowing the Agent to further tailor its responses based on the user's input or selections.
-6. **Continued Conversation:** Following the tool's invocation and the user's interaction with it, the Agent seamlessly continues the conversation, incorporating the outcomes or information obtained through the tool's use. This ensures a coherent flow, where the tool's integration feels like an integral part of the interaction rather than an external interruption.
+1. **Contextual Analysis:** The Agent consistently assesses the conversation's context to grasp the user's needs and the necessary assistance. This evaluation relies on the user's questions, responses, and the flow of conversation guided by the Agent's objectives and steps.
+2. **Decision Points:** Throughout interactions, the Agent spots moments where using a particular tool could enhance the conversation. This might include clarifying information, bringing in external data, or making information more engaging.
+3. **Tool Selection:** The Agent chooses the right tool from its setup, considering its intended purpose, how it can improve the conversation, and ultimately, how it helps address the user's query effectively.
+4. **Automatic Activation:** Once a tool is chosen, the Agent activates it automatically, without needing any specific instructions from the user or the Agent operator. This smooth integration ensures a seamless conversation experience, where using tools feels like a natural part of the Agent's abilities.
+5. **User Interaction:** The tool engages with the user based on its design, offering visual choices, getting information, or helping with a task. How the user interacts with the tool guides the next conversation steps, enabling the Agent to adjust its responses to the user's input or choices.
+6. **Continued Conversation:** After the tool is used and the user interacts with it, the Agent smoothly carries on the conversation, integrating any results or information gained from the tool. This maintains a smooth flow where the tool feels like a natural part of the conversation, rather than an interruption.
 
-### ClarificationTool
+### Clarification Tool
 
-The ClarificationTool automatically activates during interactions when the Agent, powered by the LLM, identifies a need for further clarification from the user to proceed effectively. This tool facilitates a smoother conversation flow by presenting users with a set of visual UI pills representing the most logical options based on the context of their query. It's an intuitive aid that helps narrow down user intent or preferences without needing predefined triggers in the Agent's prompts.
+The ClarificationTool kicks in during interactions when the Agent, powered by the LLM, senses the need for more clarity from the user to proceed smoothly. It helps by showing users a visual list of options based on their query context, making it easier to understand their intent or preferences without needing specific prompts from the Agent.
 
 **Integration Approach**
 
-Given the automatic nature of the ClarificationTool, the focus shifts to ensuring the Agent's prompts are open-ended enough to allow for natural occurrences of clarification moments, without the need for explicit directive changes in the Agent's configuration.
+Because the Clarification Tool works automatically, the emphasis is on making sure the Agent's prompts are broad enough to naturally prompt clarification moments. This means there's no need for explicit changes in the Agent's setup to accommodate these instances.
 
 **Examples Adjusted for Clarification to initiate the ClarificationTool**
 
-Considering the tool's automatic engagement, it is important to consider the configuration instructions to maximize the potential for clear and effective use of the ClarificationTool in interactions.
+Considering the tool's automatic engagement, it is important to consider the configuration instructions to maximise the potential for clear and effective use of the Clarification Tool in interactions.
 
 **1. Customer Support Agent**
 

@@ -41,7 +41,7 @@
     * [Events](platform/features/knowledge-graph-workflow/events.md)
     * [Prompts](platform/features/knowledge-graph-workflow/prompts.md)
   * [Agents](platform/features/agents/README.md)
-    * [Configuration](platform/features/agents/configuration.md)
+    * [How to configure Agents](platform/features/agents/how-to-configure-agents.md)
     * [Tools](platform/features/agents/tools.md)
   * [Facilitation](platform/features/facilitation/README.md)
     * [Configuring Facilitations](platform/features/facilitation/configuring-your-facilitation.md)
