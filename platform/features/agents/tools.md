@@ -34,15 +34,14 @@ Considering the tool's automatic engagement, it is important to consider the con
 ```plaintext
 Ensure your responses invite open-ended feedback from the user about their 
 satisfaction with the solutions provided or if they have additional queries, 
-creating opportunities for the ClarificationTool to assist in narrowing down user 
-needs.
+creating opportunities to assist in narrowing down user needs.
 ```
 
 **2. Policy Explanation Agent**
 
 ```plaintext
 Encourage users to ask questions about policy details that may require further 
-exploration, allowing the ClarificationTool to offer options for different policy 
+exploration, creating opportunities to offer options for different policy 
 aspects the user might be interested in.
 ```
 
@@ -50,7 +49,7 @@ aspects the user might be interested in.
 
 ```plaintext
 Prompt users to share their goals or challenges in a manner that opens the door 
-for specifying areas they wish to focus on, leveraging the ClarificationTool to 
+for specifying areas they wish to focus on, creating opportunities to 
 help users make selections that best match their interests.
 ```
 
