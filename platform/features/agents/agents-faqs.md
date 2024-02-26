@@ -1,5 +1,5 @@
 ---
-description: 'An Introduction to Agents: Today’s New Opportunities & Tomorrow''s Vision'
+description: Frequently asked questions about Agents
 ---
 
 # Agents FAQs
