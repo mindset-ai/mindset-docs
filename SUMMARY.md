@@ -34,6 +34,7 @@
     * [Knowledge Assistant](platform/features/knowledge-graph-workflow/knowledge-assistant/README.md)
       * [Setting up the Knowledge Graph Workflow](platform/features/knowledge-graph-workflow/knowledge-assistant/setting-up-the-knowledge-graph-workflow.md)
       * [Configuring the Knowledge Graph Banks](platform/features/knowledge-graph-workflow/knowledge-assistant/configuring-the-knowledge-graph-banks.md)
+      * [Knowledge Bank Best Practices](platform/features/knowledge-graph-workflow/knowledge-assistant/knowledge-bank-best-practices.md)
       * [Knowledge Graph Workflow FAQs](platform/features/knowledge-graph-workflow/knowledge-assistant/knowledge-graph-workflow-faqs.md)
       * [How to exclude content from being viewable in the Knowledge Assistant](platform/features/knowledge-graph-workflow/knowledge-assistant/how-to-exclude-content-from-being-viewable-in-the-knowledge-assistant.md)
       * [How to Successfully Process PDF Files in your Knowledge Graph Workflow](platform/features/knowledge-graph-workflow/knowledge-assistant/how-to-successfully-process-pdf-files-in-your-knowledge-graph-workflow.md)
