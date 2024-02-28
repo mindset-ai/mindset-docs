@@ -122,4 +122,4 @@
 ***
 
 * [Mindset AI Website](https://www.mindset.ai/)
-* [Start a free trial](https://www.mindset.ai/free-trial)
+* [Book a Demo](https://www.mindset.ai/book-a-demo)
