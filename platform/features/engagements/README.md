@@ -14,7 +14,7 @@ Engagements can be created at two levels: App and Account. Account admins only h
 
 ### Engagement Types
 
-Survey engagement
+**Survey engagement**
 
 The survey engagement allows you to learn more about, and engage with, your user base by asking them a single or series of questions. Surveys can be in the context of a facilitated event or as a single engagement pushed to the users home screen. Results of a survey are displayed both to the user and to the app administrator in the tableau dashboard.&#x20;
 
