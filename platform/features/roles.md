@@ -108,6 +108,10 @@ The users will receive an email on their role assignment. \
 
 ![](https://info.mindset.ai/hs-fs/hubfs/undefined-4.png?width=602\&height=185\&name=undefined-4.png)
 
+The users will receive an email on their role assignment with the URL to access their Coach Portal (see below).
+
+
+
 **How to add Coachees**\
 \
 To assign Coachees to Coaches **s**elect the Coachees tab and then select A**ssign Coachees.**\
