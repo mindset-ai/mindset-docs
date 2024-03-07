@@ -78,8 +78,10 @@ Once published Journeys will appear on users with matching tags screens, like th
 After clicking on the card, users will see the option to ‘Get Started’ as well as what they will learn on the Journey.
 
 \
-![](https://lh7-us.googleusercontent.com/jc9FmMiuT6BTmQHzJrnbE8Zb\_sTpPUe-AwV-Mx85Yrgrk21bZ3T6-c7w4eqpZXNQ29ATqNHB\_4P\_rjq4pTTf-aGCx-w04S8jw6-nH\_z0CzBKDRtu4YljVvr3a8V0Qq8vO-EwQqmWXPzNi-VPR1P57QY)\
+\
 
+
+<figure><img src="https://lh7-us.googleusercontent.com/jc9FmMiuT6BTmQHzJrnbE8Zb_sTpPUe-AwV-Mx85Yrgrk21bZ3T6-c7w4eqpZXNQ29ATqNHB_4P_rjq4pTTf-aGCx-w04S8jw6-nH_z0CzBKDRtu4YljVvr3a8V0Qq8vO-EwQqmWXPzNi-VPR1P57QY" alt=""><figcaption></figcaption></figure>
 
 Following this they will see the breakdown of the Journey into Steps and Step items. Users will need to complete these Steps sequentially to be able to complete the Journey.
 
