@@ -15,7 +15,7 @@ Once configured, click Save on the top right-hand corner.&#x20;
 
 
 
-**Creating new Journeys**
+**How to creating new Journeys**
 
 You can then create Journeys under App Information > Journeys on the left navigation bar. Click the Add new Journey button and you will be taken to an in-depth screen to add the Name, Image and estimated time as well as descriptive details. Once those details have been added, click Save in the top right-hand corner.\
 
