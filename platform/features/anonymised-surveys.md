@@ -89,6 +89,6 @@ In the **Anonymised surveys** tab you can see the status of all of your surveys,
 
 You can also **duplicate** or **delete** surveys.
 
-
-
 <figure><img src="../../.gitbook/assets/Summit10 2024-01-11 15-03-18.png" alt=""><figcaption></figcaption></figure>
+
+**Congratulations! You have now successfully published your anonymised survey.**
