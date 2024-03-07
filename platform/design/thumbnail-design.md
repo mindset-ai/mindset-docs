@@ -69,7 +69,11 @@ Below is an example set of thumbnails designed to represent a variety of content
 \
 
 
+<div data-full-width="false">
+
 <figure><img src="https://lh7-us.googleusercontent.com/3UKPrSiPGa6ppSJvx4pThv1mCopChj4pON4LnHvliZh3ApmRAYRVZ2cOczf2OlYpyXubY6XqtAvSlypx4zSCZyjZDCDgeWV-X6-HfW8xtGTxjEf-ItvjRqVUmTJh8DaGN7yXJE_EMar2B6DYiTqh5mA" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **Tools to Help You Design Your Thumbnail**
 
