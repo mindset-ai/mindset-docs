@@ -99,7 +99,7 @@ Clicking on the arrow icon next to the card will take you to a screen where you 
 
 
 
-You can click on the **+Add Coaches** button on the Coach to add users to this role. You can add their email addresses on the **Add the Coaches** screen. The users have to be registered with your applications to be assigned a role.&#x20;
+You can click on the **+Add Coaches** button to add users to this role. You can add their email addresses on the **Add the Coaches** screen. The users have to be registered with your applications to be assigned a role.&#x20;
 
 ![](https://info.mindset.ai/hs-fs/hubfs/undefined-May-16-2023-03-22-44-1577-PM.png?width=602\&height=151\&name=undefined-May-16-2023-03-22-44-1577-PM.png)
 
@@ -108,7 +108,34 @@ The users will receive an email on their role assignment. \
 
 ![](https://info.mindset.ai/hs-fs/hubfs/undefined-4.png?width=602\&height=185\&name=undefined-4.png)
 
+**How to add Coachees**\
+\
+To assign Coachees to Coaches **s**elect the Coachees tab and then select A**ssign Coachees.**\
+\
+
+
+<figure><img src="../../.gitbook/assets/Summit10 2024-03-07 17-30-51 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+Next add their email address on the **Add the coachees** screen and select ‘Next’.  Users have to be registered with your app to be assigned as a coachee.
+
+<figure><img src="../../.gitbook/assets/Summit10 2024-03-07 17-36-19.png" alt="" width="563"><figcaption></figcaption></figure>
+
+An alert will appear on the coachee’s home screen and they will have the option to accept or decline the coach assignment. The coach will be notified by email about the newly assigned Coachees.
+
+<figure><img src="../../.gitbook/assets/Summit10 2024-03-07 17-37-59.png" alt="" width="563"><figcaption></figcaption></figure>
+
+**The Coach Portal**\
+The Coach portal allows the Coach to view their current coachees and any former coachees.&#x20;
+
+
+
+<figure><img src="../../.gitbook/assets/TEMPLATE Coach Role - Google Slides 2024-03-07 17-50-08.png" alt=""><figcaption></figcaption></figure>
+
+The Coach can configure their profile by selecting ‘Your Coach profile’ on the left hand navigation.\
+\
 **Coach and Coachees Details**
+
+<figure><img src="../../.gitbook/assets/TEMPLATE Coach Role - Google Slides 2024-03-07 17-50-37.png" alt="" width="563"><figcaption></figcaption></figure>
 
 \
 This section also shows you the details of existing users who are assigned the Coach role. You can see the details like **Coach role levels. Other roles** and **about** them.&#x20;
