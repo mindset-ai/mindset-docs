@@ -17,8 +17,9 @@ The content items with the highest engagement and interaction will be visible at
 
 The Trending tab can be found in the content discovery feature of the  Knowledge Workflow underneath the search bar. It is one of four tabs which can be found here, including What’s New, Continue, and Saved.&#x20;
 
+<figure><img src="https://lh7-us.googleusercontent.com/FMZ9clYOmc6VjihQwCtlJCexkHklWcHJ5jvRrZtgVTvmRe9vCeko1mF4Sn9B5JxLyCLGR7CGqjd3dYTHxI_we5MDENVdlPr89GzNcIZquiHU30x8no_TWB7kPhEFeqA7SLkYqh8989-Q6Ae1UNiDPwFKHjgOS-SrUnfrJdhNTUdcR0QQPeuFkL5DtuofDQ" alt=""><figcaption></figcaption></figure>
+
 \
-![](https://lh7-us.googleusercontent.com/FMZ9clYOmc6VjihQwCtlJCexkHklWcHJ5jvRrZtgVTvmRe9vCeko1mF4Sn9B5JxLyCLGR7CGqjd3dYTHxI\_we5MDENVdlPr89GzNcIZquiHU30x8no\_TWB7kPhEFeqA7SLkYqh8989-Q6Ae1UNiDPwFKHjgOS-SrUnfrJdhNTUdcR0QQPeuFkL5DtuofDQ)\
 \
 **How is the trending tab calculated in my application?**&#x20;
 
