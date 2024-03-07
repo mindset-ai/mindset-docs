@@ -14,11 +14,11 @@ Before you get started, it is important to note that turning the Mindset Meter w
 
 Firstly, on your App Configuration page, go to App Settings and select the Workflows tab.&#x20;
 
-![](https://lh7-us.googleusercontent.com/3itsH9D\_CLfVH9DNmWkKZl9xv0AE5ybSDrTOfkjBO7vG21sApTQbXQ83dZAE8KSbUSIeV3l6XHuDbAUnyUtiWQO57HKO5QobdXjl6mEipuilvsRasu6sZZyx1whfhS9avn9l9e55DGl\_Wdu3mz7uT60)
+<figure><img src="https://lh7-us.googleusercontent.com/3itsH9D_CLfVH9DNmWkKZl9xv0AE5ybSDrTOfkjBO7vG21sApTQbXQ83dZAE8KSbUSIeV3l6XHuDbAUnyUtiWQO57HKO5QobdXjl6mEipuilvsRasu6sZZyx1whfhS9avn9l9e55DGl_Wdu3mz7uT60" alt=""><figcaption></figcaption></figure>
 
 Next, scroll down to find the Mindset Meter toggle switch and turn it on
 
-![](https://lh7-us.googleusercontent.com/9Et0j2lVLd8YiJhZcDyj5aeyien1e3WSVu2FpK6fZ5FT7-S320TaKvGaM\_u7NVOu6N3QfSun4lkleVxxjxJWJgiw9DJVJbNjdx4lcrD8ye5KD46cFAvPzLtBK5KAIj-oyQeXgjmujYuSR\_dONQcWmYw)
+<figure><img src="https://lh7-us.googleusercontent.com/9Et0j2lVLd8YiJhZcDyj5aeyien1e3WSVu2FpK6fZ5FT7-S320TaKvGaM_u7NVOu6N3QfSun4lkleVxxjxJWJgiw9DJVJbNjdx4lcrD8ye5KD46cFAvPzLtBK5KAIj-oyQeXgjmujYuSR_dONQcWmYw" alt=""><figcaption></figcaption></figure>
 
 #### Configuring the Mindset Meter workflow
 
@@ -44,27 +44,27 @@ These cards can be designed and personalised with different text, background, co
 
 1. Initial home page card – This card allows you to create an engaging experience to launch the check-in session.
 
-![](https://lh7-us.googleusercontent.com/pxWvpy9LeJf1U3sjgeicNPE-7-ADCtlJ09AuQvcv4kXUoP1AUSQhNKVWqpkwEjHx49He89z5HU5xO6K1gvpXYnfDX7xiwHoJfn24Jqyy2Z1lSewlu7pI3a4hC7dSEavV7oaAOWgFw1Lni1p2-SowY\_c)
+<figure><img src="https://lh7-us.googleusercontent.com/pxWvpy9LeJf1U3sjgeicNPE-7-ADCtlJ09AuQvcv4kXUoP1AUSQhNKVWqpkwEjHx49He89z5HU5xO6K1gvpXYnfDX7xiwHoJfn24Jqyy2Z1lSewlu7pI3a4hC7dSEavV7oaAOWgFw1Lni1p2-SowY_c" alt=""><figcaption></figcaption></figure>
 
 2. Check-in complete card – With this card, you can configure what to display after the user checks in. This card also allows users to review their history through Stored Check-ins. &#x20;
 
-![](https://lh7-us.googleusercontent.com/fnMZncvOOLKXTG6XX4UB7eEZSAgjalURMptpHlS8uqtHiKsFDMtUu3xb2SzYSiujNnF8YgDA-uq3DJqV-2R\_5jJK\_yy4hyf2mTGLRJ7p1rNgfi9HW15QXlr8nAZNYfYUvAGxEgzHwAaKFlF6i5-dN6g)
+<figure><img src="https://lh7-us.googleusercontent.com/fnMZncvOOLKXTG6XX4UB7eEZSAgjalURMptpHlS8uqtHiKsFDMtUu3xb2SzYSiujNnF8YgDA-uq3DJqV-2R_5jJK_yy4hyf2mTGLRJ7p1rNgfi9HW15QXlr8nAZNYfYUvAGxEgzHwAaKFlF6i5-dN6g" alt=""><figcaption></figcaption></figure>
 
 3. Check-in reminder card – This card provides the option to remind users to check in. You can choose to toggle this on or off, set a unique card, or simply copy the first one.&#x20;
 
-![](https://lh7-us.googleusercontent.com/J7aQQO8GE67EXUeMMVyQOqNNqnNzqPKN5I9-uiauUCal7-idtl\_6RzAxrS6Q9XtlbdQPI\_AB5BdkcKbXqj0zocz0Q2cTfv7WrG4Muw8LkIkORM8Zj6st2mqNSntKTWyz-D1-qPDomDACw906N9mtTyI)
+<figure><img src="https://lh7-us.googleusercontent.com/J7aQQO8GE67EXUeMMVyQOqNNqnNzqPKN5I9-uiauUCal7-idtl_6RzAxrS6Q9XtlbdQPI_AB5BdkcKbXqj0zocz0Q2cTfv7WrG4Muw8LkIkORM8Zj6st2mqNSntKTWyz-D1-qPDomDACw906N9mtTyI" alt=""><figcaption></figcaption></figure>
 
 #### 2. Intro step
 
 The intro step is displayed only to the first time Mindset Meter users. You can use this space to explain the journey you’re about to take them on, its value, and the purpose of checking in. This provides an opportunity to sell this feature.&#x20;
 
-![](https://lh7-us.googleusercontent.com/CkGCWOMB\_BD-EeMVKFrAdBT4sgYF16lWtZx\_K6eLWRLmrwMiNocx8UMwe9aVAvGXv-eXoC1beX8xr5As2F8boU0Vf-sV-GMjyBf3b0Wf66GePGd6BEVkq7\_D-uhI6F7HIynAS\_FVEaff9rX1rF6l2x4)
+<figure><img src="https://lh7-us.googleusercontent.com/CkGCWOMB_BD-EeMVKFrAdBT4sgYF16lWtZx_K6eLWRLmrwMiNocx8UMwe9aVAvGXv-eXoC1beX8xr5As2F8boU0Vf-sV-GMjyBf3b0Wf66GePGd6BEVkq7_D-uhI6F7HIynAS_FVEaff9rX1rF6l2x4" alt=""><figcaption></figcaption></figure>
 
 You can include a video from YouTube, Vimeo or any other link to make the Mindset Meter more exciting and include the text you’d want them to read and rename the continue button if you want to.&#x20;
 
 #### 3. Survey questions
 
-![](https://lh7-us.googleusercontent.com/NWSvkZuT50MOknANgy5KEdsrwtj8GpPPVUlwnFKXkrkf7P0vtBhIHlE8Jv-jUdvZkxroW-05Gee5xNnExvWxLgxAI\_XlwmIb60nlxdE98CYQuwdYZi1cp0eV4CQ\_x4niW1Wc6aeVskslHAbBJ\_tqBYo)
+<figure><img src="https://lh7-us.googleusercontent.com/NWSvkZuT50MOknANgy5KEdsrwtj8GpPPVUlwnFKXkrkf7P0vtBhIHlE8Jv-jUdvZkxroW-05Gee5xNnExvWxLgxAI_XlwmIb60nlxdE98CYQuwdYZi1cp0eV4CQ_x4niW1Wc6aeVskslHAbBJ_tqBYo" alt=""><figcaption></figcaption></figure>
 
 You can enhance the check-in experience by adding Survey Questions through this tab. There are three pre-set types of questions:&#x20;
 
@@ -80,7 +80,7 @@ It is mandatory to include either the filter wheel question or the sliding scale
 
 After constructing your survey questions, you can use this area to configure which questions populate each part of the user’s check-in session. For instance, the twelve options (icons) incorporated in the filter wheel can be configured to include further branching questions to offer a unique experience, therefore achieving your Mindset Meter’s goal.&#x20;
 
-![](https://lh7-us.googleusercontent.com/ENvKuPp0d0GGhFMOKHn3I-UE7nquOZkAi-8TdpbG1IsS0Rr03rjEfhW8GpAR7CvNhg0nDUl\_Je\_S0nXZCVy5pLcKu\_EAWcDJoltRjib5o9YnKxaavouVKDcty1GOuvRVfyLOmx7Gum1NtnuHw\_xV\_WM)
+<figure><img src="https://lh7-us.googleusercontent.com/ENvKuPp0d0GGhFMOKHn3I-UE7nquOZkAi-8TdpbG1IsS0Rr03rjEfhW8GpAR7CvNhg0nDUl_Je_S0nXZCVy5pLcKu_EAWcDJoltRjib5o9YnKxaavouVKDcty1GOuvRVfyLOmx7Gum1NtnuHw_xV_WM" alt=""><figcaption></figcaption></figure>
 
 This area also allows you to:&#x20;
 
@@ -99,7 +99,7 @@ Personal journaling
 
 Under personal journaling, users can reflect on their check-in and take private notes to view later. These notes can only be viewed by the end-user.&#x20;
 
-![](https://lh7-us.googleusercontent.com/tXeT9CJL0aYa\_sQDq70TgkO2cRKG5ZJblfHoD\_rWxH88KdVHmt\_uiUmsSETv8fsLAw0qP6IRjOUH5VyTcFPFSTgazhE8nJ-e9nllqtTePG2-9Cc00X0jut4aaoDDrGcpEzIdWhuN200FA2Q6-1TNWyA)
+<figure><img src="https://lh7-us.googleusercontent.com/tXeT9CJL0aYa_sQDq70TgkO2cRKG5ZJblfHoD_rWxH88KdVHmt_uiUmsSETv8fsLAw0qP6IRjOUH5VyTcFPFSTgazhE8nJ-e9nllqtTePG2-9Cc00X0jut4aaoDDrGcpEzIdWhuN200FA2Q6-1TNWyA" alt=""><figcaption></figcaption></figure>
 
 You can personalise the heading, guide text, hint text, and action button for the unique purpose of your app. Use this area to also reassure users that these notes will never be shared with their employers or the app admins by leaving a short data safety message.
 
@@ -107,7 +107,7 @@ Account journaling
 
 This option allows users to leave anonymous feedback for their employer (through the app or account reporting). &#x20;
 
-![](https://lh7-us.googleusercontent.com/vvC34VNCrHAM4hFjGv6UEYDB2YPOt3Rwx20p7AXbHsV7sYsMjlyyJv7QozexiyqyxDSExIxBvdmKluk4SJvA-WcBbZLPmpwiaREMffqv1VH7er\_NhNHY6mLHC2gGNrAZ1qXMQ4gE8bJxroFA79ARUko)
+<figure><img src="https://lh7-us.googleusercontent.com/vvC34VNCrHAM4hFjGv6UEYDB2YPOt3Rwx20p7AXbHsV7sYsMjlyyJv7QozexiyqyxDSExIxBvdmKluk4SJvA-WcBbZLPmpwiaREMffqv1VH7er_NhNHY6mLHC2gGNrAZ1qXMQ4gE8bJxroFA79ARUko" alt=""><figcaption></figcaption></figure>
 
 You can choose to either enable or disable this part.&#x20;
 
@@ -116,7 +116,7 @@ You can choose to either enable or disable this part.&#x20;
 As mentioned above, users will be able to access their check-in history from their profile page. You therefore need to configure this page and make it appealing using content that guarantees users remain engaged. \
 
 
-![](https://lh7-us.googleusercontent.com/UcJcPKuG0X0BeVArp0bpXsZ\_\_AY5i-D6BmT2IIyGLVOKzPbzhfiesnuxx6vcvezF\_ic-iWRulg8LqWA4NljzLeqpgk4qOTKRYyvQ0tOrHCO4-F9k-Q9cTDh01sWqw03wXgD3IL6Fy3oyr3KB9yRuadw)
+<figure><img src="https://lh7-us.googleusercontent.com/UcJcPKuG0X0BeVArp0bpXsZ__AY5i-D6BmT2IIyGLVOKzPbzhfiesnuxx6vcvezF_ic-iWRulg8LqWA4NljzLeqpgk4qOTKRYyvQ0tOrHCO4-F9k-Q9cTDh01sWqw03wXgD3IL6Fy3oyr3KB9yRuadw" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -132,7 +132,7 @@ Here you can turn on the weekly insights report, which will be served to users o
 
 You can configure the minimum amount of check-ins used to pull their weekly summary, we recommend at least 3 to get a good, valuable report. You can also choose the day in which the user is served their report as well as the delivery time. On the right hand side you can see a preview of what this could look like to the user in the application.
 
-![](https://lh7-us.googleusercontent.com/nVG4WFw435LqaLxWRtZH8D3SgRINA8-6fupXygFLkjNmLIfM-xQH25EbVjrKkN24QXmbj\_fXRIvINpQxPgBObI\_wYXbVHe\_LpAXW6fMq8ZcpwP3qvhmDjQX46Wv8b6pl4Y\_x2dArh56zUzE1rfs1Qs0)
+<figure><img src="https://lh7-us.googleusercontent.com/nVG4WFw435LqaLxWRtZH8D3SgRINA8-6fupXygFLkjNmLIfM-xQH25EbVjrKkN24QXmbj_fXRIvINpQxPgBObI_wYXbVHe_LpAXW6fMq8ZcpwP3qvhmDjQX46Wv8b6pl4Y_x2dArh56zUzE1rfs1Qs0" alt=""><figcaption></figcaption></figure>
 
 You can also configure the awaiting weekly report state and no weekly report available state as placeholders.
 
@@ -150,33 +150,43 @@ Next, the Frequency Data Tiles can be created. These display detailed insights t
 
 These frequency data tiles can be toggled on or off depending on which insights you would like your end-users to see.
 
-For each check-in insight, the title, as well as any additional information, can be configured.![](https://lh7-us.googleusercontent.com/-xwdsWtYM0IlRMU6KNx7Ohcy1jb-XwkBZnUQjTCwZ7vOZf7-NEB8hZZ5RC4pJXXXjO72\_G81ivyAioh\_PMV1CN6EdvewCwhwOyutXi05k8s76pSATJarjv\_3KP8HcNiG5wqEg2kJXfgFku\_05sfcEgQ)
+For each check-in insight, the title, as well as any additional information, can be configured.
+
+<figure><img src="https://lh7-us.googleusercontent.com/-xwdsWtYM0IlRMU6KNx7Ohcy1jb-XwkBZnUQjTCwZ7vOZf7-NEB8hZZ5RC4pJXXXjO72_G81ivyAioh_PMV1CN6EdvewCwhwOyutXi05k8s76pSATJarjv_3KP8HcNiG5wqEg2kJXfgFku_05sfcEgQ" alt=""><figcaption></figcaption></figure>
 
 An ascending/ descending indicator can also be added, which shows end-users their check-in activity from the current week comparatively to the previous week.&#x20;
 
-The tile background and text colour can also be amended here. ![](https://lh7-us.googleusercontent.com/tRItPUY3Lw9fi7Ql7a4pi0WN06PzddLpkU7G\_DiqyoUN751UKueA1Y11yFGxINfv0OKhVdGqVhCnke7DIAb6GVuUSNFkrC2t6GUGdKbBL9uyuRnw\_krUixm5OHBuUq5StSqSGBJKMQg1vUirOr59Ft0)
+The tile background and text colour can also be amended here.&#x20;
+
+<figure><img src="https://lh7-us.googleusercontent.com/tRItPUY3Lw9fi7Ql7a4pi0WN06PzddLpkU7G_DiqyoUN751UKueA1Y11yFGxINfv0OKhVdGqVhCnke7DIAb6GVuUSNFkrC2t6GUGdKbBL9uyuRnw_krUixm5OHBuUq5StSqSGBJKMQg1vUirOr59Ft0" alt=""><figcaption></figcaption></figure>
 
 \
 
 
 Check-in Highlights can then be configured.
 
-&#x20;![](https://lh7-us.googleusercontent.com/R58BKoOVpG452Y9RvOBvgAyVH58ZqlKQPlpW0iQJJMO1FLm7qk7QqYagCdUgfvxwpLVBhdiTwToMLpdhLt5ADb\_wZnBD2AQ3wCU\_dgKiuC1SkbRzciVgMtJaG02YlkC5OHjUT0iBxLFLpBaPrLwDAOE)
+&#x20;
+
+<figure><img src="https://lh7-us.googleusercontent.com/R58BKoOVpG452Y9RvOBvgAyVH58ZqlKQPlpW0iQJJMO1FLm7qk7QqYagCdUgfvxwpLVBhdiTwToMLpdhLt5ADb_wZnBD2AQ3wCU_dgKiuC1SkbRzciVgMtJaG02YlkC5OHjUT0iBxLFLpBaPrLwDAOE" alt=""><figcaption></figcaption></figure>
 
 Here, the highest and lowest daily and weekly check-in information can be previewed by end-users. You can choose whether this score is based on the user's sliding scale answers, or alternatively their ranking check-in state. Please note that in order to display the highest and lowest ranking check-in state, you will need to assign ranking to the answer options of a filter wheel question in the survey questions section.
 
-&#x20;![](https://lh7-us.googleusercontent.com/RZoK5wzTXy4VO-2Y9gS\_geG\_AAgeJMRS0l5akTtBks8f-BX\_yruQEuK6P88F5skp\_vUR2a4BSpdOK9Ug\_zLu2kQw5EZBvOytMAXRFEJBZSb2WgL8-hab9OUfQVQWiPYNAchXLmzs5bubblCpqaxpKz8)
+&#x20;
+
+<figure><img src="https://lh7-us.googleusercontent.com/RZoK5wzTXy4VO-2Y9gS_geG_AAgeJMRS0l5akTtBks8f-BX_yruQEuK6P88F5skp_vUR2a4BSpdOK9Ug_zLu2kQw5EZBvOytMAXRFEJBZSb2WgL8-hab9OUfQVQWiPYNAchXLmzs5bubblCpqaxpKz8" alt=""><figcaption></figcaption></figure>
 
 Next, you can configure your Check-in Summaries. This will display to end-users their most frequent daily and weekly check-in state. In addition to their most frequent check-in, you can also choose whether to present the most frequently selected trigger reasons for end-users to reflect on. The titles for the check-in summaries can also be configured here. ![](https://lh7-us.googleusercontent.com/yXoVXq6wsI5W4Y2\_B4QLskLQYp9MpiOt2LVjDSpXACBO7LrOiyYgyRH197okekhC1Elz6T7O-nhRJIA8LP8i2uFfW6OJJtXszbDFQE6SivHnSfJh4cryZRb2PvHeheoSypTt6vFR15bIUC50LUQo3fc)
 
 The Average Score Chart can be used to show end users their daily and weekly average mood score chart. Please note that in order to have this average score chart previewed, the sliding scale Mindset Meter question type must be configured.
 
 \
-![](https://lh7-us.googleusercontent.com/khkrK9nBw9nC-4UXI55emU2ISZQMz5pB4y8Dn1DlpGV4lC-6jmGPXpr4G5PImfHlyqGzQgCT7kX3GT57yMmSh6hGDYoHE5fqF-SjYGgtzXqSymJcnOrKE3aOVICmEV1aXBwoO5M\_Xj0EyWbTjwhgjQw)
+
+
+<figure><img src="https://lh7-us.googleusercontent.com/khkrK9nBw9nC-4UXI55emU2ISZQMz5pB4y8Dn1DlpGV4lC-6jmGPXpr4G5PImfHlyqGzQgCT7kX3GT57yMmSh6hGDYoHE5fqF-SjYGgtzXqSymJcnOrKE3aOVICmEV1aXBwoO5M_Xj0EyWbTjwhgjQw" alt=""><figcaption></figcaption></figure>
 
 Finally, the Insights Order Preview can be viewed. This displays the order in which the insights will appear to end-users on both their ‘daily’ and ‘weekly’ tabs. The current order is Frequency data tiles, followed by Check-in highlights, Check-in summaries, and lastly Average score chart.&#x20;
 
-![](https://lh7-us.googleusercontent.com/u0bvJbDvtgZ9SOCPH7NgHY7cuJaFKvGlmRjZcDc\_imw7QpNANT9i1Eg41gOQ0hNTPECXN0eO1CR1n20\_yVsdulzT9ceMZLlN2-WatJazSKvNegESTu09BtHEp73otwOnaIFWKK3bNv0SqBERvug8y4k)
+<figure><img src="https://lh7-us.googleusercontent.com/u0bvJbDvtgZ9SOCPH7NgHY7cuJaFKvGlmRjZcDc_imw7QpNANT9i1Eg41gOQ0hNTPECXN0eO1CR1n20_yVsdulzT9ceMZLlN2-WatJazSKvNegESTu09BtHEp73otwOnaIFWKK3bNv0SqBERvug8y4k" alt=""><figcaption></figcaption></figure>
 
 We, at Mindset AI, understand that configuring the Mindset Meter can be an arduous task, and this is why our friendly team is always on hand to support you. Don’t hesitate to contact us with any queries.&#x20;
 
