@@ -32,7 +32,7 @@
       * [Setting up Content Discovery carousels](platform/features/knowledge-graph-workflow/content-discovery/setting-up-content-discovery-carousels.md)
       * [‘Trending’ tab calculations](platform/features/knowledge-graph-workflow/content-discovery/trending-tab-calculations.md)
     * [Knowledge Assistant](platform/features/knowledge-graph-workflow/knowledge-assistant/README.md)
-      * [Setting up the Knowledge Graph Workflow](platform/features/knowledge-graph-workflow/knowledge-assistant/setting-up-the-knowledge-graph-workflow.md)
+      * [Setting up the Knowledge Workflow](platform/features/knowledge-graph-workflow/knowledge-assistant/setting-up-the-knowledge-graph-workflow.md)
       * [Configuring the Knowledge Graph Banks](platform/features/knowledge-graph-workflow/knowledge-assistant/configuring-the-knowledge-graph-banks.md)
       * [Knowledge Bank Best Practices](platform/features/knowledge-graph-workflow/knowledge-assistant/knowledge-bank-best-practices.md)
       * [Knowledge Graph Workflow FAQs](platform/features/knowledge-graph-workflow/knowledge-assistant/knowledge-graph-workflow-faqs.md)
