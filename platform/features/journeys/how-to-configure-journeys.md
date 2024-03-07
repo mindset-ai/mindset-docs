@@ -4,7 +4,9 @@ description: An explanation of how to create and configure journeys.
 
 # How to configure Journeys
 
-You will see Journeys appear on the left-hand side under Workflow settings. Select this workflow and you will see ways to configure the state of the Journeys carousel displayed on the Home screen for unstarted Journeys. You can configure the heading, background colour and text colour for both unstarted and in progress Journeys.\
+**Design your User's Journey Carousel**\
+\
+Select the **Journeys** tab on the left hand navigation under **Configure**.  You can configure the **unstarted Journeys carousel** and the **in progress Journeys carousel** adding the heading, background colour and text colour.\
 
 
 <figure><img src="https://lh7-us.googleusercontent.com/_3rGS_4lm9uiBoOqEi2fqQROynyIcuoOPKPp6sO7MoC2JIEj_r9JrtT1dn7POzMi9V2io689RRRnsc7-Vqx4hkRekwIw9Vx4crzSQZBxt1U2e-YYPhvPuuhRzP6Lmyqn4yroUGPHWzgD9DcFLIilZeM" alt=""><figcaption></figcaption></figure>
