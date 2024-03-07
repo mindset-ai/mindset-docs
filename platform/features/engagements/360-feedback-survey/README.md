@@ -8,24 +8,26 @@ description: How to configure the 360 Feedback Engagement
 
 The first steps before creating and running a 360 Feedback Survey Engagement are to:
 
-1. Switch on the “360 Feedback”, “Facilitation”, and “Engagement” workflows;
-2. Set up the template for invitation emails which will be sent to Reviewers;
-3. Configure the “360 Feedback” workflow settings.
+1. Set up the template for invitation emails which will be sent to Reviewers;
+2. Configure the “360 Feedback” workflow settings.
 
-
+If the '360 Feedback, Facilitation, and Engagement workflows are not switched on in your application, please contact your Customer Success Representative who can switch these on for you.
 
 ### Create and configure a 360 Feedback Engagement
 
 Start by navigating to the “Engagements library” section of the app administration interface. In the “Engagements” tab  click on the “Add new engagement” button and select “360 Feedback Survey” from the dropdown list. The engagement's configuration interface will open.&#x20;
 
-![](https://lh7-us.googleusercontent.com/Eh2Lmar8boMh1SaITaqF02dUEOtMTIKgZk7Ym4RGeY9z\_SEqPI8LXQ-LK6vgSiKGUg7zk2n8qPzlvnX-aWOm5k6lCk2vCV1X5nGu35\_84UVk0j-bv4BiKTLZbtffrW4llllfMNtvD-b85Kd-X7uTVdc)
+<figure><img src="https://lh7-us.googleusercontent.com/Eh2Lmar8boMh1SaITaqF02dUEOtMTIKgZk7Ym4RGeY9z_SEqPI8LXQ-LK6vgSiKGUg7zk2n8qPzlvnX-aWOm5k6lCk2vCV1X5nGu35_84UVk0j-bv4BiKTLZbtffrW4llllfMNtvD-b85Kd-X7uTVdc" alt=""><figcaption></figcaption></figure>
 
-\
+
+
 **Configure the “Display details” of the 360 Feedback Survey engagement**
 
 In the “Display details” tab  you can configure the details displayed on the engagement card. Here you can set the survey title, the text shown on the card’s button and upload an image in JPG, PNG or SVG format. When you are ready click “Save” in the top right corner and move on to the “Survey” tab.\
 \
-![](https://lh7-us.googleusercontent.com/ltzCFMRRPf-pux9UjxLn9Dhdk36IcdvzoMlw7JkjN\_69Cm206o6EC-ZbE-kkSJcASwR5RvAFq-d9Sy0s5LulXNNbeIV12F7HJjAj-sJ4EzxjA9YstJdHAm9ydP4Dl0ieyoc\_-Crj4eKbO3oNVFvCukI)
+
+
+<figure><img src="https://lh7-us.googleusercontent.com/ltzCFMRRPf-pux9UjxLn9Dhdk36IcdvzoMlw7JkjN_69Cm206o6EC-ZbE-kkSJcASwR5RvAFq-d9Sy0s5LulXNNbeIV12F7HJjAj-sJ4EzxjA9YstJdHAm9ydP4Dl0ieyoc_-Crj4eKbO3oNVFvCukI" alt=""><figcaption></figcaption></figure>
 
 #### Configure the “Survey”
 
@@ -35,11 +37,9 @@ In the “Survey” tab you can choose to enable Introduction screens for the Le
 
 The introduction screen can be used to help users understand the survey process better, tell them how to approach the questions, or why the survey will be valuable to complete. You can include text, video and attach a document.
 
-![](https://lh7-us.googleusercontent.com/WDydxjn70AquLGS8fmLdPpF1\_mNTBWfCjPNG\_LeLGHp4f2PHRGAC2IKjtlS96PDSl8xNENk53Lof3k6nsE8fRyLg4Bpd4iXNWGnJv1n70FkswQciPztT-Ofrro0oRBMawlkwaJrRQEE-7WfNHb10BpE)\
-\
-\
-![](https://lh7-us.googleusercontent.com/Xc7kJaHq0GluURTDK0QGa8kJ0Xu80yt6sjt0kPHCCd58evKLQ0kjc6iD7voyc4dqXAdi-OW-4SbmihQt\_-mOyUbwhR8OnXoWVSgPl4FPYeraED1Fn24B3CcdQEKoUnS27b-3JDmuQLNZwJNabuGlD7I)\
+<figure><img src="https://lh7-us.googleusercontent.com/WDydxjn70AquLGS8fmLdPpF1_mNTBWfCjPNG_LeLGHp4f2PHRGAC2IKjtlS96PDSl8xNENk53Lof3k6nsE8fRyLg4Bpd4iXNWGnJv1n70FkswQciPztT-Ofrro0oRBMawlkwaJrRQEE-7WfNHb10BpE" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://lh7-us.googleusercontent.com/Xc7kJaHq0GluURTDK0QGa8kJ0Xu80yt6sjt0kPHCCd58evKLQ0kjc6iD7voyc4dqXAdi-OW-4SbmihQt_-mOyUbwhR8OnXoWVSgPl4FPYeraED1Fn24B3CcdQEKoUnS27b-3JDmuQLNZwJNabuGlD7I" alt=""><figcaption></figcaption></figure>
 
 2. **Survey questions**
 
@@ -47,55 +47,59 @@ The “Survey questions” section is where you can build out your survey to inc
 
 To add your question/s click the “Add new question” button.
 
-Note: When creating these questions, many require your answers to be related to a Tag. This is to enable the serving of content to users based on their answers.&#x20;
-
-\
-![](https://lh7-us.googleusercontent.com/Y6LMWlom\_uCBAhYX\_zeOtST-11Poz1yRZG9yKjNFYuyWfx95-FT1AoSQm75OAOfzPE9lv2kGinf8qm8DsF2ADt5BrXI3JwJ4hvp9W1HCV1FX1QYkrvB9lpMGhbtYtn3m9dl76mj2e\_8Y1P3p9JJ9ucg)\
+Note: When creating these questions, many require your answers to be related to a Tag. This is to enable the serving of content to users based on their answers. Scale questions can also be configured here, too.
 
 
-Once your questions are added you’ll see the list of them under survey questions. Here you can edit, delete or change the order of questions by selecting the ellipsis.![](https://lh7-us.googleusercontent.com/zixXNONKmz6TCkDzERHd0URFlJAdUif-z9yW1ca0MfTaBd66E4xP9sQtwN6HvZIZytFdNdnw6XGJOBkjwVt3WQ9XW\_IsfSO9UFslNUVgbzQVjOWqAXiL6kn6JzIh7tM2QYe3jK7XQQwkPBPjUWPYP9M)
+
+<figure><img src="https://lh7-us.googleusercontent.com/Y6LMWlom_uCBAhYX_zeOtST-11Poz1yRZG9yKjNFYuyWfx95-FT1AoSQm75OAOfzPE9lv2kGinf8qm8DsF2ADt5BrXI3JwJ4hvp9W1HCV1FX1QYkrvB9lpMGhbtYtn3m9dl76mj2e_8Y1P3p9JJ9ucg" alt=""><figcaption></figcaption></figure>
+
+Once your questions are added you’ll see the list of them under survey questions. Here you can edit, delete or change the order of questions by selecting the ellipsis.
+
+<figure><img src="https://lh7-us.googleusercontent.com/zixXNONKmz6TCkDzERHd0URFlJAdUif-z9yW1ca0MfTaBd66E4xP9sQtwN6HvZIZytFdNdnw6XGJOBkjwVt3WQ9XW_IsfSO9UFslNUVgbzQVjOWqAXiL6kn6JzIh7tM2QYe3jK7XQQwkPBPjUWPYP9M" alt=""><figcaption></figcaption></figure>
 
 3. **Completed state**
 
 The Completed state refers to the state of the survey card that appears after the survey has been completed. Here you can configure the display of this card, whether you would like it to be permanent, temporary or not to be displayed at all.
 
 \
-![](https://lh7-us.googleusercontent.com/sDuDp3PnR1a2KS7Ms1J83iUbJQZ4MzHeSEwr5gxpsgXgHF1-uh5PEw8j1lUNWpiA1OKCtOf9mQw7gMyZNBC2e6TAQKAlrT96n\_mw1EQoE2RDzqHA4Di5CVUtJkQCtFAJMa4qt8VhiFxlk6KOcwaJzb0)
+
+
+<figure><img src="https://lh7-us.googleusercontent.com/sDuDp3PnR1a2KS7Ms1J83iUbJQZ4MzHeSEwr5gxpsgXgHF1-uh5PEw8j1lUNWpiA1OKCtOf9mQw7gMyZNBC2e6TAQKAlrT96n_mw1EQoE2RDzqHA4Di5CVUtJkQCtFAJMa4qt8VhiFxlk6KOcwaJzb0" alt=""><figcaption></figcaption></figure>
 
 #### Configure “Deadline and Reminders”
 
 In the “Deadline and reminders” tab you can set up a deadline for the completion of the survey and configure whether the 360 Feedback Survey engagement card should be hidden as soon as the deadline has passed or keep it temporarily.&#x20;
 
-\
-![](https://lh7-us.googleusercontent.com/b-W0nF58LytpeX7Lnk7zm1jVfqqOa4Q86U2II4UlYfDkdFSRv4QBg27ZsFJQw3EVVPX6KxvGCG6wwmDm3uL7JAfXW4lwxgt6yGy6ESORxZZp8o2oK\_-F06tX0NV7wAw-d6iKS8Kc5XA8pqK9tm5xFaM)\
 
 
-Survey completion reminders are displayed in the workflow carousel on the home screen. You can configure the frequency and the message displayed on the reminder card.
+<figure><img src="https://lh7-us.googleusercontent.com/b-W0nF58LytpeX7Lnk7zm1jVfqqOa4Q86U2II4UlYfDkdFSRv4QBg27ZsFJQw3EVVPX6KxvGCG6wwmDm3uL7JAfXW4lwxgt6yGy6ESORxZZp8o2oK_-F06tX0NV7wAw-d6iKS8Kc5XA8pqK9tm5xFaM" alt=""><figcaption></figcaption></figure>
 
-\
-![](https://lh7-us.googleusercontent.com/YKrhHFTgaEL9jY5csBL7-EQ6rQvNLsBomidrBiMrcgGl3XEe2pQLFiQgFAawxkxQc8QzBYk2PH9jC6SthkscAryMgmMOVkU3mv5HLxlcG-uq0tj\_ufhjuUv4QozQUkp\_CvbxO7gTvFgJ4a35chnNMHQ)
+Survey completion reminders are displayed in the workflow carousel on the home screen. You can configure the frequency and the message displayed on the reminder card.\
+
+
+<figure><img src="https://lh7-us.googleusercontent.com/YKrhHFTgaEL9jY5csBL7-EQ6rQvNLsBomidrBiMrcgGl3XEe2pQLFiQgFAawxkxQc8QzBYk2PH9jC6SthkscAryMgmMOVkU3mv5HLxlcG-uq0tj_ufhjuUv4QozQUkp_CvbxO7gTvFgJ4a35chnNMHQ" alt=""><figcaption></figcaption></figure>
 
 #### Configure “Participants”
 
 In the “Participants” tab you can set up the “Reviewer groups” which enables the segmentation of reviewers into categories. When the Leader adds users to their reviewers list they will have to associate each person to a group. Reviewer groups can describe how the reviewer is related to the leader, for example, manager, peer, direct report etc.
 
-When all reviewers complete the survey, their answers will be calculated and displayed collectively per reviewer group in the report. For example, if the leader has added 3 managers, the report will show the collective result for all three against a “Manager” group.![](https://lh7-us.googleusercontent.com/84QcatNWm2AjU-I4\_JtxU5dIcWdQKG0OqUjV53JDV\_87ha1HX33DYu\_HAlTebO4ALc6lq3dsEO6H2D3DMHKPjmnNH5tf2ew1Qd\_BkAgawkdkPpuh6On-5U507wbij691IW\_HmRSk-8rNxF0dsmBzd3w)
+When all reviewers complete the survey, their answers will be calculated and displayed collectively per reviewer group in the report. For example, if the leader has added 3 managers, the report will show the collective result for all three against a “Manager” group.
 
-
+<figure><img src="https://lh7-us.googleusercontent.com/84QcatNWm2AjU-I4_JtxU5dIcWdQKG0OqUjV53JDV_87ha1HX33DYu_HAlTebO4ALc6lq3dsEO6H2D3DMHKPjmnNH5tf2ew1Qd_BkAgawkdkPpuh6On-5U507wbij691IW_HmRSk-8rNxF0dsmBzd3w" alt=""><figcaption></figcaption></figure>
 
 The “Reviewers screen” is the interface displayed to Leaders where they create a list of Reviewers, send them an invitation to complete the survey and monitor their progress. You can add a short description here to help Leaders with how to approach the selection of their reviewers. For example, how many people they need to invite per reviewer group.
 
-It’s important to mention that the list of invited Reviewers acts as a safe-list to ensure only the right people take part in the process. This means that Reviewers will be required to either log in or create an account using the email address where they received their invitation.![](https://lh7-us.googleusercontent.com/jYBfepR4Q8BxA\_J5tt6cStxTrp6kQLRlW7pc6O\_SyiS50WZicc5gdUhFjUPI0-ZqDfjMjFFX6HIXG4uZwwIQ2uUSsFjCOyIIQkiWxLGFNdfRyAo9jArvY7TSj23CzOsFhINGtaBsTzBgYZlb1JSp0\_4)
+It’s important to mention that the list of invited Reviewers acts as a safe-list to ensure only the right people take part in the process. This means that Reviewers will be required to either log in or create an account using the email address where they received their invitation.
 
-
+<figure><img src="https://lh7-us.googleusercontent.com/jYBfepR4Q8BxA_J5tt6cStxTrp6kQLRlW7pc6O_SyiS50WZicc5gdUhFjUPI0-ZqDfjMjFFX6HIXG4uZwwIQ2uUSsFjCOyIIQkiWxLGFNdfRyAo9jArvY7TSj23CzOsFhINGtaBsTzBgYZlb1JSp0_4" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### Run a 360 Feedback Survey
 
-Now that you’ve created your first “360 Feedback Survey” engagement you can add it to a new or existing Facilitation. Once published in the “Run Facilitation” tab, all facilitation attendees will be added as Leaders in the “360 Feedback Survey” engagement. Clicking on the engagement card in the “Run Facilitation” tab will reveal each Leader’s progress with the survey and the progress of the Reviewers they have invited. ![](https://lh7-us.googleusercontent.com/iwIHKpcmQ3ppfktEVi6dblelz8KG-KS1CzhID6mVzLPWbDBsQIOE0XVdJTZMqCHU0KPrkxo2xMtCR3Nw5PdYV\_XAqX5G0QL-pULqb8N2h7kmGTfgpXF17zIVJzDXD9vcFEHMieQ6vYsaUH0zHW6\_ym4)
+Now that you’ve created your first “360 Feedback Survey” engagement you can add it to a new or existing Facilitation. Once published in the “Run Facilitation” tab, all facilitation attendees will be added as Leaders in the “360 Feedback Survey” engagement. Clicking on the engagement card in the “Run Facilitation” tab will reveal each Leader’s progress with the survey and the progress of the Reviewers they have invited.&#x20;
 
-
+<figure><img src="https://lh7-us.googleusercontent.com/iwIHKpcmQ3ppfktEVi6dblelz8KG-KS1CzhID6mVzLPWbDBsQIOE0XVdJTZMqCHU0KPrkxo2xMtCR3Nw5PdYV_XAqX5G0QL-pULqb8N2h7kmGTfgpXF17zIVJzDXD9vcFEHMieQ6vYsaUH0zHW6_ym4" alt=""><figcaption></figcaption></figure>
 
 ### What this workflow looks like ‘in-app’ for the end-user
 
@@ -137,20 +141,20 @@ Reviewers will receive an email containing an invitation link which will redirec
 
 ## 360 Feedback Survey FAQs
 
-1. How do people go through the 360 assessment process?\
+1. **How do people go through the 360 assessment process?**\
 
 
 The 360 feedback survey is configured by the app administrator. After creating the 360 survey engagement, the app administrator adds it to facilitation and invites the end-user to the facilitation. An individual cannot request a 360 survey via the app at the moment. Currently, standalone 360 engagements are not sent to a specific person.\
 
 
-2. How are the results calculated?\
+2. **How are the results calculated?**\
 
 
 The 360 survey results are presented in a report given to the leaders after all participants have completed the survey. There are no onscreen calculations in the 360 Survey like the survey engagement. The 360 survey does not have a results page as this was built following a customer’s process which involves revealing the self-assessment as well as the reviewer's assessment altogether in the same report. If a customer needs some results served in the app, we need to do a discovery and define exactly what their need is.&#x20;
 
 
 
-3. What does the individual being reviewed see once they complete it?&#x20;
+3. **What does the individual being reviewed see once they complete it?**&#x20;
 
 
 
@@ -169,15 +173,19 @@ To make the experience of finishing the survey and returning to the survey home 
 ![](https://lh7-us.googleusercontent.com/mlK-7hB8ZYNHUNRd8Ugox8MK8QNSKF0nMVoi0BnzOOo7\_VpDxfe9yVnmKtgQAPDP09txHQRx3k2eLrYMRJxxJQg1cJXeutfQGA0qq85BGE8kD0TO87gqSQquoYpEL93pu5mVdW7hZ9NCBU5ozze1pGGz0T2RpvKXxoF00qx34DmR6jFWSx\_s55QAvlisfA)\
 \
 \
-![](https://lh7-us.googleusercontent.com/64OTgmjTEwZYq7O\_cmoi8grfo2gjL6zLRfcTlJkFkPR3JTxdwMlAbNV1kDGDEQHKxTZ1XSDOFB9NZ4Yx9mY5Xg25504PAF0Durs-9KnV8P-9NV5qD3JGEvNQv8QT1jwNG4DeSLo5tlabcfBpIqAFfFregwIK7Z3hTYUT54iXePH1YoOR3NOc7AVkRK8w9g)\
+\
 
 
-4. What does the reviewer see once they have completed it?
+<figure><img src="https://lh7-us.googleusercontent.com/64OTgmjTEwZYq7O_cmoi8grfo2gjL6zLRfcTlJkFkPR3JTxdwMlAbNV1kDGDEQHKxTZ1XSDOFB9NZ4Yx9mY5Xg25504PAF0Durs-9KnV8P-9NV5qD3JGEvNQv8QT1jwNG4DeSLo5tlabcfBpIqAFfFregwIK7Z3hTYUT54iXePH1YoOR3NOc7AVkRK8w9g" alt=""><figcaption></figcaption></figure>
+
+4. **What does the reviewer see once they have completed it?**
 
 \
 Similarly to point 3, once the reviewer completes the survey they will be redirected to the home screen where the survey card will be in its completed state. Reviewers don't have access to the survey after completion. And the completed state card can be configured to display temporarily on their screens or not to be displayed at all (see third image above - config for reviewers' completed state). If the admin has created a spacer page as the last page in the survey reviewers will see it as both the leader and reviewers will see the exact same survey structure.
 
-\
+5. **Where are the results compiled?**&#x20;
+
+The results of your end-users 360 feedback survey answers are compiled in ThoughtSpot. If you require any assistance accessing these answers in ThoughtSpot, please contact your Customer Success Representative who can guide you to these.\
 \
 \
 
