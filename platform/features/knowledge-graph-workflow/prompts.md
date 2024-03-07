@@ -65,16 +65,13 @@ Here, a Prompt Collection can be added by giving it a name, some Prompts (separa
 
 <div align="left">
 
-<figure><img src="https://lh7-us.googleusercontent.com/qop-m_xG80Gvg-FK9HYN-eELfZr6qTh6a3V1nf1lQCk8xoZjODIFLH5gYnfrf0BplYUOU8gegCAK8A4Ew3Wh2pDmBHvlKNyu9v79UqRgfy54urEg4rZFJV8wjcyHkTLIs3eDKfuHD9lTx5JRuz8rfag" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/qop-m_xG80Gvg-FK9HYN-eELfZr6qTh6a3V1nf1lQCk8xoZjODIFLH5gYnfrf0BplYUOU8gegCAK8A4Ew3Wh2pDmBHvlKNyu9v79UqRgfy54urEg4rZFJV8wjcyHkTLIs3eDKfuHD9lTx5JRuz8rfag" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
-\
-![](https://lh7-us.googleusercontent.com/AVEGul0BqiC6noC9kSfQn9zUgTOYKnfWrAdLc49Yh5r3KvgQLYf1oYMbsaHoiSc0LPX4AxLKG9j0aVNPFojsC\_a0EkSZLcn0jDu4JF4vpvK8y0SYAyywS-C7mYC-s2Nsiznb3y0xw2wHkY3H-Ore0Us)\
-\
-\
-![](https://lh7-us.googleusercontent.com/q3p9laLbcTmk5CM27gmFGzAplQbMsjvWnmKbD\_RtFiYxT0VGtTVxqrm4qrwNwhbFU-KNye1r\_D8MbqbAnTDPYAnjEqEJMPCEKlrM2Hk2jg5QcKBr5zoz5mXNGLWuSzIQs7bD8LIdZ9JuSXdvaYcB8JQ)\
+<figure><img src="https://lh7-us.googleusercontent.com/AVEGul0BqiC6noC9kSfQn9zUgTOYKnfWrAdLc49Yh5r3KvgQLYf1oYMbsaHoiSc0LPX4AxLKG9j0aVNPFojsC_a0EkSZLcn0jDu4JF4vpvK8y0SYAyywS-C7mYC-s2Nsiznb3y0xw2wHkY3H-Ore0Us" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://lh7-us.googleusercontent.com/q3p9laLbcTmk5CM27gmFGzAplQbMsjvWnmKbD_RtFiYxT0VGtTVxqrm4qrwNwhbFU-KNye1r_D8MbqbAnTDPYAnjEqEJMPCEKlrM2Hk2jg5QcKBr5zoz5mXNGLWuSzIQs7bD8LIdZ9JuSXdvaYcB8JQ" alt=""><figcaption></figcaption></figure>
 
 Prompts collection name outlines the name displayed to users in the prompts dialog above the prompts list. It is advised to use a name that provides a unifying theme or topic that connects the individual prompts within the collection.&#x20;
 
@@ -89,35 +86,30 @@ Optional prompt postscript is attached to each prompt sent to the assistant by t
 #### How to enable prompts
 
 Prompts can be enabled by navigating to Configure> Knowledge Graph >Chat UI style and toggle on Enable Prompts\
-\
-![](https://lh7-us.googleusercontent.com/bopwyusoVy0yjDy\_0DLkV7-2wCY0NfqSsaGQ75g\_ybY-o9dqIrpD4KLAPiKDluqkE-tPJsft\_TK\_miX1T5xfDdGPKqDlohjhara7O2ZHRxPJtDXWhIZc54R019AsiJSQeJcxVyjtV\_vEUdP8h5kXn0E)\
-\
 
+
+<figure><img src="https://lh7-us.googleusercontent.com/bopwyusoVy0yjDy_0DLkV7-2wCY0NfqSsaGQ75g_ybY-o9dqIrpD4KLAPiKDluqkE-tPJsft_TK_miX1T5xfDdGPKqDlohjhara7O2ZHRxPJtDXWhIZc54R019AsiJSQeJcxVyjtV_vEUdP8h5kXn0E" alt=""><figcaption></figcaption></figure>
 
 **Prompt library for end-users**
 
 Depending on the Assistant UI you have enabled, end-users will see the prompt library on the left hand side of the text box. Clicking this will open the full prompt library window for them to choose from.\
 
 
-The question mark icon can be seen in the search bar when the Segments Panel UI is selected. Selecting this will open the prompts library.\
-\
-![](https://lh7-us.googleusercontent.com/p1fFglltN-otVqpRqdvcouot-PSfOsI5x\_yh3Pz9ez9MWbUDXjRZjuL0FDGG88b0HQmDTo9OC9WHi0ZY1Z8Up-DMo7sauaMnio3MBpVuqkX9ldSweeRFupuDnlqXZ5QMg2-J9wWAfDN0uFZw--BoTII)\
+The question mark icon can be seen in the search bar when the Segments Panel UI is selected. Selecting this will open the prompts library.
 
+<figure><img src="https://lh7-us.googleusercontent.com/p1fFglltN-otVqpRqdvcouot-PSfOsI5x_yh3Pz9ez9MWbUDXjRZjuL0FDGG88b0HQmDTo9OC9WHi0ZY1Z8Up-DMo7sauaMnio3MBpVuqkX9ldSweeRFupuDnlqXZ5QMg2-J9wWAfDN0uFZw--BoTII" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://lh7-us.googleusercontent.com/B4voYQZriQ9oUR69shxGTro6QgCgn8wQBI5b6oFC2mgLVO597zNlqixsEWoJIRU2fUfEHapNq0G6dq3gB-DoMEwYvbMzmn3uuiRxwbI7w3tFZX6UQGszlK80yj4DR908lP4rDY2TinSWyArkUJjHCik" alt=""><figcaption></figcaption></figure>
 
 The table icon can be seen to the left of the search bar when the Flow UI is selected. Selecting this will open the prompts library.\
-\
-\
-![](https://lh7-us.googleusercontent.com/B4voYQZriQ9oUR69shxGTro6QgCgn8wQBI5b6oFC2mgLVO597zNlqixsEWoJIRU2fUfEHapNq0G6dq3gB-DoMEwYvbMzmn3uuiRxwbI7w3tFZX6UQGszlK80yj4DR908lP4rDY2TinSWyArkUJjHCik)\
-\
-\
-![](https://lh7-us.googleusercontent.com/Nm9dHGD9kNjTb-WLzWwv\_LF5r67PBKiHnlTHA6IUPONp8r9AsYB3Uahe2Vnc5TKNrByQhu\_EISZqk8uJC759VCkPXvePtAq7HFNe\_SRp5ghuWoYUdB1g9teJGuySJcTpfScsPqz\_KjtZcvksmrSDp44)\
 
+
+<figure><img src="https://lh7-us.googleusercontent.com/Nm9dHGD9kNjTb-WLzWwv_LF5r67PBKiHnlTHA6IUPONp8r9AsYB3Uahe2Vnc5TKNrByQhu_EISZqk8uJC759VCkPXvePtAq7HFNe_SRp5ghuWoYUdB1g9teJGuySJcTpfScsPqz_KjtZcvksmrSDp44" alt=""><figcaption></figcaption></figure>
 
 Above is an example of a prompts library once opened.&#x20;
 
-\
-\
-![](https://lh7-us.googleusercontent.com/81YLqjKK6SCjBkluEJpOjhj6GlZ2uOlcc2mRnu6EKtjzoiehsO5-p-N\_OPri2OIETUBMU9y9Wl5cSBm8u-NoTw04YRmB3ty5n33JEbvOtiKZEk4evgoeYlE6vDmC3GmvfHtX5a0wBYzwNqH39RVYe1g)\
+<figure><img src="https://lh7-us.googleusercontent.com/81YLqjKK6SCjBkluEJpOjhj6GlZ2uOlcc2mRnu6EKtjzoiehsO5-p-N_OPri2OIETUBMU9y9Wl5cSBm8u-NoTw04YRmB3ty5n33JEbvOtiKZEk4evgoeYlE6vDmC3GmvfHtX5a0wBYzwNqH39RVYe1g" alt=""><figcaption></figcaption></figure>
+
 
 
 **Tips when configuring Prompts in your application.**
