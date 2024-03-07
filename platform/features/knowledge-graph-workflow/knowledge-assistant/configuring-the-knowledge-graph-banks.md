@@ -1,14 +1,14 @@
 ---
-description: How to use and configure the Knowledge Graph Banks for your end-users.
+description: How to use and configure the Knowledge Banks for your end-users.
 ---
 
-# Configuring the Knowledge Graph Banks
+# Configuring the Knowledge Banks
 
-The Knowledge Graph Banks are the section in which your content is stored and filed. The end-user would never know they were accessing particular banks of content but for the admin, it is a way of separating content. In the future, this may be how content is permissioned to specific users, so we would recommend thinking of the banks as perhaps free vs paid for content. There is no limit on the amount of content you can upload to one bank, initially, we recommend keeping fewer banks, each with lots of rich content. The content here is what the Knowledge Assistant will use to ‘learn’ from in order to deliver accurate and informative answers for your end users.
+The Knowledge Banks are the section in which your content is stored and filed. The end-user would never know they were accessing particular banks of content but for the admin, it is a way of separating content. In the future, this may be how content is permissioned to specific users, so we would recommend thinking of the banks as perhaps free vs paid for content. There is no limit on the amount of content you can upload to one bank, initially, we recommend keeping fewer banks, each with lots of rich content. The content here is what the Knowledge Assistant and agents will use to ‘learn’ from in order to deliver accurate and informative answers for your end users.
 
-**How to Configure the Knowledge Graph Banks**
+**How to Configure the Knowledge Banks**
 
-Under the Manage tab of the left-hand navigation bar, go to the Knowledge Graph section, here you will be able to configure the Banks for the Learning Assistant.
+Under the Manage tab of the left-hand navigation bar, go to the Knowledge section, here you will be able to configure the Banks for the Learning Assistant.
 
 
 
@@ -35,6 +35,8 @@ Click on the three dots in the right-hand corner and select **Edit**. Here you c
 The **Metadata** area is pre-populated but is editable, this is the information the language model will use to understand the file context. This is not viewable by end-users.
 
 The **Transcription** tab shows the text directly extracted from the content you have uploaded.
+
+
 
 **Configuring Segments**
 
@@ -66,7 +68,7 @@ If you find the transcription consistently gets a word incorrect, you can use th
 
 ![](https://lh6.googleusercontent.com/Cyh-Pu-6AtHFOWFkK90exmoJgVU-3NV8KvNuNI9kgd212-4gxHM79mD9PPVKYd0-AoT-BHQUkIDd2-1n28b1odP5u1mgwobtNSb\_sOMtQG85M0W-jJnRVWwbI41vtheuvYu\_6Hm\_r841yq84I8qe2UI)
 
-Once you are happy with the transcription, segments and speakers, click back to your list of content inside the bank. You can now start publishing these pieces of content to the **Knowledge Graph** workflow for end-users to instantly engage with.
+Once you are happy with the transcription, segments and speakers, click back to your list of content inside the bank. You can now start publishing these pieces of content to the **Knowledge** workflow for end-users to instantly engage with.
 
 **Publishing Content**
 
@@ -80,7 +82,33 @@ Once **Published** you will see the green tick appear in the left-hand corner.
 
 ![](https://lh3.googleusercontent.com/xt9w\_fgr9BnG2Bn5EGcKSQP4TLmr9OXTgAzOk9gIjDYzH77LRra0EI93nRF4D48toVMeY17HZCOjdHEYBBMkuZuhexTRdRPZIA5EVzdfKSVNEUAWijX2\_gCk1KWr2D7ObBylQODPM8W77vVW\_Xroo9o)
 
-If you go back to the **Knowledge Graph** area, out of the **Bank**, you can see more tabs along the top.
+Within the selected knowledge bank, there are two additional tab headings: Bias and Access Management.&#x20;
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-03-07 at 16.17.00.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-03-07 at 16.22.33.png" alt=""><figcaption></figcaption></figure>
+
+The Access Management tab allows you to choosee which of your accounts have access to the selected Knowledge bank.&#x20;
+
+The Knowledge bank can either be configured with open access - where all application members are able to view and search published content, including users who are members of any account; or restricted access, where only members of selected accounts are able to view and search published content in the knowledge bank.&#x20;
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-03-07 at 16.22.40.png" alt=""><figcaption></figcaption></figure>
+
+To set up restricted access banks, select the 'restricted access' button and click save.&#x20;
+
+Next, you can select from your list of accounts below, the ones you wish to have access to the selected Knowledge bank. To do this, toggle on the button next to the account you wish to grant access to the bank, and click save.&#x20;
+
+
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-03-07 at 16.40.47.png" alt=""><figcaption></figcaption></figure>
+
+You can additionally grant access to all of you accounts in one go by selecting the 'grant access to all' button, or revoke access for all accounts in one go by selecting the 'revoke access for all' button.
+
+The type of bank configured is visible in your administration portal above the Knowledge bank name.&#x20;
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-03-07 at 16.45.06.png" alt=""><figcaption></figcaption></figure>
+
+_**Please note:**_ The default Knowledge bank in your application will always be an 'open access content bank'.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-10 at 15.15.34.png" alt=""><figcaption></figcaption></figure>
 
@@ -94,15 +122,35 @@ Within the list of speakers, you can edit their profile by selecting the three d
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-10 at 15.23.36.png" alt="" width="375"><figcaption></figcaption></figure>
 
-You can add their Profile URL (LinkedIn, social or other website url for this person). When the Flow UI is selected as the Chat UI style (in Configure > Knowledge Graph > Chat UI style) at the front end people will be related to the suggested content segments and will link to any associated Profile URLs.
+You can add their Profile URL (LinkedIn, social or other website url for this person). When the Flow UI is selected as the Chat UI style (in Configure > Knowledge > Chat UI style) at the front end people will be related to the suggested content segments and will link to any associated Profile URLs.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-10 at 15.27.21.png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-The **Discover** tab will show you how the Content Discovery feature will look to end-users, so you can test it on the admin side. _Please note Trending, Continue and Bookmarks have not been developed yet._
+**The Prompt Collections tab**&#x20;
+
+Your prompt collection can be configured under the Prompt Collections tab. For more information about setting up your prompt collection, please see the "prompts" article.&#x20;
+
+
+
+**The Discover tab**
+
+The **Discover** tab will show you how the Content Discovery feature will look to end-users, so you can test it on the admin side.&#x20;
+
+
+
+**The Assistant Tab**
 
 The **Assistant** tab will show you how the Knowledge Assistant feature will look to end-users, so you can test it on the admin side. Ask questions and engage with the segments to get a feel for the users’ experience.
 
-Finally, the Labels tab enables the configuration of labels, these can be added to help organise your content for your end-users. To find out more about setting up labels, please read our article on Setting up Content Discovery carousels [here.](../content-discovery/setting-up-content-discovery-carousels.md)
+The Labels heading enables the configuration of labels, these can be added to help organise your content for your end-users. To find out more about setting up labels, please read our article on Setting up Content Discovery carousels [here.](../content-discovery/setting-up-content-discovery-carousels.md)
+
+
+
+
+
+
+
+
 
