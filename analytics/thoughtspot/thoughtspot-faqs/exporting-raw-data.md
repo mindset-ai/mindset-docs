@@ -7,7 +7,9 @@ description: How to export raw data from ThoughtSpot
 Exploring your raw data in ThoughtSpot allows you to add and edit filters and columns, as well as comparing your own values.
 
 \
-In order to explore your raw data, simply select the tile in ThoughtSpot that you want to explore, and select the ‘Explore’ button in the top right corner.![](https://lh7-us.googleusercontent.com/gSkMyGo-ccKESPr1X\_FeZG05XbOP5pke2bmjoIVGclksLXudvGeVTmROKYJnfaYGxzTEGxhRcwenhtQTVZKY44c4kZn3bg\_XdsrlMS7JLu\_M0mlgooG9pIFZ-mcF3lU51BdkjOuH6WW7I7YbxTNNuFA)
+In order to explore your raw data, simply select the tile in ThoughtSpot that you want to explore, and select the ‘Explore’ button in the top right corner.
+
+<figure><img src="https://lh7-us.googleusercontent.com/gSkMyGo-ccKESPr1X_FeZG05XbOP5pke2bmjoIVGclksLXudvGeVTmROKYJnfaYGxzTEGxhRcwenhtQTVZKY44c4kZn3bg_XdsrlMS7JLu_M0mlgooG9pIFZ-mcF3lU51BdkjOuH6WW7I7YbxTNNuFA" alt="" width="375"><figcaption></figcaption></figure>
 
 Once you have selected ‘Explore’, you will then be able to view your data visualisation along with a right-hand navigation bar which will allow you to edit this data.&#x20;
 
@@ -17,9 +19,11 @@ ThoughtSpot identifies search columns (sales, customer\_name, total\_sale) as ei
 
 \
 The columns you choose impact your search results. That’s because several chart types expect that your search contains a certain number of attributes and a certain number of measures.\
-![](https://lh7-us.googleusercontent.com/2BWeXM6iNcYfGmw\_NnLCnIjhz7XJudEF1X-Eo2t1YByLehxFdHgVl4WwBJVDHXnIIBT74y6V5Ul1EF8ZzPUucgjoAEemAPD\_E4v7\_Oha-xR9NIYUsred1jAiojvtPsMlJA\_WnzREHgTyNg-z6h3buwg)\
+\
 \
 You can first do this by adding your own filter to the data. Example filters you can add here include app or account name, or user email domain.
+
+<figure><img src="https://lh7-us.googleusercontent.com/2BWeXM6iNcYfGmw_NnLCnIjhz7XJudEF1X-Eo2t1YByLehxFdHgVl4WwBJVDHXnIIBT74y6V5Ul1EF8ZzPUucgjoAEemAPD_E4v7_Oha-xR9NIYUsred1jAiojvtPsMlJA_WnzREHgTyNg-z6h3buwg" alt="" width="375"><figcaption></figcaption></figure>
 
 ![](https://lh7-us.googleusercontent.com/mgUQpPlcGMck0lPGo0Fuw4\_Zr6kUPVAuPPf7kKaA9ZTGyRteJhpkPShZZM-QErZLpt8JGIYGwaa\_AuwF5ZhchRxA2GyrECBuiPGHmMr578Yzqd5jvqr8PDri4mB-eSAIvEyHlV62SOey4snLIc0WirY)![](https://lh7-us.googleusercontent.com/vxM2Nz92u5pBFHDoGtqk5PV3Z4VNpFdzSebxLluhukYOazNrXkEZ7WXeeQpgAKUCLD0727cp8P68Iou4PrheSTmk6HUUSJ4VlKpE\_qj16CHqOMs6rEuL-OLqnKAbzBgRZ9Nv488rtfcsi1DGyk3KOL0)
 
@@ -41,11 +45,12 @@ You can alternatively add a measure, measures are numeric values you can do math
 Therefore, with these measures and attributes above, the visualisation would be: Number of users in each account.
 
 \
-\
-![](https://lh7-us.googleusercontent.com/H2uByWqApkMes4k63vrr9HeDPViQBkqAX2u0IUPLRcOF5jPRsqtpog0c2otMT7e4Vh1i-XZCl0n894RMNks6u8CHtb\_PSQ25AwTFL3Yq-oIo1n1Me0Q1mCZp6Ich03M-UZnSLcz9OC5qDUADuH80OH0)\
-\
 In addition to adding new columns, you can also replace existing columns under the ‘Replace’ subheading.&#x20;
 
-Finally, you can compare your own values under the ‘Compare’ subheading.![](https://lh7-us.googleusercontent.com/kaJ0-BU2E5VWu6A0zey7dkbK0pMG\_N-SV1tg3rK5NZKMNvTOje8FsLaVcwvcAVSeYgQHJrLzhNmpqjMojd4oz9UXQay3IGwSKMGJZmMQ2BAo8gMmJW9mT4N3ZvL4gYH18-hKfVnZNAxlsdvSpk7G\_lU)
+<figure><img src="https://lh7-us.googleusercontent.com/H2uByWqApkMes4k63vrr9HeDPViQBkqAX2u0IUPLRcOF5jPRsqtpog0c2otMT7e4Vh1i-XZCl0n894RMNks6u8CHtb_PSQ25AwTFL3Yq-oIo1n1Me0Q1mCZp6Ich03M-UZnSLcz9OC5qDUADuH80OH0" alt="" width="375"><figcaption></figcaption></figure>
 
-\
+Finally, you can compare your own values under the ‘Compare’ subheading.
+
+<figure><img src="https://lh7-us.googleusercontent.com/kaJ0-BU2E5VWu6A0zey7dkbK0pMG_N-SV1tg3rK5NZKMNvTOje8FsLaVcwvcAVSeYgQHJrLzhNmpqjMojd4oz9UXQay3IGwSKMGJZmMQ2BAo8gMmJW9mT4N3ZvL4gYH18-hKfVnZNAxlsdvSpk7G_lU" alt="" width="375"><figcaption></figcaption></figure>
+
+If you require any additional assistance with understanding this, please reach out to a member of the Mindset AI Customer Success team.\
