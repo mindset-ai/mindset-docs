@@ -4,7 +4,7 @@ description: >-
   your application.
 ---
 
-# What is ThoughtSpot?
+# ThoughtSpot
 
 **What is ThoughtSpot?**
 
@@ -36,4 +36,4 @@ Next, once you are in the selected report, again go to the top right corner and 
 
 &#x20;![](https://lh7-us.googleusercontent.com/s1rQDa4SGN6fz6QDo4Z6fDpIJlMjB56m1JWuMjeeMqtX8CConhU8nNosYRzKIj1rX7f2kw4bWzoaW4b\_cVqawXxzn0Mc9ix-MT2xrn8EctTIZnOJdbrd6SF-1Xz3iCI0EN-vrrqBEO\_2CvrFHv5w25k)
 
-\
+If you require any additional assistance with understanding how to share your data, please reach out to a member of the Mindset AI Customer Success team.\
