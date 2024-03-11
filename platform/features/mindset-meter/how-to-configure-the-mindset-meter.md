@@ -4,25 +4,11 @@ description: Learn how to set up and configure the Mindset meter inside your app
 
 # How to configure the Mindset Meter
 
-Mindset Meter is a workflow feature that allows you to understand your team in a better way by utilising pre-set surveys.  These pre-set surveys have multiple aspects to it that allow you to ask different kinds of questions to your end-users and understand them and their needs better.&#x20;
-
-#### Setting up the Mindset Meter workflow
-
-Before you get started, it is important to note that turning the Mindset Meter workflow on makes it live for the end-users even if it isn’t configured yet. To prevent any inconsistencies, always ensure that you test-configure your app’s Mindset Meter in INT (int.yourapp) before the PROD (live app).&#x20;
-
-
-
-Firstly, on your App Configuration page, go to App Settings and select the Workflows tab.&#x20;
-
-<figure><img src="https://lh7-us.googleusercontent.com/3itsH9D_CLfVH9DNmWkKZl9xv0AE5ybSDrTOfkjBO7vG21sApTQbXQ83dZAE8KSbUSIeV3l6XHuDbAUnyUtiWQO57HKO5QobdXjl6mEipuilvsRasu6sZZyx1whfhS9avn9l9e55DGl_Wdu3mz7uT60" alt=""><figcaption></figcaption></figure>
-
-Next, scroll down to find the Mindset Meter toggle switch and turn it on
-
-<figure><img src="https://lh7-us.googleusercontent.com/9Et0j2lVLd8YiJhZcDyj5aeyien1e3WSVu2FpK6fZ5FT7-S320TaKvGaM_u7NVOu6N3QfSun4lkleVxxjxJWJgiw9DJVJbNjdx4lcrD8ye5KD46cFAvPzLtBK5KAIj-oyQeXgjmujYuSR_dONQcWmYw" alt=""><figcaption></figcaption></figure>
+The Mindset Meter is a workflow that allows you to understand your team in a better way by utilising pre-set surveys.  These pre-set surveys have multiple aspects to it that allow you to ask different kinds of questions to your end-users and understand them and their needs better.&#x20;
 
 #### Configuring the Mindset Meter workflow
 
-The process of  configuring the Mindset Meter for your app can be quite overwhelming. Follow the below step-by-step guide to get you started with the configuration and reach out to Customer Success if you need any support. &#x20;
+The process of  configuring the Mindset Meter for your app can be overwhelming. Follow the below step-by-step guide to get you started with the configuration and reach out to the Mindset AI Customer Success team if you need any support. &#x20;
 
 There are seven tabs within the Mindset Meter that help you create an engaging experience for your team.&#x20;
 
@@ -42,29 +28,31 @@ These cards can be designed and personalised with different text, background, co
 
 
 
-1. Initial home page card – This card allows you to create an engaging experience to launch the check-in session.
+1. **Initial home page card –** This card allows you to create an engaging experience to launch the check-in session.
 
-<figure><img src="https://lh7-us.googleusercontent.com/pxWvpy9LeJf1U3sjgeicNPE-7-ADCtlJ09AuQvcv4kXUoP1AUSQhNKVWqpkwEjHx49He89z5HU5xO6K1gvpXYnfDX7xiwHoJfn24Jqyy2Z1lSewlu7pI3a4hC7dSEavV7oaAOWgFw1Lni1p2-SowY_c" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 12.34.08.png" alt=""><figcaption></figcaption></figure>
 
-2. Check-in complete card – With this card, you can configure what to display after the user checks in. This card also allows users to review their history through Stored Check-ins. &#x20;
+2. **Check-in complete card –** With this card, you can configure what to display after the user checks in. This card also allows users to review their history through Stored Check-ins. &#x20;
 
-<figure><img src="https://lh7-us.googleusercontent.com/fnMZncvOOLKXTG6XX4UB7eEZSAgjalURMptpHlS8uqtHiKsFDMtUu3xb2SzYSiujNnF8YgDA-uq3DJqV-2R_5jJK_yy4hyf2mTGLRJ7p1rNgfi9HW15QXlr8nAZNYfYUvAGxEgzHwAaKFlF6i5-dN6g" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 12.41.56.png" alt=""><figcaption></figcaption></figure>
 
-3. Check-in reminder card – This card provides the option to remind users to check in. You can choose to toggle this on or off, set a unique card, or simply copy the first one.&#x20;
+2. **Check-in reminder card –** This card provides the option to remind users to check in. You can choose to toggle this on or off, set a unique card, or simply copy the first one.&#x20;
 
-<figure><img src="https://lh7-us.googleusercontent.com/J7aQQO8GE67EXUeMMVyQOqNNqnNzqPKN5I9-uiauUCal7-idtl_6RzAxrS6Q9XtlbdQPI_AB5BdkcKbXqj0zocz0Q2cTfv7WrG4Muw8LkIkORM8Zj6st2mqNSntKTWyz-D1-qPDomDACw906N9mtTyI" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 12.41.48.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Intro step
 
 The intro step is displayed only to the first time Mindset Meter users. You can use this space to explain the journey you’re about to take them on, its value, and the purpose of checking in. This provides an opportunity to sell this feature.&#x20;
 
-<figure><img src="https://lh7-us.googleusercontent.com/CkGCWOMB_BD-EeMVKFrAdBT4sgYF16lWtZx_K6eLWRLmrwMiNocx8UMwe9aVAvGXv-eXoC1beX8xr5As2F8boU0Vf-sV-GMjyBf3b0Wf66GePGd6BEVkq7_D-uhI6F7HIynAS_FVEaff9rX1rF6l2x4" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 12.44.18.png" alt=""><figcaption></figcaption></figure>
 
 You can include a video from YouTube, Vimeo or any other link to make the Mindset Meter more exciting and include the text you’d want them to read and rename the continue button if you want to.&#x20;
 
 #### 3. Survey questions
 
-<figure><img src="https://lh7-us.googleusercontent.com/NWSvkZuT50MOknANgy5KEdsrwtj8GpPPVUlwnFKXkrkf7P0vtBhIHlE8Jv-jUdvZkxroW-05Gee5xNnExvWxLgxAI_XlwmIb60nlxdE98CYQuwdYZi1cp0eV4CQ_x4niW1Wc6aeVskslHAbBJ_tqBYo" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 12.46.26.png" alt=""><figcaption></figcaption></figure>
 
 You can enhance the check-in experience by adding Survey Questions through this tab. There are three pre-set types of questions:&#x20;
 
@@ -78,57 +66,64 @@ It is mandatory to include either the filter wheel question or the sliding scale
 
 #### 4. Results Handling
 
-After constructing your survey questions, you can use this area to configure which questions populate each part of the user’s check-in session. For instance, the twelve options (icons) incorporated in the filter wheel can be configured to include further branching questions to offer a unique experience, therefore achieving your Mindset Meter’s goal.&#x20;
+After constructing your survey questions, you can use the Results Handling area to configure which questions populate each part of the user’s check-in session. For instance, the twelve options (icons) incorporated in the filter wheel can be configured to include further branching questions to offer a unique experience, therefore achieving your Mindset Meter’s goal.&#x20;
 
-<figure><img src="https://lh7-us.googleusercontent.com/ENvKuPp0d0GGhFMOKHn3I-UE7nquOZkAi-8TdpbG1IsS0Rr03rjEfhW8GpAR7CvNhg0nDUl_Je_S0nXZCVy5pLcKu_EAWcDJoltRjib5o9YnKxaavouVKDcty1GOuvRVfyLOmx7Gum1NtnuHw_xV_WM" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 12.52.30.png" alt=""><figcaption></figcaption></figure>
 
 This area also allows you to:&#x20;
 
 * Identify the most important ranking in each key survey question because the end goal is to help users reach the best state – which corresponds to the most important ranking.
 * Assign a question for each of the Results Configuration cards:&#x20;
-*
-  * Check-in display details – a summary card available in the final stage of the check-in, in the history, and in the check-in complete home page.
-  * Check-in state – the general state or most dominant feeling the user is recording.&#x20;
-  * Trigger reasons – why did the user check in as such? What is the main reason why they feel the way they do?&#x20;
+* Check-in display details – a summary card available in the final stage of the check-in, in the history, and in the check-in complete home page.
+* Check-in state – the general state or most dominant feeling the user is recording.&#x20;
+* Trigger reasons – why did the user check in as such? What is the main reason why they feel the way they do?&#x20;
 
 The results are stored so that the user can track their progress and review previously reported check-ins from their profile screen.
 
 #### 5. Journaling
 
-Personal journaling
+**Personal journaling**
 
 Under personal journaling, users can reflect on their check-in and take private notes to view later. These notes can only be viewed by the end-user.&#x20;
 
-<figure><img src="https://lh7-us.googleusercontent.com/tXeT9CJL0aYa_sQDq70TgkO2cRKG5ZJblfHoD_rWxH88KdVHmt_uiUmsSETv8fsLAw0qP6IRjOUH5VyTcFPFSTgazhE8nJ-e9nllqtTePG2-9Cc00X0jut4aaoDDrGcpEzIdWhuN200FA2Q6-1TNWyA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 12.54.59.png" alt=""><figcaption></figcaption></figure>
 
 You can personalise the heading, guide text, hint text, and action button for the unique purpose of your app. Use this area to also reassure users that these notes will never be shared with their employers or the app admins by leaving a short data safety message.
 
-Account journaling
+**Account journaling**
 
 This option allows users to leave anonymous feedback for their employer (through the app or account reporting). &#x20;
 
-<figure><img src="https://lh7-us.googleusercontent.com/vvC34VNCrHAM4hFjGv6UEYDB2YPOt3Rwx20p7AXbHsV7sYsMjlyyJv7QozexiyqyxDSExIxBvdmKluk4SJvA-WcBbZLPmpwiaREMffqv1VH7er_NhNHY6mLHC2gGNrAZ1qXMQ4gE8bJxroFA79ARUko" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 12.56.08.png" alt=""><figcaption></figcaption></figure>
+
+
 
 You can choose to either enable or disable this part.&#x20;
 
 #### 6. History
 
-As mentioned above, users will be able to access their check-in history from their profile page. You therefore need to configure this page and make it appealing using content that guarantees users remain engaged. \
+As mentioned above, users will be able to access their check-in history from their profile page. You therefore need to configure this page and make it appealing using content that guarantees users remain engaged.&#x20;
+
+The check-in history card heading and body text can be configured, along with adding in a check-in history card image. \
 
 
-<figure><img src="https://lh7-us.googleusercontent.com/UcJcPKuG0X0BeVArp0bpXsZ__AY5i-D6BmT2IIyGLVOKzPbzhfiesnuxx6vcvezF_ic-iWRulg8LqWA4NljzLeqpgk4qOTKRYyvQ0tOrHCO4-F9k-Q9cTDh01sWqw03wXgD3IL6Fy3oyr3KB9yRuadw" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 12.57.09.png" alt=""><figcaption></figcaption></figure>
 
+Next, the check-in history page configuration can be created. This is the section where users can review their past check-in details. &#x20;
 
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 12.57.17.png" alt=""><figcaption></figcaption></figure>
+
+Finally, the 'empty state for no check-ins on the current day' text can be configured. This is relevant if end-users have not checked in yet on the current day, this is what they will see displayed in their history. Here, the empty state title and body text can be added.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 12.57.21 (1).png" alt=""><figcaption></figcaption></figure>
 
 The history page is important for tracking progress and achieving your app’s goals.
-
-Remember to click on the Save button at the top right corner of the application.&#x20;
 
 #### 7. Weekly Insights
 
 Here you can turn on the weekly insights report, which will be served to users once a week with a summary of their check-ins.
 
-![](https://lh7-us.googleusercontent.com/BjMco9QfEoLKCamlNDHsALKvI9HPEOIqlwwc-EpIgpgkfHxPce2pji9MZHeJnd6XR0No3bLxXpMYsRVIFiVwcqBDNPsdmmdh6sfaTb1NLHoRs8arvUo3qPYHjs\_8HgZOEXZL4SCIQHasGSTotvJtzYQ)
+<figure><img src="https://lh7-us.googleusercontent.com/BjMco9QfEoLKCamlNDHsALKvI9HPEOIqlwwc-EpIgpgkfHxPce2pji9MZHeJnd6XR0No3bLxXpMYsRVIFiVwcqBDNPsdmmdh6sfaTb1NLHoRs8arvUo3qPYHjs_8HgZOEXZL4SCIQHasGSTotvJtzYQ" alt=""><figcaption></figcaption></figure>
 
 You can configure the minimum amount of check-ins used to pull their weekly summary, we recommend at least 3 to get a good, valuable report. You can also choose the day in which the user is served their report as well as the delivery time. On the right hand side you can see a preview of what this could look like to the user in the application.
 
@@ -138,13 +133,15 @@ You can also configure the awaiting weekly report state and no weekly report ava
 
 Next, add in a home screen card. This is the card that will be displayed to end-users on their application home screen once their weekly report is ready. The heading text, text colour, and text area background colour can all be configured here. An image in an SVG, JPG, or PNG format can also be added. Please note, images should be at 13:5 to display correctly, and should not exceed 0.3MB in size.
 
-&#x20;![](https://lh7-us.googleusercontent.com/a\_uVFAah7vOGxMMDqLcTWN8a2TxG3IDBAUT0XYxj45NVDux0Bk8lYYSwd5Ow1KQq54Zpzrg5O9d0QL\_q7Bjm79I-PVVN-caszgR\_MEi5U-bMCjWx8Cp3yN3HcrIZ6UYWo-ucqZMCNcIGH\_RFYIVaBEs)
+&#x20;
+
+<figure><img src="https://lh7-us.googleusercontent.com/a_uVFAah7vOGxMMDqLcTWN8a2TxG3IDBAUT0XYxj45NVDux0Bk8lYYSwd5Ow1KQq54Zpzrg5O9d0QL_q7Bjm79I-PVVN-caszgR_MEi5U-bMCjWx8Cp3yN3HcrIZ6UYWo-ucqZMCNcIGH_RFYIVaBEs" alt=""><figcaption></figcaption></figure>
 
 
 
-Once you have configured your weekly insights home screen card, the body text for the check-in history card state when weekly insights are ready can also be configured. This is the text that end-users will see once their weekly insights become available. ![](https://lh7-us.googleusercontent.com/pb7qtadTn7ZMKQCkKdb3VyCARZQJLzfYeqDcGArwTEgvOburK02EXi26gT-g-OduOuHPTqIg6SGM2kOAZdRGArlKSKkpSP6aj\_Agefy58DyzlG9zzyHXCxyHRy0\_-zw6LIUCxY3nyF1rEYhDDoPtvy0)
+Once you have configured your weekly insights home screen card, the body text for the check-in history card state when weekly insights are ready can also be configured. This is the text that end-users will see once their weekly insights become available.&#x20;
 
-
+<figure><img src="https://lh7-us.googleusercontent.com/pb7qtadTn7ZMKQCkKdb3VyCARZQJLzfYeqDcGArwTEgvOburK02EXi26gT-g-OduOuHPTqIg6SGM2kOAZdRGArlKSKkpSP6aj_Agefy58DyzlG9zzyHXCxyHRy0_-zw6LIUCxY3nyF1rEYhDDoPtvy0" alt=""><figcaption></figcaption></figure>
 
 Next, the Frequency Data Tiles can be created. These display detailed insights to end-users about their previous check-ins. This includes their total number of check-ins from the specified week, their average number of check-ins per day, and their average recorded score from that week.&#x20;
 
@@ -175,7 +172,9 @@ Here, the highest and lowest daily and weekly check-in information can be previe
 
 <figure><img src="https://lh7-us.googleusercontent.com/RZoK5wzTXy4VO-2Y9gS_geG_AAgeJMRS0l5akTtBks8f-BX_yruQEuK6P88F5skp_vUR2a4BSpdOK9Ug_zLu2kQw5EZBvOytMAXRFEJBZSb2WgL8-hab9OUfQVQWiPYNAchXLmzs5bubblCpqaxpKz8" alt=""><figcaption></figcaption></figure>
 
-Next, you can configure your Check-in Summaries. This will display to end-users their most frequent daily and weekly check-in state. In addition to their most frequent check-in, you can also choose whether to present the most frequently selected trigger reasons for end-users to reflect on. The titles for the check-in summaries can also be configured here. ![](https://lh7-us.googleusercontent.com/yXoVXq6wsI5W4Y2\_B4QLskLQYp9MpiOt2LVjDSpXACBO7LrOiyYgyRH197okekhC1Elz6T7O-nhRJIA8LP8i2uFfW6OJJtXszbDFQE6SivHnSfJh4cryZRb2PvHeheoSypTt6vFR15bIUC50LUQo3fc)
+Next, you can configure your Check-in Summaries. This will display to end-users their most frequent daily and weekly check-in state. In addition to their most frequent check-in, you can also choose whether to present the most frequently selected trigger reasons for end-users to reflect on. The titles for the check-in summaries can also be configured here.&#x20;
+
+<figure><img src="https://lh7-us.googleusercontent.com/yXoVXq6wsI5W4Y2_B4QLskLQYp9MpiOt2LVjDSpXACBO7LrOiyYgyRH197okekhC1Elz6T7O-nhRJIA8LP8i2uFfW6OJJtXszbDFQE6SivHnSfJh4cryZRb2PvHeheoSypTt6vFR15bIUC50LUQo3fc" alt=""><figcaption></figcaption></figure>
 
 The Average Score Chart can be used to show end users their daily and weekly average mood score chart. Please note that in order to have this average score chart previewed, the sliding scale Mindset Meter question type must be configured.
 
