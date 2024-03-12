@@ -13,7 +13,7 @@ Go to **Configure > Content Feed** on the left hand navigation. Under the G**ene
 
 <figure><img src="https://lh7-us.googleusercontent.com/TW69rcRUFP9-344q9uc6_POcV6ZG3s-oH-STOXR94G8ApW5J9mUkeyMY6JqB17k3z8IQp5HkCqVHrNApfILrf0ERkpMlxkZHDo6U8ZeXt04J53GwLugeyhJOjbZL6Okas1GGmR_qZPkyJbrjPqcaWos" alt=""><figcaption></figcaption></figure>
 
-Net select the **Content feeds tab** to start creating a content feed. Select the **add content feed** button, then you can upload your image and give the feed a name. You also have the option to **Allow reply in user to admin chat**, this toggle allows users to share content items into chat channels which can be useful when sharing content or asking questions.\
+Next, select the **Content feeds tab** to start creating a content feed. Select the **add content feed** button, then you can upload your image and give the feed a name. You also have the option to **Allow reply in user to admin chat**, this toggle allows users to share content items into chat channels which can be useful when sharing content or asking questions.\
 
 
 <figure><img src="https://lh7-us.googleusercontent.com/RZxK7zLdG7lHqSKUPDa7INC7KsB4ymiSZqt_K8NcvX4p_JZVy5vw6br-wWKd1KRUQgDYczMf8b-WIASYLxtHxGogNN-pQYsdnqtJhPBFuzB9CMxaggF_oub3fZwZCIQhqP61ej3uExvN4RsSRLpDLFw" alt=""><figcaption></figcaption></figure>
