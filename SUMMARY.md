@@ -49,7 +49,6 @@
     * [What are Capabilities and how do they add value?](platform/features/agents/what-are-capabilities-and-how-do-they-add-value.md)
     * [How to configure Capabilities](platform/features/agents/how-to-configure-capabilities.md)
     * [Capabilities Best Practices](platform/features/agents/capabilities-best-practices.md)
-  * [Page](platform/features/page.md)
   * [Facilitation](platform/features/facilitation/README.md)
     * [Configuring Facilitations](platform/features/facilitation/configuring-your-facilitation.md)
     * [How to configure community Chat inside Facilitations](platform/features/facilitation/how-to-configure-community-chat-inside-facilitations.md)
