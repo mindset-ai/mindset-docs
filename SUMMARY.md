@@ -40,6 +40,7 @@
       * [How to Successfully Process PDF Files in your Knowledge Graph Workflow](platform/features/knowledge-graph-workflow/knowledge-assistant/how-to-successfully-process-pdf-files-in-your-knowledge-graph-workflow.md)
     * [Events](platform/features/knowledge-graph-workflow/events.md)
     * [Prompts](platform/features/knowledge-graph-workflow/prompts.md)
+    * [Prompts Best Practices](platform/features/knowledge-graph-workflow/prompts-best-practices.md)
   * [Agents](platform/features/agents/README.md)
     * [How to Create Agents](platform/features/agents/how-to-create-agents.md)
     * [How to configure Agents](platform/features/agents/configuration.md)
