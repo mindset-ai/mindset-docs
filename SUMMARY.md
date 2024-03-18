@@ -69,6 +69,10 @@
     * [Journey best practices](platform/features/journeys/journey-best-practices.md)
     * [Selecting and formatting your Journey images](platform/features/journeys/selecting-and-formatting-your-journey-images.md)
   * [Roles](platform/features/roles.md)
+  * [Tags](platform/features/tags/README.md)
+    * [General Tags](platform/features/tags/general-tags.md)
+    * [Restrictive Tags](platform/features/tags/restrictive-tags.md)
+    * [Tags FAQ](platform/features/tags/tags-faq.md)
 * [Design](platform/design/README.md)
   * [Navigation](platform/design/navigation.md)
   * [Branding](platform/design/branding.md)
@@ -79,10 +83,6 @@
 * [Accounts](platform/accounts/README.md)
   * [How to configure Accounts](platform/accounts/how-to-configure-accounts/README.md)
     * [How to invite end-users to an Account](platform/accounts/how-to-configure-accounts/how-to-invite-end-users-to-an-account.md)
-* [Tags](platform/tags/README.md)
-  * [General Tags](platform/tags/general-tags.md)
-  * [Restrictive Tags](platform/tags/restrictive-tags.md)
-  * [Tags FAQ](platform/tags/tags-faq.md)
 * [Humans](platform/humans.md)
 
 ## Developers
