@@ -1,5 +1,7 @@
 # Authentication
 
+See also [https://docs.mindset.ai/developers/mindset-api/rest-api/api-authenticate-embedded-user](https://docs.mindset.ai/developers/mindset-api/rest-api/api-authenticate-embedded-user)
+
 ## Authentication
 
 **Overview:**
@@ -74,7 +76,7 @@ const requestBody = {
   userEmail: "user@example.com"
 };
 
-fetch('https://YOUR-MINDSET-URL/authenticate-embedded-user', {
+fetch('https://YOUR-MINDSET-URL/api-authenticate-embedded-user', {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json',

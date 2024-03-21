@@ -136,7 +136,7 @@ mindset.render({
 
 * `containerId` (String): The ID of the HTML container (usually a `div` element) where the component will be rendered. This ID should correspond to an existing element in your HTML.
 * `component` (String): The name of the component to be rendered. This name should match one of the predefined components in the Mindset SDK. See the [Components](embed-sdk.md#components) section below for all exposed components and their options.
-* `options` (Object): An mandatory configuration object containing settings specific to the rendered component. These settings can vary depending on the component. An empty object `{}` must be passed if no options are needed.
+* `options` (Object): A mandatory configuration object containing settings specific to the rendered component. These settings can vary depending on the component. An empty object `{}` must be passed if no options are needed.
   * If rendering an agent then the uid of the agent must be passed in the options as `agentUid`
 
 #### Behavior:
