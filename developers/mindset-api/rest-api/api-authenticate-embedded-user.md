@@ -1,8 +1,8 @@
-# authenticate-embedded-user
+# api-authenticate-embedded-user
 
 ## Path
 
-`/authenticate-embedded-user/v1`
+`/api-authenticate-embedded-user`
 
 ## **POST**
 

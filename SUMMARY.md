@@ -95,10 +95,16 @@
   * [iFrame Embedding](developers/embed-sdk/iframe-embedding.md)
 * [Mindset API](developers/mindset-api/README.md)
   * [gPRC API](developers/mindset-api/gprc-api.md)
-  * [REST API](developers/mindset-api/rest-api/README.md)
+  * [HTTP API](developers/mindset-api/rest-api/README.md)
     * [API Key authentication](developers/mindset-api/rest-api/api-key-authentication.md)
     * [API Servers](developers/mindset-api/rest-api/api-servers.md)
-    * [authenticate-embedded-user](developers/mindset-api/rest-api/authenticate-embedded-user.md)
+    * [api-getappuid](developers/mindset-api/rest-api/api-getappuid.md)
+    * [api-authenticate-embedded-user](developers/mindset-api/rest-api/api-authenticate-embedded-user.md)
+    * [api-humans](developers/mindset-api/rest-api/api-humans.md)
+    * [api-accounts](developers/mindset-api/rest-api/api-accounts.md)
+    * [api-accountmembership](developers/mindset-api/rest-api/api-accountmembership.md)
+    * [api-bankaccess](developers/mindset-api/rest-api/api-bankaccess.md)
+    * [api-agentaccess](developers/mindset-api/rest-api/api-agentaccess.md)
 
 ## Analytics
 
