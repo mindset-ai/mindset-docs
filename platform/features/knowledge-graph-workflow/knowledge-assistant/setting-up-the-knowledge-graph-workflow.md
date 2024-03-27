@@ -4,7 +4,7 @@ description: >-
   value to your application.
 ---
 
-# Setting up the Knowledge Graph Workflow
+# Setting up the Knowledge Workflow
 
 The Knowledge Graph workflow is designed to help you interact with your users more efficiently and effectively through the implementation of an AI-powered chatbot. This chatbot is trained on your library of content, including videos, audio, and other intellectual property (IP).  With complete control in your hands, the Knowledge Graph (KG) acts as a loyal representative of your brand, answering users' questions, and offering a hyper-personalised user experience.
 
@@ -93,7 +93,7 @@ Here you can design exactly how you would like the chat interface to look with t
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-10 at 14.50.39.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Here, you can also enable prompts. If you would like to learn more about how you can use prompts to add value to your application please see our prompts article [here](../prompts.md).
+Here, you can also enable prompts. If you would like to learn more about how you can use prompts to add value to your application please see our prompts article [here](../configuring-the-knowledge-graph-banks/prompts/).
 
 **Please note:** _The flow UI feature currently lies behind a labs switch. We do not advise you have the flow UI feature enabled currently. Please contact your Customer Success Representative for more details._&#x20;
 

@@ -7,7 +7,7 @@ Remove the knowledge assistant workflow from the Design > Navigation and Layout 
 
 For more information on Migrating from Assistants to Agents, see the link below.
 
-[knowledge-bank-entitlement.md](../knowledge-graph-workflow/knowledge-assistant/knowledge-bank-entitlement.md "mention")
+[knowledge-bank-entitlement.md](../knowledge-graph-workflow/configuring-the-knowledge-graph-banks/knowledge-bank-entitlement.md "mention")
 {% endhint %}
 
 A users access to content within a knowledge bank is managed through their entitlement to use agents. Agents can be set to "Open access" where all application users will have access to the agent and any knowledge banks the agent has access to, or can be set to "Restricted access" where only specific accounts and their members can access the agent and related content. Access to knowledge banks through the agents also controls what content users will see in the Content Discovery function of the knowledge workflow if enabled.

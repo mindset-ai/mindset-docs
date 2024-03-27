@@ -4,10 +4,8 @@ description: Learn about the Content Discovery feature in the Knowledge graph wo
 
 # Content Discovery
 
-The Content Discovery feature links to the answers provided by the Knowledge Assistant in segments. Once a segment is provided and clicked on - it takes the end user through to the content player where they can continue to jump through segments or carry on chatting to the Assistant.
+The Content Discovery feature displays content (PDF or MP3/4 files) in a carousel view. Users can engage with this content by watching, reading or asking questions to the AI Assistant.
 
-
-
-***
+Read more about the Content Discovery feature below:
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>How to set up your Content Discovery carousels</td><td></td><td><a href="setting-up-content-discovery-carousels.md">setting-up-content-discovery-carousels.md</a></td><td><a href="../../../../.gitbook/assets/Frame 1533208565 (1) (1).jpg">Frame 1533208565 (1) (1).jpg</a></td></tr><tr><td></td><td>How is the 'Trending' tab calculated? </td><td></td><td><a href="trending-tab-calculations.md">trending-tab-calculations.md</a></td><td><a href="../../../../.gitbook/assets/Frame 1533208565 (2).jpg">Frame 1533208565 (2).jpg</a></td></tr></tbody></table>
