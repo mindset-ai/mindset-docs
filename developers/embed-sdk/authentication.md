@@ -20,7 +20,7 @@ The authentication token is a critical component in this process, serving as the
 A secure server-side HTTP POST request is made to the Mindset authentication endpoint to generate the `AUTH-TOKEN-FOR-CURRENT-USER`. This process involves sending user identification details (such as email address) and your application credentials.
 
 ```
-POST https://YOUR-MINDSET-URL/authenticate-embedded-user
+POST https://MINDSET-API-HOST/api-authenticate-embedded-user
 ```
 
 #### **Authorisation Header:**
@@ -76,7 +76,7 @@ const requestBody = {
   userEmail: "user@example.com"
 };
 
-fetch('https://YOUR-MINDSET-URL/api-authenticate-embedded-user', {
+fetch('https://MINDSET-API-HOST/api-authenticate-embedded-user', {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json',
