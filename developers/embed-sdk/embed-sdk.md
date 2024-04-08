@@ -62,7 +62,7 @@ A complete HTML page integrating the Mindset SDK might look like this:
 <head>
     <script src="https://YOUR-MINDSET-URL/mindset-sdk.js"></script>
     <style>
-        .copilot-div-class {
+        .agent-div-class {
             height: 500px;
             width: 70%;
             margin-left: auto;
@@ -78,12 +78,12 @@ A complete HTML page integrating the Mindset SDK might look like this:
 
     <div id="check-sdk-div"></div>
     <hr>
-    <div id="copilot-div" class="copilot-div-class"></div>
+    <div id="agent-div" class="agent-div-class"></div>
 
     <script>
     mindset.init({ appUid: "YOUR-APPUID", authToken:"AUTH-TOKEN-FOR-CURRENT-USER" });
     mindset.render({ containerId: "check-sdk-div", component: "checkSdk", options: {} });
-    mindset.render({ containerId: "copilot-div", component: "agent", options: {"agentUid":"UID-OF-YOUR-AGENT"} });
+    mindset.render({ containerId: "agent-div", component: "agent", options: {"agentUid":"UID-OF-YOUR-AGENT"} });
     </script>    
 </body>
 </html>
