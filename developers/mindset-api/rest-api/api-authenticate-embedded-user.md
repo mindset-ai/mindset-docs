@@ -16,6 +16,16 @@ NOTE This email address is prefixed with additional identifying information , so
 
 You can also use a string that is like an email based on some othe user specific identifier meaningful to you.
 
+
+
+Optionally you can specify accounts to join the user to.\
+To do this pass an additional parameter `addToAccounts` which should be an array of objects of the form `{accountUid:"<uid-of-account-to-be-joined>"}`\
+
+
+Example body `{"userEmail":"automated_user_fred.smith@acme.com",addToAccounts:[{accountUid:"account1"},{accountUid:"account2"}]}`
+
+Users added like this will show up in the account admin members UI
+
 ### Responses
 
 #### 401 - Missing API key

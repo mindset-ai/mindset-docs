@@ -40,6 +40,9 @@ x-api-key: YOUR-API-KEY
 The body of the request should include:
 
 * `userEmail` (String): The email address of the user to authenticate.
+* `addToAccounts` (optional, array)\
+  You can specify one more accounts to automatically add this user to. This to allow embedded agent user sessions to be granted access to restricted agents.\
+  Each element of the array should be of the form `{"accountUid":"<UID-OF-ACCOUNT-TO-ADD-USER-TO"}`
 
 #### Example JSON body:
 
@@ -47,7 +50,17 @@ The body of the request should include:
 {
   "userEmail": "USER-EMAIL-ADDRESS"
 }
+
 ```
+
+```
+{
+    "userEmail":"USER-EMAIL-ADDRESS",
+    "addToAccounts":[{"accountUid":"firstaccountid1234"}
+}
+```
+
+####
 
 #### **Server-Side Authentication:**
 
