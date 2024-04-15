@@ -6,6 +6,8 @@
 
 The Mindset Embed SDK is integrated directly into your web application by including a script reference in the HTML document. This script is hosted on the server where your Mindset application resides.
 
+<figure><img src="../../.gitbook/assets/mindset-sdk-embed.png
+" alt=""><figcaption><p>Mindset embed flow</p></figcaption></figure>
 
 #### **Adding the SDK Script:**
 
