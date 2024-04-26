@@ -73,6 +73,8 @@ An example of **Process steps** for the **hunt for a policy problem** Capability
 
 Once you are happy with your process steps, select **Save**.
 
+**Please note:** capabilities cannot have only 1 step, in this instance the capabilities will not function in your agent. They require more than 1 step to work effectively.&#x20;
+
 ### Testing Capabilities 
 
 **Testing** the **Capabilities** you've configured is essential to ensure your agent is performing as expected.  To do this interact with your agent using the capabilities you've configured.  Provide it with scenarios and inputs that the capability should handle.  Carefully observe the agent's responses to ensure they align with the expected outcomes.\
