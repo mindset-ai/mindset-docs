@@ -70,7 +70,6 @@
     * [How to configure Journeys](platform/features/journeys/how-to-configure-journeys.md)
     * [Journey best practices](platform/features/journeys/journey-best-practices.md)
     * [Selecting and formatting your Journey images](platform/features/journeys/selecting-and-formatting-your-journey-images.md)
-  * [Roles](platform/features/roles.md)
   * [Tags](platform/features/tags/README.md)
     * [General Tags](platform/features/tags/general-tags.md)
     * [Restrictive Tags](platform/features/tags/restrictive-tags.md)
@@ -83,8 +82,8 @@
     * [SVG Images](platform/design/images/svg-images.md)
     * [Selecting the Right Image for your Application](platform/design/images/selecting-the-right-image-for-your-application.md)
 * [Accounts](platform/accounts/README.md)
-  * [How to configure Accounts](platform/accounts/how-to-configure-accounts/README.md)
-    * [How to invite end-users to an Account](platform/accounts/how-to-configure-accounts/how-to-invite-end-users-to-an-account.md)
+  * [How to configure Accounts](platform/accounts/how-to-configure-accounts.md)
+  * [How to invite end-users to an Account](platform/accounts/how-to-invite-end-users-to-an-account.md)
 * [Humans](platform/humans.md)
 
 ## Developers
@@ -128,7 +127,6 @@
 * [Contacting support](support/contacting-support.md)
 * [Taking a screenshot on any laptop](support/taking-a-screenshot-on-any-laptop.md)
 * [Resizing & compressing images](support/resizing-and-compressing-images.md)
-* [Using Vimeo video](support/using-vimeo-video.md)
 * [Performing a hard refresh](support/performing-a-hard-refresh.md)
 * [Application loading time](support/application-loading-time.md)
 * [Raise a support ticket](https://mindset-ai.atlassian.net/servicedesk/customer/portal/1)
