@@ -17,6 +17,7 @@
     * [Welcome workflow best practices](platform/features/welcome/welcome-workflow-best-practices.md)
   * [Onboarding](platform/features/onboarding/README.md)
     * [Onboarding best practices](platform/features/onboarding/onboarding-best-practices.md)
+    * [How to Configure Multi Factor Authentication (MFA)](platform/features/onboarding/how-to-configure-multi-factor-authentication-mfa.md)
   * [Engagements](platform/features/engagements/README.md)
     * [Web Article Engagement](platform/features/engagements/web-article-engagement.md)
     * [Download Engagement](platform/features/engagements/download-engagement.md)
