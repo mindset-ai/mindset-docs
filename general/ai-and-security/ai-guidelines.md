@@ -15,7 +15,7 @@ The Mindset AI system uses a RAG process to help our clients' users get to infor
 
 The first major potential source of bias in such a system is source material bias: RAG systems retrieve information from a knowledge base or external sources to generate responses. The generated responses can inadvertently reflect these biases if these sources contain biased information or lack diverse perspectives. For instance, if the knowledge base is heavily skewed towards certain political views or lacks representation of certain cultures, the responses generated could be similarly skewed.
 
-Mindset AI’s goal is to help our clients successfully manage their AI assistants, and the principal step to crafting a successful AI assistant is to feed it with a well-rounded body of knowledge. To accomplish this, we are developing ways of identifying “blind spots” in a client’s knowledge base and reporting this information to them with actionable insights so that they can remedy the situation.
+Mindset AI’s goal is to help our clients successfully manage their AI Agents, and the principal step to crafting a successful AI Agent is to feed it with a well-rounded body of knowledge. To accomplish this, we are developing ways of identifying “blind spots” in a client’s knowledge base and reporting this information to them with actionable insights so that they can remedy the situation.
 
 Another type is inherent adverse bias in interpreting the source material, where the system consistently and unfairly disadvantages certain groups or individuals based on characteristics like race, gender, age, location, etc.
 
@@ -39,7 +39,7 @@ IP ASSIMILATION
 
 The ingestion of clients’ IP documents follows a process which starts with text extraction and document format abstraction. This is followed by the semantic segmentation of the extracted text, speaker detection and identification (in the event of audio/video input), topic detection, text splitting and embedding and knowledge-entitlement segregation.
 
-* Assimilated IP is never used to train any LLM shared between clients nor used for any process other than answering questions posed by users of the Assistants created by your organisation for your purpose.
+* Assimilated IP is never used to train any LLM shared between clients nor used for any process other than answering questions posed by users of the Agents created by your organisation for your purpose.
 * Data is stored in GCP (Google Cloud Platform) hosted databases and secured with row-level security, which Google manages.
 
 
@@ -66,7 +66,7 @@ If the request is for information (“Ask”), the LLM’s output is returned to
 
 ### How do you ensure humans understand when they are interacting with AI?
 
-Each interaction with an Assistant starts with a Disclaimer message, which explains that the Assistant is an AI and the specific limitations of the assistant.
+Each interaction with an Agents starts with a Disclaimer message, which explains that the Agents is an AI and the specific limitations of the Agents.
 
 ### What are your AI ethical principles?
 
@@ -97,13 +97,13 @@ At Mindset AI, the AI enhances the user experience through real-time, context-aw
 
 VALUE TO USERS
 
-As a conceptual AI assistant, the platform is designed to provide real-time, contextual responses, optimising users' access to the right information when needed. User questions trigger the generation of informational responses and predefined automated actions, simplifying various processes.
+As a conceptual AI Agents, the platform is designed to provide real-time, contextual responses, optimising users' access to the right information when needed. User questions trigger the generation of informational responses and predefined automated actions, simplifying various processes.
 
 VALUE TO CLIENTS
 
-Mindset-AI provides several benefits to our clients, helping them deliver an enriched and seamless user experience. Mindset’s AI system strengthens our clients' offerings by enabling them to offer real-time, informed responses via an AI assistant. This aids in handling queries and automatically triggering actions based on user inputs. Integrating our clients' IP into the secure Mindset Knowledge Graph gives them a sturdy system for managing their IP and providing value to their users. Firebase Authentication and our robust security framework guarantee the highest level of data security.
+Mindset-AI provides several benefits to our clients, helping them deliver an enriched and seamless user experience. Mindset’s AI system strengthens our clients' offerings by enabling them to offer real-time, informed responses via an AI Agents. This aids in handling queries and automatically triggering actions based on user inputs. Integrating our clients' IP into the secure Mindset Knowledge Graph gives them a sturdy system for managing their IP and providing value to their users. Firebase Authentication and our robust security framework guarantee the highest level of data security.
 
-Most importantly, our AI assistants work as a tool, helping clients shape informed decisions and stay in full control of the information flow. The context-aware system helps clients provide information and empower their users with knowledge. Finally, our iterative approach to integration eases maintenance and ensures seamless integration with various platforms, enhancing overall efficiency.
+Most importantly, our AI Agents work as a tool, helping clients shape informed decisions and stay in full control of the information flow. The context-aware system helps clients provide information and empower their users with knowledge. Finally, our iterative approach to integration eases maintenance and ensures seamless integration with various platforms, enhancing overall efficiency.
 
 ## Data Q\&A
 
@@ -163,7 +163,7 @@ At Mindset AI, we believe conducting business with integrity includes maintainin
 
 Mindset AI is committed to ensuring compliance with data protection regulations, including GDPR and CCPA. We prioritise user privacy by adhering to strict data collection, storage, and usage guidelines in line with legal requirements. Our approach revolves around data minimisation, ensuring that only essential data required for service improvement and personalisation is collected. We maintain the highest level of anonymity and confidentiality in our data collection process, safeguarding user privacy and upholding ethical standards. Additionally, we inform clients about changes in our data handling policies, ensuring transparency and mutual trust.
 
-## Assistant Q\&A
+## Agent Q\&A
 
 ### How are humans kept in the loop?
 
@@ -171,7 +171,7 @@ OBJECTIVITY
 
 At Mindset AI, we believe in the mantra, 'AI works best with human involvement.' We offer a user-centred design that facilitates open and continuous interaction between our AI system and the user, creating a feedback loop that sharpens the system's responses over time.
 
-Additionally, our AI assistants are crafted as tools to assist rather than replace their human counterparts, enabling users to make enlightened decisions – based on system responses – while keeping a full command over the overall process.
+Additionally, our AI Agents are crafted as tools to assist rather than replace their human counterparts, enabling users to make enlightened decisions – based on system responses – while keeping a full command over the overall process.
 
 We fundamentally believe in the principle of human-in-the-loop as a significant step towards creating a more beneficial and effective AI solution.
 
@@ -187,23 +187,23 @@ We believe a system where different users’ feedback is weighted differently: t
 
 We see the feedback loop from user to admin as vital: enabling the administrators to know to feed the system with the right, high-quality information is key to end-user engagement.
 
-### How are the assistants’ output explained to users?
+### How are the Agents’ output explained to users?
 
 EXPLAINABILITY
 
-A core part of Mindset’s value proposition is to foster user knowledge exploration. We do this by accompanying assistant responses with contextual information, like the specific media segments from the Knowledge Graph related to the provided answer and the core concepts close to this conversation.
+A core part of Mindset’s value proposition is to foster user knowledge exploration. We do this by accompanying Agents responses with contextual information, like the specific media segments from the Knowledge Graph related to the provided answer and the core concepts close to this conversation.
 
-### How do you ensure that the assistants are working optimally?
+### How do you ensure that the Agents are working optimally?
 
 VALIDITY
 
-At Mindset-AI, evaluating RAG assistants is pivotal to ensure their effectiveness. We rigorously monitor their performance across the three key metrics of the RAG Triad: Answer Relevance, Context Relevance, and Groundedness. By scrutinising these fundamental aspects, we guarantee that our RAG assistants provide precise, contextually relevant, and grounded responses, securing quality and reliability in user interactions.
+At Mindset-AI, evaluating RAG Agents is pivotal to ensure their effectiveness. We rigorously monitor their performance across the three key metrics of the RAG Triad: Answer Relevance, Context Relevance, and Groundedness. By scrutinising these fundamental aspects, we guarantee that our RAG Agents provide precise, contextually relevant, and grounded responses, securing quality and reliability in user interactions.
 
-### What steps are taken to ensure the assistants cannot be interfered with?
+### What steps are taken to ensure the Agents cannot be interfered with?
 
 SECURITY
 
-At Mindset-AI, we prioritise rigorous security measures to safeguard our RAG Assistants against potential interference. We apply Input Validation and Sanitization to neutralise harmful inputs. Our secure API integration fortifies protection against potential breaches while consistent usage and behaviour monitoring detect abnormal activities. Additionally, rate limiting cancels out high-frequency request attacks, making prompt injections unviable. Ultimately, users must pass our robust authentication before interacting with the RAG Assistants, ensuring only authorised access. Through these layers of protection, we strive to deliver a smooth, secure and reliable user experience.
+At Mindset-AI, we prioritise rigorous security measures to safeguard our RAG Agents against potential interference. We apply Input Validation and Sanitization to neutralise harmful inputs. Our secure API integration fortifies protection against potential breaches while consistent usage and behaviour monitoring detect abnormal activities. Additionally, rate limiting cancels out high-frequency request attacks, making prompt injections unviable. Ultimately, users must pass our robust authentication before interacting with the RAG Agents, ensuring only authorised access. Through these layers of protection, we strive to deliver a smooth, secure and reliable user experience.
 
 ## 3rd Party AI Vendors
 
