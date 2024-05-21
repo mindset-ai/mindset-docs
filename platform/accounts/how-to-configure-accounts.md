@@ -12,25 +12,19 @@ An account is a way of grouping customers within your application and separating
 
 As an app admin, you can create many accounts within your application and assign account admins to independently administer their accounts and invite people to them.
 
-On the App Admin Portal, go to Accounts on the left-hand side navigation bar under **Configure**. Here you will be able to configure general settings and view/create all accounts. Under the **General settings tab**, You can configure the account invitation carousel background color by clicking on the **Select colour** button. On the **Account page zero state message** field, add a message to display to users on their ‘manage your accounts’ page if they are not members of any accounts or have active invitations.\
+On the App Admin Portal, go to **Accounts** on the left-hand side navigation bar under **Configure**. Here you will be able to configure general settings and view/create all accounts. Under the **General settings tab**, You can configure the account invitation carousel background color by clicking on the **Select colour** button. On the **Account page zero state message** field, add a message to display to users on their ‘manage your accounts’ page if they are not members of any accounts or have active invitations.\
 
 
 <figure><img src="https://info.mindset.ai/hs-fs/hubfs/Screenshot%202023-10-13%20at%2012.59.57.png?width=688&#x26;height=408&#x26;name=Screenshot%202023-10-13%20at%2012.59.57.png" alt=""><figcaption></figcaption></figure>
 
-Click on the **Add new contact address** button to configure the email address(es) that account owners can contact to request domains to be autogrouped into their account.\
+Click on the **Add new contact address** button to configure the email address(es) that account owners can contact to request domains to be autogrouped into their account.
 
+Next go to **Manage > Accounts** on the top of the left hand navigation to create a new account, manage accounts and also add Account Administrators. To create a new account,  click on **Create account** button.
 
-<figure><img src="https://lh3.googleusercontent.com/7mIW0CMTZ5Pzt4n4lT4LgvwUspmF79494zw-E7cmkZwqLNS24yh9HgOhRKY_Ap-VBQ4CXqXAM6GE9e3th79LyYDzc-_mUopr6GGwSiiFiYUpAPrmyqU4mPVJO0U7uo9PUZMlZikZxXFE2V16fA9Zl6I" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Summit10 2024-05-21 13-32-50 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Click on the **All accounts** tab to create a new account, manage accounts and also add Account Administrators. To create a new account,  click on **Create account** button.\
+Next, click on the **Account details** tab, and under the **Account name** field add the account name. Next, click on the **Upload image** button to add the account logo which should be an image in jpg, png, or svg format. To configure Account Admins, click on **Add new** button and enter the email address. An account member can be made an admin once they have entered their email address in the app and received an invite to join the account.\
 
-
-<figure><img src="https://lh3.googleusercontent.com/Wk45nWtAVp-OGSnDrZHGgysuxPjLNDBnb6lFMe313DogddZJVvuQy50iQIuvPY2aUHWhuBiA2WzRSjUOs0SoH0sNjd8dQlAJG4isq7LgSU0ZQn25dSbmF_OvTau10L3S9tPpyq1bnoKueOWhwGJkraM" alt=""><figcaption></figcaption></figure>
-
-Next, click on the **account details** tab, and under the **Account name** field add the account name. Next, click on the **Upload image** button to add the account logo which should be an image in jpg, png, or svg format. To configure Account Admins, click on **Add new** button and enter the email address. An account member can be made an admin once they have entered their email address in the app and received an invite to join the account.\
-
-
-<figure><img src="https://lh4.googleusercontent.com/pdOuP42u0jG6wbxTunRqBWx_yDcf5T-rvSe6t_Go7u39hlw6LJv5MccAu5L_GpAYJAQNhBNdinDuG4w_m_eUhYQeIjvBpf7R7lGMXjs88yyn2wS9mEPwhyYYx6hj5-Sxg0YBI4ofOhIgwbfoZbR7aqs" alt=""><figcaption></figcaption></figure>
 
 Next, enter the Company address and phone number under the **Company address and phone number** fields. Click on the **Enable Autogrouping** toggle button to ‘autogroup’ users. This is an easy way to invite users from the same organisation if their email domain is the same e.g.‘@mindset.ai’. Enter the email domains in the **Autogrouping domains** fields as a comma-separated list to automatically add humans with these domains to the account e.g. mindset.ai or the domain.com. Click on the **Save** button on the upper right corner of the screen.
 
