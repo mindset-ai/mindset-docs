@@ -2,7 +2,7 @@
 
 #### What are Capabilities?&#x20;
 
-Capabilities are pre-established paths of actions that agents can follow in a logical sequence to accomplish specific tasks. They are designed to enhance the user experience by streamlining the process of defining agent behavior, making it easier for users to interact with agents without prior knowledge of their functions. Capabilities allow agents to be more human-like in their interactions, offering a more intuitive and engaging user experience.\
+Capabilities are pre-established paths of actions that agents can follow in a logical sequence to accomplish specific tasks. They are designed to enhance the user experience by streamlining the process of defining agent behaviour, making it easier for users to interact with agents without prior knowledge of their functions. Capabilities allow agents to be more human-like in their interactions, offering a more intuitive and engaging user experience.\
 \
 **How do capabilities add value?**\
 \
