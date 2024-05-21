@@ -8,7 +8,7 @@ description: >-
 
 
 
-Find Chat in the left hand navigation bar of your administration portal. Under the workflow settings, click on the toggle to turn it on to enable chat inside facilitations.&#x20;
+Find Chat in the left hand navigation bar of your administration portal. Under Configure, click on the toggle to turn it on to enable chat inside facilitations.&#x20;
 
 \
 ![](https://lh7-us.googleusercontent.com/5eI8nGZYJb6XxtMrVMPj3YhYPSwDAttd3IlABgGFIcaiINv6b7bCNU-jTwKsag0We6MLimUK\_gf1SgC1iHdzLScKNCuO1CJjeSAi\_eIhp-X9WQxooQn9Zvz6pP9hOvkKE7mkKXO6GfzlV-WFxp5ZGwA)\
