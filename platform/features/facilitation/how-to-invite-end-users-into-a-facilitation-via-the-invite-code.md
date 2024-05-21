@@ -14,7 +14,7 @@ Once the facilitation has been published, end-users can be invited into the faci
 \
 **Invite code for Open Access Facilitation**
 
-On the Admin portal, go to the Facilitation menu and search for the desired open access facilitation. You will see the Request sent button in the selected Open access facilitation (This is displayed on the facilitation for the first time).
+On the Admin portal, under **Manage**, go to the **Facilitation** menu and search for the desired open access facilitation. You will see the Request sent button in the selected Open access facilitation (This is displayed on the facilitation for the first time).
 
 \
 A generated code will appear which you can copy and share with attendees to invite them into the facilitation.
