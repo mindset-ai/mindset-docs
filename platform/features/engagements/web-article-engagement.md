@@ -7,7 +7,7 @@ description: How to create and configure web article engagements
 **Creating your first web article engagement**
 
 \
-To create a Web Article Engagement, navigate to the “Engagement library” page of the “App information” section. Click on the Engagements tab and the Add new engagement button, and select Web Article Engagement from the dropdown menu. \
+To create a Web Article Engagement, navigate to the “Engagement library” under Manage on the left hand navigation bar. Click on the Engagements tab and the Add new engagement button, and select Web Article Engagement from the dropdown menu. \
 
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.10.06.png" alt=""><figcaption></figcaption></figure>
