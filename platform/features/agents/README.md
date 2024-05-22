@@ -1,10 +1,4 @@
----
-description: BETA
----
-
 # Agents
-
-The Agents functionality is in beta at present. This documentation is under development and likely to change.
 
 ### An Introduction to Agents
 
@@ -22,7 +16,7 @@ Mindset wants to enable you to be at the forefront of providing AI solutions to 
 
 
 
-1. LLM chatbots - the first implementation of OpenAI could be considered a well-trained Chatbot. You asked it a question, and it answered from its pre-trained neural network. Although chatbots have been around for over a decade, OpenAI's release of GPT 3 in 2023 was the first groundbreaking innovation using an LLM (large language model).
+2. LLM chatbots - the first implementation of OpenAI could be considered a well-trained Chatbot. You asked it a question, and it answered from its pre-trained neural network. Although chatbots have been around for over a decade, OpenAI's release of GPT 3 in 2023 was the first groundbreaking innovation using an LLM (large language model).
 
 
 
@@ -38,7 +32,7 @@ Throughout 2023, numerous Assistants and Co-pilots have been developed with incr
 
 
 
-4. Agents - Agents are a system that can use an LLM to reason through a problem, create a plan to solve the problem and execute the plan with the help of a set of tools. An Agent is an architecture that includes all of the concepts mentioned above and below.
+5. Agents - Agents are a system that can use an LLM to reason through a problem, create a plan to solve the problem and execute the plan with the help of a set of tools. An Agent is an architecture that includes all of the concepts mentioned above and below.
 
 
 
