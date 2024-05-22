@@ -4,11 +4,11 @@ description: >-
   Knowledge Graph Workflow.
 ---
 
-# How to Successfully Process PDF Files in your Knowledge Graph Workflow
+# How to Successfully Process PDF Files
 
 **How can PDFs add value to your Knowledge Graph Workflow?**&#x20;
 
-You can upload PDF files to your Knowledge Bank in the Knowledge Graph Workflow. The information in these files can be utilised to help answer end-user questions through the Knowledge Assistant.
+You can upload PDF files to your Knowledge Bank in the Knowledge Graph Workflow. The information in these files can be utilised to help answer end-user questions through the Agent.
 
 Before you upload your PDF files, it's important to follow the guidelines below. These guidelines will ensure that the Mindset platform can read and comprehend your document effectively, allowing you to derive maximum value from your content.
 
