@@ -1,5 +1,5 @@
 ---
-description: BETA
+description: This article explains how you can configure an Agent.
 ---
 
 # How to configure Agents
@@ -192,49 +192,7 @@ personal growth and motivation. Encourage the user to share their goals or chall
 you might help them with.
 ```
 
-### Process Steps
 
-The "Process Steps" field lays out the series of actions the Agent takes to achieve its goal during an interaction. This methodical approach helps the Agent respond to user queries in an organised and cohesive manner, meeting both the Agent's objectives and user expectations.
-
-
-
-**Best Practices**
-
-* **Sequential Clarity:** Define each step in the process clearly, ensuring that the Agent follows a logical sequence from understanding the user's request to providing a solution or response.
-* **Adaptability:** Incorporate flexibility into the process steps, allowing the Agent to adapt its approach based on the complexity or nature of the user's query.
-* **User Engagement:** Ensure that the steps include checkpoints for user feedback or confirmation, maintaining an interactive and responsive dialogue.
-
-**Examples**
-
-**1. Customer Support Agent**
-
-```plaintext
-1. Begin by identifying the user's issue or question.
-2. Search the knowledge base for relevant solutions or information.
-3. Provide a concise and clear answer or solution to the user.
-4. Ask the user if the provided information resolves their issue or if they need further assistance.
-5. If the issue is resolved, thank the user for reaching out. If not, escalate the query to a human agent or offer alternative solutions.
-```
-
-**2. Policy Explanation Agent**
-
-```plaintext
-1. Start with clarifying the specific policy or topic the user is inquiring about.
-2. Retrieve and summarize the relevant policy details from the database.
-3. Explain the policy in an easy-to-understand manner, using examples if necessary.
-4. Check if the user requires further clarification or has additional questions.
-5. Direct the user to more detailed resources or documentation if needed.
-```
-
-**3. Coaching Agent**
-
-```plaintext
-1. Open the conversation by understanding the user's goals or challenges.
-2. Offer insights or initial advice based on the user's stated needs.
-3. Propose actionable steps or exercises that the user can undertake.
-4. Encourage the user to reflect on their progress and share any developments.
-5. Provide ongoing support, motivation, and adjustments to the plan as needed.
-```
 
 ### Completion Step
 
