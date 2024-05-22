@@ -12,22 +12,16 @@ When setting up the Content Discovery feature of your Knowledge Graph workflow, 
 
 **Where can they be found?**
 
-<div align="left">
+<figure><img src="../../../../.gitbook/assets/Screenshot (83).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-01-10 at 15.09.16.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
-
-Labels can be created in the administration portal of your application under Manage→ Knowledge Graph.&#x20;
+Labels can be created in the administration portal of your application under Manage→ Knowledge
 
 \
 Under the Labels heading, you will find a ‘Create Label’ button.&#x20;
 
+<figure><img src="../../../../.gitbook/assets/Screenshot (84).png" alt=""><figcaption></figcaption></figure>
 
-
-<figure><img src="https://lh7-us.googleusercontent.com/e1b4P5NBBL_qSbyyUDdD-2CIC5Ljhwz-BIzhPue1r1p86Dkn_dIypDOQ1MjSISGlMiNbvwVdK3izHjDHB7jLPQQ0JuoTEq888hvYiqQPlWmfILHRS0hEBioeV5e5XgpT88tUcge9VJ8yhT_9zc5Wk8s" alt=""><figcaption></figcaption></figure>
-
-Selecting this will then invite you to input your label name.&#x20;
+Selecting this will then invite you to input your label name and decide on user visibility.&#x20;
 
 \
 You can order your labels by selecting the three dots in the top right corner of the label and selecting ‘Move Up’ or ‘Move Down’ accordingly. This will determine the order of each carousel in the Content Discovery UI.&#x20;
