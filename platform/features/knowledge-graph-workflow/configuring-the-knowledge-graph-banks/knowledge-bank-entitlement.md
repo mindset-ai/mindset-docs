@@ -10,9 +10,9 @@ description: >-
 The way you manage your users access to content within a Knowledge Bank is changing with the implementation of Agents. The Knowledge Assistant and direct entitlement to Knowledge banks will reach end of life no later than the 1st of July 2024.
 {% endhint %}
 
-## Assistants, Content discovery, Accounts, and Knowledge banks
+## Agents, Content discovery, Accounts, and Knowledge banks
 
-Features within the knowledge workflow allow for and AI assistant to provide specific and relevant answers to a users question based on your content or IP.  The content discovery interface allows users to browse through and search within you content. The content is housed within Knowledge banks. Managing access to a Knowlege Banks is done through Knowledge Bank access settings and  Accounts.
+Features within the knowledge workflow allow for an AI Agent to provide specific and relevant answers to a users question based on your content or IP.  The content discovery interface allows users to browse through and search within you content. The content is housed within Knowledge banks. Managing access to a Knowlege Banks is done through Knowledge Bank access settings and  Accounts.
 
 <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>How user entitlement is managed</p></figcaption></figure>
 
@@ -20,7 +20,7 @@ Features within the knowledge workflow allow for and AI assistant to provide spe
 
 Knowledge banks can be set to "open access" or "restricted access".&#x20;
 
-All users are entitled to access content in an "open" knowledge bank. The knowledge assistant will always be able to draw its responses from content within these banks and the content discovery area will display this content.&#x20;
+All users are entitled to access content in an "open" knowledge bank. The Assistant will always be able to draw its responses from content within these banks and the content discovery area will display this content.&#x20;
 
 Entitlement to a "restricted" knowledge bank is provided through accounts. When editing a restriced knowledge bank you can select any number of accounts. Members of these accounts will be entitled to access content in these banks through both the assistant and the content discovery areas.
 
@@ -30,7 +30,7 @@ A user can exist in your application without belonging to any account, or it can
 
 ## Upcoming changes - Agents and knowlege bank entitlement
 
-While the assistant is a powerful tool, access to large quantities of data can inhibit the assistants ability to provide accurate and specific responses. It is also a challenge to serve multiple use cases, or provide solutions to multiple needs within a single assistant configuration.
+While the Assistant is a powerful tool, access to large quantities of data can inhibit the Assistants ability to provide accurate and specific responses. It is also a challenge to serve multiple use cases, or provide solutions to multiple needs within a single assistant configuration.
 
 Agent are the next generation of AI assistant. Agents are more accurate and allow for greater configurability to serve particular needs. In order to ensure that Agents provide answers relevant to their specifc purpose, agent are given access to specific knowledge banks.  Entitlement to use an agent is also managed through accounts. With this additional level of control, managing access for user would become especially complex if you  had to manage access to the knowledge banks and agents at throuh accounts and had to manage the agents access to the knowledge bank as well. This would often result in conflicting permissions that would limit an Agents ability to function, and would be hard to spot and resolve.
 
