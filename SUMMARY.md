@@ -77,6 +77,7 @@
 * [Overview](developers/overview.md)
 * [Embed SDK](developers/embed-sdk/README.md)
   * [Embed SDK](developers/embed-sdk/embed-sdk.md)
+  * [Testing the Embedded Agent](developers/embed-sdk/testing-the-embedded-agent.md)
   * [Authentication](developers/embed-sdk/authentication.md)
   * [Components](developers/embed-sdk/components.md)
   * [iFrame Embedding](developers/embed-sdk/iframe-embedding.md)
