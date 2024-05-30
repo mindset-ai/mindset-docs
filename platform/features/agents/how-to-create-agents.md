@@ -26,13 +26,11 @@ After clicking the 'Add an agent' button, you'll gain access to configuring the 
 
 Under the 'test' tab, you can practice trialling out your agent to see how it responds to questions asked. We recommend you take your time testing your agent here prior to sharing it with your end-users, to ensure it is performing correctly.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 15.53.46.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 11.56.45.png" alt=""><figcaption></figcaption></figure>
 
 #### General Settings
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 15.50.36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.20.04.png" alt=""><figcaption></figcaption></figure>
 
 Next, under the 'General Settings' tab, you can add in the agent name, handle, and a brief agent description. Under this tab you can also control the agent visibility. This includes enabling access to the agent for users.&#x20;
 
@@ -40,7 +38,7 @@ _**Please note:**_ toggling this button on will enable your end-users to see and
 
 #### Behaviour
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 15.45.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.20.58.png" alt=""><figcaption></figcaption></figure>
 
 Following this, you can begin setting up the agent's behaviour within the 'Behaviour' tab. Here, you're able to input behaviour instructions including the agent's purpose, personality, policy regulations, output formatting, and any additional information that may assist the agent in answering questions effectively and efficiently.
 
@@ -54,9 +52,9 @@ _**Please note:**_ You can find more information about each of these by either c
 
 #### Tools
 
-In the next step of agent configuration, you'll choose the tools you want the agent to utilise when answering end-users questions, within the 'Tools' tab.
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.24.52.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 15.48.35.png" alt=""><figcaption></figcaption></figure>
+In the next step of agent configuration, you'll choose the tools you want the agent to utilise when answering end-users questions, within the 'Tools' tab.
 
 Here, you have the option to decide if you want the agent to utilise the clarification tool and prompt library.&#x20;
 
@@ -68,7 +66,7 @@ _**Please note:**_ You do not have to select all 3 of these features together fo
 
 #### Capabilities
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 15.48.26 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.25.38.png" alt=""><figcaption></figcaption></figure>
 
 Next you can set up your agent capabilities under the 'capabilities' heading. An agent capability is a specific set of steps that this agent is able to perform to the user. In order to find out more about capability configuration for your agents, please read our 'capabilities' article here.&#x20;
 
@@ -76,7 +74,9 @@ Next you can set up your agent capabilities under the 'capabilities' heading. An
 
 Under the Design tab, the agent's primary colour and text colour can be configured.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 15.48.51.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.26.27.png" alt=""><figcaption></figcaption></figure>
 
 To change the colour simply click the 'select colour' button and choose your colour from the colour wheel or from your designated colour library.
 
@@ -88,9 +88,11 @@ _**Please note:**_ The agent can have access to the information from multiple kn
 
 Once the selected knowledge banks have been toggled on and saved, the agent will then be able to utilise all information from those associated banks when answering end-user questions.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 at 16.01.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.27.45.png" alt=""><figcaption></figcaption></figure>
 
+**Access Management**&#x20;
 
+In order to find out more about access management, please refer to our article titled 'Agent entitlement and Knowledge banks'.
 
 #### Bias
 
