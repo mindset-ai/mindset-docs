@@ -157,6 +157,36 @@ Offer advice and tips in a friendly, conversational tone, using short paragraphs
 - When sharing resources or exercises, include clear headings and concise descriptions.
 ```
 
+### Additional Information
+
+The "Additional Information" field provides crucial background or context for the Agent's interactions. This might include guidance on tone, references to external knowledge, or instructions for handling sensitive topics. It ensures the Agent's responses are well-informed by factors beyond its usual knowledge.
+
+**Best Practices**
+
+* **Specificity:** Clearly define the additional parameters or considerations the Agent must account for in its interactions.
+* **Relevance:** Ensure all provided information is relevant to the Agent's purpose and the types of interactions it will have.
+* **Conciseness:** Offer this information in a concise manner to avoid overloading the Agent, ensuring it remains focused and effective.
+
+**Examples**
+
+**1. Customer Support Agent**
+
+```plaintext
+<< specific information the agent might use to provide links to support sites >>
+```
+
+**3. Coaching Agent**
+
+```plaintext
+<< a summary of the coaching methodology and key concepts >>
+```
+
+**2. Policy Explanation Agent**
+
+```plaintext
+<< contact information for the policy team >>
+```
+
 ### Icebreaker Message
 
 The Icebreaker Message is the initial prompt sent to the Agent, instructing it on how to begin interactions with users. This message is crucial for setting the interaction's tone, providing the Agent with guidance on introducing itself, stating its purpose, and inviting user engagement in a concise manner. The goal is to create a welcoming environment that encourages users to start their inquiry or discussion.
@@ -234,34 +264,8 @@ for their journey ahead, thank them for engaging in the coaching process,
 and remind them that support is always available should they need it in the future
 ```
 
-### Additional Information
 
-The "Additional Information" field provides crucial background or context for the Agent's interactions. This might include guidance on tone, references to external knowledge, or instructions for handling sensitive topics. It ensures the Agent's responses are well-informed by factors beyond its usual knowledge.
 
-**Best Practices**
 
-* **Specificity:** Clearly define the additional parameters or considerations the Agent must account for in its interactions.
-* **Relevance:** Ensure all provided information is relevant to the Agent's purpose and the types of interactions it will have.
-* **Conciseness:** Offer this information in a concise manner to avoid overloading the Agent, ensuring it remains focused and effective.
-
-**Examples**
-
-**1. Customer Support Agent**
-
-```plaintext
-<< specific information the agent might use to provide links to support sites >>
-```
-
-**3. Coaching Agent**
-
-```plaintext
-<< a summary of the coaching methodology and key concepts >>
-```
-
-**2. Policy Explanation Agent**
-
-```plaintext
-<< contact information for the policy team >>
-```
 
 \
