@@ -4,7 +4,7 @@ description: Learn about the Content Discovery feature in the Knowledge graph wo
 
 # Content Discovery
 
-The Content Discovery feature displays content (PDF or MP3/4 files) in a carousel view. Users can engage with this content by watching, reading or asking questions to the AI Assistant.
+The Content Discovery feature displays content (PDF or MP3/4 files) in a carousel view. Users can engage with this content by watching, reading or asking questions to the Agent.
 
 Read more about the Content Discovery feature below:
 

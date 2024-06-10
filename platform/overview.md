@@ -4,7 +4,7 @@ description: What is the Mindset AI platform?
 
 # Overview
 
-The Mindset AI platform simplifies the configuration and management of AI assistants trained on company data. Utilising large language models (LLMs), it offers a variety of features as well as seamless integration with over 200 platforms. The platform facilitates access to essential knowledge through conversational interactions, enhancing efficiency and productivity for internal or external end-users.&#x20;
+The Mindset AI platform simplifies the configuration and management of AI assistants trained on company data. Utilising large language models (LLMs), it offers a variety of features as well as seamless integration with various platforms. The platform facilitates access to essential knowledge through conversational interactions, enhancing efficiency and productivity for internal or external end-users.&#x20;
 
 
 
