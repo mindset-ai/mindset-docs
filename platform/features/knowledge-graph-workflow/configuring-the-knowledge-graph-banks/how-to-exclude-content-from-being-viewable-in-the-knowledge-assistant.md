@@ -1,8 +1,10 @@
 ---
-description: An explanation of how to exclude a content item from being visible.
+description: >-
+  An explanation of how to exclude a content item from being visible within
+  Content Discovery
 ---
 
-# How to exclude content from being visible
+# How to Exclude Content From Being Visible
 
 Once you have uploaded a piece of content into your Knowledge Bank, you have the option to exclude the content item from the Content Discovery player and segments panel in the Knowledge Graph workflow.&#x20;
 
