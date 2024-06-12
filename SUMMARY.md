@@ -36,6 +36,7 @@
       * [Knowledge Bank Entitlement](platform/features/knowledge-graph-workflow/configuring-the-knowledge-graph-banks/knowledge-bank-entitlement.md)
       * [How to Exclude Content From Being Visible](platform/features/knowledge-graph-workflow/configuring-the-knowledge-graph-banks/how-to-exclude-content-from-being-viewable-in-the-knowledge-assistant.md)
       * [How to Process PDF Files](platform/features/knowledge-graph-workflow/configuring-the-knowledge-graph-banks/how-to-successfully-process-pdf-files-in-your-knowledge-graph-workflow.md)
+      * [How to process SCORM files](platform/features/knowledge-graph-workflow/configuring-the-knowledge-graph-banks/how-to-process-scorm-files.md)
       * [Prompts](platform/features/knowledge-graph-workflow/configuring-the-knowledge-graph-banks/prompts/README.md)
         * [Prompts Best Practices](platform/features/knowledge-graph-workflow/configuring-the-knowledge-graph-banks/prompts/prompts-best-practices.md)
     * [Events](platform/features/knowledge-graph-workflow/events.md)
