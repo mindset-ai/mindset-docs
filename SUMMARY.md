@@ -111,7 +111,7 @@
 ## Integrations
 
 * [Overview](integrations/overview.md)
-* [Integrations](integrations/integrations.md)
+* [Embedding vs. Integration: Key Differences](integrations/integrations.md)
 
 ## Support
 
