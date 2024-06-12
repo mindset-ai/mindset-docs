@@ -111,6 +111,19 @@
 ## Integrations
 
 * [Overview](integrations/overview.md)
+* [Content management](integrations/content-management/README.md)
+  * [Google Drive](integrations/content-management/google-drive.md)
+  * [Hubspot](integrations/content-management/hubspot.md)
+  * [Podbean](integrations/content-management/podbean.md)
+  * [Wistia](integrations/content-management/wistia.md)
+  * [WordPress](integrations/content-management/wordpress.md)
+  * [Vimeo](integrations/content-management/vimeo.md)
+* [Communication](integrations/communication/README.md)
+  * [Microsoft Teams](integrations/communication/microsoft-teams.md)
+  * [Slack](integrations/communication/slack.md)
+* [Customer Management and Payment](integrations/customer-management-and-payment/README.md)
+  * [Hubspot](integrations/customer-management-and-payment/hubspot.md)
+  * [Stripe](integrations/customer-management-and-payment/stripe.md)
 * [Embedding vs. Integration: Key Differences](integrations/integrations.md)
 
 ## Support
