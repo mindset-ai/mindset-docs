@@ -25,15 +25,15 @@ Our marketplace is where you can browse the many integration options available t
 
 ### Our integration categories
 
-#### [**Content Management**](overview.md#content-management)
+#### [**Content Management**](content-management/)
 
 Easily ingest content into knowledge banks from various sources, keeping everything synced and easy to manage. This reduces effort and streamlines your content workflows, making your operations more efficient and productive.
 
-#### [**Communication**](overview.md#communication)
+#### [**Communication**](communication/)
 
 Communicate seamlessly with agents through your favourite chat channels, staying within your workflow without needing to switch between apps. This allows for quick communication with agents, boosting productivity.
 
-#### [**Customer management and payment**](overview.md#customer-management-and-payment)
+#### [**Customer management and payment**](customer-management-and-payment/)
 
 Manage business workflows with ease by connecting to payment systems for smooth transactions. This streamlines customer management, enhancing service delivery and improving overall efficiency.
 
