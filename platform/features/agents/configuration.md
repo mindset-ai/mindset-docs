@@ -157,6 +157,15 @@ Offer advice and tips in a friendly, conversational tone, using short paragraphs
 - When sharing resources or exercises, include clear headings and concise descriptions.
 ```
 
+### Spelling
+
+You now have the option to switch automatically between US and UK spelling for agent responses.&#x20;
+
+* If this toggle is turned on, automatic conversion from US to UK spelling will be disabled.&#x20;
+* If this toggle is turned off, all US spellings will automatically convert to UK spellings.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-06-17 at 16.40.16.png" alt=""><figcaption></figcaption></figure>
+
 ### Additional Information
 
 The "Additional Information" field provides crucial background or context for the Agent's interactions. This might include guidance on tone, references to external knowledge, or instructions for handling sensitive topics. It ensures the Agent's responses are well-informed by factors beyond its usual knowledge.
