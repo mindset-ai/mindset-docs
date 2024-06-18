@@ -4,7 +4,7 @@ description: >-
   Knowledge Graph Workflow.
 ---
 
-# How to Successfully Process PDF Files
+# How to Process PDF Files
 
 **How can PDFs add value to your Knowledge Graph Workflow?**&#x20;
 
@@ -12,20 +12,20 @@ You can upload PDF files to your Knowledge Bank in the Knowledge Graph Workflow.
 
 Before you upload your PDF files, it's important to follow the guidelines below. These guidelines will ensure that the Mindset platform can read and comprehend your document effectively, allowing you to derive maximum value from your content.
 
-\
-**Text-Based PDFs:** Please ensure the PDFs you are uploading into your knowledge bank have selectable text. This means when you open the PDF, you are able to highlight the text. If you are unable to do so, it may mean that the text is part of an image, meaning the platform may not be able to read and process it.&#x20;
+**PDF Guidelines for Optimal Processing:**
 
+**Password Protected Documents:** Unfortunately, we are unable to process any document which has password protection enabled. Please ensure to remove any password protection before uploading your PDF documents.
 
+**AI-Based Image Ingestion:** We use AI processing to correctly understand PDF content. While this significantly enhances our ability to process and extract information from various document formats, there are potential issues to be aware of:
 
-**Images in PDFs:** If the PDF you are uploading into your application has pictures with words or information on them, such as an infographic or poster, the system will not be able to process the image or text inside those images.&#x20;
+* **Charts:** Numbers overlaying charts and the colours used in charts may not be correctly identified by the AI. This can lead to inaccuracies in data extraction and interpretation. For best results, consider providing data in a table instead.
+* **Complex Images:** Although the AI can interpret text within images, highly complex images or those with intricate details might not be accurately processed. This includes detailed infographics or posters with small text.
+* **Handwritten Notes:** PDFs containing handwritten notes or annotations may not be accurately interpreted by the AI, leading to potential gaps in the extracted information.
+* **Low-Resolution Images:** Images with low resolution or poor quality might result in inaccurate text extraction. Ensure your PDF images are of high quality for the best results.
 
+Always review the transcription of your content to ensure that data has been accurately captured. If you see issues, consider updating the source content to improve the AI detection of important elements.
 
-
-**Tables & Multi-Column Layouts:** If the document you are uploading into your application has tables or sections where the text is displayed in columns or grids, the platform may not be able to process this text accurately. Please note, this includes any part of the document where text is in rows and columns, even if no lines divide them.&#x20;
-
-
-
-**Password protected documents:** Unfortunately, we are unable to process any document which has password protection enabled. Please ensure to remove any password protection before uploading your PDF documents.&#x20;
+Following these guidelines will help maximize the effectiveness of the Mindset platform in reading and comprehending your PDF documents, allowing you to derive maximum value from your content.
 
 
 
