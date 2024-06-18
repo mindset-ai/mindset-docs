@@ -36,12 +36,12 @@ A full-screen interface will appear where you can manage your facilitation.
 
 **Configuring a Facilitation**
 
-At this stage, under **General Settings > Facilitation details > Configuration** you will be able to configure how your facilitation appears in the channel interface and provide additional information about what the attendees can expect from this channel. You can also configure the hooks under General Settings > Facilitation Hooks > Configuration which are the notifications and reminders that will appear on the homepage of the user and nudge them to engage with the facilitation channel. They can be configured to be removed from the homepage once interacted with or displayed persistently.
+At this stage, under **General Settings > Facilitation details > Configuration** you will be able to configure how your facilitation appears in the channel interface and provide additional information about what the attendees can expect from this channel. You can also configure the hooks under **General Settings > Facilitation Hooks > Configuration** which are the notifications and reminders that will appear for the user and nudge them to engage with the facilitation channel. They can be configured to be removed from the homepage once interacted with or displayed persistently.
 
 <figure><img src="https://lh7-us.googleusercontent.com/qViSwqFJA-_eqb7Sy4uKVbBL6hNDNt3DVPExst7BY90iw949USm86OEwuMdCVVtBv_ncoew-e40xvfG7NKvVoNuRfsCVy4QfLNk_60Fq2XbekEKYBozjFaOOdJRg1Tkv1jnf_PF4SLDp-2DPGIafdsI" alt=""><figcaption></figcaption></figure>
 
 \
-Under the same tab, you can create a Facilitation greeting which is a card that will be displayed on the home screen promoting the facilitation, and New engagement notifications which will promote you to engage with new content. At any time click the Preview tab to view your configurations designed in the way they appear on the app.
+Under the same tab, you can create a **Facilitation greeting** which is a card that will be displayed on the home screen promoting the facilitation, and New engagement notifications which will promote you to engage with new content. At any time click the Preview tab to view your configurations designed in the way they appear on the app.
 
 
 
@@ -49,7 +49,7 @@ Under the same tab, you can create a Facilitation greeting which is a card that 
 
 **Assigning Facilitators**
 
-To run facilitations, you must have assigned Facilitators. To assign a facilitator, go to the Facilitation screen, and under Facilitations select the ellipsis and Edit on the Facilitation chosen. Under General Settings > Facilitation details scroll down to Facilitators. From this drop-down, you can choose your Facilitator for the event.\
+You can assign Facilitators to run a Facilitation. To assign a facilitator go to the Facilitations tab (Under Manage) ad select the ellipsis and Edit on the Facilitation chosen. Under **General Settings > Facilitation** details scroll down to Facilitations. From this drop-down, you can choose your **Facilitator** for the event.\
 
 
 
@@ -107,7 +107,7 @@ Once added you can view all attendees under the Facilitation attendees section b
 
 **Running a Facilitation**
 
-When you are ready to start a facilitation, you must go to the Run Facilitation tab to publish the engagements inside your specific facilitation. Select which engagement and click publish.\
+When you are ready to start a facilitation, you must go to the **Run Facilitation** tab to publish the engagements inside your specific facilitation. Select which engagement and click publish.\
 \
 
 
