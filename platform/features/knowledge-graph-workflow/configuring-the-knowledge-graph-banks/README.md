@@ -2,21 +2,21 @@
 description: How to use and configure the Knowledge Banks for your end-users.
 ---
 
-# Configuring the Knowledge Banks
+# Knowledge Banks
 
 The Knowledge Banks are the section in which your content is stored and filed. The end-user would never know they were accessing particular banks of content but for the admin, it is a way of separating content. In the future, this may be how content is permissioned to specific users, so we would recommend thinking of the banks as perhaps free vs paid for content. There is no limit on the amount of content you can upload to one bank, initially, we recommend keeping fewer banks, each with lots of rich content. The content here is what the Knowledge Assistant and agents will use to ‘learn’ from in order to deliver accurate and informative answers for your end users.
 
 **How to Configure the Knowledge Banks**
 
-Under the Manage tab of the left-hand navigation bar, go to the Knowledge section, here you will be able to configure the Banks for the Learning Assistant.
+Under the **Manage** tab of the left-hand navigation bar, go to the **Knowledge** section, here you will be able to configure the Banks for the Learning Assistant.
 
 
 
-Select Add New Bank and give the Bank a name and short description - this is only used for the administrator and is not end-user facing.
+Select **Add New Bank** and give the Bank a name and short description - this is only used for the administrator and is not end-user facing.
 
 ![](https://lh4.googleusercontent.com/JMjlKBg8n4TmTlFd\_VdZPhKKvS5abDxkZ5pfhImZ8pHbhCRujP0-UKJNwb8NwRvEI5uqAY4jXFJ6xtwZ\_oVdRibGdJbMC4hqe\_qXeZ-PHT\_Zw-E\_93986Tz23oNTVLpxkfc3pm5nWxMnB9-471FXbCU)
 
-Once saved, a Content tab will appear enabling you to add your Content into the Bank. Here you can input your content items. Content items can be uploaded in the following formats: PDF, MP3 or MP4, or MOV. You can upload or drag & drop your files into the bank, but you cannot upload more than 10 at a time.&#x20;
+Once saved, a **Content** tab will appear enabling you to add your Content into the Bank. Here you can input your content items. Content items can be uploaded in the following formats: PDF, MP3 or MP4, or MOV. You can upload or drag & drop your files into the bank, but you cannot upload more than 10 at a time.&#x20;
 
 ![](https://lh5.googleusercontent.com/CtlhgqqXQ8wAFQjZF5YLLAG4sg\_ZYrAQSRM79CMw27BeMjF9nPQJPpt8w-QmIJwA8N7eGqDk1aBsssZfOt-R08cSlfeQ0BvdsSiI-OfFoKr5vTusEC0zmewDXlNxKAawYOKCdSQheD3ocYgR2tQoyrY)
 
@@ -26,11 +26,17 @@ When uploading you will see the file processing on the right-hand side.
 
 Once your **Bank** files have been processed they will sit in an unpublished state on the left hand side, now you have the opportunity to manually review the file before publishing.&#x20;
 
-Click on the three dots in the right-hand corner and select **Edit**. Here you can amend the content display name, this is what the end-user will see when searching for content or looking at segments. You can amend the **Description** for that piece of content and add a thumbnail image. We recommend including thumbnails that represent your brand, as well as that piece of content, think about the topic, the speakers or the event and how you can represent this in the thumbnail. You also have the option to include the display date, this is how content will be ordered in the front-end for users i.e. most recent content.
+Click on the three dots in the right-hand corner and select **Edit**. Here you can amend the content **Display Name**, this is what the end-user will see when searching for content or looking at segments. You can amend the **Description** for that piece of content and add a thumbnail image. We recommend including thumbnails that represent your brand, as well as that piece of content, think about the topic, the speakers or the event and how you can represent this in the thumbnail. You also have the option to include the **Display date**, this is how content will be ordered in the front-end for users i.e. most recent content.
 
 &#x20;
 
 ![](https://lh4.googleusercontent.com/Loce3XE-PP\_9H00aiWX76U\_xbjkbP0wwkzY7AclGuMEs5VB-a7TPsyxC2flhnLitvn08iK4qblJc\_xX0NDauwwrqkdTjdCqsSyW5-5KvY3kgusJ17xt5ap63ynzwP-iKnOrQaRs1EtINMJsJlqmsho0)
+
+Enable this toggle if the content should be available to the agent for the formulation of answers, but should not be directly available to users via the **Discovery and Segments panel**.
+
+<figure><img src="../../../../.gitbook/assets/Summit10 2024-06-18 16-55-16.png" alt=""><figcaption></figcaption></figure>
+
+
 
 The **Metadata** area is pre-populated but is editable, this is the information the language model will use to understand the file context. This is not viewable by end-users.
 
