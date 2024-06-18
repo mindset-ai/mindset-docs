@@ -2,7 +2,7 @@
 
 ### Setting up the base configuration
 
-In the Facilitation workflow setting, you can set up the base configuration for the workflow.  Here you have the ability to change the name of ‘Facilitations’ to a term that suits your company and users e.g. workshops as well as the ‘facilitator’ noun to something that resonates closely with your audience e.g. coach. You are also given the option to change the Carousel background colour displayed on the home screen of the user’s app, to match closely with your company branding.\
+Go to **Configure > Facilitation** to set up the base configuration for the workflow.  Here you have the ability to change the name of ‘Facilitations’ to a term that suits your company and users e.g. workshops as well as the ‘facilitator’ noun to something that resonates closely with your audience e.g. coach. You are also given the option to change the Carousel background colour displayed on the home screen of the user’s app, to match closely with your company branding.\
 \
 
 
@@ -17,7 +17,7 @@ In the Facilitation workflow setting, you can set up the base configuration for 
 \
 **Creating Facilitators**
 
-From the main Facilitation area under the App Information Menu on the left-hand side of the screen, go to Facilitators tab, select Add new Facilitator and add in their details, and click save. You will then see your Facilitator, listed. You can add a general list of facilitators who can be assigned to different facilitations.
+Go to **Facilitations** under **Manage** on the left hand navigation bar and select the **Facilitators** tab. Select **Add new Facilitator** and add in their details, and click save. You will then see your Facilitator, listed. You can add a general list of facilitators who can be assigned to different facilitations.
 
 
 
@@ -25,18 +25,18 @@ From the main Facilitation area under the App Information Menu on the left-hand 
 
 **Setting up a Facilitation**
 
-To set up the Facilitation go to App Information on the left-hand side of the screen and click the Facilitation option. This will open up a widescreen as shown below.
+To set up a facilitation go to **Manage** > **Facilitation** and select **Create new Facilitation**.&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/WWzLGrR7bRBgBYeYOTIi7K4KqvITj0KW_TIrXGslmjKperKvqu5tQQfxWPKtyTYLwiKDbbmrt9yR84hAb7sazLwNx3T_GQ-9CFVwIucHAffy_MVv6VEj0vhDfT1oIHW0RKrX0RGIWJ5dF-ElTbBYnCU" alt=""><figcaption></figcaption></figure>
 
 \
-After clicking the ‘Create new Facilitation’ button a full-screen interface will appear where you can manage your facilitation.
+A full-screen interface will appear where you can manage your facilitation.
 
 
 
 **Configuring a Facilitation**
 
-At this stage, under General Settings > Facilitation details > Configuration you will be able to configure how your facilitation appears in the channel interface and provide additional information about what the attendees can expect from this channel. You can also configure the hooks under General Settings > Workshop Hooks > Configuration which are the notifications and reminders that will appear on the homepage of the user and nudge them to engage with the facilitation channel. They can be configured to be removed from the homepage once interacted with or displayed persistently.
+At this stage, under **General Settings > Facilitation details > Configuration** you will be able to configure how your facilitation appears in the channel interface and provide additional information about what the attendees can expect from this channel. You can also configure the hooks under General Settings > Facilitation Hooks > Configuration which are the notifications and reminders that will appear on the homepage of the user and nudge them to engage with the facilitation channel. They can be configured to be removed from the homepage once interacted with or displayed persistently.
 
 <figure><img src="https://lh7-us.googleusercontent.com/qViSwqFJA-_eqb7Sy4uKVbBL6hNDNt3DVPExst7BY90iw949USm86OEwuMdCVVtBv_ncoew-e40xvfG7NKvVoNuRfsCVy4QfLNk_60Fq2XbekEKYBozjFaOOdJRg1Tkv1jnf_PF4SLDp-2DPGIafdsI" alt=""><figcaption></figcaption></figure>
 
