@@ -4,15 +4,15 @@ description: How to use and configure the Knowledge Banks for your end-users.
 
 # Knowledge Banks
 
-The Knowledge Banks are the section in which your content is stored and filed. The end-user would never know they were accessing particular banks of content but for the admin, it is a way of separating content. In the future, this may be how content is permissioned to specific users, so we would recommend thinking of the banks as perhaps free vs paid for content. There is no limit on the amount of content you can upload to one bank, initially, we recommend keeping fewer banks, each with lots of rich content. The content here is what the Knowledge Assistant and agents will use to ‘learn’ from in order to deliver accurate and informative answers for your end users.
+The Knowledge Banks are the section in which your content is stored and filed. The end-user would never know they were accessing particular banks of content but for the admin, it is a way of separating content. In the future, this may be how content is permissioned to specific users, so we would recommend thinking of the banks as perhaps free vs paid for content.&#x20;
+
+There is no limit on the amount of content you can upload to one bank, initially, we recommend keeping fewer banks, each with lots of rich content. The content here is what the agents will use to ‘learn’ from in order to deliver accurate and informative answers for your end users.
 
 **How to Configure the Knowledge Banks**
 
-Under the **Manage** tab of the left-hand navigation bar, go to the **Knowledge** section, here you will be able to configure the Banks for the Learning Assistant.
+Under the **Manage** tab of the left-hand navigation bar, go to the **Knowledge** section, here you will be able to configure the **Banks** for your agents.
 
-
-
-Select **Add New Bank** and give the Bank a name and short description - this is only used for the administrator and is not end-user facing.
+Select **Add New Bank** and give the Bank a **name** and short **description** - this is only used for the administrator and is not end-user facing.
 
 ![](https://lh4.googleusercontent.com/JMjlKBg8n4TmTlFd\_VdZPhKKvS5abDxkZ5pfhImZ8pHbhCRujP0-UKJNwb8NwRvEI5uqAY4jXFJ6xtwZ\_oVdRibGdJbMC4hqe\_qXeZ-PHT\_Zw-E\_93986Tz23oNTVLpxkfc3pm5nWxMnB9-471FXbCU)
 
@@ -32,21 +32,29 @@ Click on the three dots in the right-hand corner and select **Edit**. Here you c
 
 ![](https://lh4.googleusercontent.com/Loce3XE-PP\_9H00aiWX76U\_xbjkbP0wwkzY7AclGuMEs5VB-a7TPsyxC2flhnLitvn08iK4qblJc\_xX0NDauwwrqkdTjdCqsSyW5-5KvY3kgusJ17xt5ap63ynzwP-iKnOrQaRs1EtINMJsJlqmsho0)
 
-Enable this toggle if the content should be available to the agent for the formulation of answers, but should not be directly available to users via the **Discovery and Segments panel**.
+You have the option of enable this toggle if the content should be available to the agent for the formulation of answers, but should not be directly available to users via the **Discovery and Segments panel**.
 
 <figure><img src="../../../../.gitbook/assets/Summit10 2024-06-18 16-55-16.png" alt=""><figcaption></figcaption></figure>
 
+Next **Labels** can be added to organise the content for your end-users (in the Content Discovery workflow). Labels need to have been set up already under the **Knowledge**, **Labels** tab.
+
+<figure><img src="../../../../.gitbook/assets/Summit10 2024-06-18 17-09-20.png" alt=""><figcaption></figcaption></figure>
+
+**Metadata**
+
+The content metadata is used by the language model to understand the file's context (this is not viewable to end-users).  The **Known As** and **Summary** fields are pre-populated however can be edited. Known as can be changed to Video or PDF for instance.
+
+<figure><img src="../../../../.gitbook/assets/summit10 2024-06-18 17-23-48.png" alt=""><figcaption></figcaption></figure>
 
 
-The **Metadata** area is pre-populated but is editable, this is the information the language model will use to understand the file context. This is not viewable by end-users.
 
-The **Transcription** tab shows the text directly extracted from the content you have uploaded.
+If the file is a PDF a **Transcription** tab will be seen next to the **Content Item Settings** tab showing the text directly extracted from the content you have uploaded.
 
 
 
 **Configuring Segments**
 
-On the **Segments** tab, you will see the content broken down into chapters, or segments, these are chunks of content that each relate to one topic. When a new segment is created, it means the topic has changed inside of the content.
+In the **Segments** tab, you will see the content broken down into chapters, or segments, these are chunks of content that each relate to one topic. When a new segment is created, it means the topic has changed inside of the content.
 
 For each **segment**, you can choose a **speaker,** or add one by selecting the Speaker -unknown boxes.
 
