@@ -22,53 +22,47 @@ Each agent represents a specific use case and purpose. Often, an agent can be bu
 
 After clicking the '**Add an agent**' button, you'll gain access to configuring the agent according to your preferences.
 
-**Test**&#x20;
+#### Settings
 
-Under the 'test' tab, you can practice trialling out your agent to see how it responds to questions asked. We recommend you take your time testing your agent here prior to sharing it with your end-users, to ensure it is performing correctly.
+<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-05-27.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 11.56.45.png" alt=""><figcaption></figcaption></figure>
-
-#### General Settings
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.20.04.png" alt=""><figcaption></figcaption></figure>
-
-Next, under the 'General Settings' tab, you can add in the agent name, handle, and a brief agent description. Under this tab you can also control the agent visibility. This includes enabling access to the agent for users.&#x20;
-
-_**Please note:**_ toggling this button on will enable your end-users to see and interact with the agent created, in the front-end of the application. We recommend that all the agent configuration and testing has been completed prior to enabling its access to end-users.&#x20;
+Next, under the '**Settings**' tab, you can add in the **agent name**, **agent handle**, and a brief **agent description**. Under this tab you can also control the **agent visibility**. Toggling this button on will enable your end-users to see and interact with the agent created, in the front-end of the application. We recommend that all the agent configuration and testing has been completed prior to enabling its access to end-users.&#x20;
 
 #### Behaviour
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.20.58.png" alt=""><figcaption></figcaption></figure>
 
-Following this, you can begin setting up the agent's behaviour within the 'Behaviour' tab. Here, you're able to input behaviour instructions including the agent's purpose, personality, policy regulations, output formatting, and any additional information that may assist the agent in answering questions effectively and efficiently.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-07 at 11.25.07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-08-09.png" alt=""><figcaption></figcaption></figure>
 
-You can also add in the interaction processes for your agent. These include an icebreaker message, process steps, and completions steps.&#x20;
+<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-12-10.png" alt=""><figcaption></figcaption></figure>
+
+Following this, you can begin setting up the agent's **behaviour** within the '**Behaviour**' tab. Here, you're able to input behaviour instructions including the agent's **purpose**, **personality**, **policy rules, output formatting**, and any **additional information** that may assist the agent in answering questions effectively and efficiently.
+
+<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-13-31.png" alt=""><figcaption></figcaption></figure>
+
+You can also add in the **interaction processes** for your agent. Including **icebreaker message instructions**, and a **completions step**.&#x20;
 
 _**Please note:**_ You can find more information about each of these by either clicking the small question mark icon next to the headings, or alternatively clicking [here](https://docs.mindset.ai/platform/features/agents/how-to-configure-agents).
 
+#### Capabilities
 
+<figure><img src="../../../.gitbook/assets/summit10 2024-06-19 22-20-24.png" alt=""><figcaption></figcaption></figure>
+
+Next you can set up your agent **capabilities** under the '**capabilities**' heading. An agent capability is a specific set of steps that this agent is able to perform to the user. In order to find out more about capability configuration for your agents, please read our 'capabilities' article [here](how-to-configure-capabilities.md).&#x20;
 
 #### Tools
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.24.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-16-58 (1).png" alt=""><figcaption></figcaption></figure>
 
-In the next step of agent configuration, you'll choose the tools you want the agent to utilise when answering end-users questions, within the 'Tools' tab.
+In the next step of agent configuration, you'll choose the **tools** you want the agent to utilise when answering end-users questions, within the '**Tools**' tab.
 
-Here, you have the option to decide if you want the agent to utilise the clarification tool and prompt library.&#x20;
+Here, you have the option to decide if you want the agent to utilise the **clarification tool** and **prompt library**.&#x20;
 
 Further details about these functionalities can be found [here](https://docs.mindset.ai/platform/features/agents/how-to-configure-agents).&#x20;
 
-Lastly, you can choose additional response details that the agent will incorporate when answering user inquiries.This includes including whether to display segments, topics, and speakers to the user.&#x20;
+Lastly, you can choose additional response details that the agent will incorporate when answering user inquiries. This includes including whether to display **segments**, **topics**, and **speakers** to the user.&#x20;
 
 _**Please note:**_ You do not have to select all 3 of these features together for the same agent.&#x20;
-
-#### Capabilities
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.25.38.png" alt=""><figcaption></figcaption></figure>
-
-Next you can set up your agent capabilities under the 'capabilities' heading. An agent capability is a specific set of steps that this agent is able to perform to the user. In order to find out more about capability configuration for your agents, please read our 'capabilities' article [here](how-to-configure-capabilities.md).&#x20;
 
 #### Design
 
@@ -100,7 +94,15 @@ The **Weighted** Concepts tab displays the concepts and the related segments, wi
 
 <figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 21-58-41 (1).png" alt=""><figcaption></figcaption></figure>
 
+**Testing**
 
+
+
+**Preview**
+
+Under the '**Preview**' tab, you can practice trialling out your agent to see how it responds to questions asked. We recommend you take your time testing your agent here prior to sharing it with your end-users, to ensure it is performing correctly.
+
+<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-03-44.png" alt=""><figcaption></figcaption></figure>
 
 **Access**&#x20;
 
