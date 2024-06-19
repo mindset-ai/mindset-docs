@@ -34,7 +34,7 @@ You have the option to exclude the content from the Discovery and Segments panel
 
 <figure><img src="../../../../.gitbook/assets/Summit10 2024-06-18 16-55-16.png" alt=""><figcaption></figcaption></figure>
 
-Next **Labels** can be added to organise the content for your end-users (in the Content Discovery interface). Labels need to have been set up already under **Knowledge** on the left hand navigation, and selecting the **labels** tab.
+Next **Labels** can be added to organise the content for your end-users (in the Content Discovery interface). Labels need to have been set up already under **Knowledge** on the left hand navigation, and selecting the **labels** tab (reference this [article](../content-discovery/setting-up-content-discovery-carousels.md) for details on how to set up lablels).
 
 <figure><img src="../../../../.gitbook/assets/Summit10 2024-06-18 17-09-20.png" alt=""><figcaption></figcaption></figure>
 
