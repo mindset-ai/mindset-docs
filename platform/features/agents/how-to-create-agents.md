@@ -88,11 +88,21 @@ _**Please note:**_ The agent can have access to the information from multiple kn
 
 Once the selected knowledge banks have been toggled on and saved, the agent will then be able to utilise all information from those associated banks when answering end-user questions.&#x20;
 
-
-
 <figure><img src="../../../.gitbook/assets/summit10 2024-06-19 20-52-41.png" alt=""><figcaption></figcaption></figure>
 
-**Access Management**&#x20;
+#### Bias
+
+Under the **Bias** tab select **Bias Assessment** to see a summary of the Agent’s available Banks of Data. This provides information on the key themes and concepts of the banks content.
+
+<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 21-58-04 (1).png" alt=""><figcaption></figcaption></figure>
+
+The **Weighted** Concepts tab displays the concepts and the related segments, with the highest weighted concepts at the top and the lowest at the bottom.
+
+<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 21-58-41 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Access**&#x20;
 
 The **Access** tab allows you to choose which of your accounts have access to the selected agent.&#x20;
 
@@ -108,16 +118,11 @@ Next, you can select from your list of accounts below, the ones you wish to have
 
 You can additionally grant access to all of you accounts in one go by selecting the '**grant access to all**' button, or revoke access for all accounts in one go by selecting the '**revoke access for all**' button.
 
-_**Please note:**_ The default Knowledge bank in your application will always be an '**open access content bank'**.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-01-10 at 15.15.34.png" alt=""><figcaption></figcaption></figure>
-
-The **People** tab will show you all of the speakers you have added. \
-
-
 In order to find out more about access management, please refer to our article titled 'Agent entitlement and Knowledge banks'.
 
-#### Bias
+####
+
+
 
 
 
