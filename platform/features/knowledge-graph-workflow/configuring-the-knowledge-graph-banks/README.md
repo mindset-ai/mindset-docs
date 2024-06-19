@@ -100,11 +100,13 @@ Once **Published** you will see the green tick appear in the left-hand corner.
 
 ![](https://lh3.googleusercontent.com/xt9w\_fgr9BnG2Bn5EGcKSQP4TLmr9OXTgAzOk9gIjDYzH77LRra0EI93nRF4D48toVMeY17HZCOjdHEYBBMkuZuhexTRdRPZIA5EVzdfKSVNEUAWijX2\_gCk1KWr2D7ObBylQODPM8W77vVW\_Xroo9o)
 
-Within the selected knowledge bank, there are two additional tab headings: Bias and Access Management.&#x20;
+Within the selected knowledge bank, you will see additional tab headings: Prompts, Bias and Access Management.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-03-07 at 16.17.00.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-03-07 at 16.22.33.png" alt=""><figcaption></figcaption></figure>
+
+Please refer to this article to [configure **Prompts**](prompts/).
 
 The Access Management tab allows you to choosee which of your accounts have access to the selected Knowledge bank.&#x20;
 
