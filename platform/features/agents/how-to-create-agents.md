@@ -10,11 +10,11 @@ In order to add a new agent in your application, you will first need to be in th
 
 When agents have been created, you'll find a comprehensive list of your previously configured ones along with their corresponding handles displayed here.
 
-For instance, within this application, the agents named Michelle and Angie have been set up. Their respective handles, @Michelle and @Angie, are visible in the list under the 'Agents' section.
+For instance, within this application, the agents named Michelle and Angie have been set up. Their respective handles, @Michelle and @Angie, are visible in the list under the '**Agents**' tab.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-03-06 at 17.07.36.png" alt=""><figcaption></figcaption></figure>
 
-To initiate the creation of a new agent, select the 'add an agent' button.
+To initiate the creation of a new agent, select the '**add an agent**' button.
 
 Each agent represents a specific use case and purpose. Often, an agent can be built for a task or role. They can provide answers to any queries, if they have been connected to the right data sources, and execute tasks that align with their role.
 
@@ -68,7 +68,7 @@ _**Please note:**_ You do not have to select all 3 of these features together fo
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.25.38.png" alt=""><figcaption></figcaption></figure>
 
-Next you can set up your agent capabilities under the 'capabilities' heading. An agent capability is a specific set of steps that this agent is able to perform to the user. In order to find out more about capability configuration for your agents, please read our 'capabilities' article here.&#x20;
+Next you can set up your agent capabilities under the 'capabilities' heading. An agent capability is a specific set of steps that this agent is able to perform to the user. In order to find out more about capability configuration for your agents, please read our 'capabilities' article [here](how-to-configure-capabilities.md).&#x20;
 
 #### Design
 
@@ -88,31 +88,27 @@ _**Please note:**_ The agent can have access to the information from multiple kn
 
 Once the selected knowledge banks have been toggled on and saved, the agent will then be able to utilise all information from those associated banks when answering end-user questions.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.27.45.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/summit10 2024-06-19 20-52-41.png" alt=""><figcaption></figcaption></figure>
 
 **Access Management**&#x20;
 
-The Access Management tab allows you to choose which of your accounts have access to the selected Knowledge bank.&#x20;
+The **Access** tab allows you to choose which of your accounts have access to the selected agent.&#x20;
 
-The Knowledge bank can either be configured with open access - where all application members are able to view and search published content, including users who are members of any account; or restricted access, where only members of selected accounts are able to view and search published content in the knowledge bank.&#x20;
+The agent can either be configured with **open access** - where all application members are able to view and search published content, including users who are members of any account; or **restricted access**, where only members of selected accounts are able to view and search published content in the knowledge bank.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-07 at 16.22.40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/summit10 2024-06-19 20-54-38.png" alt=""><figcaption></figcaption></figure>
 
-To set up restricted access banks, select the 'restricted access' button and click save.&#x20;
+To restrict access to your agent to specific accounts, select the '**restricted access**' button and click save.&#x20;
 
-Next, you can select from your list of accounts below, the ones you wish to have access to the selected Knowledge bank. To do this, toggle on the button next to the account you wish to grant access to the bank, and click save.&#x20;
+Next, you can select from your list of accounts below, the ones you wish to have access to the selected agent. To do this, toggle on the button next to the account you wish to grant access to the agent, and click save.&#x20;
 
+<figure><img src="../../../.gitbook/assets/summit10 2024-06-19 20-56-41.png" alt=""><figcaption></figcaption></figure>
 
+You can additionally grant access to all of you accounts in one go by selecting the '**grant access to all**' button, or revoke access for all accounts in one go by selecting the '**revoke access for all**' button.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-07 at 16.40.47.png" alt=""><figcaption></figcaption></figure>
-
-You can additionally grant access to all of you accounts in one go by selecting the 'grant access to all' button, or revoke access for all accounts in one go by selecting the 'revoke access for all' button.
-
-The type of bank configured is visible in your administration portal above the Knowledge bank name.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-07 at 16.45.06.png" alt=""><figcaption></figcaption></figure>
-
-_**Please note:**_ The default Knowledge bank in your application will always be an 'open access content bank'.&#x20;
+_**Please note:**_ The default Knowledge bank in your application will always be an '**open access content bank'**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-01-10 at 15.15.34.png" alt=""><figcaption></figcaption></figure>
 
