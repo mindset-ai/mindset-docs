@@ -20,7 +20,7 @@ Each agent represents a specific use case and purpose. Often, an agent can be bu
 
 #### Setting up your agent
 
-After clicking the 'Add an agent' button, you'll gain access to configuring the agent according to your preferences.
+After clicking the '**Add an agent**' button, you'll gain access to configuring the agent according to your preferences.
 
 **Test**&#x20;
 
@@ -80,9 +80,9 @@ Under the Design tab, the agent's primary colour and text colour can be configur
 
 To change the colour simply click the 'select colour' button and choose your colour from the colour wheel or from your designated colour library.
 
-#### Knowledge Banks
+#### Knowledge&#x20;
 
-Under the 'Knowledge Banks' tab, you can select the knowledge banks that the agent can have access to.&#x20;
+Under the '**Knowledge**' tab, you can select the knowledge banks that the agent can have access to.&#x20;
 
 _**Please note:**_ The agent can have access to the information from multiple knowledge banks. More than one knowledge bank can be selected here.&#x20;
 
@@ -92,9 +92,38 @@ Once the selected knowledge banks have been toggled on and saved, the agent will
 
 **Access Management**&#x20;
 
+The Access Management tab allows you to choose which of your accounts have access to the selected Knowledge bank.&#x20;
+
+The Knowledge bank can either be configured with open access - where all application members are able to view and search published content, including users who are members of any account; or restricted access, where only members of selected accounts are able to view and search published content in the knowledge bank.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-07 at 16.22.40.png" alt=""><figcaption></figcaption></figure>
+
+To set up restricted access banks, select the 'restricted access' button and click save.&#x20;
+
+Next, you can select from your list of accounts below, the ones you wish to have access to the selected Knowledge bank. To do this, toggle on the button next to the account you wish to grant access to the bank, and click save.&#x20;
+
+
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-07 at 16.40.47.png" alt=""><figcaption></figcaption></figure>
+
+You can additionally grant access to all of you accounts in one go by selecting the 'grant access to all' button, or revoke access for all accounts in one go by selecting the 'revoke access for all' button.
+
+The type of bank configured is visible in your administration portal above the Knowledge bank name.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-07 at 16.45.06.png" alt=""><figcaption></figcaption></figure>
+
+_**Please note:**_ The default Knowledge bank in your application will always be an 'open access content bank'.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-01-10 at 15.15.34.png" alt=""><figcaption></figcaption></figure>
+
+The **People** tab will show you all of the speakers you have added. \
+
+
 In order to find out more about access management, please refer to our article titled 'Agent entitlement and Knowledge banks'.
 
 #### Bias
+
+
 
 
 

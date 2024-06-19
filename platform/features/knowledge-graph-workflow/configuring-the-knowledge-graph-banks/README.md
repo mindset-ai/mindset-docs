@@ -100,15 +100,17 @@ Once **Published** you will see the green tick appear in the left-hand corner.
 
 ![](https://lh3.googleusercontent.com/xt9w\_fgr9BnG2Bn5EGcKSQP4TLmr9OXTgAzOk9gIjDYzH77LRra0EI93nRF4D48toVMeY17HZCOjdHEYBBMkuZuhexTRdRPZIA5EVzdfKSVNEUAWijX2\_gCk1KWr2D7ObBylQODPM8W77vVW\_Xroo9o)
 
-Within the selected knowledge bank, you will see additional tab headings: Prompts, Bias and Access Management.&#x20;
+Within the selected knowledge bank, you will see additional tab headings: **Prompts, Bias** and **Access Management**.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-03-07 at 16.17.00.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-03-07 at 16.22.33.png" alt=""><figcaption></figcaption></figure>
 
-Please refer to this article to [configure **Prompts**](prompts/).
+**Prompts**\
+\
+To configure Prompts under the Prompts tab, refer to this [article](prompts/).
 
-The Access Management tab allows you to choosee which of your accounts have access to the selected Knowledge bank.&#x20;
+The Access Management tab allows you to choose which of your accounts have access to the selected Knowledge bank.&#x20;
 
 The Knowledge bank can either be configured with open access - where all application members are able to view and search published content, including users who are members of any account; or restricted access, where only members of selected accounts are able to view and search published content in the knowledge bank.&#x20;
 
