@@ -96,7 +96,7 @@ The **Weighted** Concepts tab displays the concepts and the related segments, wi
 
 **Testing**
 
-Under the **Testing** tab you can run tests and compare agent responses to understand end-users experiences. Further further details on the agent testing framework can be found [here](../../../general/ai-and-security/ai-guidelines.md).
+Under the **Testing** tab you can run tests and compare agent responses to understand end-users experiences. Further further details on the agent testing framework can be found [here](https://docs.mindset.ai/platform/features/agents/agent-testing-framework).
 
 **Preview**
 
