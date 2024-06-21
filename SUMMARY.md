@@ -46,7 +46,6 @@
     * [How to configure Agents](platform/features/agents/configuration.md)
     * [How to use Tools](platform/features/agents/tools.md)
     * [Agent entitlement and Knowledge banks](platform/features/agents/agent-entitlement-and-knowledge-banks.md)
-    * [Agents FAQs](platform/features/agents/agents-faqs.md)
     * [What are Capabilities?](platform/features/agents/what-are-capabilities-and-how-do-they-add-value.md)
     * [How to configure Capabilities](platform/features/agents/how-to-configure-capabilities.md)
     * [Capabilities Best Practices](platform/features/agents/capabilities-best-practices.md)
