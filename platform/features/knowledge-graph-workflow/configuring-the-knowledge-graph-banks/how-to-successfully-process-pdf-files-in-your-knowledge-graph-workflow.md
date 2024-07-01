@@ -8,7 +8,9 @@ description: >-
 
 **How can PDFs add value to your Knowledge Graph Workflow?**&#x20;
 
-You can upload PDF files to your Knowledge Bank in the Knowledge Graph Workflow. The information in these files can be utilised to help answer end-user questions through the Agent.
+You can upload PDF files to your Knowledge Bank in the Knowledge Graph Workflow. The information in these files can be utilised to help answer end-user questions through the Agent.&#x20;
+
+Agents can now ingest and index images to analyse visual information alongside text.
 
 Before you upload your PDF files, it's important to follow the guidelines below. These guidelines will ensure that the Mindset platform can read and comprehend your document effectively, allowing you to derive maximum value from your content.
 
@@ -18,8 +20,6 @@ Before you upload your PDF files, it's important to follow the guidelines below.
 
 **AI-Based Image Ingestion:** We use AI processing to correctly understand PDF content. While this significantly enhances our ability to process and extract information from various document formats, there are potential issues to be aware of:
 
-* **Charts:** Numbers overlaying charts and the colours used in charts may not be correctly identified by the AI. This can lead to inaccuracies in data extraction and interpretation. For best results, consider providing data in a table instead.
-* **Complex Images:** Although the AI can interpret text within images, highly complex images or those with intricate details might not be accurately processed. This includes detailed infographics or posters with small text.
 * **Handwritten Notes:** PDFs containing handwritten notes or annotations may not be accurately interpreted by the AI, leading to potential gaps in the extracted information.
 * **Low-Resolution Images:** Images with low resolution or poor quality might result in inaccurate text extraction. Ensure your PDF images are of high quality for the best results.
 
@@ -37,8 +37,8 @@ Our platform efficiently organises audio and visual files by specific topics, al
 
 For PDFs, the organisation can be likened to written transcripts of lectures. Instead of topics, our system marks every 10 sentences as a new 'chapter,' with a careful 2-sentence overlap between chapters to maintain connection and continuity.&#x20;
 
-While ongoing efforts aim to improve PDF handling, our current approach organises them in a sentence-based structure, ensuring uniformity in 'chapters' without compromising informativeness.
+Our current approach organises them in a sentence-based structure, ensuring uniformity in 'chapters' without compromising informativeness.
 
-If you'd like to read more about setting up your Knowledge Graph Worfklow, check out How to configure the Knowledge Graph Banks, or Knowledge Graph workflow FAQs.
+If you'd like to read more about setting up your Knowledge Graph Worfklow, check out [Knowledge Graph workflow FAQs](../knowledge-assistant/knowledge-graph-workflow-faqs.md).
 
 \

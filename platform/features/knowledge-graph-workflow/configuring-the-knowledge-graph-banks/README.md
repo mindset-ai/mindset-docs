@@ -151,6 +151,30 @@ The **Labels** tab enables the configuration of labels, these can be added to he
 
 
 
+#### Content bank vs synced bank 
+
+![](https://lh7-us.googleusercontent.com/docsz/AD\_4nXcoRzzChQIq9cRfKptEVPp\_X0oGzx-Od2ZWOhLpHixQBMrwLOOo7GGCkHCZWcbrLwgbEbapdwUgAVs3tpQ6e3jjLPGCAM8Zs0nJTRuApDC17CJ9Wmdp2EIaIGB1EhRVxlazYEXzXsMJ2m41uXmfjiGcr9go?key=WMZddIwpzqNg7YwDudp2Ww)
+
+\
+There are currently two types of knowledge banks - content banks and synced banks.&#x20;
+
+The difference is in the way files can reach the bank.&#x20;
+
+\
+**Content bank -** files can be uploaded directly into the bank.
+
+\
+**Synced bank -** files are ingested and synced from an external source such as Gdrive, via an ingestion integration.
+
+
+
+Files cannot be deleted from a synced bank, however edits can be made to the metadata of the files such as display name, description, summary. Any changes made to the metadata will be honoured during the syncing process. &#x20;
+
+In order to find out more about integrations, please go to our [integrations article.](broken-reference)\
+
+
+
+
 
 
 
