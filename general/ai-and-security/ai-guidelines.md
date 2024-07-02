@@ -37,9 +37,9 @@ IP ASSIMILATION
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Fig 1. Assimilation of IP</p></figcaption></figure>
 
-The ingestion of clients’ IP documents follows a process which starts with text extraction and document format abstraction. This is followed by the semantic segmentation of the extracted text, speaker detection and identification (in the event of audio/video input), topic detection, text splitting and embedding and knowledge-entitlement segregation.
+The ingestion of clients’ IP documents follows a process that starts with text extraction and document format abstraction. This is followed by the semantic segmentation of the extracted text, speaker detection and identification (in the event of audio/video input), topic detection, text splitting and embedding, and knowledge-entitlement segregation.
 
-* Assimilated IP is never used to train any LLM shared between clients nor used for any process other than answering questions posed by users of the Agents created by your organisation for your purpose.
+* Assimilated IP is never used to train any LLM shared between clients nor used for any process other than answering questions posed by users of the Agents created by your organization for your purpose.
 * Data is stored in GCP (Google Cloud Platform) hosted databases and secured with row-level security, which Google manages.
 
 
@@ -60,33 +60,33 @@ Users interact with the KG through an embedded chat interface where they can get
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Fig 3. Interaction with the Knowledge Graph</p></figcaption></figure>
 
-This interaction flow starts with the user’s input passing through an entitlement filter, where the specific information that the user is entitled to is determined. After this, the best Knowledge Graph elements are fetched and, based on the user’s specific context, the best answer/action strategy is decided on. Suppose a semantic interface (LLM) is needed. In that case, the best interface is chosen based on availability and specialisation to the task (Mindset is LLM agnostic in that we can route to GPT, Claude, PaLM, etc.)
+This interaction flow starts with the user’s input passing through an entitlement filter, where the specific information that the user is entitled to is determined. After this, the best Knowledge Graph elements are fetched, and, based on the user’s specific context, the best answer/action strategy is decided on. Suppose a semantic interface (LLM) is needed. In that case, the best interface is chosen based on availability and specialization to the task (Mindset is LLM agnostic in that we can route to GPT, Claude, PaLM, etc.)
 
 If the request is for information (“Ask”), the LLM’s output is returned to the user.
 
 ### How do you ensure humans understand when they are interacting with AI?
 
-Each interaction with an Agents starts with a Disclaimer message, which explains that the Agents is an AI and the specific limitations of the Agents.
+Each interaction with an Agent starts with a Disclaimer message, which explains that the Agent is an AI and the specific limitations of the Agent.
 
 ### What are your AI ethical principles?
 
-Our goal is to build an AI-powered system which is honest, helpful and harmless.
+Our goal is to build an AI-powered system that is honest, helpful, and harmless.
 
 HONESTY
 
 * **Accurately reflect the client IP:** Enable our clients to craft knowledge bases containing accurate and reliable information.
 * **Transparency in Responses:** We communicate the source of the information (answers) provided by the system, enabling users to zero in on the specific IP fragments that informed the system’s response
 
-HELPFULLNESS
+HELPFULNESS
 
-* **User-Centred Design:** Our system is tailored to address user needs effectively. This includes understanding the context of queries and providing relevant and actionable responses.
-* **Personalisation within Ethical Bounds:** The system offers personalised responses where appropriate and ensures that personalisation does not infringe on user privacy or ethical standards.
+* **User-centered Design:** Our system is tailored to address user needs effectively. This includes understanding the context of queries and providing relevant and actionable responses.
+* **Personalization within Ethical Bounds:** The system offers personalized responses where appropriate and ensures that personalization does not infringe on user privacy or ethical standards.
 * **Continuous Learning and Improvement:** We use user feedback and interaction data to improve the system's ability to provide helpful responses.
 
 HARMLESSNESS
 
 * **Bias Mitigation:** We regularly audit the system for biases in available content, content retrieval, and generation. This includes monitoring for gender, racial, cultural, or any other form of bias.
-* **Content Moderation:** We have mechanisms for reporting instances where users feel the generated responses were wrong, biased or inappropriate. These reports are routed to the appropriate stakeholders for action.
+* **Content Moderation:** We have mechanisms for reporting instances where users feel the generated responses were wrong, biased, or inappropriate. These reports are routed to the appropriate stakeholders for action.
 * **Safety Protocols:** We have protocols for handling sensitive topics, including directing users to human experts or authorities when necessary (e.g., in cases of legal advice, health emergencies, etc.)
 
 ### How does the AI improve the user experience?
@@ -97,11 +97,11 @@ At Mindset AI, the AI enhances the user experience through real-time, context-aw
 
 VALUE TO USERS
 
-As a conceptual AI Agents, the platform is designed to provide real-time, contextual responses, optimising users' access to the right information when needed. User questions trigger the generation of informational responses and predefined automated actions, simplifying various processes.
+As a conceptual AI agent, the platform is designed to provide real-time, contextual responses, optimizing users' access to the right information when needed. User questions trigger the generation of informational responses and predefined automated actions, simplifying various processes.
 
 VALUE TO CLIENTS
 
-Mindset-AI provides several benefits to our clients, helping them deliver an enriched and seamless user experience. Mindset’s AI system strengthens our clients' offerings by enabling them to offer real-time, informed responses via an AI Agents. This aids in handling queries and automatically triggering actions based on user inputs. Integrating our clients' IP into the secure Mindset Knowledge Graph gives them a sturdy system for managing their IP and providing value to their users. Firebase Authentication and our robust security framework guarantee the highest level of data security.
+Mindset-AI provides several benefits to our clients, helping them deliver an enriched and seamless user experience. Mindset’s AI system strengthens our clients' offerings by enabling them to offer real-time, informed responses via AI Agents. This aids in handling queries and automatically triggering actions based on user inputs. Integrating our clients' IP into the secure Mindset Knowledge Graph gives them a sturdy system for managing their IP and providing value to their users. Firebase Authentication and our robust security framework guarantee the highest level of data security.
 
 Most importantly, our AI Agents work as a tool, helping clients shape informed decisions and stay in full control of the information flow. The context-aware system helps clients provide information and empower their users with knowledge. Finally, our iterative approach to integration eases maintenance and ensures seamless integration with various platforms, enhancing overall efficiency.
 
@@ -109,15 +109,15 @@ Most importantly, our AI Agents work as a tool, helping clients shape informed d
 
 ### What data is collected?
 
-At Mindset, we primarily collect data to enhance the functionality of our products and improve our user experience. We follow the principles of data minimisation, only collecting pertinent data required for the product's functioning.
+At Mindset, we primarily collect data to enhance the functionality of our products and improve our user experience. We follow the principles of data minimization, only collecting pertinent data required for the product's functioning.
 
 Here are the main types of data collected:
 
 * **Client's IP:** The client's IP is integrated into the Mindset Knowledge Graph. Our clients have a separate tenant in the Knowledge Graph that only they can access.
-* **Anonymised Usage Data:** This includes anonymised user queries, usage metrics, user learning pathway data, user attributes, feedback metrics related to the chatbot, and general system usage. Collected usage data allows us to enhance system performance and provide more relevant responses.
-* **User-Specific Information:** The information gathered during user onboarding and subsequent interaction with the system is used to personalise user experience, helping us tailor our responses to be more relevant and effective.
+* **Anonymized Usage Data:** This includes anonymized user queries, usage metrics, user learning pathway data, user attributes, feedback metrics related to the chatbot, and general system usage. Collected usage data allows us to enhance system performance and provide more relevant responses.
+* **User-Specific Information:** The information gathered during user onboarding and subsequent interaction with the system is used to personalize user experience, helping us tailor our responses to be more relevant and effective.
 
-The data collection is in line with legal requirements, ethical guidelines and the principle of data minimisation; we collect only essential data required for service improvement and personalisation. It's critical to note that we maintain the highest level of anonymity and confidentiality in our data collection process.
+The data collection is in line with legal requirements, ethical guidelines, and the principle of data minimization; we collect only essential data required for service improvement and personalization. It's critical to note that we maintain the highest level of anonymity and confidentiality in our data collection process.
 
 ### How is data used?
 
@@ -127,7 +127,7 @@ Client-owned IP integrated into our Mindset Knowledge Graph is essential for ans
 
 Instead, the training data for our LLMs is explicitly provided by and external LLM and stands independently of the client IP. Therefore, client data usage solely focuses on enhancing services specific to the client.
 
-In our continuous bid to uphold client data's confidentiality, integrity, and availability, we ensure that our data usage policies are transparent and prioritise informing clients promptly about any changes.
+In our continuous bid to uphold client data's confidentiality, integrity, and availability, we ensure that our data usage policies are transparent and prioritize informing clients promptly about any changes.
 
 ### How is data stored?
 
@@ -139,7 +139,7 @@ We use Firebase Authentication, a robust service provided by Google, to manage a
 
 DATA POLICIES
 
-We prioritise our clients' data security.
+We prioritize our clients' data security.
 
 **Zero Trust Security Model:** We enforce strict identity verification for every person and system trying to access resources on our network, regardless of location.
 
@@ -157,11 +157,11 @@ At Mindset AI, we believe conducting business with integrity includes maintainin
 
 **Data Sharing:** We strictly follow a 'No Third-Party Sharing Policy'. We do not share, sell, or trade our clients' data with third parties or other clients under any circumstance. Your data and IP stays exclusively within the purview of Mindset AI to enhance the product we deliver and the services we offer you.
 
-**Transparency:** We prioritise keeping our clients informed if there are any changes to our data handling policies. Any updates in the data usage policies are shared promptly with our clients to ensure maximum transparency.
+**Transparency:** We prioritize keeping our clients informed if there are any changes to our data handling policies. Any updates in the data usage policies are shared promptly with our clients to ensure maximum transparency.
 
 ### What data protection regulations are followed?
 
-Mindset AI is committed to ensuring compliance with data protection regulations, including GDPR and CCPA. We prioritise user privacy by adhering to strict data collection, storage, and usage guidelines in line with legal requirements. Our approach revolves around data minimisation, ensuring that only essential data required for service improvement and personalisation is collected. We maintain the highest level of anonymity and confidentiality in our data collection process, safeguarding user privacy and upholding ethical standards. Additionally, we inform clients about changes in our data handling policies, ensuring transparency and mutual trust.
+Mindset AI is committed to ensuring compliance with data protection regulations, including GDPR and CCPA. We prioritize user privacy by adhering to strict data collection, storage, and usage guidelines in line with legal requirements. Our approach revolves around data minimization, ensuring that only essential data required for service improvement and personalization is collected. We maintain the highest level of anonymity and confidentiality in our data collection process, safeguarding user privacy and upholding ethical standards. Additionally, we inform clients about changes in our data handling policies, ensuring transparency and mutual trust.
 
 ## Agent Q\&A
 
@@ -169,13 +169,13 @@ Mindset AI is committed to ensuring compliance with data protection regulations,
 
 OBJECTIVITY
 
-At Mindset AI, we believe in the mantra, 'AI works best with human involvement.' We offer a user-centred design that facilitates open and continuous interaction between our AI system and the user, creating a feedback loop that sharpens the system's responses over time.
+At Mindset AI, we believe in the mantra, 'AI works best with human involvement.' We offer a user-centered design that facilitates open and continuous interaction between our AI system and the user, creating a feedback loop that sharpens the system's responses over time.
 
 Additionally, our AI Agents are crafted as tools to assist rather than replace their human counterparts, enabling users to make enlightened decisions – based on system responses – while keeping a full command over the overall process.
 
 We fundamentally believe in the principle of human-in-the-loop as a significant step towards creating a more beneficial and effective AI solution.
 
-A good example of Mindset-AI's commitment to the human-in-the-loop model can be seen in its Content Moderation feature. If users feel that the AI system generates a wrong, biased, or inappropriate response, they can report this instance. These reports are made available to the appropriate stakeholders for review and action. In this way, Mindset-AI ensures that human judgement is involved in refining and improving the AI system, thus keeping a human actively involved in the loop.
+A good example of Mindset-AI's commitment to the human-in-the-loop model can be seen in its Content Moderation feature. If users feel that the AI system generates a wrong, biased, or inappropriate response, they can report this instance. These reports are made available to the appropriate stakeholders for review and action. In this way, Mindset-AI ensures that human judgment is involved in refining and improving the AI system, thus keeping a human actively involved in the loop.
 
 ### How is user feedback incorporated?
 
@@ -191,19 +191,19 @@ We see the feedback loop from user to admin as vital: enabling the administrator
 
 EXPLAINABILITY
 
-A core part of Mindset’s value proposition is to foster user knowledge exploration. We do this by accompanying Agents responses with contextual information, like the specific media segments from the Knowledge Graph related to the provided answer and the core concepts close to this conversation.
+A core part of Mindset’s value proposition is to foster user knowledge exploration. We do this by accompanying Agents' responses with contextual information, like the specific media segments from the Knowledge Graph related to the provided answer and the core concepts close to this conversation.
 
 ### How do you ensure that the Agents are working optimally?
 
 VALIDITY
 
-At Mindset-AI, evaluating RAG Agents is pivotal to ensure their effectiveness. We rigorously monitor their performance across the three key metrics of the RAG Triad: Answer Relevance, Context Relevance, and Groundedness. By scrutinising these fundamental aspects, we guarantee that our RAG Agents provide precise, contextually relevant, and grounded responses, securing quality and reliability in user interactions.
+At Mindset-AI, evaluating RAG Agents is pivotal to ensure their effectiveness. We rigorously monitor their performance across the three key metrics of the RAG Triad: Answer Relevance, Context Relevance, and Groundedness. By scrutinizing these fundamental aspects, we guarantee that our RAG Agents provide precise, contextually relevant, and grounded responses, securing quality and reliability in user interactions.
 
 ### What steps are taken to ensure the Agents cannot be interfered with?
 
 SECURITY
 
-At Mindset-AI, we prioritise rigorous security measures to safeguard our RAG Agents against potential interference. We apply Input Validation and Sanitization to neutralise harmful inputs. Our secure API integration fortifies protection against potential breaches while consistent usage and behaviour monitoring detect abnormal activities. Additionally, rate limiting cancels out high-frequency request attacks, making prompt injections unviable. Ultimately, users must pass our robust authentication before interacting with the RAG Agents, ensuring only authorised access. Through these layers of protection, we strive to deliver a smooth, secure and reliable user experience.
+At Mindset-AI, we prioritize rigorous security measures to safeguard our RAG Agents against potential interference. We apply Input Validation and Sanitization to neutralize harmful inputs. Our secure API integration fortifies protection against potential breaches while consistent usage and behavior monitoring detect abnormal activities. Additionally, rate limiting cancels out high-frequency request attacks, making prompt injections unviable. Ultimately, users must pass our robust authentication before interacting with the RAG Agents, ensuring only authorized access. Through these layers of protection, we strive to deliver a smooth, secure, and reliable user experience.
 
 ## 3rd Party AI Vendors
 
@@ -213,9 +213,9 @@ SUITABILITY
 
 At Mindset-AI, we're deliberate and meticulous in selecting third-party vendors like OpenAI. A key criterion is IP Protection; we ensure that our client's data is never used to train the vendors' models, preserving the integrity and confidentiality of client data.
 
-Coming from the belief that we stand on the shoulders of giants, we capitalise on the excellent foundational work of such reputable vendors while contributing our unique, innovative layer to refine and advance their offerings.
+Coming from the belief that we stand on the shoulders of giants, we capitalize on the excellent foundational work of such reputable vendors while contributing our unique, innovative layer to refine and advance their offerings.
 
-We also look keenly into the vendor's speciality. Each provider brings unique strengths to the table, and we select the most suitable tool for the job, even if it means adapting it to our specific requirements. The dependability of a vendor is quintessential in our selection. We opt for reliable and trustworthy vendors with a proven track record.
+We also look keenly into the vendor's specialty. Each provider brings unique strengths to the table, and we select the most suitable tool for the job, even if it means adapting it to our specific requirements. The dependability of a vendor is quintessential in our selection. We opt for reliable and trustworthy vendors with a proven track record.
 
 Lastly, while we appreciate quality and reliability, we also know the cost. We strive for a careful balance of cost-effectiveness without compromising product quality and client satisfaction.
 
