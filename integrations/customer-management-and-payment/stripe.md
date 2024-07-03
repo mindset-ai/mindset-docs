@@ -18,7 +18,7 @@ Our integration between Stripe and your CRM provides a comprehensive view of cus
 
 ### How this integration works
 
-Due to the way the Mindset platform is set up, we don’t directly connect with Stripe, but link your Stripe account to another CRM tool through an indirect integration, customised to your needs. If your CRM is integrated with Stripe, we can create a workflow between Stripe, your CRM, and Mindset.
+Due to the way the Mindset platform is set up, we don’t directly connect with Stripe, but link your Stripe account to another CRM tool through an indirect integration, customized to your needs. If your CRM is integrated with Stripe, we can create a workflow between Stripe, your CRM, and Mindset.
 
 | Stripe       |                                          Data flow                                          | CRM  |                                          Data flow                                          | Mindset                |
 | ------------ | :-----------------------------------------------------------------------------------------: | ---- | :-----------------------------------------------------------------------------------------: | ---------------------- |

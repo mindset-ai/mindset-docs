@@ -22,7 +22,7 @@ Our Customer Management & Payment integrations streamline how you manage custome
 
 ### Want to integrate with a specific CMS or payment tool?&#x20;
 
-We understand there are many tools people use to manage operations within their organisations. If you don't see what you're looking for and would like to integrate with a tool not listed above, please contact us to request a new integration.
+We understand there are many tools people use to manage operations within their organizations. If you don't see what you're looking for and would like to integrate with a tool not listed above, please contact us to request a new integration.
 
 [> Request an integration](https://mindset-ai.atlassian.net/servicedesk/customer/portal/1/group/10/create/40)
 

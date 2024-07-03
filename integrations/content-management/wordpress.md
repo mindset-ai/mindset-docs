@@ -18,7 +18,7 @@ Our WordPress integration allows you to seamlessly ingest content from your Word
 
 ### How this integration works
 
-With our WordPress ingestion integration, we import posts and custom post types into a dedicated knowledge bank. This knowledge bank will stay up-to-date with any new, updated, or deleted posts from WordPress. The frequency of synchronisation can be adjusted to fit your needs.\
+With our WordPress ingestion integration, we import posts and custom post types into a dedicated knowledge bank. This knowledge bank will stay up-to-date with any new, updated, or deleted posts from WordPress. The frequency of synchronization can be adjusted to fit your needs.\
 
 
 | WordPress |                                    Direction of data flow                                   | Mindset        |

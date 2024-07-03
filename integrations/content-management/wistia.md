@@ -18,7 +18,7 @@ Our Wistia integration allows you to effortlessly ingest video content from your
 
 ### How this integration works
 
-We can ingest Wistia content. One folder will sync to one knowledge bank, our knowledge banks will sync with your Wistia content as often is useful.
+We can ingest Wistia content. One folder will sync to one knowledge bank, our knowledge banks will sync with your Wistia content as often as is useful.
 
 | Wistia |                                    Direction of data flow                                   | Mindset        |
 | ------ | :-----------------------------------------------------------------------------------------: | -------------- |

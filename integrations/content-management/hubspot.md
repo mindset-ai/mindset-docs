@@ -18,7 +18,7 @@ Our HubSpot integration allows you to effortlessly ingest content from your HubS
 
 ### How this integration works
 
-We can seamlessly ingest a wide range of HubSpot content tailored to your specific needs. Using tags or content types (such as blogs or files), we ensure that only the most relevant content is imported. The synchronisation frequency between HubSpot and your knowledge banks can be adjusted to suit your requirements. Typically, each media type will be mapped to a corresponding knowledge bank, ensuring organised and efficient content management.
+We can seamlessly ingest a wide range of HubSpot content tailored to your specific needs. Using tags or content types (such as blogs or files), we ensure that only the most relevant content is imported. The synchronization frequency between HubSpot and your knowledge banks can be adjusted to suit your requirements. Typically, each media type will be mapped to a corresponding knowledge bank, ensuring organized and efficient content management.
 
 | Hubspot  |                                    Direction of data flow                                   | Mindset        |
 | -------- | :-----------------------------------------------------------------------------------------: | -------------- |

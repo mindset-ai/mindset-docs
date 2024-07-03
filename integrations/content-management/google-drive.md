@@ -18,9 +18,13 @@ Our Google Drive integration allows you to effortlessly ingest content from your
 
 ### How this integration works
 
-Our Google Drive integration requires secure access to your selected Drive and folders. This integration ensures your chosen knowledge bank stays current with any new, updated, or deleted content from Google Drive. The frequency of the synchronisation can be adjusted to suit your needs.
+Our Google Drive integration requires secure access to your selected Drive and folders. This integration ensures your chosen knowledge bank stays current with any new, updated, or deleted content from Google Drive. The frequency of the synchronization can be adjusted to suit your needs.
+
+
 
 <table><thead><tr><th width="283">Google Drive</th><th align="center">Direction of data flow</th><th>Mindset</th></tr></thead><tbody><tr><td>Folder</td><td align="center"><img src="../../.gitbook/assets/arrow - left to right (2).png" alt="" data-size="original"></td><td>Knowledge Bank</td></tr></tbody></table>
+
+
 
 ### File formats supported:&#x20;
 

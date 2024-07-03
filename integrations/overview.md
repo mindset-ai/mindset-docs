@@ -31,7 +31,7 @@ Easily ingest content into knowledge banks from various sources, keeping everyth
 
 #### [**Communication**](communication/)
 
-Communicate seamlessly with agents through your favourite chat channels, staying within your workflow without needing to switch between apps. This allows for quick communication with agents, boosting productivity.
+Communicate seamlessly with agents through your favorite chat channels, staying within your workflow without needing to switch between apps. This allows for quick communication with agents, boosting productivity.
 
 #### [**Customer management and payment**](customer-management-and-payment/)
 

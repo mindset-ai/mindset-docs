@@ -18,7 +18,7 @@ Our Podbean integration allows you to effortlessly ingest podcast content from y
 
 ### How this integration works
 
-With our Podbean ingestion integration, we'll seamlessly import your Podbean catalogue into a dedicated knowledge bank. This knowledge bank will stay up-to-date with any new, updated, or deleted podcasts. The synchronisation frequency between Podbean and your knowledge bank can be adjusted to fit your specific needs, ensuring your content is always current and accurately managed.
+With our Podbean ingestion integration, we'll seamlessly import your Podbean catalog into a dedicated knowledge bank. This knowledge bank will stay up-to-date with any new, updated, or deleted podcasts. The synchronization frequency between Podbean and your knowledge bank can be adjusted to fit your specific needs, ensuring your content is always current and accurately managed.
 
 | Podbean   |                                    Direction of data flow                                   | Mindset        |
 | --------- | :-----------------------------------------------------------------------------------------: | -------------- |
