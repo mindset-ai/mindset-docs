@@ -10,7 +10,7 @@ This is the default workflow that runs when the user clicks “Get Started” wi
 
 #### Configuring the onboarding workflow
 
-To configure the Onboarding Workflow, click on the Onboarding tab on the left-hand side of the app and then click on the Home Page Settings tab. To enable the Onboarding widget which will appear on the home page, click on the Show home page widget for profile image toggle button. Under the Header text for home page widget for profile image, configure your text which will be displayed on the home page.
+To configure the Onboarding Workflow, click on the Onboarding tab on the left-hand side of the app and then click on the Home Page Settings tab. To enable the Onboarding widget which will appear on the home page, click on the Show home page widget for the profile image toggle button. Under the Header text for the home page widget for the profile image, configure the text which will be displayed on the home page.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 09.49.32 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -18,14 +18,14 @@ You can add body text under the **Body text** heading and add the text that will
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 09.55.30.png" alt=""><figcaption></figcaption></figure>
 
-To add a home page widget, click on Change button to select an image. You can also select a colour for the background of the home page profile widget to be displayed on the home screen.\
+To add a home page widget, click on the Change button to select an image. You can also select a color for the background of the home page profile widget to be displayed on the home screen.\
 
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 09.57.41.png" alt=""><figcaption></figcaption></figure>
 
 **Configuring the Welcome widget**
 
-For the Welcome widget, under Welcome Text on first visit, configure the text that will be displayed on a user’s first visit, and under the Welcome Text on visit after one day, add the text that will be displayed on the visit after one day.
+For the Welcome widget, under Welcome Text on the first visit, configure the text that will be displayed on a user’s first visit, and under the Welcome Text on visit after one day, add the text that will be displayed on the visit after one day.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 09.59.21.png" alt=""><figcaption></figcaption></figure>
 
@@ -35,13 +35,13 @@ Click on the Survey Questions tab to add and configure Onboarding survey questio
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.01.48.png" alt=""><figcaption></figcaption></figure>
 
-We always recommend starting the Onboarding process with your Terms and Conditions. This enables the end-user to access and read them prior to using the application, as well as confirm they agree. To configure this, click on the Survey questions tab and select Terms and Conditions from the Add a question type dropdown.\
+We always recommend starting the Onboarding process with your Terms and Conditions. This enables the end-user to access and read them prior to using the application, as well as confirm they agree. To configure this, click on the Survey questions tab and select Terms and Conditions from the Add a Question type dropdown.\
 \
 Add a heading text under the Heading field. Add a supporting body message under the Body field. Add a button text to accept and continue the terms and conditions under the Button text. Under the Hero Image, click on the Upload Image to add an SVG image to display in the middle of the screen. Remember to click on the Save button at the top right corner of the application.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.03.22.png" alt=""><figcaption></figcaption></figure>
 
-For Text question type, this is best utilised as a means of finding out an end-users name. To do this, add the question text to the Primary question field. Add a message to the Supporting message field and a hint text to support the end-user in answering the question.  Click on Select Question Field to choose the Friendly Name dataset.&#x20;
+For Text question type, this is best utilized as a means of finding out an end-user name. To do this, add the question text to the Primary question field. Add a message to the Supporting message field and a hint text to support the end-user in answering the question.  Click on Select Question Field to choose the Friendly Name dataset.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.04.18.png" alt=""><figcaption></figcaption></figure>
 

@@ -7,7 +7,7 @@ description: A step by step process of how to configure the Channels Workflow.
 **Enabling the Channel workflow**
 
 \
-Go to **Configure > Channel** on the left-hand side of the navigation bar. Under this menu, you can set up the base configuration for the workflow. Here you have the ability to change the **Carousel background colour** displayed on the home screen of the user’s app, to match closely with your company branding. \
+Go to **Configure > Channel** on the left-hand side of the navigation bar. Under this menu, you can set up the base configuration for the workflow. Here you have the ability to change the **Carousel background color** displayed on the home screen of the user’s app, to match closely with your company branding. \
 
 
 <figure><img src="https://lh7-us.googleusercontent.com/_5IOn9W7X9GTRwCEx2hLZF8kn9Rv1obSDgwsc6N5mSgy3faalHAH3fYIbf6goGf9ceHFkOxCuzBq4Ee5DcdRjp1IZRo2SZM2wCGpfY_qHKICvi7Xk1qojVZldxIpqzAABe4bgvfMpewv1WtM1N2Il2c" alt=""><figcaption></figcaption></figure>
@@ -35,7 +35,7 @@ Under the **Details** tab, you will be able to configure how your channel appear
 
 Next, click on the Published engagements tab which shows a list of the engagement copies published in this channel. Most engagement copies published in a Broadcast Channel are linked to the original engagement in your Engagements Library.&#x20;
 
-After publication, linked copies are automatically updated with any changes made to the original engagement. Please note that you can also publish engagements to the channel from the published engagements tab by clicking the Publish engagement button (refer to the Publishing engagements guide article for more information).\
+After publication, linked copies are automatically updated with any changes made to the original engagement. Please note that you can also publish engagements to the channel from the published engagements tab by clicking the Publish engagement button (refer to the Publishing Engagements Guide article for more information).\
 
 
 <figure><img src="https://lh7-us.googleusercontent.com/QldmLD7QuzKBmmZkXgWjr1AzfW8rwnKTf8WQBq5Nm2NiMKeyD3NRaBVfoby-NChKQciOnp8FYt4RbR8qtGxyc5x1LTTScho4nwhg4kbluhNaZnjZSN3_EvWse1kjatdvchy_3p5be1sFHER4BNylrFw" alt=""><figcaption></figcaption></figure>
@@ -54,13 +54,13 @@ Next, click on the Select an engagement button to choose the desired engagement 
 
 <figure><img src="https://lh7-us.googleusercontent.com/QYfqxja1tlxlSz9lylXe4VgH8GeOpCwK2IOBcFF4ufsw_ngtiiZCdY_dsSFtbyCg_XVyGZ0nRI1Y4RcnsgySxw1aWQG9VH3UgE4IAy9EEGZ-5-__o_E13BogdBmGJpWQPdE93m17XbjopXPSvZO-L6c" alt=""><figcaption></figcaption></figure>
 
-Select the desired engagement from your list of engagements and click on the the Confirm button.&#x20;
+Select the desired engagement from your list of engagements and click on the Confirm button.&#x20;
 
 
 
 <figure><img src="https://lh7-us.googleusercontent.com/FodrsnZF3vrfp1fIwlBasoGcm3KNGZoBf7g69bhSjCEQN0TGBvtQfHHD0BSly7Jd353Y_rt8QnW0kq2rRB9TpY7UdhIsXsr5hoR98xdNgc0GEom88ODWUUQEV2jvFltiQPnJNS9FKRNKWB5BIWkkpfw" alt=""><figcaption></figcaption></figure>
 
-You can select a sender from your senders list which is optional by clicking on the Select sender dropdown.
+You can select a sender from your sender's list which is optional by clicking on the Select sender dropdown.
 
 <figure><img src="https://lh7-us.googleusercontent.com/S2bXw3Gf7DmFIgeeUAq9Zk7OwUsTjQno16fsz11_WGVNWuSqBY3SoHNY6eyyKbASdMfNwqimIPgfvZ8eOBR3AOqHM8mFQ1EB2gcxU8PT6zlB3AL-4g8mPu3qTwFh-MToqc1mUhVXDtPYJd7y24EXOZg" alt=""><figcaption></figcaption></figure>
 

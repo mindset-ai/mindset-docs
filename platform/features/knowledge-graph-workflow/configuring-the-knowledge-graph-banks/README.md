@@ -4,7 +4,7 @@ description: How to use and configure the Knowledge Banks for your end-users.
 
 # Knowledge Banks
 
-The Knowledge Banks are the section in which your content is stored and filed. The end-user would never know they were accessing particular banks of content but for the admin, it is a way of separating content. In the future, this may be how content is permissioned to specific users, so we would recommend thinking of the banks as perhaps free vs paid for content.&#x20;
+The Knowledge Banks are the section in which your content is stored and filed. The end-user would never know they were accessing particular banks of content but for the admin, it is a way of separating content. In the future, this may be how content is permissioned to specific users, so we would recommend thinking of the banks as perhaps free vs paid-for content.&#x20;
 
 There is no limit on the amount of content you can upload to one bank, initially, we recommend keeping fewer banks, each with lots of rich content. The content here is what the agents will use to ‘learn’ from in order to deliver accurate and informative answers for your end users.
 
@@ -26,7 +26,7 @@ When uploading you will see the file processing on the right-hand side.
 
 Once your **Bank** files have been processed they will sit in an unpublished state on the left hand side, now you have the opportunity to manually review the file before publishing. Click on the three dots on the right-hand corner of the file and select **Edit**. &#x20;
 
-Under the **Content Item Settings** tab you can amend the content **Display Name**, this is what the end-user will see when searching for content or looking at segments. You can amend the **Description** for that piece of content and add a **thumbnail** image. We recommend including thumbnails that represent your brand, as well as that piece of content, think about the topic, the speakers or the event and how you can represent this in the thumbnail. You also have the option to include the **Display date**, this is how content will be ordered in the front-end for users i.e. most recent content.
+Under the **Content Item Settings** tab, you can amend the content **Display Name**, this is what the end-user will see when searching for content or looking at segments. You can amend the **Description** for that piece of content and add a **thumbnail** image. We recommend including thumbnails that represent your brand, as well as that piece of content, think about the topic, the speakers or the event and how you can represent this in the thumbnail. You also have the option to include the **Display date**, this is how content will be ordered in the front-end for users i.e. most recent content.
 
 <figure><img src="../../../../.gitbook/assets/Summit10 2024-06-19 08-31-21.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ You have the option to exclude the content from the Discovery and Segments panel
 
 <figure><img src="../../../../.gitbook/assets/Summit10 2024-06-18 16-55-16.png" alt=""><figcaption></figcaption></figure>
 
-Next **Labels** can be added to organise the content for your end-users (in the Content Discovery interface). Labels need to have been set up already under **Knowledge** on the left hand navigation, and selecting the **labels** tab (reference this [article](../content-discovery/setting-up-content-discovery-carousels.md) for details on how to set up labels).
+Next **Labels** can be added to organize the content for your end-users (in the Content Discovery interface). Labels need to have been set up already under **Knowledge** on the left-hand navigation, and selecting the **labels** tab (reference this [article](../content-discovery/setting-up-content-discovery-carousels.md) for details on how to set up labels).
 
 <figure><img src="../../../../.gitbook/assets/Summit10 2024-06-18 17-09-20.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@ If the file is a PDF a **Transcription** tab will be seen next to the **Content 
 
 **Configuring Segments**
 
-If the file is an MP3, MP4 or Mov you will see a **Segments** tab next to the Content Items Settings tab. In the **Segments** tab, you will see the content broken down into chapters, or segments, these are chunks of content that each relate to one topic. When a new segment is created, it means the topic has changed inside of the content.\
+If the file is an MP3, MP4 or Mov you will see a **Segments** tab next to the Content Items Settings tab. In the **Segments** tab, you will see the content broken down into chapters, or segments, these are chunks of content that each relates to one topic. When a new segment is created, it means the topic has changed inside of the content.\
 
 
 <figure><img src="../../../../.gitbook/assets/Summit10 2024-06-19 08-48-13.png" alt=""><figcaption></figcaption></figure>
@@ -69,7 +69,7 @@ Select the box and type the person's name who spoke in that **segment**, when yo
 
 This is important because the end-user can start engaging directly with specific speakers in the **agent** chat i.e. ‘What does Niamh think about using Accounts?’ and they will get an accurate answer.
 
-If you select the pencil button for each segment you can amend the transcript or update the **Segment** heading and summary. For example, if it has spelt someone's name wrong you can go and amend it.
+If you select the pencil button for each segment you can amend the transcript or update the **Segment** heading and summary. For example, if it has spelled someone's name wrong you can go and amend it.
 
 ![](https://lh4.googleusercontent.com/7DzYIMVNC8d2fkHTI44GhX\_FKWo88JiePDU6m-2x3QYvW2YQAofqUVEBvC-Wq2kkk9sN3wqwpzXNqICVRHcUjXAlCEgFd\_RBRGaH6ARmfIBSmVw\_6MBjcV10dEfw5ukluDiydkPP6yqu3fFaPb2i6sE)
 
@@ -81,7 +81,7 @@ If you find the transcription consistently gets a word incorrect, you can use th
 
 ![](https://lh6.googleusercontent.com/Cyh-Pu-6AtHFOWFkK90exmoJgVU-3NV8KvNuNI9kgd212-4gxHM79mD9PPVKYd0-AoT-BHQUkIDd2-1n28b1odP5u1mgwobtNSb\_sOMtQG85M0W-jJnRVWwbI41vtheuvYu\_6Hm\_r841yq84I8qe2UI)
 
-Once you are happy with the transcription, segments and speakers, click back to your list of content inside the bank. You can now start publishing these pieces of content to the **Knowledge** workflow for end-users to instantly engage with
+Once you are happy with the transcription, segments, and speakers, click back to your list of content inside the bank. You can now start publishing these pieces of content to the **Knowledge** workflow for end-users to instantly engage with
 
 **Publishing Content**
 
@@ -117,7 +117,7 @@ The **Weighted Concepts** tab displays the concepts and the related segments, wi
 
 **Access Management**
 
-**Access Management** is managed through Agents. Users will have access to Knowledge banks through the agents they are entitled to use.  Users will also have access to this content through the Content Discovery interface, if enabled.&#x20;
+**Access Management** is managed through Agents. Users will have access to Knowledge banks through the agents they are entitled to use.  Users will also have access to this content through the Content Discovery interface if enabled.&#x20;
 
 The type of bank configured is visible in your administration portal above the Knowledge bank name (e.g. Open access content bank).
 
@@ -137,7 +137,7 @@ Within the list of speakers, you can edit their profile by selecting the three d
 
 <figure><img src="../../../../.gitbook/assets/Summit10 2024-06-19 21-32-56.png" alt=""><figcaption></figcaption></figure>
 
-You can add their Profile URL (LinkedIn, social or other website url for this person). When users are chatting with the agent **people** (speakers) will be related to the suggested content segments and will link to any associated Profile URLs.
+You can add their Profile URL (LinkedIn, social, or other website URL for this person). When users are chatting with the agent **people** (speakers) will be related to the suggested content segments and will link to any associated Profile URLs.
 
 <figure><img src="../../../../.gitbook/assets/Summit10 2024-06-19 21-30-47.png" alt=""><figcaption></figcaption></figure>
 
@@ -168,7 +168,7 @@ The difference is in the way files can reach the bank.&#x20;
 
 
 
-Files cannot be deleted from a synced bank, however edits can be made to the metadata of the files such as display name, description, summary. Any changes made to the metadata will be honoured during the syncing process. &#x20;
+Files cannot be deleted from a synced bank, however, edits can be made to the metadata of the files such as display name, description, and summary. Any changes made to the metadata will be honored during the syncing process. &#x20;
 
 In order to find out more about integrations, please go to our [integrations article.](broken-reference)\
 

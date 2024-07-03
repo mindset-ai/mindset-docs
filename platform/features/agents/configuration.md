@@ -2,7 +2,7 @@
 description: This article explains how you can configure an Agent.
 ---
 
-# How to configure Agents
+# How to Configure Agents
 
 ### An Introduction to Agent Configuration
 
@@ -10,7 +10,7 @@ The Agent's configuration shapes how it behaves and interacts with users. This f
 
 Due to its sensitivity, any modifications to the configuration must be approached with care, ensuring they are carefully evaluated for their impact. Monitoring these changes is essential for maintaining a balance between user satisfaction and the Agent's effectiveness, allowing for ongoing improvement in the interaction experience.&#x20;
 
-This dynamic configuration covers various aspects, from defining the Agent's purpose and personality to establishing operational rules and using specialised tools, all aimed at improving the quality and efficiency of user interactions.
+This dynamic configuration covers various aspects, from defining the Agent's purpose and personality to establishing operational rules and using specialized tools, all aimed at improving the quality and efficiency of user interactions.
 
 ### Purpose
 
@@ -96,7 +96,7 @@ The "Policy Rules" field is vital for establishing operational guidelines that o
 **Best Practices**
 
 * **Specific Limitations:** Clearly define the scope of tasks and topics the Agent can address, including explicit mentions of actions or query types it should not attempt to handle.
-* **Jailbreak Prevention:** Incorporate specific rules or phrases that the Agent recognises as cues to avoid engaging in behaviours that could lead to bypassing its operational constraints.
+* **Jailbreak Prevention:** Incorporate specific rules or phrases that the Agent recognizes as cues to avoid engaging in behaviors that could lead to bypassing its operational constraints.
 * **User Guidance:** Inform users about the limitations of the Agent’s capabilities and suggest alternative actions or referrals when requests fall outside the Agent's scope.
 
 **Examples**
@@ -211,7 +211,7 @@ The Icebreaker Message is the initial prompt sent to the Agent, instructing it o
 **1. Customer Support Agent Instruction**
 
 ```plaintext
-Greet the user warmly, introduce yourself as a Customer Support Agent designed 
+Greet the user warmly, and introduce yourself as a Customer Support Agent designed 
 to assist with inquiries and issues, and ask how you can help them today.
 ```
 
@@ -220,7 +220,7 @@ to assist with inquiries and issues, and ask how you can help them today.
 ```plaintext
 Begin by welcoming the user, then explain that you are here to provide clear 
 explanations of policies and procedures. Prompt the user to specify the policy 
-information they are seeking.
+the information they are seeking.
 ```
 
 **3. Coaching Agent Instruction**

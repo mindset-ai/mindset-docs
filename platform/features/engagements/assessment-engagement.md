@@ -8,14 +8,14 @@ description: How to create and configure the Assessment Engagement
 
 The Assessment engagement can be used to understand the learning needs of end-users. It can be used in 2 primary ways:
 
-1. To understand an end-user or organisation’s baseline level of knowledge, in order to present them with targeted content and learning (as well as identify consulting opportunities)
+1. To understand an end-user or organization’s baseline level of knowledge, in order to present them with targeted content and learning (as well as identify consulting opportunities)
 2. To test an end user's knowledge much like a quiz after completing a learning experience - such as a facilitation or learning journey.
 
 ### Configuring the Assessment Engagement
 
 
 
-To create an Assessment Engagement, navigate to the “Engagement library” page of the “App information” section. Click on the Engagements tab and the Add new engagement button, and select Assessment Engagement from the dropdown menu.&#x20;
+To create an Assessment Engagement, navigate to the “Engagement Library” page of the “App information” section. Click on the Engagements tab and the Add new engagement button, and select Assessment Engagement from the dropdown menu.&#x20;
 
 You will then see the Assessment display tab where you can configure the foundations of the Engagement. Create a title, description, and button text and add an image.
 
@@ -35,13 +35,13 @@ You can also decide whether to give the end user an action plan or not. When ena
 
 <figure><img src="https://lh7-us.googleusercontent.com/ifS9PoNxTA5uS913YkMnkXPc2kQ_Hda8Lh3zbSlvu_wWyPSZU_a7m_29rA1m4R36CZVjyvsAzwDJrSX-FgjJETbvWMmO4vPWg4eSHkacXHpeDLOSrFCMG_1eXAPBDC0nBc2CLzSwHwHfLXH9sCkkkM0" alt=""><figcaption></figcaption></figure>
 
-If you toggle yes on the action plan end-users will be able to see the plan at the end of their assessment / quiz.  To configure this go to the Action plan tab and add the various actions you want end-users to be shown. You will be able to link them once the survey questions are configured.
+If you toggle yes on the action plan end-users will be able to see the plan at the end of their assessment/quiz.  To configure this go to the Action plan tab and add the various actions you want end-users to be shown. You will be able to link them once the survey questions are configured.
 
 
 
 <figure><img src="https://lh7-us.googleusercontent.com/zLvG3lAXR1b8PjONhMIIVASrkB1pdY59L2OIB4bOyUrrNcBvbUm_9pvJd-VEgjMQ4fkhVBwz1ObyjecJ_yLI6nWwGZ2yiCRwMveixnkx-f2HYhXunQtFefgyp_7csCPh0W0p-5IEWzIMhd_D7mKOq8Q" alt=""><figcaption></figcaption></figure>
 
-To add the questions to the Assessment Engagement go to the Survey Questions tab, here you can add a multiple-choice question, an open-ended question or a spacer page. The configuration here is the same as [Survey Engagements](https://info.mindset.ai/help/how-to-create-and-configure-surveys). To demonstrate the multiple choice question, you can add a heading, supporting text, a category and button text. Once you have configured your question, add the Answers and configure the number correct, scoring options, tagging and immediate feedback.
+To add the questions to the Assessment Engagement go to the Survey Questions tab, here you can add a multiple-choice question, an open-ended question, or a spacer page. The configuration here is the same as [Survey Engagements](https://info.mindset.ai/help/how-to-create-and-configure-surveys). To demonstrate the multiple choice question, you can add a heading, supporting text, a category, and button text. Once you have configured your question, add the Answers and configure the number correct, scoring options, tagging, and immediate feedback.
 
 
 
@@ -51,7 +51,7 @@ If you have an action plan you can also assign this question to an action by goi
 
 <figure><img src="https://lh7-us.googleusercontent.com/Fd-4ZKIobDrh1h-w0Y7i9onpV4sbm0Nb9RS08ZqZ5uVFvjMmw75kVIsLpsSpe6EnC7gyiM7DwcIy2XukI8fFYHV0OZxOlYNUYVn1TdKsknmeQeGnQNtGl5R8UroYN7qtBrBzucDMwNkTpzKboyAjOtU" alt=""><figcaption></figcaption></figure>
 
-Configure the completion and results page under the Results tab. Here you can add an image, message and display their score.
+Configure the completion and results page under the Results tab. Here you can add an image, or message and display their score.
 
 <figure><img src="https://lh7-us.googleusercontent.com/Vb6rHuWMBRY6364Mg3c3a1tT69_enuiEAK5KZO6SqPt2A2pioXjLozvae-3Db6WX2BMidgVZdbRxFGf-TEkfqBJPtCC6lgoBQcLWduBRp_zBfHYq7ddp2X3hVMvr3UB5HkKXiSm01PnYMMqTOcsF9TU" alt=""><figcaption></figcaption></figure>
 
@@ -67,7 +67,7 @@ This tab shows a list of the locations where this engagement has been published,
 
 <figure><img src="https://lh7-us.googleusercontent.com/fZG2A1nnx50_YROrmA4QEJHKI4cMW9l_WXfg3K6gqCsCnvnlwrWvyFTNd_uuDMzVRVNz1W4dXPA8W1_KwpEmhok0QacfRvtj0maLIeebz9KmemPzM5gnB0d_GP4p2Iz5cM8KlfUjHs1oZPMVAzCPRic" alt=""><figcaption></figcaption></figure>
 
-Next, click on the Select location dropdown and choose the location you want to publish the engagement, and click on the Continue Button. Please note that, if you select the Broadcast channels, you have to select the desired channel from your list of channels before clicking on the Continue button.
+Next, click on the Select location dropdown choose the location you want to publish the engagement and click on the Continue Button. Please note that, if you select the Broadcast channels, you have to select the desired channel from your list of channels before clicking on the Continue button.
 
 
 

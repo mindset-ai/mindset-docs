@@ -8,7 +8,7 @@ If you are missing an access code on your facilitation to be able to share with 
 
 
 
-1. Who can access the Facilitation? Go to the Attendees tab inside your facilitation and ensure ‘Open Access’ is selected and hit save.
+1. Who can access the Facilitation? Go to the Attendees tab inside your facilitation ensure ‘Open Access’ is selected and hit save.
 2. Have you published the facilitation? Check your facilitation has been published - you can tell by the green tick on your facilitation card or it will say ‘not yet published’.
 
 ![](https://lh7-us.googleusercontent.com/log40tWCiTQEtH8X17PYmkvMqXd5Vvj40Lal7a1\_nIz29rYm\_579TVWWjDnyt6BNBm7\_beywnkN\_zk-CwI9cYJun93HunRLfsAkPAmT6L\_gMwG9Emq3P9Vd6cOVcIjg9syDTRbrAvuBkKZ\_hqMZN9Js)

@@ -29,19 +29,19 @@ Stanford University found that RAG could enhance data retrieval accuracy by 25% 
 
 **Chain of Thought:** Traditional methods often involve providing the model with a single prompt-answer model to receive a response. This approach can be limiting in terms of the complexity of problems that the model can solve, or when a high level of accuracy is required.&#x20;
 
-Chain-of-thought methods, on the other hand, are akin to a logical reasoning process. This approach enables AI to analyse and process information in a structured manner, by breaking down complex problems into smaller, manageable components. Each step in the chain represents a logical thought process or action, and together, they lead to a comprehensive understanding and solution
+Chain-of-thought methods, on the other hand, are akin to a logical reasoning process. This approach enables AI to analyze and process information in a structured manner, by breaking down complex problems into smaller, manageable components. Each step in the chain represents a logical thought process or action, and together, they lead to a comprehensive understanding and solution
 
 A Chain-of-Thought approach has a huge number of benefits. When it comes to accuracy, instead of relying solely on surface-level information, Chain-of-Thought allows AI to dive deep into the details of a question or problem. It explores multiple angles and considers various factors, leaving no stone unturned.
 
 **Knowledge Graph**: Knowledge graphs are structured representations of knowledge that use a graph-based model to connect entities and concepts. They consist of nodes (representing entities or concepts) and edges (representing relationships between them). &#x20;
 
-Knowledge graphs store a variety of data, including information about people, their relationships, events, locations, concepts and terminology that is specific to a company.&#x20;
+Knowledge graphs store a variety of data, including information about people, their relationships, events, locations, concepts, and terminology that is specific to a company.&#x20;
 
 For instance, they can record how employees in a company are connected, track the participants in various events, link individuals to specific projects, note office locations, and establish connections based on common topics. Knowledge graphs enable AI to make sense of intricate data connections and deliver precise information.
 
 ### **How do you stop inaccuracies from reaching end users?**
 
-No matter how good AI gets, there can still be mistakes. Every AI vendor must have capabilities which stop any inaccurate responses from reaching end-users.&#x20;
+No matter how good AI gets, there can still be mistakes. Every AI vendor must have capabilities that stop any inaccurate responses from reaching end-users.&#x20;
 
 **Capabilities to look out for:**&#x20;
 
@@ -61,15 +61,15 @@ No matter how good AI gets, there can still be mistakes. Every AI vendor must ha
 
 **Knowledge Graphs:** All data, when stored in a knowledge graph, becomes something that AI can continually train on without the buyer needing to invest resources into improving answers manually.&#x20;
 
-**Data Visualisation**: The vendor should provide ways for the buyer to visualise all data that has been uploaded. For example, a document may be titled ‘Annual Leave Policy’ but the document covers a huge amount of topics which are unrelated to annual leave or even HR due to human error. The buyer must be able to visualise this data to ensure accurate responses.
+**Data Visualisation**: The vendor should provide ways for the buyer to visualize all data that has been uploaded. For example, a document may be titled ‘Annual Leave Policy’ but the document covers a huge amount of topics that are unrelated to annual leave or even HR due to human error. The buyer must be able to visualize this data to ensure accurate responses.
 
-**Simulations**: The buyer should be able to ask the system to simulate all possible questions and responses based on the data. The system must then identify outliers to the buyer which are inaccurate or questionable.&#x20;
+**Simulations**: The buyer should be able to ask the system to simulate all possible questions and responses based on the data. The system must then identify outliers to the buyer that are inaccurate or questionable.&#x20;
 
-### **How do you ensure all AI responses are personalised?**&#x20;
+### **How do you ensure all AI responses are personalized?**&#x20;
 
-**Knowledge Graphs**: Knowledge graphs store a variety of data, including information about people, their relationships, events, locations, concepts and terminology that is specific to a company. This enables the AI to personalise responses.
+**Knowledge Graphs**: Knowledge graphs store a variety of data, including information about people, their relationships, events, locations, concepts, and terminology that is specific to a company. This enables the AI to personalize responses.
 
-**Context Integrations**: The AI vendor must be able to integrate with an active directory or another source of data which provides context on the user to personalise responses.&#x20;
+**Context Integrations**: The AI vendor must be able to integrate with an active directory or another source of data that provides context for the user to personalize responses.&#x20;
 
 ### **How do you ensure end-users trust AI responses?**&#x20;
 
@@ -79,13 +79,13 @@ No matter how good AI gets, there can still be mistakes. Every AI vendor must ha
 
 **Human in the Loop**: There must be mechanisms in place to ensure questions and tasks can be routed to a human.&#x20;
 
-**Personalisation**: People trust AI when the responses are highly personalised, demonstrating the system understands the person it is speaking with.&#x20;
+**Personalization**: People trust AI when the responses are highly personalized, demonstrating the system understands the person it is speaking with.&#x20;
 
 ***
 
-## 2. Security & Data Managment
+## 2. Security & Data Management
 
-For an AI solution to be successful, it must process a significant portion of your enterprise data. From documents, processes and even contextual data about a user.&#x20;
+For an AI solution to be successful, it must process a significant portion of your enterprise data. From documents, processes, and even contextual data about a user.&#x20;
 
 ### **How are third-party AI vendors chosen?**
 
@@ -95,11 +95,11 @@ Vendors should be able to provide a full process and system for selecting third-
 
 **Capabilities to look out for in a vendor:**&#x20;
 
-**Client's IP**: The client's IP should be synthesised into the platform.&#x20;
+**Client's IP**: The client's IP should be synthesized into the platform.&#x20;
 
-**Anonymised Usage Data**: This includes anonymised user queries, usage metrics, user learning pathway data, user attributes, feedback metrics related to the chatbot, and general system usage. Collected usage data allows us to enhance system performance and provide more relevant responses.
+**Anonymized Usage Data**: This includes anonymized user queries, usage metrics, user learning pathway data, user attributes, feedback metrics related to the chatbot, and general system usage. Collected usage data allows us to enhance system performance and provide more relevant responses.
 
-**User-Specific Information**: The information gathered during user onboarding and subsequent interaction with the system is used to personalise user experience, helping tailor responses to be more relevant and effective.
+**User-Specific Information**: The information gathered during user onboarding and subsequent interaction with the system is used to personalize user experience, helping tailor responses to be more relevant and effective.
 
 ### **How does your AI solution ensure the security of sensitive data, and what measures are in place to prevent data leakage to the LLM?**
 
@@ -118,7 +118,7 @@ When it comes to data and security, there are many well-known good practices exp
 **Capabilities to look out for in a vendor:**&#x20;
 
 \
-**Zero Trust Security Model**: This means that no one, whether inside or outside the organisation, is automatically trusted with access to data or systems.
+**Zero Trust Security Model**: This means that no one, whether inside or outside the organization, is automatically trusted with access to data or systems.
 
 **Strong Authentication Practices**: Using multiple methods or factors to verify the identity of a user or system trying to access data or a system.
 
@@ -134,7 +134,7 @@ When it comes to data and security, there are many well-known good practices exp
 
 **Data Residency**: Consider where your data will be stored. Some platforms offer options for data residency to comply with regional regulations.
 
-**Access Controls**: Can you define and enforce granular access controls? Ensuring that only authorised personnel can access specific data is fundamental to security
+**Access Controls**: Can you define and enforce granular access controls? Ensuring that only authorized personnel can access specific data is fundamental to security
 
 ***
 
@@ -146,10 +146,10 @@ Work on bias identification and mitigation is changing fast. Ultimately, the und
 
 **Capabilities to look out for in a vendor:**&#x20;
 
-**Data Visualisation**: The vendor must be able to visualise all data that has been synthesised into the platform to identify how your system has been biased.&#x20;
+**Data Visualisation**: The vendor must be able to visualize all data that has been synthesized into the platform to identify how your system has been biased.&#x20;
 
 **Simulations**: Vendors must be able to simulate responses and questions by users, before deployment and on a consistent basis.&#x20;
 
-For example, the system must be able to generate possible combinations of questions asked to test itself, with an identification system that enables buyers to spot biased answers, identify how the answer was biased and be able to correct the problem quickly.&#x20;
+For example, the system must be able to generate possible combinations of questions asked to test itself, with an identification system that enables buyers to spot biased answers, identify how the answer was biased, and be able to correct the problem quickly.&#x20;
 
 \

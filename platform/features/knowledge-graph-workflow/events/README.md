@@ -6,7 +6,7 @@ description: Learn about the Events feature in the Knowledge graph workflow
 
 **What are Events?**
 
-Events are a way of marketing your in-person or online conferences or workshops to encourage user sign up. Events is an additional feature inside the  Knowledge Graph workflow. They can help  advertise and drive registration for live stream events hosted on an external platform.
+Events are a way of marketing your in-person or online conferences or workshops to encourage user sign-ups. Events is an additional feature inside the  Knowledge Graph workflow. They can help advertise and drive registration for live-stream events hosted on an external platform.
 
 
 
@@ -36,15 +36,15 @@ In your application administration portal, you will be able to locate the “Eve
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-28 at 10.50.45.png" alt=""><figcaption></figcaption></figure>
 
 \
-Firstly, you are able to select the specific workflow colours, including icon and text colours, that you wish to be displayed on the Events screen.&#x20;
+Firstly, you are able to select the specific workflow colors, including icon and text colors, that you wish to be displayed on the Events screen.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-28 at 10.52.22.png" alt=""><figcaption></figcaption></figure>
 
-In addition to workflow colours, you can also configure the Events homescreen card here, too. This includes adding in the card title, description, button label, colours and image icon.
+In addition to workflow colors, you can also configure the Events home screen card here, too. This includes adding in the card title, description, button label, colors and image icon.
 
-Please note that the events homescreen card will only be visible if the Events workflow is assigned alongside other workflows under the same navigation tab.
+Please note that the events home screen card will only be visible if the Events workflow is assigned alongside other workflows under the same navigation tab.
 
-Should the Events workflow be configured on its own under a navigation tab, the homescreen card will not be visible, and the workflow will fill the entire user’s screen instead.
+Should the Events workflow be configured on its own under a navigation tab, the home screen card will not be visible, and the workflow will fill the entire user’s screen instead.
 
 
 

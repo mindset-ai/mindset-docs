@@ -10,7 +10,7 @@ Content engagement allows app creators to create text, image and video content w
 
 **Creating your first content engagement**
 
-To create your first content engagement, navigate to “Engagement library” in the “App Information” section. Click on the Engagements tab.\
+To create your first content engagement, navigate to the “Engagement library” in the “App Information” section. Click on the Engagements tab.\
 \
 Click on the Add new engagement button, select from the dropdown and select Content Engagement.
 
@@ -34,7 +34,7 @@ On the Details tab, choose the desired header for your Content engagement. There
 
 Here you are able to configure what you would like the Text header to look like.&#x20;
 
-Under Title background colour, press Select colour. Enter Hex colour code or pick a colour, then press OK. Repeat the same process for Title text colour, ensuring the two colours are contrasting to one another. You are able to view a preview on the right-hand side of the screen.\
+Under Title background color, press Select color. Enter the Hex color code or pick a color, then press OK. Repeat the same process for the Title text color, ensuring the two colors are contrasting to one another. You are able to view a preview on the right-hand side of the screen.\
 
 
 <figure><img src="https://lh7-us.googleusercontent.com/gSoXV1Z-bfmzyJq-v3GqKmdlm6QuPGRl3yA0O2bIFGNfCEYmwBgIj_1fZLuKg50DDIziI-3t0dNPLJkZEmChIombFAJ4oxre9RxIly8UmZinbxAh0RbKi8AYekbsZhVEGwGL0FSvrYRk0MTBtewlx-s" alt=""><figcaption></figcaption></figure>
@@ -50,7 +50,7 @@ For the Image header type, upload a JPG, PNG, or SVG image type of 16:9 ratio by
 <figure><img src="https://lh7-us.googleusercontent.com/uIaCr0Ry1wVznxUtlMcjI5I2pfZgjBTUv4-2EVecLrn_xwVFNCeskLiH7A-Rh_Ah9t51RFzr1OUCns9EBnGO1zcO8Z2Sh2qYoVxn0iT3kf0pjuV3SSh8l3u70AlrDxbAJfEHqMNJPF-4vSklzyMqQHE" alt=""><figcaption></figcaption></figure>
 
 \
-Once you’ve configured the header of your engagement, you can add a Title, Summary and Body text to it. You also have the option of attaching up to 5 documents and adding external links and ratings.
+Once you’ve configured the header of your engagement, you can add a Title, Summary, and Body text to it. You also have the option of attaching up to 5 documents and adding external links and ratings.
 
 ***
 
@@ -76,7 +76,7 @@ Under the Published locations tab a list of the locations where this engagement 
 
 <figure><img src="https://lh7-us.googleusercontent.com/ob_29C-j9khoKMruUQXrqwRq7rqeUSWurbOG-JQOac7ixpLHnhrn1be5Tx8x3-fgehQ20_i0DcBJ9R56eNAa427AY6mSFfNhtxjF8AiP70NUxaqm-ZwRagY4e3X8iWg1d-R0B2MsQlNlU1hCxnDb2Fo" alt=""><figcaption></figcaption></figure>
 
-Next, click on the Select location dropdown and choose the location you want to publish the engagement, and click on the Continue Button. Please note that, if you select the Broadcast channels, you have to select the desired channel from your list of channels before clicking on the Continue button. \
+Next, click on the Select location dropdown and choose the location you want to publish the engagement and click on the Continue Button. Please note that, if you select the Broadcast channels, you have to select the desired channel from your list of channels before clicking on the Continue button. \
 
 
 <figure><img src="https://lh7-us.googleusercontent.com/ZseY4RCxC6eBciCVuwC8ikJH6JTZP9LqwUNFI-yWhf-T1EduwARr-vWl2Gc9Y5D99I_tda3Y2a-0T56YhJiYoRxQjfBA-gYMPnhYourik7IPbBgy3sHoYAkuIHgF5dazOQ-sCFmKWw5S3ToGAHJZLwE" alt=""><figcaption></figcaption></figure>

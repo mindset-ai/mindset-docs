@@ -6,7 +6,7 @@ description: An Introduction to Creating your Agents
 
 **Adding an Agent**
 
-In order to add a new agent in your application, you will first need to be in the administration portal. Locate the 'Agents' tab in your left hand navigation bar under **'Manage'.**&#x20;
+In order to add a new agent in your application, you will first need to be in the administration portal. Locate the 'Agents' tab in your left-hand navigation bar under **'Manage'.**&#x20;
 
 When agents have been created, you'll find a comprehensive list of your previously configured ones along with their corresponding handles displayed here.
 
@@ -26,9 +26,9 @@ After clicking the '**Add an agent**' button, you'll gain access to configuring 
 
 <figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-05-27.png" alt=""><figcaption></figcaption></figure>
 
-Next, under the '**Settings**' tab, you can add in the **agent name**, **agent handle**, and a brief **agent description**. Under this tab you can also control the **agent visibility**. Toggling this button on will enable your end-users to see and interact with the agent created, in the front-end of the application. We recommend that all the agent configuration and testing has been completed prior to enabling its access to end-users.&#x20;
+Next, under the '**Settings**' tab, you can add in the **agent name**, **agent handle**, and a brief **agent description**. Under this tab, you can also control the **agent visibility**. Toggling this button on will enable your end-users to see and interact with the agent created, in the front-end of the application. We recommend that all the agent configuration and testing be completed prior to enabling its access to end users.&#x20;
 
-#### Behaviour
+#### Behavior
 
 
 
@@ -36,27 +36,27 @@ Next, under the '**Settings**' tab, you can add in the **agent name**, **agent h
 
 <figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-12-10.png" alt=""><figcaption></figcaption></figure>
 
-Following this, you can begin setting up the agent's **behaviour** within the '**Behaviour**' tab. Here, you're able to input behaviour instructions including the agent's **purpose**, **personality**, **policy rules, output formatting**, and any **additional information** that may assist the agent in answering questions effectively and efficiently.
+Following this, you can begin setting up the agent's **behavior** within the '**Behavior**' tab. Here, you're able to input behavior instructions including the agent's **purpose**, **personality**, **policy rules, output formatting**, and any **additional information** that may assist the agent in answering questions effectively and efficiently.
 
 <figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-13-31.png" alt=""><figcaption></figcaption></figure>
 
-You can also add in the **interaction processes** for your agent. Including **icebreaker message instructions**, and a **completions step**.&#x20;
+You can also add in the **interaction processes** for your agent. Including **icebreaker message instructions**, and a **completion step**.&#x20;
 
-_**Please note:**_ You can find more information about each of these by either clicking the small question mark icon next to the headings, or alternatively clicking [here](https://docs.mindset.ai/platform/features/agents/how-to-configure-agents).
+_**Please note:**_ You can find more information about each of these by either clicking the small question mark icon next to the headings or alternatively clicking [here](https://docs.mindset.ai/platform/features/agents/how-to-configure-agents).
 
 #### Capabilities
 
 <figure><img src="../../../.gitbook/assets/summit10 2024-06-19 22-20-24.png" alt=""><figcaption></figcaption></figure>
 
-Next you can set up your agent **capabilities** under the '**capabilities**' heading. An agent capability is a specific set of steps that this agent is able to perform to the user. In order to find out more about capability configuration for your agents, please read our 'capabilities' article [here](how-to-configure-capabilities.md).&#x20;
+Next, you can set up your agent **capabilities** under the '**capabilities**' heading. An agent capability is a specific set of steps that this agent is able to perform to the user. In order to find out more about capability configuration for your agents, please read our 'capabilities' article [here](how-to-configure-capabilities.md).&#x20;
 
 #### Tools
 
 <figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-16-58 (1).png" alt=""><figcaption></figcaption></figure>
 
-In the next step of agent configuration, you'll choose the **tools** you want the agent to utilise when answering end-users questions, within the '**Tools**' tab.
+In the next step of agent configuration, you'll choose the **tools** you want the agent to utilize when answering end-users questions, within the '**Tools**' tab.
 
-Here, you have the option to decide if you want the agent to utilise the **clarification tool** and **prompt library**.&#x20;
+Here, you have the option to decide if you want the agent to utilize the **clarification tool** and **prompt library**.&#x20;
 
 Further details about these functionalities can be found [here](https://docs.mindset.ai/platform/features/agents/how-to-configure-agents).&#x20;
 
@@ -66,13 +66,13 @@ _**Please note:**_ You do not have to select all 3 of these features together fo
 
 #### Design
 
-Under the Design tab, the agent's primary colour and text colour can be configured.
+Under the Design tab, the agent's primary color and text color can be configured.
 
 
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.26.27.png" alt=""><figcaption></figcaption></figure>
 
-To change the colour simply click the 'select colour' button and choose your colour from the colour wheel or from your designated colour library.
+To change the color simply click the 'select color' button and choose your color from the color wheel or from your designated color library.
 
 #### Knowledge&#x20;
 
@@ -80,13 +80,13 @@ Under the '**Knowledge**' tab, you can select the knowledge banks that the agent
 
 _**Please note:**_ The agent can have access to the information from multiple knowledge banks. More than one knowledge bank can be selected here.&#x20;
 
-Once the selected knowledge banks have been toggled on and saved, the agent will then be able to utilise all information from those associated banks when answering end-user questions.&#x20;
+Once the selected knowledge banks have been toggled on and saved, the agent will then be able to utilize all information from those associated banks when answering end-user questions.&#x20;
 
 <figure><img src="../../../.gitbook/assets/summit10 2024-06-19 20-52-41.png" alt=""><figcaption></figcaption></figure>
 
 #### Bias
 
-Under the **Bias** tab select **Bias Assessment** to see a summary of the Agent’s available Banks of Data. This provides information on the key themes and concepts of the banks content.
+Under the **Bias** tab select **Bias Assessment** to see a summary of the Agent’s available Banks of Data. This provides information on the key themes and concepts of the bank's content.
 
 <figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 21-58-04 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -96,11 +96,11 @@ The **Weighted** Concepts tab displays the concepts and the related segments, wi
 
 **Testing**
 
-Under the **Testing** tab you can run tests and compare agent responses to understand end-users experiences. Further further details on the agent testing framework can be found [here](https://docs.mindset.ai/platform/features/agents/agent-testing-framework).
+Under the **Testing** tab, you can run tests and compare agent responses to understand end-users experiences. Further further details on the agent testing framework can be found [here](https://docs.mindset.ai/platform/features/agents/agent-testing-framework).
 
 **Preview**
 
-Under the '**Preview**' tab, you can practice trialling out your agent to see how it responds to questions asked. We recommend you take your time testing your agent here prior to sharing it with your end-users, to ensure it is performing correctly.
+Under the '**Preview**' tab, you can practice trialing out your agent to see how it responds to questions asked. We recommend you take your time testing your agent here prior to sharing it with your end-users, to ensure it is performing correctly.
 
 <figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-03-44.png" alt=""><figcaption></figcaption></figure>
 

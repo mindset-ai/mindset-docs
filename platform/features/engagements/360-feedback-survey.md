@@ -15,7 +15,7 @@ If the '360 Feedback, Facilitation, and Engagement workflows are not switched on
 
 ### Create and configure a 360 Feedback Engagement
 
-Start by navigating to the “Engagements library” section of the app administration interface. In the “Engagements” tab  click on the “Add new engagement” button and select “360 Feedback Survey” from the dropdown list. The engagement's configuration interface will open.&#x20;
+Start by navigating to the “Engagements Library” section of the app administration interface. In the “Engagements” tab  click on the “Add new engagement” button and select “360 Feedback Survey” from the dropdown list. The engagement's configuration interface will open.&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/Eh2Lmar8boMh1SaITaqF02dUEOtMTIKgZk7Ym4RGeY9z_SEqPI8LXQ-LK6vgSiKGUg7zk2n8qPzlvnX-aWOm5k6lCk2vCV1X5nGu35_84UVk0j-bv4BiKTLZbtffrW4llllfMNtvD-b85Kd-X7uTVdc" alt=""><figcaption></figcaption></figure>
 
@@ -23,7 +23,7 @@ Start by navigating to the “Engagements library” section of the app administ
 
 **Configure the “Display details” of the 360 Feedback Survey engagement**
 
-In the “Display details” tab  you can configure the details displayed on the engagement card. Here you can set the survey title, the text shown on the card’s button and upload an image in JPG, PNG or SVG format. When you are ready click “Save” in the top right corner and move on to the “Survey” tab.\
+In the “Display details” tab you can configure the details displayed on the engagement card. Here you can set the survey title, the text shown on the card’s button and upload an image in JPG, PNG or SVG format. When you are ready click “Save” in the top right corner and move on to the “Survey” tab.\
 \
 
 
@@ -31,11 +31,11 @@ In the “Display details” tab  you can configure the details displayed on the
 
 #### Configure the “Survey”
 
-In the “Survey” tab you can choose to enable Introduction screens for the Leader and Reviewers, set up the survey questions and configure the completed state of the 360 Feedback Survey engagement card.
+In the “Survey” tab you can choose to enable Introduction screens for the Leader and Reviewers, set up the survey questions, and configure the completed state of the 360 Feedback Survey engagement card.
 
 1. **Introduction screen**
 
-The introduction screen can be used to help users understand the survey process better, tell them how to approach the questions, or why the survey will be valuable to complete. You can include text, video and attach a document.
+The introduction screen can be used to help users understand the survey process better, tell them how to approach the questions, or why the survey will be valuable to complete. You can include text, and video and attach a document.
 
 <figure><img src="https://lh7-us.googleusercontent.com/WDydxjn70AquLGS8fmLdPpF1_mNTBWfCjPNG_LeLGHp4f2PHRGAC2IKjtlS96PDSl8xNENk53Lof3k6nsE8fRyLg4Bpd4iXNWGnJv1n70FkswQciPztT-Ofrro0oRBMawlkwaJrRQEE-7WfNHb10BpE" alt=""><figcaption></figcaption></figure>
 
@@ -81,13 +81,13 @@ Survey completion reminders are displayed in the workflow carousel on the home s
 
 #### Configure “Participants”
 
-In the “Participants” tab you can set up the “Reviewer groups” which enables the segmentation of reviewers into categories. When the Leader adds users to their reviewers list they will have to associate each person to a group. Reviewer groups can describe how the reviewer is related to the leader, for example, manager, peer, direct report etc.
+In the “Participants” tab you can set up the “Reviewer groups” which enables the segmentation of reviewers into categories. When the Leader adds users to their reviewers list they will have to associate each person to a group. Reviewer groups can describe how the reviewer is related to the leader, for example, manager, peer, direct report, etc.
 
 When all reviewers complete the survey, their answers will be calculated and displayed collectively per reviewer group in the report. For example, if the leader has added 3 managers, the report will show the collective result for all three against a “Manager” group.
 
 <figure><img src="https://lh7-us.googleusercontent.com/84QcatNWm2AjU-I4_JtxU5dIcWdQKG0OqUjV53JDV_87ha1HX33DYu_HAlTebO4ALc6lq3dsEO6H2D3DMHKPjmnNH5tf2ew1Qd_BkAgawkdkPpuh6On-5U507wbij691IW_HmRSk-8rNxF0dsmBzd3w" alt=""><figcaption></figcaption></figure>
 
-The “Reviewers screen” is the interface displayed to Leaders where they create a list of Reviewers, send them an invitation to complete the survey and monitor their progress. You can add a short description here to help Leaders with how to approach the selection of their reviewers. For example, how many people they need to invite per reviewer group.
+The “Reviewers screen” is the interface displayed to Leaders where they create a list of Reviewers, send them an invitation to complete the survey, and monitor their progress. You can add a short description here to help Leaders with how to approach the selection of their reviewers. For example, how many people do they need to invite per reviewer group.
 
 It’s important to mention that the list of invited Reviewers acts as a safe-list to ensure only the right people take part in the process. This means that Reviewers will be required to either log in or create an account using the email address where they received their invitation.
 
@@ -181,11 +181,11 @@ To make the experience of finishing the survey and returning to the survey home 
 4. **What does the reviewer see once they have completed it?**
 
 \
-Similarly to point 3, once the reviewer completes the survey they will be redirected to the home screen where the survey card will be in its completed state. Reviewers don't have access to the survey after completion. And the completed state card can be configured to display temporarily on their screens or not to be displayed at all (see third image above - config for reviewers' completed state). If the admin has created a spacer page as the last page in the survey reviewers will see it as both the leader and reviewers will see the exact same survey structure.
+Similarly to point 3, once the reviewer completes the survey they will be redirected to the home screen where the survey card will be in its completed state. Reviewers don't have access to the survey after completion. The completed state card can be configured to display temporarily on their screens or not to be displayed at all (see third image above - config for reviewers' completed state). If the admin has created a spacer page as the last page in the survey reviewers will see it as both the leader and reviewers will see the exact same survey structure.
 
 5. **Where are the results compiled?**&#x20;
 
-The results of your end-users 360 feedback survey answers are compiled in ThoughtSpot. If you require any assistance accessing these answers in ThoughtSpot, please contact your Customer Success Representative who can guide you to these.\
+The results of your end-user's 360 feedback survey answers are compiled in ThoughtSpot. If you require any assistance accessing these answers in ThoughtSpot, please contact your Customer Success Representative who can guide you to these.\
 \
 \
 

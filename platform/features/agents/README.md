@@ -12,7 +12,7 @@ Mindset wants to enable you to be at the forefront of providing AI solutions to 
 
 **Below is the evolution of conversational AI:**
 
-1. Old-school chatbots- the type that requires you to plan every possible question, answer and workflow. Very painful, and always broken because a user asked a question that was not planned for.&#x20;
+1. Old-school chatbots- the type that requires you to plan every possible question, answer, and workflow. Very painful, and always broken because a user asked a question that was not planned for.&#x20;
 
 
 
@@ -28,11 +28,11 @@ Throughout 2023, numerous Assistants and Co-pilots have been developed with incr
 
 
 
-4. Assistants with Knowledge Graphs - Beyond RAG, information available to the Assistant can be highly structured (from structured and unstructured data) to run entity extraction on the source data and the responses from an LLM to provide insights into bias and information coverage, as well as personalise answers based on company context (specific terminology to a company, people, locations, products etc).
+4. Assistants with Knowledge Graphs - Beyond RAG, information available to the Assistant can be highly structured (from structured and unstructured data) to run entity extraction on the source data and the responses from an LLM to provide insights into bias and information coverage, as well as personalize answers based on company context (specific terminology to a company, people, locations, products etc).
 
 
 
-5. Agents - Agents are a system that can use an LLM to reason through a problem, create a plan to solve the problem and execute the plan with the help of a set of tools. An Agent is an architecture that includes all of the concepts mentioned above and below.
+5. Agents - Agents are a system that can use an LLM to reason through a problem, create a plan to solve the problem, and execute the plan with the help of a set of tools. An Agent is an architecture that includes all of the concepts mentioned above and below.
 
 
 
@@ -61,7 +61,7 @@ Agents can perform tasks through analysis, planning, information retrieval, and 
 
 These agents are not only task-oriented but can also collaborate amongst themselves. Once a goal is set, they autonomously collaborate to achieve the desired outcomes.
 
-Consider, for instance, a smart bot analysing a salesperson's performance and then collaborating with an L\&D programme bot to create personalised upskilling plans ready for human approval.
+Consider, for instance, a smart bot analyzing a salesperson's performance and then collaborating with an L\&D program bot to create personalized upskilling plans ready for human approval.
 
 
 
@@ -81,16 +81,16 @@ Think of an Agent as a digital employee hired to perform a specific role. The Ag
 
 The Agent's level of knowledge and ability to serve the end user creates an engaging, full-circle experience for end users.
 
-Their only limitation is (a) the data they have access to (b) the tools they can use and ( c) the integrations they can utilise. \
+Their only limitation is (a) the data they have access to (b) the tools they can use and ( c) the integrations they can utilize. \
 
 
 #### Example Agent Use-Cases
 
-Sales training Agent: Sales teams can utilise AI to locate specific sales techniques or product information, particularly useful when preparing for pitches or responding to customer enquiries. Depending on the tools, a sales agent could then analyse CRM data, send emails execute other important tasks.  \
+Sales training Agent: Sales teams can utilize AI to locate specific sales techniques or product information, particularly useful when preparing for pitches or responding to customer inquiries. Depending on the tools, a sales agent could then analyze CRM data, send emails execute other important tasks.  \
 
 
 Compliance Agent: In the context of complex compliance topics, by enabling the tool ‘verification’, the agent will be pedantic and ensure it asks follow-up questions to get someone to the exact answer they need with 100% certainty.&#x20;
 
 
 
-Leadership development: You could create an agent which represents a specific leader (real or imagined), a specific personality or framework - enabling you to create experiences that help challenge learners, make them think differently and embed their learning in new ways.
+Leadership development: You could create an agent that represents a specific leader (real or imagined), a specific personality or framework - enabling you to create experiences that help challenge learners, make them think differently and embed their learning in new ways.

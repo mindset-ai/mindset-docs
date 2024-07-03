@@ -18,13 +18,13 @@ A "prompt library" is a collection of predefined prompts that users can choose f
 
 The idea is to offer users a set of suggested prompts that cover a range of topics or scenarios, making it easier for them to interact with the model and get meaningful responses. This can be particularly helpful for users who may be unsure of how to structure their queries or those looking for inspiration on what types of inputs work well with the model.
 
-The prompts in a prompt library can be diverse, covering general topics, specific questions, or even role-playing scenarios to engage the model in a more interactive and dynamic conversation. The goal is to enhance user experience by providing a starting point for generating effective interactions with the language model.
+The prompts in a prompt library can be diverse, covering general topics, specific questions, or even role-playing scenarios to engage the model in a more interactive and dynamic conversation. The goal is to enhance the user experience by providing a starting point for generating effective interactions with the language model.
 
 
 
 **Examples of prompts:**
 
-Below are some examples of prompts that could be utilised in different scenarios, they may be helpful in guiding the configuration of your prompts.&#x20;
+Below are some examples of prompts that could be utilized in different scenarios, they may be helpful in guiding the configuration of your prompts.&#x20;
 
 
 
@@ -37,7 +37,7 @@ Below are some examples of prompts that could be utilised in different scenarios
 
 **Role-playing**
 
-* Imagine you're a HR manager conducting a job interview.&#x20;
+* Imagine you're an HR manager conducting a job interview.&#x20;
 * What questions would you ask?
 * Pretend you're giving a motivational speech to employees during a challenging period.
 
@@ -45,15 +45,15 @@ Below are some examples of prompts that could be utilised in different scenarios
 
 **Team Building**
 
-* Provide strategies for fostering effective teamwork within a diverse group.Discuss the role of team-building exercises in boosting morale and productivity.\
+* Provide strategies for fostering effective teamwork within a diverse group. Discuss the role of team-building exercises in boosting morale and productivity.\
 
 
 **Benefits of having prompts**
 
-* Prompts help guide the end-users interactions with the Agent.&#x20;
+* Prompts help guide the end-user's interactions with the Agent.&#x20;
 * Using prompts can help improve the relevance of questions asked by end-users.
 * Prompts can help to encourage end-user topic exploration.
-* Prompts can be used to help enhance end-users experiences in the application.&#x20;
+* Prompts can be used to help enhance end-user experiences in the application.&#x20;
 
 
 
@@ -63,13 +63,13 @@ Go to Manage > Knowledge open any Bank and locate the new Prompt Collections tab
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot (80) (1).png" alt=""><figcaption></figcaption></figure>
 
-Here, a Prompt Collection can be added by giving it a name, some Prompts (separated by line) and prompt postscript.
+Here, a Prompt Collection can be added by giving it a name, some Prompts (separated by line) and a prompt postscript.
 
 <figure><img src="https://lh7-us.googleusercontent.com/q3p9laLbcTmk5CM27gmFGzAplQbMsjvWnmKbD_RtFiYxT0VGtTVxqrm4qrwNwhbFU-KNye1r_D8MbqbAnTDPYAnjEqEJMPCEKlrM2Hk2jg5QcKBr5zoz5mXNGLWuSzIQs7bD8LIdZ9JuSXdvaYcB8JQ" alt=""><figcaption></figcaption></figure>
 
-Prompt collection name outlines the name displayed to users in the prompts dialog above the prompts list. It is advised to use a name that provides a unifying theme or topic that connects the individual prompts within the collection.&#x20;
+The prompt collection name outlines the name displayed to users in the prompts dialog above the prompts list. It is advised to use a name that provides a unifying theme or topic that connects the individual prompts within the collection.&#x20;
 
-Optional prompt postscript is attached to each prompt sent to the assistant by the user. It serves as an additional instruction to guide the assistant in constructing the responses. For example “Explain in detail and give references from the context. Use markdown and bullet points for the key points.”&#x20;
+An optional prompt postscript is attached to each prompt sent to the assistant by the user. It serves as an additional instruction to guide the assistant in constructing the responses. For example “Explain in detail and give references from the context. Use markdown and bullet points for the key points.”&#x20;
 
 
 
@@ -84,7 +84,7 @@ Prompts can be enabled by navigating to Configure> Knowledge Graph >Chat UI styl
 
 **Prompt library for end-users**
 
-End-users will see the prompt library on the left hand side of the text box within the Agent interface. Clicking this will open the full prompt library window for them to choose from, or they can type '/' to open the prompt window.
+End-users will see the prompt library on the left-hand side of the text box within the Agent interface. Clicking this will open the full prompt library window for them to choose from, or they can type '/' to open the prompt window.
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot (81) (1).png" alt=""><figcaption></figcaption></figure>
 

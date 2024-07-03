@@ -6,17 +6,17 @@ description: Learn about the Engagement workflow
 
 ### What are Engagements?&#x20;
 
-Engagements are the basic building blocks used to communicate and interact with users through content. An engagement could be a single or a multi-step process. It enables app creators to deliver different types of content, and encourages users to perform actions or gather inputs.
+Engagements are the basic building blocks used to communicate and interact with users through content. An engagement could be a single or a multi-step process. It enables app creators to deliver different types of content and encourages users to perform actions or gather inputs.
 
 A Facilitation can't run without engagements but engagements need to be created first and then pulled into a facilitation when it is set up.
 
-Engagements can be created at two levels: App and Account. Account admins only have access to engagements that are created within their accounts. App admins have access at all levels. Users will only receive App level engagements and engagements in any account they are a member of.
+Engagements can be created at two levels: App and Account. Account admins only have access to engagements that are created within their accounts. App admins have access at all levels. Users will only receive App-level engagements and engagements in any account they are a member of.
 
 ### Engagement Types
 
 **Survey engagement**
 
-The survey engagement allows you to learn more about, and engage with, your user base by asking them a single or series of questions. Surveys can be in the context of a facilitated event or as a single engagement pushed to the users home screen. Results of a survey are displayed both to the user and to the app administrator in the tableau dashboard.&#x20;
+The survey engagement allows you to learn more about, and engage with, your user base by asking them a single or series of questions. Surveys can be in the context of a facilitated event or as a single engagement pushed to the users home screen. Results of a survey are displayed both to the user and to the app administrator in the Tableau dashboard.&#x20;
 
 
 
@@ -24,7 +24,7 @@ The survey engagement allows you to learn more about, and engage with, your user
 
 Surveys can be configured to capture a simple answer or to calculate a complete series of questions - the opportunities are endless. There are multiple parts of a survey - you can use the following as you wish:
 
-* Start & in-progress: Draw the users attention and keep them informed with a card that displays wherever you choose to deliver your engagement.&#x20;
+* Start & in progress: Draw the user's attention and keep them informed with a card that displays wherever you choose to deliver your engagement.&#x20;
 * Intro pages: Start the survey process by providing more context about the survey itself.&#x20;
 * Spacer pages: provide breaks in long surveys with spacer pages
 * Process Results: If your survey is being used to calculate a result, let users know what is happening before the results are displayed.&#x20;
@@ -34,11 +34,11 @@ Surveys can be configured to capture a simple answer or to calculate a complete 
 
 **Question types**
 
-Surveys can be configured as a single question or series of questions of varying types. The question types currently available are:
+Surveys can be configured as a single question or a series of questions of varying types. The question types currently available are:
 
 * Ranking questions: Allows users to reorder the priority of a list of answers in response to a question.
 * Opened question: Allow for the gathering of quantitative data in response to a question.
-* Likert scale: Measure the respondent’s emotional attitude toward a statement of agreement, frequency, quality, importance etc.&#x20;
+* Likert scale: Measure the respondent’s emotional attitude toward a statement of agreement, frequency, quality, importance, etc.&#x20;
 * Multiple or single choices: Allow users to select one or many options from a list provided.
 
 
@@ -68,7 +68,7 @@ The Voting Engagement allows the use of a voting system within a facilitation. T
 
 The 360 Feedback Survey engagement was designed to enable a Leader to be the driver of their own 360 review process, while the Admin plays mostly a support role. Once the engagement is set up and delivered to the Leader, they can invite as many reviewers as they want and monitor their progress.
 
-The 360 Feedback workflow and 360 Feedback Survey engagement can be used to facilitate a review process for just 1 person or a cohort. The engagement is fully configurable and gives you the ability to create a personalised experience for both Leaders and Reviewers. It enables you to easily segment Reviewers into groups and present Leaders with a report based on collective scores per segment.
+The 360 Feedback workflow and 360 Feedback Survey engagement can be used to facilitate a review process for just 1 person or a cohort. The engagement is fully configurable and gives you the ability to create a personalized experience for both Leaders and Reviewers. It enables you to easily segment Reviewers into groups and present Leaders with a report based on collective scores per segment.
 
 
 
@@ -78,7 +78,7 @@ Content engagement allows app creators to create text, image and video content w
 
 
 
-In a video content, the hero content is a video. Videos are particularly useful for communicating complex or unfamiliar topics, describing long, multi-step processes, or avoiding overwhelming users with too much text.
+In video content, the hero content is a video. Videos are particularly useful for communicating complex or unfamiliar topics, describing long, multi-step processes, or avoiding overwhelming users with too much text.
 
 
 
@@ -90,7 +90,7 @@ What can be included in a video message:
 
 
 
-A text content is text-focused which an be used to communicate short bits of information that need to be noticed. Examples include reminders and announcements.
+Text content is text-focused which an be used to communicate short bits of information that need to be noticed. Examples include reminders and announcements.
 
 What can be included in a text content:
 
@@ -98,7 +98,7 @@ What can be included in a text content:
 * Text content - this is the most important part of the text message. You should keep this short, easy to read, and focused on the topic you wish to convey. Too much text will reduce user engagement.
 * Attachment and external link - these can be added if users have to go through anything additional to the main text content in their own time.
 
-An Image content is focused on using images to communicate information.
+Image content is focused on using images to communicate information.
 
 
 
@@ -117,8 +117,8 @@ The Download engagement allows application administrators to upload documents in
 
 The assessment engagement is a way to understand the learning needs of end-users. It can be used in 2 primary ways:
 
-1. To understand a user or organisation’s baseline level of knowledge, in order to present them with targeted content and learning (as well as identify consulting opportunities)
-2. To test a user’s knowledge after completing a learning experience - such as a facilitataion or learning journey.
+1. To understand a user or organization’s baseline level of knowledge, in order to present them with targeted content and learning (as well as identify consulting opportunities)
+2. To test a user’s knowledge after completing a learning experience - such as a facilitation or learning journey.
 
 
 

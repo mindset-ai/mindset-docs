@@ -12,17 +12,17 @@ You can add as many email addresses here as you wish. Please note: these individ
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-03-08 at 16.02.36.png" alt=""><figcaption></figcaption></figure>
 
-Once you have added the email addresses of all the user's you would like to access the facilitation, click 'add' and then click 'next'.&#x20;
+Once you have added the email addresses of all the users you would like to access the facilitation, click 'add' and then click 'next'.&#x20;
 
 You can then select whether you wish to notify those attendees about the facilitation via email.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-03-08 at 16.04.40.png" alt=""><figcaption></figcaption></figure>
 
-If you do decide to notify these users via email, you can set up the email subject and add a personalised message below. This message will be included in the email for the attendees to receive with their facilitation invite.
+If you do decide to notify these users via email, you can set up the email subject and add a personalized message below. This message will be included in the email for the attendees to receive with their facilitation invite.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-03-08 at 16.06.59.png" alt=""><figcaption></figcaption></figure>
 
-You can see the email preview on the right hand side. Once done, hit save and it will send the invite to that end-user.
+You can see the email preview on the right-hand side. Once done, hit save and it will send the invite to that end-user.
 
 
 

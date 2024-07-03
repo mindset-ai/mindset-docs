@@ -4,7 +4,7 @@ description: Learn about the Welcome workflow
 
 # Welcome
 
-The Welcome workflow gives you the opportunity to create excitement for your users about the experience ahead, and motivate them to sign up by highlighting key features and benefits and helps to understand who the user is from their first experience to curate a personalised experience.&#x20;
+The Welcome workflow gives you the opportunity to create excitement for your users about the experience ahead, and motivate them to sign up by highlighting key features and benefits and helps to understand who the user is from their first experience to curate a personalized experience.&#x20;
 
 First impressions matter. Like the first experience, an end user has an application directly after an app is loaded. It is the perfect opportunity to excite them about the experience ahead or help them understand how they can use the app by highlighting the key features that lie ahead.&#x20;
 

@@ -6,7 +6,7 @@ description: A how-to guide for setting up your carousels in your Content Discov
 
 **Labels: What are they?**&#x20;
 
-When setting up the Content Discovery feature of your Knowledge Graph workflow,  labels can be added to help organise your content for your end-users. You can assign different labels to different content items within your Knowledge Banks. In addition to this, you can assign multiple labels to the same content item should it be suitable under more than one label category.&#x20;
+When setting up the Content Discovery feature of your Knowledge Graph workflow,  labels can be added to help organize your content for your end-users. You can assign different labels to different content items within your Knowledge Banks. In addition to this, you can assign multiple labels to the same content item should it be suitable under more than one label category.&#x20;
 
 
 

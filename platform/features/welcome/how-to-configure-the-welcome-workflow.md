@@ -6,15 +6,15 @@ description: >-
 
 # How to configure the Welcome workflow
 
-The Welcome workflow is a default workflow which means it's already enabled in the admin portal as shown in the image below. It is the first screen users will see and includes a Carousel, Heading and description text, a “Get Started” button for new users and “Login” option for returning users.
+The Welcome workflow is a default workflow which means it's already enabled in the admin portal as shown in the image below. It is the first screen users will see and includes a Carousel, Heading, and description text, a “Get Started” button for new users and a “Login” option for returning users.
 
 \
 \
-**How to Configure the Welcome workflow**
+**How to Configure the Welcome Workflow**
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 09.37.24.png" alt=""><figcaption></figcaption></figure>
 
-Select the Pages tab inside the Welcome workflow, here you will see the option to Add a welcome page. These pages create the carousel an end-user would see when they first visit the application. You can add up to 4 pages here each including an image, heading and message.
+Select the Pages tab inside the Welcome workflow, here you will see the option to Add a Welcome page. These pages create the carousel an end-user would see when they first visit the application. You can add up to 4 pages here each including an image, heading and message.
 
 \
 \

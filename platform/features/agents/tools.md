@@ -2,7 +2,7 @@
 description: BETA
 ---
 
-# Tools
+# How to use Tools
 
 ### What are Tools?&#x20;
 
@@ -27,7 +27,7 @@ Because the Clarification Tool works automatically, the emphasis is on making su
 
 **Examples Adjusted for Clarification to initiate the ClarificationTool**
 
-Considering the tool's automatic engagement, it is important to consider the configuration instructions to maximise the potential for clear and effective use of the Clarification Tool in interactions.
+Considering the tool's automatic engagement, it is important to consider the configuration instructions to maximize the potential for clear and effective use of the Clarification Tool in interactions.
 
 **1. Customer Support Agent**
 

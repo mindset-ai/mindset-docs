@@ -14,15 +14,15 @@ Firstly, go to Create Account on the left-hand navigation bar in the administrat
 
 <figure><img src="https://lh7-us.googleusercontent.com/twtqBkRp8SawGup2QdpwTy48ZkZWiK8xVW2nrCRmtEFj6eoSnPm_E7KI6Gl8Lb7NCYMJ9tSIWx7jeFP2RlcBTdLWpiaSztQL0WefzV13Z0nuKTiEGMqoS-_rBOatAyXeY6LFmCG_vqT54X8xCezrWSE" alt=""><figcaption></figcaption></figure>
 
-Toggle on Enable MFA & then toggle on Include MFA setup after create account flow. You will then see two options appear, Optional & Required.
+Toggle on Enable MFA & then toggle on Include MFA setup after create the account flow. You will then see two options appear, Optional & Required.
 
 <figure><img src="https://lh7-us.googleusercontent.com/XN5eiSR6zVss_zGaO40Ts_SWVPcRUdmQkhE9ddsYjqe9pH5d_BaJq63GSx4smHSkQalSLmZVVebNFeXNF-D8vBNbOMMvhzm7YZeINH0bmUb8G9YxQkQZN9Q8HEfnlG_u7sP1Mdui5Cpx9HOl3WH6gog" alt=""><figcaption></figcaption></figure>
 
-**Optional :** This will show the MFA screen with a Skip option for users to do the MFA enrollment later.
+**Optional:** This will show the MFA screen with a Skip option for users to do the MFA enrollment later.
 
-**Required :** This will show the MFA screen without having a Skip option and users need to forcefully do the MFA enrollment.
+**Required:** This will show the MFA screen without having a Skip option and users need to forcefully do the MFA enrollment.
 
-When either of these options are selected on the user side > users will immediately see the MFA enrollment screens inside their logged in session.
+When either of these options are selected on the user side > users will immediately see the MFA enrollment screens inside their logged-in session.
 
 
 
@@ -36,7 +36,7 @@ MFA is now turned on for your application for all users.
 
 ### End-users Perspective
 
-As an end-user passing through onboarding once they have verified their email address, they will be asked to add extra protection to their account.
+As an end-users passing through onboarding once they have verified their email address, they will be asked to add extra protection to their account.
 
 <figure><img src="https://lh7-us.googleusercontent.com/Lhe64N5xQYlh7FKJDY5aNmAuz-xrIiJ0E5cuXG8woJ8kxHr9sxqVrk0ZqmXFC0T2P0yq472F9fQYaU9egPjcKN_VWK3b7kAUaW9SYz-Fy_HaDA3Sk68NV7UAJCjbrhLsuQrT_20kr9TQRCWHdYyLqb4" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@ Once verified by their password they will need to enter their phone number.
 <figure><img src="https://lh7-us.googleusercontent.com/iHahzG1eagQzGuIkZh0lU2Cm42WnJzDpCI50pC1tkh1V-GrsYmVabjLm2cEPyMVopWJsTVR2KTXVDqQdc4Eft6DDWxb49nufrZFQd3tgpElk1hW1p76GAjNc6iySLRtlFJWO-6DvOSCxksyRaiuR1gg" alt="" width="375"><figcaption></figcaption></figure>
 
 \
-When they enter their phone number, a text will be sent to their phone with a 6 digit code.
+When they enter their phone number, a text will be sent to their phone with a 6-digit code.
 
 \
 

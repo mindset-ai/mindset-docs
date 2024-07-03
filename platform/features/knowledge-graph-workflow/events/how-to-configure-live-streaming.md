@@ -28,7 +28,7 @@ Next, add Labels. Labels help categorize and manage your events for end-users.&#
 
 ### Creating Labels
 
-You can create new event labels under Manage → Events workflow, and choose the ‘Labels’ tab.
+You can create new event labels under Manage → Events workflow and choose the ‘Labels’ tab.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdYlZGWkiPwEtVOQHRxP3S9lhIPLxUfVMYvKycVUMgMfb4anJ98fbE6yPQsgPgTpIMhqPHdz8LtSUQ4gMg7ctBUqjm94ppGdUoOnD3_qXqTrFPBPkc770BkPgRnlEunOtjHl5bHTp6ohq12lj-oAenc_L1g?key=WQuBy3J-WFOuBRUJnfvGFA" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ After saving, find the event in your event list, select the three dots in the to
 
 ### Stream Management
 
-Once the event is published, click into the selected event, navigate to the “stream management” heading and click "Open Live Stream Channel.”&#x20;
+Once the event is published, click on the selected event, navigate to the “stream management” heading and click "Open Live Stream Channel.”&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcx8-uS4zwcbseUAQyFOb861QSh7gfcDWUHTJD8KSJWpUGUAja5WP7eZ-PDcIHDgpZENab-E46GYXG4n-NXgTNtrxeHb4ux_kRqJKa6EqjHrhD-oJbUGpYClrNu5EWxiqKTKFfss74kmOVfTr4I00nF9r6h?key=WQuBy3J-WFOuBRUJnfvGFA" alt=""><figcaption></figcaption></figure>
 
@@ -72,7 +72,7 @@ Copy these details and open your streaming software e.g. OBS Studio. Next, choos
 
 In the Server box, paste the server link and in the Stream Key box, paste the stream key.
 
-Apply the settings and start streaming from your software. The stream feed should now update in your event management area of the Mindset platform.
+Apply the settings and start streaming from your software. The stream feed should now be updated in your event management area of the Mindset platform.
 
 
 

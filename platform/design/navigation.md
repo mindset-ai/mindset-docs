@@ -30,7 +30,7 @@ This tab allows you to configure how the app layout looks and how your end users
 
 The next aspect within this tab is Primary Navigation. This area allows you to configure navigation tabs on your application.&#x20;
 
-Click on Configure, to configure each of these tabs. You can add Tab title, Tab icon, Canvas color and the Body Container Color.&#x20;
+Click on Configure, to configure each of these tabs. You can add a Tab title, Tab icon, Canvas color and Body Container Color.&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/a8FCgYKyw2WuZ1SQEi6jwY_9MgbPz_GO9gUdtDnFjh7R0s2L_ZjnQ6QDAjgGn21BDzh0LC7u6e1fhPMfdSiNONnxj2yeiBjyG5PXC36xgdQ7nq9r8pI_veBOo0OzpIKf_KmOksAxjYumxVI0PZJSCR4" alt=""><figcaption></figcaption></figure>
 
@@ -46,11 +46,11 @@ Go to the Workflows tab to configure what you want to add to the navigation tab 
 
 
 
-The next aspect under the Navigation and Layout tab is Navigation Styling. You can customise branding aspects of your application like the Surface colour, Active tab icon and text colour, Active tab highlight area and Inactive tab icon and text colour.
+The next aspect under the Navigation and Layout tab is Navigation Styling. You can customize branding aspects of your application like the Surface color, Active tab icon and text color, Active tab highlight area and Inactive tab icon and text color.
 
 ![](https://lh7-us.googleusercontent.com/WcYMGWYzE1nuiGuvyOQxUQaDu8e-cv3LPTkQjzHlIG6rcfZG3mlg3J3R1343TLN4AJMIY6sceJtbW6VeUG\_iLppRB4QEf-OyyIasbNVkXpwhmJ6GxARYI6pFg5xLYIngBS9S-FQuZZ9Za8F6tPlSn88)
 
-Once you have all these options configured, you can see the preview on the right hand side of the Navigation and Layout tab.&#x20;
+Once you have all these options configured, you can see the preview on the right-hand side of the Navigation and Layout tab.&#x20;
 
 ![](https://lh7-us.googleusercontent.com/z1EbJ4xVMitzty2BOGFcGX64EZIOk2hulre2ZNP0\_g-xOtxxS7BpQePiyRC3tz9g17-gK-CrLUi0WFnJK9XOABgwUrjbaqd8pbto\_iId1b8LdKhkonFBK2BtYBqQaeYFOxnArBp04InmeND9jkz1E-M)
 

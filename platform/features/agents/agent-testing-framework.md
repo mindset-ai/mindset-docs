@@ -12,7 +12,7 @@ Next, go to **Manage → Agents** and select the agent you are wanting to test.&
 
 In the agent configuration, you'll notice the Preview tab is available for you to use the Agent as an application administrator.&#x20;
 
-The Testing tab enables you to run tests and compare agent responses to understand end-users experiences based on the Agent they're interacting with.&#x20;
+The Testing tab enables you to run tests and compare agent responses to understand end-users' experiences based on the Agent they're interacting with.&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXf40USNeRHbjfsr0jVUucAE8SQia0RF3nP4AVefQkQyixh9mrZDjSyGFJMoy3tB0L7kIp892hV3NtA8ZpjBFad9vELAbQdz5z8KS_IlvQo-xPzH-SymesZBTalX5sx-LEH8M1cL3BsOpRFVyTlmxe6SgvOS?key=zE2gcBGTSCusfbZv7PyZjQ" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ The Testing tab enables you to run tests and compare agent responses to understa
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXehAVbNBT529biMzzGfVWyUlnGzdqbCqZJCP7uPUAPX0j0lViRKO4tMBSlfcoaiG7hJX9i0t3o4g13CQIlraJdcX7dfuibu6mWY3gnLnk4TYseO3Ye4DYHqyEk28KfSp8uJ_25igxQiNL3_1dEpfsm4lyky?key=zE2gcBGTSCusfbZv7PyZjQ" alt=""><figcaption></figcaption></figure>
 
-**Run tests:** Next, navigate to the Run Tests heading and click the 'Run Tests' button above your prompts/messages. This will test the messages against the current agent configuration. For example, if you're using Bob, the wellbeing agent, the prompts will be tested for Bob. A response will be generated for each saved prompt. Please note that in this alpha release, you'll need to click on the blue text response to view the agent's full reply.
+**Run tests:** Next, navigate to the Run Tests heading and click the 'Run Tests' button above your prompts/messages. This will test the messages against the current agent configuration. For example, if you're using Bob, the well-being agent, the prompts will be tested for Bob. A response will be generated for each saved prompt. Please note that in this alpha release, you'll need to click on the blue text response to view the agent's full reply.
 
 With the responses from the test now available, you can proceed to run comparisons.
 

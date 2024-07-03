@@ -8,7 +8,7 @@ description: >-
 
 **What is the Trending carousel?**&#x20;
 
-The Trending carousel in the Content Discovery Feature enables end-users to see which content items are most popular as other user’s are engaging with them.&#x20;
+The Trending carousel in the Content Discovery Feature enables end-users to see which content items are most popular as other users are engaging with them.&#x20;
 
 The content items with the highest engagement and interaction will be visible at the front of the Trending list, whilst content with lower engagement levels will be visible further along.&#x20;
 

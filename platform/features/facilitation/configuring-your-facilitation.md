@@ -2,7 +2,7 @@
 
 ### Setting up the base configuration
 
-Go to **Configure > Facilitation** to set up the base configuration for the workflow.  Here you have the ability to change the name of ‘Facilitations’ to a term that suits your company and users e.g. workshops as well as the ‘facilitator’ noun to something that resonates closely with your audience e.g. coach. You are also given the option to change the Carousel background colour displayed on the home screen of the user’s app, to match closely with your company branding.\
+Go to **Configure > Facilitation** to set up the base configuration for the workflow.  Here you have the ability to change the name of ‘Facilitations’ to a term that suits your company and users e.g. workshops as well as the ‘facilitator’ noun to something that resonates closely with your audience e.g. coach. You are also given the option to change the Carousel background color displayed on the home screen of the user’s app, to match closely with your company branding.\
 \
 
 
@@ -17,7 +17,7 @@ Go to **Configure > Facilitation** to set up the base configuration for the work
 \
 **Creating Facilitators**
 
-Go to **Facilitations** under **Manage** on the left hand navigation bar and select the **Facilitators** tab. Select **Add new Facilitator** and add in their details, and click save. You will then see your Facilitator, listed. You can add a general list of facilitators who can be assigned to different facilitations.
+Go to **Facilitations** under **Manage** on the left-hand navigation bar and select the **Facilitators** tab. Select **Add New Facilitator** and add in their details, and click save. You will then see your Facilitator, listed. You can add a general list of facilitators who can be assigned to different facilitations.
 
 
 
@@ -70,7 +70,7 @@ Once your engagements are ready, you can design your facilitation. To do this go
 
 <figure><img src="https://lh7-us.googleusercontent.com/W5xGcui6AHoP07mF-aOHV0hONojglMki4RhXU40oveUHk-l8L2Ph-kbsaeClvsALCFGgnMeRtHvtzFiMc1nLh67DZHuo6IOQEWb9KZukOtfkMEfIdA2w-xP3gdrYuuPQaG-5Q_QWyUXZ1erkRydDWbE" alt=""><figcaption></figcaption></figure>
 
-Should you want to edit or delete these engagements at any time, click on the ellipsis on the engagement to make your changes. Editing an engagement in a facilitation will not affect the master engagement it was created from, nor any other copies of the engagement in other facilitations.\
+Should you want to edit or delete these engagements at any time, click on the ellipsis on the engagement to make your changes. Editing an engagement in facilitation will not affect the master engagement it was created from, nor any other copies of the engagement in other facilitations.\
 
 
 <figure><img src="https://lh7-us.googleusercontent.com/muXpjWlAw-njscnBx_kXrhnc2b6ZBb9cbslFmdErAwE-Gx2Drn1Ve_TfazVlv2_YM-235B-YyLjRp-ZvL2A0pqGKOu5FlNsIgfFmPYFnppN4OORoM7G05PWTaGMw8TjDC2cXmfo11Za1nx_zXqbgBG8" alt=""><figcaption></figcaption></figure>
@@ -93,7 +93,7 @@ The facilitation needs to be published in order for users to be able to see the 
 Once the facilitation is published you have two ways to invite end-users into the Facilitation.&#x20;
 
 1. A share access code button will appear allowing you to invite participants to your facilitation. You can invite attendees via sharing this link with them, they cannot be added directly anywhere in the facilitation interface.&#x20;
-2. An Add Attendees button has also appeared on the Facilitation card. Clicking this you can easily add the details of the attendees you would like to invite to that Facilitation. You can add as many email addresses here as you wish. Note that these individuals don’t have to already be registered users of the application. You can then create a message to be included in the email for the attendees to receive with their facilitation invite. You can see the template email on and as you type your message it will preview on the right hand side. To configure your email create a subject line and message on the left-hand side. Once done, hit save and it will send the invite to that end-user.
+2. An Add Attendees button has also appeared on the Facilitation card. Clicking this you can easily add the details of the attendees you would like to invite to that Facilitation. You can add as many email addresses here as you wish. Note that these individuals don’t have to already be registered users of the application. You can then create a message to be included in the email for the attendees to receive with their facilitation invite. You can see the template email on and as you type your message it will preview on the right-hand side. To configure your email create a subject line and message on the left-hand side. Once done, hit save and it will send the invite to that end-user.
 
 Once added you can view all attendees under the Facilitation attendees section by scrolling or searching their names.
 

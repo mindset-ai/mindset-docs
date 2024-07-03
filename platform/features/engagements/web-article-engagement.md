@@ -7,7 +7,7 @@ description: How to create and configure web article engagements
 **Creating your first web article engagement**
 
 \
-To create a Web Article Engagement, navigate to the “Engagement library” under Manage on the left hand navigation bar. Click on the Engagements tab and the Add new engagement button, and select Web Article Engagement from the dropdown menu. \
+To create a Web Article Engagement, navigate to the “Engagement library” under Manage on the left hand navigation bar. Click on the Engagements tab and the Add New Engagement button, and select Web Article Engagement from the dropdown menu. \
 
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.10.06.png" alt=""><figcaption></figcaption></figure>
@@ -39,7 +39,7 @@ This tab shows a list of the locations where this engagement has been published,
 
 <figure><img src="https://lh7-us.googleusercontent.com/yg8VksJyxIjQoD8RgfIdCEAzt2bidqcfe-B3pwiRmloGGZzpSTDpsXdFJCJUSkIBqv5t5YA5HyU85w4OVAN9gXfaWZ6in4WPXMd2XpvJp1DYasRHVayaT9CF61TwOGduHXUFXXeAkC_oP4m2il6Q4R4" alt=""><figcaption></figcaption></figure>
 
-Next, click on the Select location dropdown and choose the location you want to publish the engagement, and click on the Continue Button. Please note that, if you select the Broadcast channels, you have to select the desired channel from your list of channels before clicking on the Continue button.&#x20;
+Next, click on the Select location dropdown and choose the location you want to publish the engagement and click on the Continue Button. Please note that, if you select the Broadcast channels, you have to select the desired channel from your list of channels before clicking on the Continue button.&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/VrZ0R053MOM_VNmRyg09RtzG8SD91pNuSH3IOJbU5bkhZHddiLjM3y1n-OHSN7QvdWTJJduwTf61qc5xMn6bAhCZUnzMrjhXcGhfrIshKC1IrBycNkHEhoIZUlMKAOGWG-iAa9sIZqpxnx2hgKfTQCo" alt=""><figcaption></figcaption></figure>
 

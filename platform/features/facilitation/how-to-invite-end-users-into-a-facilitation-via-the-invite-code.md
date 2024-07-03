@@ -4,17 +4,17 @@ description: A step-by-step explanation of how to invite users into a facilitati
 
 # Inviting end-users into a Facilitation via the invite code
 
-Facilitations are a workflow that provides a flexible way to engage users through a facilitated learning process. A facilitator invites end users into a facilitation by sharing a code with them to join or manually adding them to the facilitation.&#x20;
+Facilitations are a workflow that provides a flexible way to engage users through a facilitated learning process. A facilitator invites end users into facilitation by sharing a code with them to join or manually adding them to the facilitation.&#x20;
 
 \
-Once the facilitation has been published, end-users can be invited into the facilitation directly via an email or using the invite code as explained below.&#x20;
+Once the facilitation has been published, end-users can be invited into the facilitation directly via email or using the invite code as explained below.&#x20;
 
 ### Invitation by code
 
 \
 **Invite code for Open Access Facilitation**
 
-On the Admin portal, under **Manage**, go to the **Facilitation** menu and search for the desired open access facilitation. You will see the Request sent button in the selected Open access facilitation (This is displayed on the facilitation for the first time).
+On the Admin portal, under **Manage**, go to the **Facilitation** menu and search for the desired open-access facilitation. You will see the Request sent button in the selected Open access facilitation (This is displayed on the facilitation for the first time).
 
 \
 A generated code will appear which you can copy and share with attendees to invite them into the facilitation.
@@ -83,11 +83,11 @@ For a Restricted Access Facilitation, click on the edit icon to edit the facilit
 
 <figure><img src="https://lh7-us.googleusercontent.com/Z6m7JsMgfcZajd8BodDVlBYN2ut14hk6iY6sVRSdBlirEIH0eDnxwkgsYGaOiKBKKVA0wdn9ABFOHogG_8VojckE0Tl558_k7NJWU4msNf_hM9tVHs-1kNM2gdjYkNK_0ONcy16RWSWbKQsLH3SgE71aTYjOjkuwHyBIaJxDyR2aQSP5poO5mAW25kTQAg" alt=""><figcaption></figcaption></figure>
 
-Under the Attendees tab, click on the Share access code drop down to display the invite code.
+Under the Attendees tab, click on the Share access code drop-down to display the invite code.
 
 <figure><img src="https://lh7-us.googleusercontent.com/CYbWKbN1ifXUdF0-WVUshHudsJG0hMerR3WswO7-a08kAlvlycPXvMvFloZWtj6gPd-r3G9Vz17rt2D1jfHzmxAzgkxjRbNcu4AuRD6d-GW1_cDJbhww7vPiJgMQb8lrE6V0HQDekqFDIPH-jhVufch53meRwUf0Eo_ZojnkeuaHhfKihqQtT0FTWXL19g" alt=""><figcaption></figcaption></figure>
 
-The invite code will be displayed after clicking on the Share access code drop down, then click on the copy icon to copy the invite code.
+The invite code will be displayed after clicking on the Share access code drop-down, then click on the copy icon to copy the invite code.
 
 
 
