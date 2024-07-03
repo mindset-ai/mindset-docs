@@ -75,7 +75,7 @@ The body of the request should include:
 #### **Security Considerations:**
 
 * **API Key Confidentiality**: Keep your API key confidential. It should be securely stored and never exposed in client-side code.
-* **Authentication Tokens**: Handle authentication tokens securely. They should be transmitted and stored using secure methods to prevent unauthorised access.
+* **Authentication Tokens**: Handle authentication tokens securely. They should be transmitted and stored using secure methods to prevent unauthorized access.
 
 #### **Example Server-Side Usage:**
 

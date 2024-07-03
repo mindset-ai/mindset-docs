@@ -67,7 +67,7 @@ When you load that in your browser you should the embedded SDK in action
 
 It is deliberately not styled or laid out in any particular way.
 
-It contains the "check" component which is only useful to verify that the embedded front code is successfully initialised and connected to our back end.
+It contains the "check" component which is only useful to verify that the embedded front code is successfully initialized and connected to our back end.
 
 You are encouraged to use the browser dev tools to see how it is embedded.
 

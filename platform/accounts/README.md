@@ -6,7 +6,7 @@ description: >-
 
 # Accounts
 
-Accounts are a way of grouping customers, organisations, or groups of people within your application and separating access and delivery to certain features and content. The Mindset AI Platform supports creating as many accounts as you wish within your application, allowing you to separate customers and enable individual accounts to have control over their own content.
+Accounts are a way of grouping customers, organizations, or groups of people within your application and separating access and delivery to certain features and content. The Mindset AI Platform supports creating as many accounts as you wish within your application, allowing you to separate customers and enable individual accounts to have control over their own content.
 
 As an application administrator, you can create many accounts within your application and assign account admins to independently administer their accounts and invite people to them. The account administrator sits within a specific account and therefore only has access to items within that account.&#x20;
 

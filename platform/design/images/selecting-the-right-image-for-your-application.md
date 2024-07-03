@@ -4,7 +4,7 @@ description: An introductory guide to selecting the right image for your applica
 
 # Selecting the Right Image for your Application
 
-#### Why choose a Png image file over a jpeg image file?&#x20;
+#### Why choose a PNG image file over a JPEG image file?&#x20;
 
 Choosing between PNG (Portable Network Graphics) and JPEG (Joint Photographic Experts Group) image formats depends on the specific requirements of your use case. Here are some reasons why you might choose PNG over JPEG:
 
@@ -23,7 +23,7 @@ In summary, choose PNG when you need lossless compression, transparency support,
 
 ***
 
-#### Why choose a jpeg image file over an Svg image file?&#x20;
+#### Why choose a JPEG image file over an SVG image file?&#x20;
 
 1. **Photographic Images**: JPEG is well-suited for photographs and images with complex color gradients, such as natural scenes or portraits. JPEG compression can maintain relatively high image quality while achieving smaller file sizes compared to SVG, especially for photographs.
 2. **Broad Compatibility**: JPEG is supported by nearly all web browsers, image editing software, and digital devices. It's a standard format for sharing and displaying images across various platforms. SVG support, while growing, is not as universal as JPEG support.
@@ -32,7 +32,7 @@ In summary, choose PNG when you need lossless compression, transparency support,
 
 However, there are scenarios where SVG might be preferred:
 
-1. **Scalability**: SVG is resolution-independent and can be scaled to any size without loss of quality. This makes it ideal for images that need to be displayed at various sizes, such as logos, icons, or graphics used in responsive web design.
+1. **Scalability**: SVG is resolution-independent and can be scaled to any size without loss of quality. This makes it ideal for images that need to be displayed in various sizes, such as logos, icons, or graphics used in responsive web design.
 2. **Vector Graphics**: SVG is particularly suitable for images composed of geometric shapes, lines, and text. It's a perfect choice for graphics that require crisp edges and precise shapes, such as diagrams, charts, or illustrations.
 3. **Interactivity and Animation**: SVG supports interactivity and animation through JavaScript and CSS. This makes it a powerful choice for creating dynamic and interactive graphics, such as data visualizations or interactive maps.
 

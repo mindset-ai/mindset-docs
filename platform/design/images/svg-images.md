@@ -9,7 +9,7 @@ description: >-
 An SVG file, short for scalable vector graphic, is a standard graphics file type used for rendering two-dimensional images on the web or mobile devices.\
 
 
-The SVG format stores images as vectors, which is a graphic made up of points, lines, curves and shapes. SVG’s are typically used for Icons, logos & illustrations - they’re not the correct file format to display photographic images.
+The SVG format stores images as vectors, which is a graphic made up of points, lines, curves, and shapes. SVG’s are typically used for Icons, logos & illustrations - they’re not the correct file format to display photographic images.
 
 &#x20;
 
@@ -17,7 +17,7 @@ The SVG format stores images as vectors, which is a graphic made up of points, l
 
 **Why do we use SVG’s?**
 
-SVGs can be scaled up or down to any size without the loss of quality. This means that they can easily be adapted to the many screens and screen sizes that your app will be displayed on with still remaining crips and clear with now reduction in quality.  They’re also often much smaller in file size which is ideal, as this reduces image load time, especially when accessing your app on the web.
+SVGs can be scaled up or down to any size without the loss of quality. This means that they can easily be adapted to the many screens and screen sizes that your app will be displayed on with still remaining crisp and clear with no reduction in quality.  They’re also often much smaller in file size which is ideal, as this reduces image load time, especially when accessing your app on the web.
 
 ![](https://lh6.googleusercontent.com/Xno-dY4oEApAGW8fiRpx8ss420CfN6C8ywIO56W78Xfdyxytbcu8XlONuBXCVIszoaUUeLRrFxMOplGnN5xiswOoKyJvddXS7qZc8MsyAsMbupGTJBuj8q2Zyofl6vjhXG8pgtiRY6iG8ZCntbKqp\_3UeVxr0mBixrZvSG9n4CN47I2DBp9WYr8-)
 
@@ -36,7 +36,7 @@ SVGs can be scaled up or down to any size without the loss of quality. This mean
 
 **Where are SVGs used?**
 
-SVG’s are used in multiple workflows across the product configuration. When uploading images in the configuration portal, the descriptive text will provide more detail on what image types are accepted. In most cases you have the option to use either an svg, jpg or png image.
+SVG’s are used in multiple workflows across the product configuration. When uploading images in the configuration portal, the descriptive text will provide more detail on what image types are accepted. In most cases, you have the option to use either an svg, jpg or png image.
 
 &#x20;
 
