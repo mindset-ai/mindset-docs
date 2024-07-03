@@ -13,7 +13,7 @@ Go to the [Mindset Service Portal (MSP)](https://mindset-ai.atlassian.net/servic
 * Submit an Idea - if you have a proposal for a new feature or feature improvement.
 * Technical support - if you are looking for technical guidance on a feature.
 * Other questions - if you have queries about the platform or anything not covered above.
-* Submit a bug - if you spot something that doesnt look right, or a feature not working the way you expect.
+* Submit a bug - if you spot something that doesn't look right, or a feature not working the way you expect.
 
 Selecting Data and Reporting Requests will give you the following options:
 

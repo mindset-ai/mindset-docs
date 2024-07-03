@@ -6,7 +6,7 @@ description: If the application is taking too long to load follow the guidance b
 
 ### A guide to support users experiencing issues in loading the application
 
-When the application is taking too long to load either on the web on a mobile device, there could be different reasons for this behaviour as explained below.
+When the application takes too long to load either on the web or a mobile device, there could be different reasons for this behavior as explained below.
 
 * The user might be experiencing Internet connection issues. The end user should check if they can access other application URLs for example, [www.google.com](http://www.google.com/) to confirm if it is loading fast. The speed of the network can hugely affect the speed of the application loading to the screen. If the network is slow, the app performance will also be slow.
 * The user could have been in the same session for too long and should perform a hard refresh to clear the cache/cookies on the system and then try again. Refer to the article ‘How to hard refresh your Browser and Clear your Cache’.
@@ -14,6 +14,7 @@ When the application is taking too long to load either on the web on a mobile de
 
 
 Please contact the success team by raising an MSP ticket if the issue remains unresolved to enable the team to investigate further.
+
 
 
 **Raise a ticket here:**

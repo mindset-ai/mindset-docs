@@ -4,12 +4,12 @@ description: How to resize & compress large images using your system's own tool
 
 # Resizing & compressing images
 
-#### This article explains how you can compress images prior to uploading them to the Mindset application.
+#### This article explains how you can compress images before uploading them to the Mindset application.
 
 **Windows (Microsoft Paint) :**
 
 1. Open your large-size image in the Microsoft Paint program.
-2.  Click on **Resize** option**.** This option is on the middle-right side of the "Image" section at the top of the Paint window.
+2.  Click on the **Resize** option**.** This option is on the middle-right side of the "Image" section at the top of the Paint window.
 
     ![](https://api.media.atlassian.com/file/f4bdfcd9-37d1-4d79-b7ce-ca210ac91e12/image?allowAnimated=true\&client=dc131102-4189-4db9-884e-b565213b2ec3\&collection=contentId-257261571\&height=492\&max-age=2592000\&mode=full-fit\&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJkYzEzMTEwMi00MTg5LTRkYjktODg0ZS1iNTY1MjEzYjJlYzMiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpjb2xsZWN0aW9uOmNvbnRlbnRJZC0yNTcyNjE1NzEiOlsicmVhZCJdfSwiZXhwIjoxNjc4OTcyMzU2LCJuYmYiOjE2Nzg5Njk0NzZ9.aBgdfM-mI9cm4h3xLXdLKdrhj9iyWF4hB2OHrTMCMXk\&width=1543#media-blob-url=true\&id=f4bdfcd9-37d1-4d79-b7ce-ca210ac91e12\&collection=contentId-257261571\&contextId=257261571\&height=289\&width=906\&alt=) ![](https://info.mindset.ai/hubfs/image-20230316-073138-png.png)
 
@@ -48,11 +48,11 @@ description: How to resize & compress large images using your system's own tool
 
 &#x20;
 
-**MAC :**[**Resize, rotate or flip an image in Preview on Mac**](https://support.apple.com/en-gb/guide/preview/prvw2015/mac)
+**MAC:** [**Resize, rotate or flip an image in Preview on Mac**](https://support.apple.com/en-gb/guide/preview/prvw2015/mac)
 
 #### Change an image’s dimensions
 
-1. In the Preview app  on your Mac, click the Show Markup Toolbar button (if the Markup toolbar isn’t showing), then click the Adjust Size button.The Adjust Size option can also be found in the Tools menu.
+1. In the Preview app on your Mac, click the Show Markup Toolbar button (if the Markup toolbar isn’t showing), then click the Adjust Size button. The Adjust Size option can also be found in the Tools menu.
 
 ![](https://info.mindset.ai/hubfs/image-20230321-135258-png.png)
 
@@ -68,7 +68,7 @@ Adjust size in Markup Toolbar
 
 &#x20;
 
-2.Enter new values for width and height, or click the “Fit into” pop-up menu and choose a size.
+2\. Enter new values for width and height, or click the “Fit into” pop-up menu and choose a size.
 
 ![](https://info.mindset.ai/hubfs/Screenshot%202023-03-21%20at%2013-55-43-png.png)
 
