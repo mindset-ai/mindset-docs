@@ -16,7 +16,7 @@ Firstly, go to your chosen liveboard in ThoughtSpot and find the data you would 
 Hover over the widget and click explore, this will then open up the widget to full screen.
 
 \
-When fullscreen select the three dots in the top right hand corner and you can see a Download option. Selecting this will give you the choice of three files to download the data into. Selecting CSV will trigger the download onto your computer.
+When fullscreen select the three dots in the top right-hand corner and you can see a Download option. Selecting this will give you the choice of three files to download the data into. Selecting CSV will trigger the download onto your computer.
 
 <figure><img src="https://lh7-us.googleusercontent.com/eUzOtC5kgeKr5-YOkoYvnMJetN3_ASRnVCpgrH6igOJ2IZHt9XuqC3rr-oA9MNIbpwTTYhVj4EU8HSo104mIaSxpRvfgndYATMET1UAEeltMia2OYcu-Z2o3jCoI8hgMFHYBL08hWgNRLDAH76UwIFM" alt=""><figcaption></figcaption></figure>
 

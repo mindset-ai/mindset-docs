@@ -4,7 +4,7 @@ description: An article outlining how to add images to a liveboard in ThoughtSpo
 
 # Adding a logo or image to a liveboard
 
-Images or logos can be added to your company’s liveboard in order to personalise your data visualisation and ensure they fully represent your brand. In order to add your images, locate the ‘Edit’ button in the top right hand corner of your liveboard report in ThoughtSpot.&#x20;
+Images or logos can be added to your company’s liveboard to personalize your data visualization and ensure they fully represent your brand. To add your images, locate the ‘Edit’ button in the top right-hand corner of your liveboard report in ThoughtSpot.&#x20;
 
 \
 ![](https://lh7-us.googleusercontent.com/u4anQNuj7RqFpJ4qenR3MDXF0ipTgMTKW0D7rtHolEKCGPBFm\_3707KxyIPLpEc9hJ5wJ8-BplY-4Ze15Wme67aBR-zs85WK9vAB7XV9hmQZXUYzYwZdgeAe2QOmK3gQ5FUlw1McL\_niLrg8NEYVO-w)\
@@ -22,7 +22,7 @@ Once the ‘Add note’ button has been selected, the following text box will sh
 \
 ![](https://lh7-us.googleusercontent.com/r0VzWejuGsLQ8kqszj5AZxpSX260xmdebl9dPSOix-sgSFEDKtg4BjNH93xPjHXfzAng-Yq1PUKTXgo7Dw7SnUsUrhyGkdh2pzP6boK\_nijLmSuOBh5phjHMfDcbp3vnVcluAbrftgloaoEd2MRYNug)\
 \
-This will then allow you to upload your image file either from your computer, or by adding the image URL.
+This will allow you to upload your image file from your computer or by adding the image URL.
 
 ![](https://lh7-us.googleusercontent.com/Hrh5OyuGKxvCFvmAGam-HT8Kmhy1xwkU3r49ctBcXVMMG\_bkXHAStm0YVumJQ\_ue6rTGHUcysScaVfxngkS7mDNRRTcq-5q9mBRuXCAs0bJbL6qQBBnKeHkLf5WFrclyvggEbWyyQGk0itF0giYseYA)
 

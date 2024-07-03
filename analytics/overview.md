@@ -14,4 +14,4 @@ The software, which is embedded into the Mindset platform, facilitates the ident
 
 
 
-Harnessing the power of artificial intelligence (AI), ThoughtSpot enables customers not only to deepen their understanding of end-user activity but also to extract valuable data from these interactions. With this data, users can create meaningful visualisations and, most importantly, make informed, actionable decisions driven by data.
+Harnessing the power of artificial intelligence (AI), ThoughtSpot enables customers not only to deepen their understanding of end-user activity but also to extract valuable data from these interactions. With this data, users can create meaningful visualizations and, most importantly, make informed, actionable decisions driven by data.

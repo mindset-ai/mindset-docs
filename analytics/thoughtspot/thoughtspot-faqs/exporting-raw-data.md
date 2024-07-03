@@ -11,7 +11,7 @@ In order to explore your raw data, simply select the tile in ThoughtSpot that yo
 
 <figure><img src="https://lh7-us.googleusercontent.com/gSkMyGo-ccKESPr1X_FeZG05XbOP5pke2bmjoIVGclksLXudvGeVTmROKYJnfaYGxzTEGxhRcwenhtQTVZKY44c4kZn3bg_XdsrlMS7JLu_M0mlgooG9pIFZ-mcF3lU51BdkjOuH6WW7I7YbxTNNuFA" alt="" width="375"><figcaption></figcaption></figure>
 
-Once you have selected ‘Explore’, you will then be able to view your data visualisation along with a right-hand navigation bar which will allow you to edit this data.&#x20;
+Once you have selected ‘Explore’, you will then be able to view your data visualization along with a right-hand navigation bar which will allow you to edit this data.&#x20;
 
 Searches in ThoughtSpot use columns that are defined as either attributes or measures.
 
@@ -34,7 +34,7 @@ You can first do this by adding your own filter to the data. Example filters you
 You are also able to add your own column to the data. This includes adding an attribute: Attributes are primarily text values.\
 
 
-You can alternatively add a measure, measures are numeric values you can do math on, with meaningful results. You will most likely find your measures on the y-axis of your chart.. \
+You can alternatively add a measure, measures are numeric values you can do math on, with meaningful results. You will most likely find your measures on the y-axis of your chart. \
 
 
 **An example of a measure includes:** Number of users.&#x20;

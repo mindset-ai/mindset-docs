@@ -19,7 +19,7 @@ Our library of integration options allows you to connect your platform with the 
 
 ### Introducing the Integrations marketplace
 
-Our marketplace is where you can browse the many integration options available to enhance your platform. Our integrations are organised into categories making it easy to find what you need. You can quickly navigate to the desired integration, access detailed documentation, and find support resources to help you at every step of the way.
+Our marketplace is where you can browse the many integration options available to enhance your platform. Our integrations are organized into categories making it easy to find what you need. You can quickly navigate to the desired integration, access detailed documentation, and find support resources to help you at every step of the way.
 
 <figure><img src="../.gitbook/assets/marketplace (3).png" alt=""><figcaption><p>Browse our integrations marketplace</p></figcaption></figure>
 
