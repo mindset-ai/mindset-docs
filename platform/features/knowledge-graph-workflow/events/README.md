@@ -33,12 +33,12 @@ In your application administration portal, you will be able to locate the “Eve
 \
 
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.50.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-28 at 10.50.45.png" alt=""><figcaption></figcaption></figure>
 
 \
 Firstly, you are able to select the specific workflow colours, including icon and text colours, that you wish to be displayed on the Events screen.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.52.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-28 at 10.52.22.png" alt=""><figcaption></figcaption></figure>
 
 In addition to workflow colours, you can also configure the Events homescreen card here, too. This includes adding in the card title, description, button label, colours and image icon.
 
@@ -48,28 +48,28 @@ Should the Events workflow be configured on its own under a navigation tab, the 
 
 
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.54.55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-28 at 10.54.55.png" alt=""><figcaption></figcaption></figure>
 
 Next, the coming soon card button can be configured. This includes adding in the button text and colour. The coming soon cards are displayed for events that don’t have an event link configured yet.&#x20;
 
 
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.57.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-28 at 10.57.59.png" alt=""><figcaption></figcaption></figure>
 
 
 
 Next, the register card button can be configured. This includes adding in the button text and colour. The register cards are displayed for events that have an event link configured.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.58.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-28 at 10.58.38.png" alt=""><figcaption></figcaption></figure>
 
 Next, the join card button can be configured. This includes adding in the button text and colour. The join cards are displayed for events that are due to happen that day.\
 
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.58.44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-28 at 10.58.44.png" alt=""><figcaption></figcaption></figure>
 
 Finally, the watch now card button can be configured. This includes adding in the button text and colour. The watch now cards are displayed for previous events. In the future this may offer other experiences for the user.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.58.47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-28 at 10.58.47.png" alt=""><figcaption></figcaption></figure>
 
 \
 \
@@ -79,7 +79,7 @@ To set up an event in your Knowledge Graph, first go to Manage → Knowledge Gra
 
 
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 11.01.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-28 at 11.01.51.png" alt=""><figcaption></figcaption></figure>
 
 \
 When selecting your Events bank, under the ‘Events’ tab, you will be able to view previously configured events, as well as being able to add in new events.&#x20;
