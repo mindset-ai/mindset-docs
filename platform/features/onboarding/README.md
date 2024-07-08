@@ -12,16 +12,15 @@ This is the default workflow that runs when the user clicks “Get Started” wi
 
 To configure the Onboarding Workflow, click on the Onboarding tab on the left-hand side of the app and then click on the Home Page Settings tab. To enable the Onboarding widget which will appear on the home page, click on the Show home page widget for the profile image toggle button. Under the Header text for the home page widget for the profile image, configure the text which will be displayed on the home page.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 09.49.32 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 at 13.20.54.png" alt=""><figcaption></figcaption></figure>
 
 You can add body text under the **Body text** heading and add the text that will show on the Button text under the **Button text** heading.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 09.55.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 at 13.23.06.png" alt=""><figcaption></figcaption></figure>
 
-To add a home page widget, click on the Change button to select an image. You can also select a color for the background of the home page profile widget to be displayed on the home screen.\
+To add a home page widget, click on the Change button to select an image. You can also select a color for the background of the home page profile widget to be displayed on the home screen.
 
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 09.57.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 at 13.23.51.png" alt=""><figcaption></figcaption></figure>
 
 **Configuring the Welcome widget**
 
@@ -33,7 +32,7 @@ For the Welcome widget, under Welcome Text on the first visit, configure the tex
 
 Click on the Survey Questions tab to add and configure Onboarding survey questions that the user will answer during the onboarding user journey. Click on the Add a question type drop-down to select the question type.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.01.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 at 13.24.49.png" alt=""><figcaption></figcaption></figure>
 
 We always recommend starting the Onboarding process with your Terms and Conditions. This enables the end-user to access and read them prior to using the application, as well as confirm they agree. To configure this, click on the Survey questions tab and select Terms and Conditions from the Add a Question type dropdown.\
 \
