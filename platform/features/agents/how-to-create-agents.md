@@ -6,13 +6,13 @@ description: An Introduction to Creating your Agents
 
 **Adding an Agent**
 
-In order to add a new agent in your application, you will first need to be in the administration portal. Locate the 'Agents' tab in your left-hand navigation bar under **'Manage'.**&#x20;
+In order to add a new agent in your application, you will first need to be in the administration portal. Locate the '**Agents**' tab in your left-hand navigation bar under **'Manage'.**&#x20;
 
 When agents have been created, you'll find a comprehensive list of your previously configured ones along with their corresponding handles displayed here.
 
 For instance, within this application, the agents named Michelle and Angie have been set up. Their respective handles, @Michelle and @Angie, are visible in the list under the '**Agents**' tab.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-06 at 17.07.36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/summit10 2024-07-08 13-52-33.png" alt=""><figcaption></figcaption></figure>
 
 To initiate the creation of a new agent, select the '**add an agent**' button.
 
@@ -22,37 +22,35 @@ Each agent represents a specific use case and purpose. Often, an agent can be bu
 
 After clicking the '**Add an agent**' button, you'll gain access to configuring the agent according to your preferences.
 
+Next, under the '**Settings**' tab, you can add in the **agent name**, **agent handle**, and a brief **agent description**. Under this tab, you can also control the **agent visibility**. Toggling this button on will enable your end-users to see and interact with the agent created, in the front-end of the application. We recommend that all the agent configuration and testing be completed prior to enabling its access to end users.&#x20;
+
 #### Settings
 
-<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-05-27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/summit10 2024-07-08 14-02-07.png" alt=""><figcaption></figcaption></figure>
 
-Next, under the '**Settings**' tab, you can add in the **agent name**, **agent handle**, and a brief **agent description**. Under this tab, you can also control the **agent visibility**. Toggling this button on will enable your end-users to see and interact with the agent created, in the front-end of the application. We recommend that all the agent configuration and testing be completed prior to enabling its access to end users.&#x20;
+
 
 #### Behavior
 
-
-
-<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-08-09.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-12-10.png" alt=""><figcaption></figcaption></figure>
-
 Following this, you can begin setting up the agent's **behavior** within the '**Behavior**' tab. Here, you're able to input behavior instructions including the agent's **purpose**, **personality**, **policy rules, output formatting**, and any **additional information** that may assist the agent in answering questions effectively and efficiently.
 
-<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-13-31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/summit10 2024-07-08 13-56-17.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/summit10 2024-07-08 14-03-24.png" alt=""><figcaption></figcaption></figure>
 
 You can also add in the **interaction processes** for your agent. Including **icebreaker message instructions**, and a **completion step**.&#x20;
 
 _**Please note:**_ You can find more information about each of these by either clicking the small question mark icon next to the headings or alternatively clicking [here](https://docs.mindset.ai/platform/features/agents/how-to-configure-agents).
 
-#### Capabilities
+<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-13-31.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/summit10 2024-06-19 22-20-24.png" alt=""><figcaption></figcaption></figure>
+#### Capabilities
 
 Next, you can set up your agent **capabilities** under the '**capabilities**' heading. An agent capability is a specific set of steps that this agent is able to perform to the user. In order to find out more about capability configuration for your agents, please read our 'capabilities' article [here](how-to-configure-capabilities.md).&#x20;
 
-#### Tools
+<figure><img src="../../../.gitbook/assets/summit10 2024-06-19 22-20-24.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-16-58 (1).png" alt=""><figcaption></figcaption></figure>
+**Tools**
 
 In the next step of agent configuration, you'll choose the **tools** you want the agent to utilize when answering end-users questions, within the '**Tools**' tab.
 
@@ -64,17 +62,21 @@ Lastly, you can choose additional response details that the agent will incorpora
 
 _**Please note:**_ You do not have to select all 3 of these features together for the same agent.&#x20;
 
+<figure><img src="../../../.gitbook/assets/Summit10 2024-06-19 22-16-58 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
 #### Design
 
 Under the Design tab, the agent's primary color and text color can be configured.
+
+To change the color simply click the 'select color' button and choose your color from the color wheel or from your designated color library.
 
 
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.26.27.png" alt=""><figcaption></figcaption></figure>
 
-To change the color simply click the 'select color' button and choose your color from the color wheel or from your designated color library.
-
-#### Knowledge&#x20;
+**Knowledge**&#x20;
 
 Under the '**Knowledge**' tab, you can select the knowledge banks that the agent can have access to.&#x20;
 
