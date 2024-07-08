@@ -6,7 +6,7 @@ description: How to create and configure surveys
 
 ### How to configure a survey engagement
 
-To create your first engagement, navigate to the “Engagement library” page of the “App information” section. Click on the Engagements tab and the Add new engagement button, and select from the dropdown which item you want to create.
+To create your first engagement, navigate to the “Engagement library” tab under 'Manage' in your administration portal. Click on the 'Add new engagement' button, and select from the dropdown which item you want to create.
 
 To configure a Survey engagement choose Survey from the Add new engagement item drop-down. Here you can add a heading, description, survey image, initial button text, and in-progress button text. You will see a preview of this engagement on the right-hand side of the screen.
 
@@ -18,11 +18,19 @@ Clicking on the Intro step tab you are able to enable a survey introduction, thi
 
 <figure><img src="https://lh7-us.googleusercontent.com/gkhDfL5jP05NOtI3Mri7eUfCeL_m5aTrywRMEXXQLpRpCNtyfFHLEVsu5SzCtKthQr2omU0RyQ-t_hIKwM46t2qbIPxDHPYe_oCl4Pw4EXiQqVT4rB7ISJd6dxxbQaJ7Ngj3w_866Cnf-5y2O19jvC8" alt=""><figcaption></figcaption></figure>
 
-The Survey Questions tab is where you can build out your survey to include either multiple choice questions, ranking questions, open-ended questions, scale questions, or a spacer page. You also have the option here to enable Close action to discard current survey progress. If disabled this means that if a user taps close, their progress will be retained and they can re-enter the survey process at the current point. If enabled, tapping the icon will discard all answers provided and the user will have to start the process afresh again.
+The Survey Questions tab is where you can build out your survey to include either multiple choice questions, ranking questions, open-ended questions, scale questions, or a spacer page. You also have the option here to enable Close action to discard current survey progress. If disabled, this means that if a user taps close, their progress will be retained and they can re-enter the survey process at the current point. If enabled, tapping the icon will discard all answers provided and the user will have to start the process afresh again.
 
 <figure><img src="https://lh7-us.googleusercontent.com/F-HARteT-25_Z20W4UYjR4P7Dh8dJgVkV7fjJL8jvCt2V5NEI4lke8fEcDoytDHhs8PezVcsqtRoftS3lDw4rTpIYh03KzHFMaxAR8vUimNEHFQH7k38HKgZSLI7pdQ-v5hx5zUtTW-tkrRnxlhMs4A" alt=""><figcaption></figcaption></figure>
 
-To add your question/s click the Add new question button. Note: when creating these questions, many require your answers to be related to a Tag. This is to enable the serving of content to users based on their answers. As an example, adding the multiple-choice question will direct you to the screen where you can configure the questions. Here you can amend the heading, supporting text, the number of answers, and button text, as well as enable the All answers must be used and Available answers depend on the response to the previous question toggles. \
+To add your question/s click the Add new question button. Here, you can select from the following question type options: multiple choice survey question, ranking question, open ended question, spacer page, and scale question.&#x20;
+
+
+
+Note: when creating these questions, many require your answers to be related to a Tag. This is to enable the serving of content to users based on their answers.&#x20;
+
+**Multiple Choice Question**&#x20;
+
+As an example, adding the **multiple-choice question** will direct you to the screen where you can configure the questions. Here you can amend the heading, supporting text, the number of answers, and button text, as well as enable the 'All answers must be used' and 'available answers depend on the response to the previous question' toggles. \
 
 
 <figure><img src="https://lh7-us.googleusercontent.com/Ur0b4f7iEsCXKW73vNrraA5HdsUmA2uIKBJ4Anldzbi4oGE0L8E3yZJIQv9IqlFQbYlwZ0R1yKi2OYHvO_1iAU2_nbRZHj_j53NE_Q5yh9rb2O3_HOE0B9G_-nXEOcO7Z_9DBqdze0MXScbqRoMgQMQ" alt=""><figcaption></figcaption></figure>
@@ -32,6 +40,56 @@ Once the question has been configured, select the Direct Answers tab and add the
 
 
 <figure><img src="https://lh7-us.googleusercontent.com/8fcTj20o44WW6ZaAT5ZQNIrfTZkcYifqzJJVdAlHmFwoTKNXlPlLXfCMHHC3LH43AGOYY7dvwO7r-lwnZ_ohvV57NlJ76AZ5kJ3L5ATSWi9C2mWa15Iy-Op_4Y0Yl53GQsXavlPr-l_X2xk1yvQf1aQ" alt=""><figcaption></figcaption></figure>
+
+**Ranking Question**
+
+You can also select 'ranking question' from the drop down option when configuring your survey engagement. A ranking question enables your user to rank a series of answer options between an upper scale and a lower scale, set by the administrator.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 at 13.44.37.png" alt=""><figcaption></figcaption></figure>
+
+Firstly, you can add in your question heading, supporting text, upper scale label, lower scale label and button text.&#x20;
+
+You can additionally add in an optional category and question report text.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 at 13.48.03.png" alt=""><figcaption></figcaption></figure>
+
+Finally, you can add in your answer options and select an associated tag. Please note, you can choose between 2 and 6 answer options.&#x20;
+
+You can also enable the scoring of your answers by toggling the 'enable scoring of answers' button.&#x20;
+
+**Open Ended Question**
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 at 13.51.04.png" alt=""><figcaption></figcaption></figure>
+
+You can add in open ended questions from the drop down option when configuring your survey engagement. Here, you can add in your primary question and supporting text, as well as setting the maximum character limit for users, and finally the button text, too.&#x20;
+
+**Spacer Page**
+
+Next, you have the option to add in a spacer page. This acts as a 'filler' page between two questions which can be used to add text, image, or web URLs for users to refer to.
+
+
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 at 13.53.27.png" alt=""><figcaption></figcaption></figure>
+
+You can add in your spacer title, page image, spacer text, attach a document, or add a URL link by utlizing the above text boxes.&#x20;
+
+**Scale Question**&#x20;
+
+The final question type that you can add when configuring your survey engagement, is the scale question.&#x20;
+
+Here, you can configure your primary question, optional supporting text, an additional information link, any additional information that users can refer to when answering this qustion, and also choose the number of answer options you would like to display using the drop down.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 at 13.55.50.png" alt=""><figcaption></figcaption></figure>
+
+Next, add in your button text, optional category option, and optional question report text.
+
+You can additionally enable the scoring of answers by toggling the 'enable scoring of answers' button on.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 at 13.55.57.png" alt=""><figcaption></figcaption></figure>
+
+Finally, add in your answer options, and attach an associated tag for each. These tags could be 'stronglyagree' for the strongly agree answer option, etc.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 at 13.56.06.png" alt=""><figcaption></figcaption></figure>
 
 Once your questions are added you’ll see the list of them under survey questions. Here you can edit, delete, or change the order of questions by selecting the ellipsis.\
 
