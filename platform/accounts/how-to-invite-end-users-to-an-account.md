@@ -16,15 +16,19 @@ Adding email addresses to a safe list will allow you to invite a specific and ta
 
 To invite end users, go to the the account administration portal and click on the **Members** menu on the left side of the screen, then click on the **Invite People** tab where you can add the end user email address(es) in the field provided.
 
-\
-![](https://lh6.googleusercontent.com/HqsSKyTtsYM\_7D-jqjMLihnwPYYQnvnEPmVaSVd07BIvV85gOG-7HJ6bPyieYUqrWngARV90QSUc\_tbfUN\_eBU0pMll5RmkmcMVuzGvc-Qd\_h3RNbBFTipq\_WSTteF2Ko-5QRopWs1hfXti1akJ\_nRg)\
-\
-\
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+You have the option to notify users via email or not. If you would like for users to be notified via email then choose **Yes, notify via emai**l option, then under **Email subject** add subject text and under **Your personalised message** enter a message to the user(s).
+
+If you choose the **No, don't notify via email**, then the user must first register in the app before seeing the option to join the account.&#x20;
+
 Once a user has signed up and have created their personal account, they will receive an invite inside their app to join their Company or Organisation’s account.&#x20;
 
-&#x20;
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-Please note that the account admin can copy the invite link and send to the end user by clicking **Copy link** button which is displayed under the invite tab (see above image) and this link will direct users to the application. This link will direct users to the application on the relevant store for their device or open the web application on their browser.&#x20;
+Please note that the account admin can copy the invite link and send to the end user by clicking **Copy link** button which is displayed under the invite tab (see first image) and this link will direct users to the application. This link will direct users to the application on the relevant store for their device or open the web application on their browser.&#x20;
 
 &#x20;
 
