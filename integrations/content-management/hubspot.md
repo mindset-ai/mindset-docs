@@ -26,6 +26,13 @@ We can seamlessly ingest a wide range of HubSpot content tailored to your specif
 | Files   | <img src="../../.gitbook/assets/arrow - left to right (3).png" alt="" data-size="original"> | Knowledge Bank |
 | Pages   | <img src="../../.gitbook/assets/arrow - left to right (3).png" alt="" data-size="original"> | Knowledge Bank |
 
+**Note:** For blogs, we offer two ingestion options:
+
+* **PDF Ingestion:** We can ingest your blog posts as PDFs, allowing us to link directly to specific segments within your content.
+* **HTML Ingestion:** Alternatively, we can ingest your blog posts as HTML, enabling direct links that take customers straight to the relevant sections of your blog.
+
+By providing these options, we ensure that your content is easily accessible and navigable for your users.
+
 ### How to Get Started
 
 To set up the Hubspot integration, please contact your Customer Success representative. We will gather the necessary information from you to get this integration up and running. Our team is here to ensure a smooth and efficient setup process, so you can start benefiting from the integration as soon as possible.
