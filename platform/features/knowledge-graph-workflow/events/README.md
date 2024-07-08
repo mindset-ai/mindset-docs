@@ -33,5 +33,5 @@ Live Streaming Events - Events live streamed into the platform
 
 
 
-Read how to configure [External Events](https://app.gitbook.com/o/7UiDLJ11pQ7Stw87tJyl/s/5dRId4QrAnQV7eKBUoK5/\~/changes/330/platform/features/knowledge-graph-workflow/events/how-to-configure-external-events) or [Live Streaming Events.](how-to-configure-live-streaming.md)
+Read how to configure [External Events](https://app.gitbook.com/o/7UiDLJ11pQ7Stw87tJyl/s/5dRId4QrAnQV7eKBUoK5/\~/changes/330/platform/features/knowledge-graph-workflow/events/how-to-configure-external-events) or [Live Streaming Events.](how-to-configure-live-streaming-events.md)
 

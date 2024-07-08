@@ -40,7 +40,7 @@
         * [Prompts Best Practices](platform/features/knowledge-graph-workflow/configuring-the-knowledge-graph-banks/prompts/prompts-best-practices.md)
     * [Events](platform/features/knowledge-graph-workflow/events/README.md)
       * [How to Configure External Events](platform/features/knowledge-graph-workflow/events/how-to-configure-external-events.md)
-      * [How to configure Live Streaming](platform/features/knowledge-graph-workflow/events/how-to-configure-live-streaming.md)
+      * [How to Configure Live Streaming Events](platform/features/knowledge-graph-workflow/events/how-to-configure-live-streaming-events.md)
     * [Knowledge Graph Workflow FAQs](platform/features/knowledge-graph-workflow/knowledge-assistant/knowledge-graph-workflow-faqs.md)
   * [Agents](platform/features/agents/README.md)
     * [How to Create Agents](platform/features/agents/how-to-create-agents.md)

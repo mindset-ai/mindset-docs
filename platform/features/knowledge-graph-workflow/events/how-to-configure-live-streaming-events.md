@@ -4,13 +4,13 @@ description: >-
   Mindset platform.
 ---
 
-# How to configure Live Streaming
+# How to Configure Live Streaming Events
 
 ### Create a New Live Event
 
 To create a new live event within your application, navigate to the Events workflow under Manage, in your administration portal. If you cannot see this within your application, please contact your Customer Success Representative.
 
-<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfmBPdx70QffTb-CCy_BIzSMZpwTjWEdVtPM_bxOSas7CxxyRYJ9M-rw-MPgiabNyMPDIOUzdZWBijVqtKUF6xkdvBZ4_vVyxCUJ0ZYd7MutynboShg6ORA22-TtiVwup_sg04JaxPSkHaSug3PYp6sJQXJ?key=WQuBy3J-WFOuBRUJnfvGFA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-07-08 141030 (1).png" alt=""><figcaption></figcaption></figure>
 
 Click ‘Add a new Event ’ and select "Live Stream Event." Now populate the Event with:
 
@@ -20,8 +20,6 @@ Click ‘Add a new Event ’ and select "Live Stream Event." Now populate the Ev
 * **Image:** Upload an image to represent the event.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfrznlW1CkeNd_AH9N25zqeRWtF-IYZwHs03Fujcd744LMWAq96n9Ua6hNGC-SAR5ahRTN2YYgUzJLTTTGIrhODyJd0HzrbHw7sIpSEhF245lfB-_vMRYdBY--meDh0JwJrBNhk-Gq3DaqJoAQ49ORnAf4e?key=WQuBy3J-WFOuBRUJnfvGFA" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXenoa3FLzb3EfrUGGMzPFomVQ6epbYKdHnPUr_CPtEAivTnB35N-8o7Y1IcZSge7ZOT-29Ze42gRzlXjx7ZOz66dTjjnJzOGGcnmvF0j2uh26rptjVdrM15W-HUU5u48DB_wshIjDUJ5ICtdN0o6lJaxi2a?key=WQuBy3J-WFOuBRUJnfvGFA" alt=""><figcaption></figcaption></figure>
 
 \
 Next, add Labels. Labels help categorize and manage your events for end-users.&#x20;
