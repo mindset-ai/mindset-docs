@@ -28,7 +28,7 @@ With our Podbean ingestion integration, we'll seamlessly import your Podbean cat
 
 You can currently ingest the following formats using the Podbean integration:
 
-* Audio files (MP3, M4A)
+* Audio files (MP3, BIN)
 
 ### How to Get Started
 
