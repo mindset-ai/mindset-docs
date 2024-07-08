@@ -20,12 +20,11 @@ Our HubSpot integration allows you to effortlessly ingest content from your HubS
 
 We can seamlessly ingest a wide range of HubSpot content tailored to your specific needs. Using tags or content types (such as blogs or files), we ensure that only the most relevant content is imported. The synchronization frequency between HubSpot and your knowledge banks can be adjusted to suit your requirements. Typically, each media type will be mapped to a corresponding knowledge bank, ensuring organized and efficient content management.
 
-| Hubspot  |                                    Direction of data flow                                   | Mindset        |
-| -------- | :-----------------------------------------------------------------------------------------: | -------------- |
-| Articles | <img src="../../.gitbook/assets/arrow - left to right (3).png" alt="" data-size="original"> | Knowledge Bank |
-| Blogs    | <img src="../../.gitbook/assets/arrow - left to right (3).png" alt="" data-size="original"> | Knowledge Bank |
-| Files    | <img src="../../.gitbook/assets/arrow - left to right (3).png" alt="" data-size="original"> | Knowledge Bank |
-| Pages    | <img src="../../.gitbook/assets/arrow - left to right (3).png" alt="" data-size="original"> | Knowledge Bank |
+| Hubspot |                                    Direction of data flow                                   | Mindset        |
+| ------- | :-----------------------------------------------------------------------------------------: | -------------- |
+| Blogs   | <img src="../../.gitbook/assets/arrow - left to right (3).png" alt="" data-size="original"> | Knowledge Bank |
+| Files   | <img src="../../.gitbook/assets/arrow - left to right (3).png" alt="" data-size="original"> | Knowledge Bank |
+| Pages   | <img src="../../.gitbook/assets/arrow - left to right (3).png" alt="" data-size="original"> | Knowledge Bank |
 
 ### How to Get Started
 
