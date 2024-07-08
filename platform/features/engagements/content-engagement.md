@@ -10,7 +10,7 @@ Content engagement allows app creators to create text, image and video content w
 
 **Creating your first content engagement**
 
-To create your first content engagement, navigate to the “Engagement library” in the “App Information” section. Click on the Engagements tab.\
+To create your first content engagement, navigate to the “Engagement library” under “Manage” on the left hand navigation. Click on the Engagements library tab.\
 \
 Click on the Add new engagement button, select from the dropdown and select Content Engagement.
 
@@ -65,9 +65,7 @@ Depending on the video type selected you may have the option to upload a thumbna
 \
 You then must add a Title, Summary and Body text to this engagement. You also then have the option to attach up to 5 documents and add external links and ratings.
 
-
-
-Once the engagement has been completed and saved, you can view it on the Engagement library > Engagements screen. To display this on the home screen for end-users click on Publish to make it visible. To use inside a Facilitation leave the Engagement as unpublished and this will save it as a draft for when you are ready to build your Facilitation.
+Once the engagement has been completed and saved, you can view it on the Engagement library > Engagements screen. To display this on the home screen for end-users click on Publish a copy to make it visible. To use inside a Facilitation leave the Engagement as unpublished and this will save it as a draft for when you are ready to build your Facilitation.
 
 <figure><img src="https://lh7-us.googleusercontent.com/U2EwQxCHmgGhuELpwbl_aB-c_EF904oCiRm2xOrMyYTSWWP1w0UcFAs1nuwXB7MUfjJxkycPDsFR9n_GDhC9WlG2dzqj37LT-ufEi7gpviCCPDdoL4cyUDjf6pVZpu5g6PN4vO13rp4xpDQ6p6j2cVY" alt=""><figcaption></figcaption></figure>
 
