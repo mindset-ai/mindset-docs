@@ -1,10 +1,10 @@
 ---
-description: Learn about the Content Discovery feature in the Knowledge graph workflow
+description: Learn about the Content Discovery feature in the Knowledge Graph workflow
 ---
 
 # Content Discovery
 
-The Content Discovery feature displays content (PDF or MP3/4 files) in a carousel view. Users can engage with this content by watching, reading or asking questions to the Agent.
+The Content Discovery feature displays content (PDF or MP3/4 files) in a carousel view. Users can engage with this content by watching, reading or searching.&#x20;
 
 Read more about the Content Discovery feature below:
 

@@ -26,4 +26,4 @@ The trending carousel is based on the number of times a content item (video or P
 
 Please keep in mind that the trending section reflects user activity from the past 7-14 days.
 
-If you're interested in learning more about configuring your Content Discovery feature, take a look at the "How to Set Up the Knowledge Graph Workflow" guide. \
+\
