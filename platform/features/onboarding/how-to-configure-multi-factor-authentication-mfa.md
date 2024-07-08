@@ -10,7 +10,9 @@ Activating MFA for your account couldn't be simpler. Administrators will find th
 
 ### Configuring MFA
 
-Firstly, go to Create Account on the left-hand navigation bar in the administration portal. Here you should see a new Multi-factor authentication tab. If you do not see this, inform your customer success manager and they can turn this on for you.
+Firstly, go to Create Account on the left-hand navigation bar in the administration portal under 'Configure'. Here you should see a new Multi-factor authentication tab.&#x20;
+
+Please note, if you do not see this tab, inform your customer success manager and they can turn this on for you.
 
 <figure><img src="https://lh7-us.googleusercontent.com/twtqBkRp8SawGup2QdpwTy48ZkZWiK8xVW2nrCRmtEFj6eoSnPm_E7KI6Gl8Lb7NCYMJ9tSIWx7jeFP2RlcBTdLWpiaSztQL0WefzV13Z0nuKTiEGMqoS-_rBOatAyXeY6LFmCG_vqT54X8xCezrWSE" alt=""><figcaption></figcaption></figure>
 
@@ -24,11 +26,7 @@ Toggle on Enable MFA & then toggle on Include MFA setup after create the account
 
 When either of these options are selected on the user side > users will immediately see the MFA enrollment screens inside their logged-in session.
 
-
-
 Proceed with your chosen option and select save.
-
-
 
 MFA is now turned on for your application for all users.
 
