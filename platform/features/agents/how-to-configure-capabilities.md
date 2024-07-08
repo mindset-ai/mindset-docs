@@ -1,5 +1,5 @@
 ---
-description: What are Capabilities and how to configure them
+description: What are Capabilities and how to configure them in the Mindset platform
 ---
 
 # How to configure Capabilities
@@ -12,15 +12,15 @@ Capabilities allow agents to be more human-like in their interactions, offering 
 
 ### **How to Configure Capabilities**
 
-Firstly on the left hand navigation of the administration portal go to **Manage** > **Agents** and select your **Agent** (you will need to have configured the **General Settings** and **Behaviour** tabs of your Agent first where you define the Agent's purpose, personality and rules): &#x20;
+Firstly on the left hand navigation of the administration portal go to **Manage** > **Agents** and select your **Agent** (you will need to have configured the [**General Settings** and **Behaviour** tabs of your Agent](configuration.md) first where you define the Agent's purpose, personality and rules): &#x20;
 
 <figure><img src="../../../.gitbook/assets/Summit10 2024-03-11 13-46-44.png" alt=""><figcaption></figcaption></figure>
 
 Next select the **Capabilities** tab:
 
-<figure><img src="../../../.gitbook/assets/Summit10 2024-03-11 15-53-57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-08 133945.png" alt=""><figcaption></figcaption></figure>
 
-You can choose to keep toggled on or toggle off **Display Capabilities as options.**  By keeping the toggle on this will display the Capabilities for this agent as options with the **/ key.** What this means is that at the **front end** of the application, the **/ key** can be seen to the left of the **Ask** the Agent bar for the user to select and view the list of Capabilities for that specific Agent. Or the user can add **/** to the Ask bar as an alternative way to bring up the list of **Capabilities**.\
+You can choose to keep toggled on or toggle off **Display Capabilities as options.**  By keeping the toggle on this will display the Capabilities for this agent as options with the **/ key.** This makes it visible to end users as a option. **T**he **/ key** can be seen to the left of the **Ask** the Agent bar for the user to select and view the list of Capabilities for that specific Agent. Or the user can add **/** to the Ask bar as an alternative way to bring up the list of **Capabilities**.\
 
 
 <figure><img src="../../../.gitbook/assets/Summit10 2024-03-11 13-53-03_10 (1).png" alt=""><figcaption></figcaption></figure>
@@ -30,22 +30,18 @@ Next, in the Capabilities tab, select **Add Capability** to start configuring yo
 
 <figure><img src="../../../.gitbook/assets/Summit10 2024-03-11 15-54-55.png" alt=""><figcaption></figcaption></figure>
 
-Firstly you can toggle on **Hide this capability in prompts & options** if you do not want this capability to be displayed as an option with the **/ key** (as detailed above).\
+Firstly you can toggle on **Hide this capability in prompts & options** if you do not want this capability to be displayed as an option with the **/ key** (as detailed above). This will then be hidden from the end user and can only be triggered by the **Automatic Trigger Scenario**.\
 \
 Then add the **Capability Prompt** that would be shown to the user when they select the **/ key.**&#x20;
 
 <figure><img src="../../../.gitbook/assets/Summit10 2024-03-11 12-18-38_5 (4).png" alt=""><figcaption></figcaption></figure>
 
-Another example of a **Capability Prompt** could be _**Hunt for a policy problem**_ for a Policy Agent.  \
-\
 Next, add the **Automatic Trigger Scenario:** \
 \
 Here enter a detailed description of the specific conditions or events that will activate the capability. Describe the scenario clearly and concisely, focussing on the key elements that must be present for the capability to be triggered.  This could be a specific phrase, a set of keywords, or certain conditions.  When the defined scenario occurs, the system recognizes it and automatically activates the capability.
 
 <figure><img src="../../../.gitbook/assets/Summit10 2024-03-11 14-26-49 (1).png" alt=""><figcaption></figcaption></figure>
 
-Another example of an **Automatic Trigger Scenario** could be _**If the user is concerned that they may have violated a SAAR or GDPR policy**_ for a Policy Agent.  \
-\
 If the **Automatic Trigger Scenario** field is left blank then this capability is never automatically triggered.\
 \
 Next, add the **Process steps:**\
@@ -77,12 +73,12 @@ Once you are happy with your process steps, select **Save**.
 
 ### Testing Capabilities 
 
-**Testing** the **Capabilities** you've configured is essential to ensure your agent is performing as expected.  To do this interact with your agent using the capabilities you've configured.  Provide it with scenarios and inputs that the capability should handle.  Carefully observe the agent's responses to ensure they align with the expected outcomes.\
+**Testing** the **Capabilities** you've configured is essential to ensure your agent is performing as expected.  To do this go to the **Preview** tab and interact with your agent using the capabilities you've configured.  Provide it with scenarios and inputs that the capability should handle.  Carefully observe the agent's responses to ensure they align with the expected outcomes.\
 \
 If the responses don't meet your expectations, adjust the Capabilities configuration and retest until the desired outcome is achieved.\
-\
-Select the **Test** tab, and the **/ key** and select your Capability. or just start interacting with your agent by asking questions using the **Ask** bar.\
-\
 
 
-<figure><img src="../../../.gitbook/assets/Summit10 2024-03-11 16-00-45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot (24).png" alt=""><figcaption></figcaption></figure>
+
+Once you are happy with this configuration, make your Agent available to end users by going to **Settings** and **Enabling the Agent** for end-users.
+
