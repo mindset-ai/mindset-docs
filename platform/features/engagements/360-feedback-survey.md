@@ -15,7 +15,7 @@ If the '360 Feedback, Facilitation, and Engagement workflows are not switched on
 
 ### Create and configure a 360 Feedback Engagement
 
-Start by navigating to the “Engagements Library” section of the app administration interface. In the “Engagements” tab  click on the “Add new engagement” button and select “360 Feedback Survey” from the dropdown list. The engagement's configuration interface will open.&#x20;
+Start by navigating to the “Engagements Library” section of the app administration interface. In the “Engagements” tab click on the “Add new engagement” button and select “360 Feedback Survey” from the dropdown list. The engagement's configuration interface will open.&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/Eh2Lmar8boMh1SaITaqF02dUEOtMTIKgZk7Ym4RGeY9z_SEqPI8LXQ-LK6vgSiKGUg7zk2n8qPzlvnX-aWOm5k6lCk2vCV1X5nGu35_84UVk0j-bv4BiKTLZbtffrW4llllfMNtvD-b85Kd-X7uTVdc" alt=""><figcaption></figcaption></figure>
 
@@ -124,13 +124,7 @@ Reviewers will receive an email containing an invitation link which will redirec
 | ![](https://lh7-us.googleusercontent.com/tc1WaJ-p0dfRIiWvnchLPtRGnqLrQnfoUkYfU8x3quxNXLWjQAa21HvbtawLhwx9J4uhfxYmMcVrTHKmELcgpXLbJvhbQntEf5e3PeFD43RdLskKmCXFxp2WZbyMJcYosYLUaz6xoyT0KGVeKsz60E8)    | ![](https://lh7-us.googleusercontent.com/wELLqg6YzJFBz66Dg3iI2MPzJjCdPp6djcuV0s0rYSURbJKtn-FZcZeb8TKGrg-0GDaXKRNu91DLACG8hJA5ld2ye6HYS56kJNvnJsaFMBfIUB048fBCL1-lLpsW9pC3lp6ysHDwv0Ih-jymrXj3LB8)                                 | ![](https://lh7-us.googleusercontent.com/U\_rJFCZUduRF0F24MiSidDdKkUE8bQUAvvgwFodd-H106gUrfTjWMTcQtjdOOf4jOfa9IGCsnE\_xxSXqBUN76wBNppYsQn2OCM5\_WPc3xWE5QjB4iweRT9-zva9RbpHOZOuf44Jl3RklpVRrZcNZILo) |
 | Survey question screen                                                                                                                                                                               | Survey completion screen                                                                                                                                                                                                          | <p>Reminders displayed in a home screen</p><p>carousel</p>                                                                                                                                           |
 
-
-
-***
-
 ## Important to note
-
-
 
 * Both Leaders and Reviewers must have a registered account to access the survey to allow them to save their progress and fill in the survey at their own pace.
 * The list of invited Reviewers acts as a safe-list, so reviewers will be required to create an account or log into an existing account with the email address that has been added to the safe-list.
@@ -173,12 +167,7 @@ To make the experience of finishing the survey and returning to the survey home 
 ![](https://lh7-us.googleusercontent.com/mlK-7hB8ZYNHUNRd8Ugox8MK8QNSKF0nMVoi0BnzOOo7\_VpDxfe9yVnmKtgQAPDP09txHQRx3k2eLrYMRJxxJQg1cJXeutfQGA0qq85BGE8kD0TO87gqSQquoYpEL93pu5mVdW7hZ9NCBU5ozze1pGGz0T2RpvKXxoF00qx34DmR6jFWSx\_s55QAvlisfA)\
 \
 \
-\
-
-
-<figure><img src="https://lh7-us.googleusercontent.com/64OTgmjTEwZYq7O_cmoi8grfo2gjL6zLRfcTlJkFkPR3JTxdwMlAbNV1kDGDEQHKxTZ1XSDOFB9NZ4Yx9mY5Xg25504PAF0Durs-9KnV8P-9NV5qD3JGEvNQv8QT1jwNG4DeSLo5tlabcfBpIqAFfFregwIK7Z3hTYUT54iXePH1YoOR3NOc7AVkRK8w9g" alt=""><figcaption></figcaption></figure>
-
-4. **What does the reviewer see once they have completed it?**
+**What does the reviewer see once they have completed it?**
 
 \
 Similarly to point 3, once the reviewer completes the survey they will be redirected to the home screen where the survey card will be in its completed state. Reviewers don't have access to the survey after completion. The completed state card can be configured to display temporarily on their screens or not to be displayed at all (see third image above - config for reviewers' completed state). If the admin has created a spacer page as the last page in the survey reviewers will see it as both the leader and reviewers will see the exact same survey structure.
@@ -187,7 +176,3 @@ Similarly to point 3, once the reviewer completes the survey they will be redire
 
 The results of your end-user's 360 feedback survey answers are compiled in ThoughtSpot. If you require any assistance accessing these answers in ThoughtSpot, please contact your Customer Success Representative who can guide you to these.\
 \
-\
-
-
-##
