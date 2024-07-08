@@ -13,10 +13,5 @@ When the application takes too long to load either on the web or a mobile device
 * If the user is using an outdated version of the app on a mobile device, the app might tend to become slow. The user should download an updated version of the app from the app store of the mobile device type. The user should ensure they are using the latest version of the app and that the operating system is also the latest version if using a mobile device.\
 
 
-Please contact the success team by raising an MSP ticket if the issue remains unresolved to enable the team to investigate further.
+Please contact the success team by [raising an MSP ticket](https://mindset-ai.atlassian.net/servicedesk/customer/portal/1) if the issue remains unresolved to enable the team to investigate further.
 
-
-
-**Raise a ticket here:**
-
-[https://mindset-ai.atlassian.net/servicedesk/customer/portal/1](https://mindset-ai.atlassian.net/servicedesk/customer/portal/1)&#x20;
