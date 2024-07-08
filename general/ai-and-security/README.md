@@ -1,6 +1,12 @@
+---
+description: >-
+  Read about Mindset AI platform security and how it uses artificial
+  intelligence.
+---
+
 # AI and Security
 
-Welcome to the forefront of technological innovation at MindsetAI, where artificial intelligence (AI) and large language models (LLMs) revolutionize how businesses access and leverage knowledge.
+Welcome to the forefront of technological innovation at Mindset AI, where artificial intelligence (AI) and large language models (LLMs) revolutionize how businesses access and leverage knowledge.
 
 As you embark on this journey with us, it's vital to understand the significance of data security in AI.&#x20;
 

@@ -46,7 +46,7 @@ The ingestion of clients’ IP documents follows a process that starts with text
 
 MINDSET KNOWLEDGE GRAPH
 
-The Mindset KG is a collection of different databases; each used to aid the efficient and contextual retrieval of client IP document fragments. This collection stores IP such that the contents and the context of information are equally important.
+The Mindset Knowledge Graph is a collection of different databases; each used to aid the efficient and contextual retrieval of client IP document fragments. This collection stores IP such that the contents and the context of information are equally important.
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Fig 2. The Knowledge Graph</p></figcaption></figure>
 
@@ -56,7 +56,7 @@ The Mindset KG is a collection of different databases; each used to aid the effi
 
 USER INTERACTIONS WITH THE KNOWLEDGE GRAPH
 
-Users interact with the KG through an embedded chat interface where they can get answers to their questions (“Ask”) and also trigger predefined actions (“Do”).
+Users interact with the Knowledge Graph through an embedded chat interface where they can get answers to their questions (“Ask”) and also trigger predefined actions (“Do”).
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Fig 3. Interaction with the Knowledge Graph</p></figcaption></figure>
 
