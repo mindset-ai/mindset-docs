@@ -35,7 +35,7 @@ Please note that the account admin can copy the invite link and send to the end 
 However, note that simply accessing the link will not invite the end user to the account. They must be added using one of the two methods above.
 
 \
-![](https://lh5.googleusercontent.com/7E9M0vuvs5K5\_4q2Za6OP0c4o2pQ7c27tncpOHQhDORVQ7TDdhDKDq2awm5G\_CJVUs0LttryGrxzPpfQJN-G9--wgYBXZszY7KZACZNmNOFgTma\_Xh0hKIVsRqdQ1po5u5shLAI-JwlpNF0nZOwuVK0)\
+\
 \
 
 
