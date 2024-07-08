@@ -7,7 +7,7 @@ description: How to create and configure web article engagements
 **Creating your first web article engagement**
 
 \
-To create a Web Article Engagement, navigate to the “Engagement library” under Manage on the left hand navigation bar. Click on the Engagements tab and the Add New Engagement button, and select Web Article Engagement from the dropdown menu. \
+To create a Web Article Engagement, navigate to the “Engagement library” under Manage on the left hand navigation bar. Click on the Engagements Library tab and the Add New Engagement button, and select Web Article Engagement from the dropdown menu. \
 
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.10.06.png" alt=""><figcaption></figcaption></figure>
@@ -27,11 +27,9 @@ Click on the ‘upload thumbnail image from the computer’ to display an image 
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 10.15.14.png" alt=""><figcaption></figcaption></figure>
 
-Once the web article engagement has been completed and saved, you can view it on the Engagement library > Engagements screen. To display this on the home screen for end-users click on Publish to make it visible. To use the Engagement inside a Facilitation, leave the Engagement unpublished; this will save it as a draft for when you are ready to build your Facilitation.
+Once the web article engagement has been completed and saved, you can view it on the Engagement library > Engagements screen. To display this on the home screen for end-users click on Publish a copy to make it visible. To use the Engagement inside a Facilitation, leave the Engagement unpublished; this will save it as a draft for when you are ready to build your Facilitation.
 
-<figure><img src="https://lh7-us.googleusercontent.com/UbXy-4JVV751dLvouzXlZrIRJClYMfRj8mKsF7TdJhfwyjLXdbDzyNNwhPjbZ1_uAqLIscHJipQT_BxVetUyOqBfdj9tqkzAhTu3IbYTiv1enYNQgYwUZDukQsmRk8miFrAW3oOyTJw3sgJf4N9e1Q" alt=""><figcaption></figcaption></figure>
-
-***
+<figure><img src="../../../.gitbook/assets/summit10 2024-07-08 13-18-35.png" alt=""><figcaption></figcaption></figure>
 
 #### Publishing from the Published locations tab
 
