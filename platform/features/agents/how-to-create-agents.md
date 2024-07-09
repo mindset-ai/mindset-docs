@@ -22,9 +22,9 @@ Each agent represents a specific use case and purpose. Often, an agent can be bu
 
 After clicking the '**Add an agent**' button, you'll gain access to configuring the agent according to your preferences.
 
-Next, under the '**Settings**' tab, you can add in the **agent name**, **agent handle**, and a brief **agent description**. Under this tab, you can also control the **agent visibility**. Toggling this button on will enable your end-users to see and interact with the agent created, in the front-end of the application. We recommend that all the agent configuration and testing be completed prior to enabling its access to end users.&#x20;
-
 #### Settings
+
+Next, under the '**Settings**' tab, you can add in the **agent name**, **agent handle**, and a brief **agent description**. Under this tab, you can also control the **agent visibility**. Toggling this button on will enable your end-users to see and interact with the agent created, in the front-end of the application. We recommend that all the agent configuration and testing be completed prior to enabling its access to end users.&#x20;
 
 <figure><img src="../../../.gitbook/assets/summit10 2024-07-08 14-02-07.png" alt=""><figcaption></figcaption></figure>
 
