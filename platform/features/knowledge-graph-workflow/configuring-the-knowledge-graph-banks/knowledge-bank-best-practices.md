@@ -8,6 +8,7 @@ To configure and create the best Knowledge Banks for your Agents, follow the bel
 
 * Ensure your PDF content follows a clear structure, including the use of headings and sub-headings.&#x20;
 * When uploading content, review the value of the content and establish the value end-users will get from it. If its not valuable, don't add it.
+* Ensure the name of the file does not start with '#'
 * The length of the content does not matter as it will be segmented.
 * Ensure the processing of videos includes titles for each segment and that these titles make sense. The system will produce AI-generated titles but sometimes they need tweaking.
 * We recommend always adding a thumbnail image - this helps end-users understand the content topic and decide whether they want to engage.
