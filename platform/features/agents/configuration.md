@@ -58,7 +58,13 @@ well-being, and making positive life changes.
 
 ### Personality
 
-The "Personality" field sets the tone and style of interaction for the Agent. It's crucial for determining how users perceive the Agent's friendliness, professionalism, and approachability. A clearly defined personality ensures a cohesive user experience that matches the brand's voice and meets the audience's expectations.
+The "Personality" options set the tone and style of interaction for the Agent. It's crucial for determining how users perceive the Agent's friendliness, professionalism, and approachability. A clearly defined personality ensures a cohesive user experience that matches the brand's voice and meets the audience's expectations.
+
+There are 4 predefined personalities you can choose from for any agent. These personalities are based on our own best practices and offer a safe and simple way to define your agents personality, trouble free.
+
+#### Custom personality
+
+If you find that the predefined personalities do no match your need or don't go far enough, you can select the custom personality option and define your own.
 
 **Best Practices**
 
@@ -87,37 +93,6 @@ accurately and efficiently.
 ```plaintext
 Engages users with motivational language, offers encouragement, and demonstrates 
 understanding of users’ personal growth challenges.
-```
-
-### Policy Rules
-
-The "Policy Rules" field is vital for establishing operational guidelines that outline the boundaries of the Agent's actions. It covers restrictions on the Agent's responses and behaviors, safeguards against overstepping its designated role, and measures to prevent unauthorized actions. These rules ensure the Agent stays on track, adheres to ethical standards, and delivers a secure, dependable experience for users.
-
-**Best Practices**
-
-* **Specific Limitations:** Clearly define the scope of tasks and topics the Agent can address, including explicit mentions of actions or query types it should not attempt to handle.
-* **Jailbreak Prevention:** Incorporate specific rules or phrases that the Agent recognizes as cues to avoid engaging in behaviors that could lead to bypassing its operational constraints.
-* **User Guidance:** Inform users about the limitations of the Agent’s capabilities and suggest alternative actions or referrals when requests fall outside the Agent's scope.
-
-**Examples**
-
-**1. Customer Support Agent**
-
-```plaintext
-Avoids engaging in personal advice or topics unrelated to customer support.
-```
-
-**2. Policy Explanation Agent**
-
-```plaintext
-Refrains from offering personal opinions on policy matters.
-```
-
-**3. Coaching Agent**
-
-```plaintext
-Do not provide medical, legal, or financial advice. 
-Encourages users seeking such advice to consult with qualified professionals.
 ```
 
 ### Output Formatting
@@ -157,45 +132,6 @@ Offer advice and tips in a friendly, conversational tone, using short paragraphs
 - When sharing resources or exercises, include clear headings and concise descriptions.
 ```
 
-### Spelling
-
-You now have the option to switch automatically between US and UK spelling for agent responses.&#x20;
-
-* If this toggle is turned on, automatic conversion from US to UK spelling will be disabled.&#x20;
-* If this toggle is turned off, all US spellings will automatically convert to UK spellings.
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-06-17 at 16.40.16.png" alt=""><figcaption></figcaption></figure>
-
-### Additional Information
-
-The "Additional Information" field provides crucial background or context for the Agent's interactions. This might include guidance on tone, references to external knowledge, or instructions for handling sensitive topics. It ensures the Agent's responses are well-informed by factors beyond its usual knowledge.
-
-**Best Practices**
-
-* **Specificity:** Clearly define the additional parameters or considerations the Agent must account for in its interactions.
-* **Relevance:** Ensure all provided information is relevant to the Agent's purpose and the types of interactions it will have.
-* **Conciseness:** Offer this information in a concise manner to avoid overloading the Agent, ensuring it remains focused and effective.
-
-**Examples**
-
-**1. Customer Support Agent**
-
-```plaintext
-<< specific information the agent might use to provide links to support sites >>
-```
-
-**3. Coaching Agent**
-
-```plaintext
-<< a summary of the coaching methodology and key concepts >>
-```
-
-**2. Policy Explanation Agent**
-
-```plaintext
-<< contact information for the policy team >>
-```
-
 ### Icebreaker Message
 
 The Icebreaker Message is the initial prompt sent to the Agent, instructing it on how to begin interactions with users. This message is crucial for setting the interaction's tone, providing the Agent with guidance on introducing itself, stating its purpose, and inviting user engagement in a concise manner. The goal is to create a welcoming environment that encourages users to start their inquiry or discussion.
@@ -231,50 +167,74 @@ personal growth and motivation. Encourage the user to share their goals or chall
 you might help them with.
 ```
 
+### Policy Rules
 
+The "Agent policy" options are vital for establishing operational guidelines that outline the boundaries of the Agent's actions. It covers restrictions on the Agent's responses and behaviors, safeguards against overstepping its designated role, and measures to prevent unauthorized actions. These rules ensure the Agent stays on track, adheres to ethical standards, and delivers a secure, dependable experience for users.
 
-### Completion Step
-
-The "Completion Step" field guides the Agent on recognizing and concluding interactions. It involves acknowledging the user's accomplishment, summarising assistance, and ending with a positive message. This step is crucial for ensuring user satisfaction and leaving a positive impression.
+As with personality, we provide a number of predefined and tested policies. You can mix and match the required policies available, add your own policy, or enrich the available policies with additional policy rules.
 
 **Best Practices**
 
-* **Recognition of Conclusion:** Include signals or keywords that help the Agent identify when the user's objectives have been met.
-* **Positive Reinforcement:** Ensure the Agent reinforces the positive outcome of the interaction, acknowledging the user's achievement.
-* **Closure Confirmation:** The Agent should confirm with the user that their needs have been fully addressed and that they feel the interaction is complete.
-* **Gratitude Expression:** The Agent should always express gratitude to the user for the interaction, enhancing the user's overall experience.
+* **Specific Limitations:** Clearly define the scope of tasks and topics the Agent can address, including explicit mentions of actions or query types it should not attempt to handle.
+* **Jailbreak Prevention:** Incorporate specific rules or phrases that the Agent recognizes as cues to avoid engaging in behaviors that could lead to bypassing its operational constraints.
+* **User Guidance:** Inform users about the limitations of the Agent’s capabilities and suggest alternative actions or referrals when requests fall outside the Agent's scope.
 
 **Examples**
 
 **1. Customer Support Agent**
 
 ```plaintext
-Look for user confirmation that their issue is resolved. Summarize the support 
-provided, thank the user for reaching out, and reassure them of your availability 
-for future assistance. End the conversation by wishing them a great day.
+Avoids engaging in personal advice or topics unrelated to customer support.
 ```
 
 **2. Policy Explanation Agent**
 
 ```plaintext
-Upon user acknowledgment that they understand the policy explained, briefly recap 
-the key points discussed. Express gratitude for the opportunity to assist, 
-and encourage them to return if they have more questions. 
-Close by offering well wishes or a positive note and suggest that if they are unclear
-on any advice given they should reach out to a member of the compliance team.
+Refrains from offering personal opinions on policy matters.
 ```
 
 **3. Coaching Agent**
 
 ```plaintext
-When the user indicates they have received the guidance they were seeking, 
-reflect on the progress made during the interaction. Offer words of encouragement 
-for their journey ahead, thank them for engaging in the coaching process, 
-and remind them that support is always available should they need it in the future
+Do not provide medical, legal, or financial advice. 
+Encourages users seeking such advice to consult with qualified professionals.
 ```
 
+### Additional Information
 
+The "Additional Information" field provides crucial background or context for the Agent's interactions. This might include guidance on tone, references to external knowledge, or instructions for handling sensitive topics. It ensures the Agent's responses are well-informed by factors beyond its usual knowledge.
 
+**Best Practices**
 
+* **Specificity:** Clearly define the additional parameters or considerations the Agent must account for in its interactions.
+* **Relevance:** Ensure all provided information is relevant to the Agent's purpose and the types of interactions it will have.
+* **Conciseness:** Offer this information in a concise manner to avoid overloading the Agent, ensuring it remains focused and effective.
 
-\
+**Examples**
+
+**1. Customer Support Agent**
+
+```plaintext
+<< specific information the agent might use to provide links to support sites >>
+```
+
+**3. Coaching Agent**
+
+```plaintext
+<< a summary of the coaching methodology and key concepts >>
+```
+
+**2. Policy Explanation Agent**
+
+```plaintext
+<< contact information for the policy team >>
+```
+
+### Spelling
+
+You now have the option to switch automatically between US and UK spelling for agent responses.&#x20;
+
+* If this toggle is turned on, automatic conversion from US to UK spelling will be disabled.&#x20;
+* If this toggle is turned off, all US spellings will automatically convert to UK spellings.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-06-17 at 16.40.16.png" alt=""><figcaption></figcaption></figure>
