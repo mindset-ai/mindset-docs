@@ -62,11 +62,11 @@ Go to the Workflows tab to configure what you want to add to the navigation tab 
 
 The next aspect under the Navigation and Layout tab is Navigation Styling. You can customize branding aspects of your application like the Surface color, Active tab icon and text color, Active tab highlight area and Inactive tab icon and text color.
 
-![](https://lh7-us.googleusercontent.com/WcYMGWYzE1nuiGuvyOQxUQaDu8e-cv3LPTkQjzHlIG6rcfZG3mlg3J3R1343TLN4AJMIY6sceJtbW6VeUG\_iLppRB4QEf-OyyIasbNVkXpwhmJ6GxARYI6pFg5xLYIngBS9S-FQuZZ9Za8F6tPlSn88)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Once you have all these options configured, you can see the preview on the right-hand side of the Navigation and Layout tab.&#x20;
 
-![](https://lh7-us.googleusercontent.com/z1EbJ4xVMitzty2BOGFcGX64EZIOk2hulre2ZNP0\_g-xOtxxS7BpQePiyRC3tz9g17-gK-CrLUi0WFnJK9XOABgwUrjbaqd8pbto\_iId1b8LdKhkonFBK2BtYBqQaeYFOxnArBp04InmeND9jkz1E-M)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 You can also see how the preview looks on different devices by clicking on Preview by device size.&#x20;
