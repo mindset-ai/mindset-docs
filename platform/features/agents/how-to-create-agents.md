@@ -14,9 +14,7 @@ For instance, within this application, the agents named Michelle and Angie have 
 
 <figure><img src="../../../.gitbook/assets/summit10 2024-07-08 13-52-33.png" alt=""><figcaption></figcaption></figure>
 
-To initiate the creation of a new agent, select the '**add an agent**' button.
-
-Each agent represents a specific use case and purpose. Often, an agent can be built for a task or role. They can provide answers to any queries, if they have been connected to the right data sources, and execute tasks that align with their role.
+To initiate the creation of a new agent, select the '**add an agent**' button. Each agent represents a specific use case and purpose. Often, an agent can be built for a task or role. They can provide answers to any queries, if they have been connected to the right data sources, and execute tasks that align with their role.
 
 ### Setting up your agent
 
@@ -24,19 +22,19 @@ After clicking the '**Add an agent**' button, you'll gain access to configuring 
 
 #### Settings
 
-Next, under the '**Settings**' tab, you can add the basic details for your agent:
+Under the '**Settings**' tab, you can add the basic details for your agent:
 
 * **Agent name**, **Agent handle**, and **Agent description** are used for identification and display to help you and your users recognize the agent. Both **handle** and **description** can be visible to users of your application.
 * **Agent purpose** is a very important field and has a significant impact on the way your agent will behave, how it will interpret questions, and how it will structure answers.
 * **Agent visibility**. Toggling this button on will enable your end-users to see and interact with the agent created, in the front-end of the application. We recommend that all the agent configuration and testing be completed prior to enabling its access to end users.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Agent settings screen - Covering basic agent details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/summit10 2024-07-22 13-13-55.png" alt=""><figcaption></figcaption></figure>
 
 #### Personality
 
 The personality tab is where your define the agents personality.  This will impact the tone of responses and the way the agent will format its responses.
 
-You can select from a number of preconfigured personality and formatting options, or choose custom and create your own.  We advise significant testing if you go with the custom option to ensure that the agent responds in a reliable and consistent manner.
+You can select from a number of preconfigured **personality** and **output formatting** options, or choose custom and create your own.  We advise significant testing if you go with the custom option to ensure that the agent responds in a reliable and consistent manner.
 
 <figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Agent personality</p></figcaption></figure>
 
@@ -44,19 +42,23 @@ You can select from a number of preconfigured personality and formatting options
 
 You can also add in the **Icebreaker message instructions** which will define how an agent first greets the user.
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Interaction process</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/summit10 2024-07-22 13-16-26.png" alt=""><figcaption></figcaption></figure>
 
 _**Please note:**_ You can find more information about each of these by either clicking the small question mark icon next to the headings or alternatively clicking [here](https://docs.mindset.ai/platform/features/agents/how-to-configure-agents).
 
 #### Policy
 
-The policy section provides guidelines to keep the agent on track and within your defined scope. Unlike other sections, you can apply multiple policy options at the same time, which combine to produce a focused and consistent agent.  Many of the options available under the policy heading have additional supporting fields to help define the policy boundaries.
+The **policy** section provides guidelines to keep the agent on track and within your defined scope. Unlike other sections, you can apply multiple policy options at the same time, which combine to produce a focused and consistent agent.  Many of the options available under the policy heading have additional supporting fields to help define the policy boundaries.
 
 You can include additional policy rules if you want to enhance the policy option available, or can use this field on its own to define a policy behavior from scratch.
 
 <figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Agent policy</p></figcaption></figure>
 
-#### Capabilities
+Under the Policy tab you can also add **Additional Information**. This equips the agent with essential background or contextual information that influences its interactions with users. This could encompass guidelines on tone, references to external knowledge not contained within its training data, or directives on handling sensitive topics.
+
+<figure><img src="../../../.gitbook/assets/summit10 2024-07-22 13-20-43.png" alt=""><figcaption></figcaption></figure>
+
+**Capabilities**
 
 Next, you can set up your agent **capabilities** under the '**capabilities**' heading. An agent capability is a specific set of steps that this agent is able to perform for the user. In order to find out more about capability configuration for your agents, please read our 'capabilities' article [here](how-to-configure-capabilities.md).&#x20;
 
