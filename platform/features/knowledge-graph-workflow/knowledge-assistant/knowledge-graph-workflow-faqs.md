@@ -1,10 +1,10 @@
 ---
-description: How did the Knowledge Graph Workflow get its name?
+description: Common questions about the Knowledge Graph Workflow.
 ---
 
 # Knowledge Graph Workflow FAQs
 
-Knowledge graphs (KGs) organize data from multiple sources, capture information about entities of interest in a given domain or task (like people, places, or events), and forge connections between them.
+Knowledge Graphs (KGs) organize data from multiple sources, capture information about entities of interest in a given domain or task (like people, places, or events), and forge connections between them.
 
 We track people, events, and ideas, and by using AI we are on a journey to attaching skills/ capabilities/ knowledge to every person in a company's ecosystem based on their content.
 
@@ -16,7 +16,7 @@ We want to be able to understand the context of questions, personal language/ sl
 
 **What technology does this workflow use?**&#x20;
 
-The learning assistant uses the latest commercially available Large Language Models (LLMs), augmented with your IP.
+The Agent uses the latest commercially available Large Language Models (LLMs), augmented with your IP.
 
 
 
@@ -27,10 +27,5 @@ Yes. Your IP is our utmost priority and is protected in our vault. This vault lo
 \
 **Does it support other languages?**
 
-The Learning Assistant currently only ingests English media, but using the Strong Guidance Prompt configuration field you can train your Knowledge Assistant to converse in any global language. Even if you speak to it in English, the Knowledge Assistant will always reply in the language you have configured it to use.
+The Agent can ingest any language but the content viewer will always be in the content Source language. For example, if you upload a PDF in French, the agent can speak to you in English regarding the document but the PDF viewer will show it in French.
 
-
-
-**How much of the information comes from ChatGPT vs content in the bank?**
-
-This is a topic that we are actively researching. The current knowledge assistant fares pretty well in basing its answers on the supplied information, especially if the users’ questions cover topics that are well represented in the supplied IP.&#x20;
