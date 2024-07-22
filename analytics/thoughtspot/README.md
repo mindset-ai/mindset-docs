@@ -12,27 +12,34 @@ ThoughtSpot is a powerful and advanced Business Intelligence (BI) tool embedded 
 
 
 
+**Terminology**
+
+**Liveboard** - This is a collection of related answers, or search results, that appear as tables or visualizations.
+
+**Visualization** - This is a visual representation of data. In ThoughtSpot, it is the representation of an answer. In some cases, we use the terms visualization and answer interchangeably.
+
+
+
 **Where can it be found?**&#x20;
 
-You can locate your ThoughtSpot Reports in the administration portal of your application. Go to Manage → Dashboard on your left-hand navigation bar and there you will be able to view your valuable data insights.&#x20;
+You can locate your ThoughtSpot liveboards in the administration portal of your application. Go to Manage → Dashboard on the left-hand navigation bar and there you will be able to view data insights.&#x20;
 
 
 
 **How can it be used to add value to your application?**&#x20;
 
-ThoughtSpot is a highly intuitive software platform that enables you to create meaningful data reports and beautiful visualizations. With its intuitive, user-friendly interface, you can generate, view, and export your reports with ease and efficiency.
+ThoughtSpot is a highly sophisticated software platform that enables you to create meaningful data reports and beautiful visualizations. With its intuitive, user-friendly interface, you can generate, view, and export your data with ease and efficiency.
 
 
 
 **How can you share data?**&#x20;
 
-ThoughtSpot makes it very simple for you to export and share your data where you choose. To download a report, first simply click the explore button in the top right corner of the selected panel.&#x20;
+ThoughtSpot makes it very simple for you to export and share your data where you choose. To download a liveboard, first simply click the three dots in the top right corner and select **Download PDF**.
 
+![](<../../.gitbook/assets/image (44).png>)\
 \
-![](https://lh7-us.googleusercontent.com/ueImgJrzpYMm0ujlG7gKp6EIeB3937bOUTLizNh\_frtNKPTn8ZJcNCcyZkOHGkDXYFqx-lEdwbY7BJI152NulP5TSUgjJ3-EXpUayTFsUykzQNj82cPtQlUaPK54lQyAswXxwIUk8yo6fC9f3s\_K8zA)\
 \
-\
-Next, once you are in the selected report, again go to the top right corner and select the ellipsis icon. Scroll down to the ‘Download’ subheading, and select the format you would like to download your data in.
+To download a specific visualization, go to the top right corner of that visualization and select the three dots icon. Scroll down to the **Download** subheading, and select the format you would like to download your data in.
 
 &#x20;![](https://lh7-us.googleusercontent.com/s1rQDa4SGN6fz6QDo4Z6fDpIJlMjB56m1JWuMjeeMqtX8CConhU8nNosYRzKIj1rX7f2kw4bWzoaW4b\_cVqawXxzn0Mc9ix-MT2xrn8EctTIZnOJdbrd6SF-1Xz3iCI0EN-vrrqBEO\_2CvrFHv5w25k)
 
