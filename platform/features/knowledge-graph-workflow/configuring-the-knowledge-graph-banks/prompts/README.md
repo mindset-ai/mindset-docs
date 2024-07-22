@@ -33,20 +33,15 @@ Below are some examples of prompts that could be utilized in different scenarios
 * Discuss the role of mentorship in career growth.
 * Provide tips for balancing work and personal life for improved well-being.
 
-
-
 **Role-playing**
 
 * Imagine you're an HR manager conducting a job interview.&#x20;
 * What questions would you ask?
 * Pretend you're giving a motivational speech to employees during a challenging period.
 
-
-
 **Team Building**
 
-* Provide strategies for fostering effective teamwork within a diverse group. Discuss the role of team-building exercises in boosting morale and productivity.\
-
+* Provide strategies for fostering effective teamwork within a diverse group. Discuss the role of team-building exercises in boosting morale and productivity.
 
 **Benefits of having prompts**
 
@@ -61,11 +56,11 @@ Below are some examples of prompts that could be utilized in different scenarios
 
 Go to Manage > Knowledge open any Bank and locate the new Prompt Collections tab.
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (80) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-07-22 at 13.11.55.png" alt=""><figcaption></figcaption></figure>
 
 Here, a Prompt Collection can be added by giving it a name, some Prompts (separated by line) and a prompt postscript.
 
-<figure><img src="https://lh7-us.googleusercontent.com/q3p9laLbcTmk5CM27gmFGzAplQbMsjvWnmKbD_RtFiYxT0VGtTVxqrm4qrwNwhbFU-KNye1r_D8MbqbAnTDPYAnjEqEJMPCEKlrM2Hk2jg5QcKBr5zoz5mXNGLWuSzIQs7bD8LIdZ9JuSXdvaYcB8JQ" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-07-22 at 13.13.28.png" alt=""><figcaption></figcaption></figure>
 
 The prompt collection name outlines the name displayed to users in the prompts dialog above the prompts list. It is advised to use a name that provides a unifying theme or topic that connects the individual prompts within the collection.&#x20;
 
@@ -77,14 +72,14 @@ An optional prompt postscript is attached to each prompt sent to the assistant b
 
 #### How to enable prompts
 
-Prompts can be enabled by navigating to Configure> Knowledge Graph >Chat UI style and toggle on Enable Prompts.\
+Prompts can be enabled by navigating to Manage -> Agents -> Selecting the agent you wish to add prompts for -> Selecting the 'tools' tab -> toggling 'Prompt library' on. \
 
 
-<figure><img src="https://lh7-us.googleusercontent.com/bopwyusoVy0yjDy_0DLkV7-2wCY0NfqSsaGQ75g_ybY-o9dqIrpD4KLAPiKDluqkE-tPJsft_TK_miX1T5xfDdGPKqDlohjhara7O2ZHRxPJtDXWhIZc54R019AsiJSQeJcxVyjtV_vEUdP8h5kXn0E" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-07-22 at 13.16.21.png" alt=""><figcaption></figcaption></figure>
 
 **Prompt library for end-users**
 
-End-users will see the prompt library on the left-hand side of the text box within the Agent interface. Clicking this will open the full prompt library window for them to choose from, or they can type '/' to open the prompt window.
+End-users will see the prompt library on the left-hand side of the text box within the Agent interface. Clicking this will open the full prompt library window for them to choose from, or they can type '/' to open the prompt window. The larger headings show the specific prompt collections, while the smaller text lists display the individual prompts within each collection.
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot (81) (1).png" alt=""><figcaption></figcaption></figure>
 
