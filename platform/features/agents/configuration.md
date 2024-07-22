@@ -64,7 +64,7 @@ There are 4 predefined personalities you can choose from for any agent. These pe
 
 #### Custom personality
 
-If you find that the predefined personalities do no match your need or don't go far enough, you can select the custom personality option and define your own.
+If you find that the predefined personalities do no match your need or don't go far enough, you can select the custom personality option and define your own. These can be selected under the 'Personality' tab of your agent configuration.&#x20;
 
 **Best Practices**
 
@@ -97,7 +97,9 @@ understanding of users’ personal growth challenges.
 
 ### Output Formatting
 
-The "Output Formatting" field determines how the Agent's responses appear to users. It covers language use, formatting (such as bullet points or paragraphs), and including visuals or links when needed. Good output formatting improves readability, clarity, and the user experience.
+The "Output Formatting" field determines how the Agent's responses appear to users. It covers language use, formatting (such as bullet points or paragraphs), and including visuals or links when needed. Good output formatting improves readability, clarity, and the user experience.&#x20;
+
+You can also choose from the pre-configured output formatting options under the 'output formatting' section in the Personality tab of your agent configuration.
 
 **Best Practices**
 
@@ -237,4 +239,21 @@ You now have the option to switch automatically between US and UK spelling for a
 * If this toggle is turned on, automatic conversion from US to UK spelling will be disabled.&#x20;
 * If this toggle is turned off, all US spellings will automatically convert to UK spellings.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-06-17 at 16.40.16.png" alt=""><figcaption></figcaption></figure>
+This toggle can be found in your administration portal under **Configure -> Agents -> Global Agent Configuration.** Please note: changes made here will affect all configured agents of your application equally.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-22 at 13.44.15.png" alt=""><figcaption></figcaption></figure>
+
+Here, you can additionally toggle on:
+
+* 'Use GPT-4o' switch, to convert all agents to the new GPT -4o model.
+* 'Hide Insights' to hide agent insight reports in the Admin UI.
+* 'Automatically obfuscated offensive words' to remove offensive, racist, or sexist language from agent responses.&#x20;
+
+
+
+
+
+
+
+
+
