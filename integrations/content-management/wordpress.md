@@ -31,7 +31,7 @@ You can currently ingest the following content types using the WordPress integra
 
 * Blog posts
 * Pages
-* Media (images, videos)
+* Custom post types
 
 ### How to Get Started
 
