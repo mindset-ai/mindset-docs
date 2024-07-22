@@ -1,4 +1,8 @@
-# Configuring Facilitations
+---
+description: How to set up and configure a Facilitation
+---
+
+# How to Configure a Facilitation
 
 ### Setting up the base configuration
 
