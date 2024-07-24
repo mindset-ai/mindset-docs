@@ -1,0 +1,15 @@
+---
+description: Learn about Synced Knowledge Banks
+---
+
+# What is a Synced Knowledge Bank
+
+Under the **Manage** tab of the left-hand navigation bar, go to the **Knowledge** section, here you will be able to configure the **Banks** for your agents.  From the drop down you will see **New Synced Bank.**\
+
+
+![](https://lh7-us.googleusercontent.com/docsz/AD\_4nXcoRzzChQIq9cRfKptEVPp\_X0oGzx-Od2ZWOhLpHixQBMrwLOOo7GGCkHCZWcbrLwgbEbapdwUgAVs3tpQ6e3jjLPGCAM8Zs0nJTRuApDC17CJ9Wmdp2EIaIGB1EhRVxlazYEXzXsMJ2m41uXmfjiGcr9go?key=WMZddIwpzqNg7YwDudp2Ww)
+
+\
+A **Synced Bank** has no 'upload' area, instead, this bank will show any integrated content from your chosen source. Files cannot be deleted from a synced bank, however, edits can be made to the metadata of the files such as display name, description, and summary. Any changes made to the metadata will be honored during the syncing process. &#x20;
+
+In order to find out more about integrations, please go to our [integrations article](broken-reference) or speak to your Customer Success Representative.\
