@@ -17,7 +17,13 @@ You are encouraged to view the source of this page and see how:
 
 You will not see the code that uses your API key to create a authToken for the user. That is handled in the server side code, but the code is as described in [authentication.md](authentication.md "mention")
 
+### Not for end users
 
+This page is an example implementation for developers to use as a reference.
+
+It is not suitable for end users because the API Key needed should never be revealed to end users. It grants access to many application resources.
+
+To build your own implementation you can also follow the details described in [embed-sdk.md](embed-sdk.md "mention")
 
 ### Security warning
 
