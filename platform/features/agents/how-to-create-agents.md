@@ -54,6 +54,12 @@ You can include additional policy rules if you want to enhance the policy option
 
 <figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Agent policy</p></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-09 at 13.32.25.png" alt=""><figcaption></figcaption></figure>
+
+One of the pre-configured policy options is 'Feedback Encouragement'. If this option is selected in the agent configuration, it means that any feedback provided by the user will only be relevant within the thread that it is given. This feedback will not train the agent in their long-term responses, nor will it impact any other user's responses, agent responses, or thread responses.&#x20;
+
+If the 'Feedback Encouragement' policy option is selected for an agent, it will increase the number of times the LLM asks 'how am I doing'.
+
 Under the Policy tab you can also add **Additional Information**. This equips the agent with essential background or contextual information that influences its interactions with users. This could encompass guidelines on tone, references to external knowledge not contained within its training data, or directives on handling sensitive topics.
 
 <figure><img src="../../../.gitbook/assets/summit10 2024-07-22 13-20-43.png" alt=""><figcaption></figcaption></figure>
