@@ -10,9 +10,9 @@ In order to add a new agent in your application, you will first need to be in th
 
 When agents have been created, you'll find a comprehensive list of your previously configured ones along with their corresponding handles displayed here.
 
-For instance, within this application, the agents named Michelle and Angie have been set up. Their respective handles, @Michelle and @Angie, are visible in the list under the '**Agents**' tab.
+For instance, within this application, the agents named Maya and Sidney have been set up. Their respective handles, @Mindset's Product Guru and @Sidney Security Expert, are visible in the list under the '**Agents**' tab.
 
-<figure><img src="../../../.gitbook/assets/summit10 2024-07-08 13-52-33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 15.29.39.png" alt=""><figcaption></figcaption></figure>
 
 To initiate the creation of a new agent, select the '**add an agent**' button. Each agent represents a specific use case and purpose. Often, an agent can be built for a task or role. They can provide answers to any queries, if they have been connected to the right data sources, and execute tasks that align with their role.
 
@@ -28,7 +28,9 @@ Under the '**Settings**' tab, you can add the basic details for your agent:
 * **Agent purpose** is a very important field and has a significant impact on the way your agent will behave, how it will interpret questions, and how it will structure answers.
 * **Agent visibility**. Toggling this button on will enable your end-users to see and interact with the agent created, in the front-end of the application. We recommend that all the agent configuration and testing be completed prior to enabling its access to end users.&#x20;
 
-<figure><img src="../../../.gitbook/assets/summit10 2024-07-22 13-13-55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 15.12.09.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 15.13.48 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Personality
 
@@ -68,13 +70,15 @@ Under the Policy tab you can also add **Additional Information**. This equips th
 
 Next, you can set up your agent **capabilities** under the '**capabilities**' heading. An agent capability is a specific set of steps that this agent is able to perform for the user. In order to find out more about capability configuration for your agents, please read our 'capabilities' article [here](how-to-configure-capabilities.md).&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Capabilities</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 15.15.21.png" alt=""><figcaption></figcaption></figure>
 
 **Tools**
 
 In the next step of agent configuration, you'll choose the **tools** you want the agent to utilize when answering end-users questions, within the '**Tools**' tab.
 
-Here, you have the option to decide if you want the agent to utilize the **clarification tool** and **prompt library**.&#x20;
+Here, you have the option to decide if you want the agent to utilize the **clarification tool, prompt library,** and **additional accuracy checking.**&#x20;
+
+_**Please note:**_ The clarification tool, prompt library, and additional accuracy checking are all optional features that can be enabled individually or in combination with one another.
 
 Further details about these functionalities can be found [here](https://docs.mindset.ai/platform/features/agents/how-to-configure-agents).&#x20;
 
@@ -82,7 +86,9 @@ Lastly, you can choose additional response details that the agent will incorpora
 
 _**Please note:**_ You do not have to select all 3 of these features together for the same agent.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 14.49.58.png" alt=""><figcaption></figcaption></figure>
+
+
 
 #### Design
 
@@ -90,7 +96,7 @@ Under the Design tab, the agent's primary color and text color can be configured
 
 To change the color simply click the 'select color' button and choose your color from the color wheel or from your designated color library.
 
-<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 15.18.07.png" alt=""><figcaption></figcaption></figure>
 
 **Knowledge**&#x20;
 
@@ -100,19 +106,17 @@ _**Please note:**_ The agent can have access to the information from multiple kn
 
 Once the selected knowledge banks have been toggled on and saved, the agent will then be able to utilize all information from those associated banks when answering end-user questions.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 15.18.35.png" alt=""><figcaption></figcaption></figure>
 
 #### Bias
 
 Under the **Bias** tab select **Bias Assessment** to see a summary of the Agent’s available Banks of Data. This provides information on the key themes and concepts of the bank's content.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-17 at 09.36.47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 15.24.37.png" alt=""><figcaption></figcaption></figure>
 
 The **Weighted** Concepts tab displays the concepts and the related segments, with the highest weighted concepts at the top and the lowest at the bottom.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-17 at 09.35.13.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 15.24.42.png" alt=""><figcaption></figcaption></figure>
 
 **Testing**
 
@@ -122,11 +126,9 @@ Under the **Testing** tab, you can run tests and compare agent responses to unde
 
 Under the '**Preview**' tab, you can practice trialing out your agent to see how it responds to questions asked. We recommend you take your time testing your agent here prior to sharing it with your end-users, to ensure it is performing correctly.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-07-17 at 09.31.41.png" alt=""><figcaption></figcaption></figure>
 
 
-
-
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 15.27.17.png" alt=""><figcaption></figcaption></figure>
 
 **Access**&#x20;
 
@@ -134,7 +136,7 @@ The **Access** tab allows you to choose which of your accounts have access to th
 
 The agent can either be configured with **open access** - where all application members are able to view and search published content, including users who are members of any account; or **restricted access**, where only members of selected accounts are able to view and search published content in the knowledge bank.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 15.28.19.png" alt=""><figcaption></figcaption></figure>
 
 To restrict access to your agent to specific accounts, select the '**restricted access**' button and click save.&#x20;
 
