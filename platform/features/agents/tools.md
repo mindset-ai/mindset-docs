@@ -53,3 +53,16 @@ for specifying areas they wish to focus on, creating opportunities to
 help users make selections that best match their interests.
 ```
 
+### Additional Accuracy checking
+
+Designed to work with agents where the information returned to users **must** be based on the knowledge banks available, the additional accuracy checking tool adds extra validation checks to any answer provided by the LLM.
+
+Working in concert with the agents normal systems, responses from the LLM are validated against data provided from the knowledge banks the agent has access to before being returned to the user. If any aspect of the agents response could not have been generated from this data, the LLM is instructed to regenerate it's answer with emphasis on any section where a disparity is located.
+
+When this tool is enabled for an agent, there 3 notable impacts on the experience:
+
+* Responses from an agent will appear fully formed and will not stream to the user word by word. This is required in order to validate the response before returning it to the user.
+* Responses will take longer to generate. The process of checking and regenerating responses can be triggered multiple times in order to get a precise and accurate result.&#x20;
+* It is possible that after several rounds of generation and checking that a valid and supported answer has not been produced. In these cases, the agent will respond back to the user that it is unable to provide an answer at this time. The same question may or may not be answered correctly on another attempt.
+
+Even with this option in place, the agents response is not 100% failsafe. Though we recommend using this option in any situation where the accuracy of the agents response is critical, mistakes are still possible.&#x20;
