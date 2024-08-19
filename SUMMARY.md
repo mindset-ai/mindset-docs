@@ -102,7 +102,7 @@
 * [Overview](integrations/overview.md)
 * [Content management](integrations/content-management/README.md)
   * [Google Drive](integrations/content-management/google-drive.md)
-  * [Sharepoint](integrations/content-management/sharepoint.md)
+  * [SharePoint](integrations/content-management/sharepoint.md)
   * [Hubspot](integrations/content-management/hubspot.md)
   * [Podbean](integrations/content-management/podbean.md)
   * [Wistia](integrations/content-management/wistia.md)
