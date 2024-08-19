@@ -9,3 +9,5 @@ Coming soon: Development of our Dropbox integration is currently in progress and
 ### How to Get Started
 
 Development of our Dropbox integration is currently in progress. To enquire about this integration, please contact your Customer Success representative.&#x20;
+
+[> Contact us](https://mindset-ai.atlassian.net/servicedesk/customer/portal/1/group/10/create/41)
