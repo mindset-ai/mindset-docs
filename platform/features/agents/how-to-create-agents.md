@@ -88,6 +88,40 @@ _**Please note:**_ You do not have to select all 3 of these features together fo
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 14.49.58.png" alt=""><figcaption></figcaption></figure>
 
+#### Segment Recommendation & Accuracy Controls&#x20;
+
+Accuracy and relevance are something Mindset is constantly focused on improving. These new controls solve a few important challenges users were facing with getting the right level of detail and relevance in agent responses.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-08-28 at 16.58.05.png" alt=""><figcaption></figcaption></figure>
+
+#### **Configuring your Advanced Configuration:**&#x20;
+
+These controls can be found in the 'tools' tab of your agent configuration.&#x20;
+
+
+
+**Number of Segments**: This setting lets you adjust how many pieces of information (segments) your agent considers when formulating an answer. The default is 5 segments.
+
+For agent use cases where a user just needs a quick, focused response, you can lower this number to 2 or 3 segments. But in other use cases where discovery and in-depth responses are needed, you can increase this number to 7-8 segments, so the agent will use more information and recommend more content.&#x20;
+
+Just keep in mind that using a lot of segments can make responses longer and potentially increase the response time since the AI has to process more information.
+
+&#x20;
+
+**Relevance Threshold**: Think of this as a "quality filter" for the segments. It's a score from 0 to 1 that rates how well each segment matches what the user asked.
+
+Setting a higher threshold of 0.8 or 0.9 means your agent will only use the most directly relevant segments in its response. Great for technical responses where you need pinpoint accuracy.
+
+Lowering the threshold to 0.5 or 0.6 allows your agent to bring in segments that are more loosely related, but could provide helpful context or spark creative ideas for more open-ended conversations.
+
+&#x20;
+
+The key is adjusting these two controls in tandem based on the specific agent use case, and then using the different testing tools we provide in the agent administration portal.&#x20;
+
+For specific, technical or compliance-driven use cases, use less high-relevance segments. For exploratory agent use cases, allow more segments with a lower relevance threshold.
+
+We recommend experimenting to see what levels of detail and relevance work best for your typical use cases. These changes can be adjusted as required.
+
 
 
 #### Design
