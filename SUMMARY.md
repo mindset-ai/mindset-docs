@@ -95,6 +95,7 @@
     * [How to add a note to a liveboard](analytics/thoughtspot/thoughtspot-faqs/how-to-add-a-note-to-a-liveboard.md)
     * [How to pin in a liveboard](analytics/thoughtspot/thoughtspot-faqs/how-to-pin-in-a-liveboard.md)
     * [Editing individual data visualizations in a liveboard](analytics/thoughtspot/thoughtspot-faqs/editing-individual-data-visualisations-in-a-liveboard.md)
+    * [Thoughtspot Alerts](analytics/thoughtspot/thoughtspot-faqs/thoughtspot-alerts.md)
 * [Connecting a BI tool](analytics/connecting-a-bi-tool.md)
 
 ## Integrations
