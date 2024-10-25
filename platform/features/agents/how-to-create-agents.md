@@ -122,9 +122,11 @@ For specific, technical or compliance-driven use cases, use less high-relevance 
 
 We recommend experimenting to see what levels of detail and relevance work best for your typical use cases. These changes can be adjusted as required.
 
+The 'Inject Source URL' toggle can also be enabled in the agent's configuration. When this toggle is activated, agents will create direct links to external articles after ingesting content from a website.&#x20;
 
+For segments extracted from web pages, the link will direct to the original URL of the web page from which the content was sourced.
 
-
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-10-03 at 17.47.47.png" alt=""><figcaption></figcaption></figure>
 
 
 
