@@ -19,3 +19,10 @@ Here are some **best practices** for configuring **capabilities** to ensure your
 **Document Changes**: Keep a record of changes made to capabilities, including the reasons for changes and the outcomes. This documentation can be valuable for troubleshooting and future enhancements.
 
 By following these best practices, you can create a more powerful and specific agent that is better equipped to handle the tasks it's designed for.&#x20;
+
+### Capability functions and limitations.
+
+**Capabilities and Knowledge Banks:** Agents running capabilities still have full access to their assigned knowledge banks and content within the banks will be used in the construction of responses by the agent.&#x20;
+
+**Segments:** While in a capability, content from those knowledge banks will not be served to the user directly, even if the segment tool is enabled.
+
