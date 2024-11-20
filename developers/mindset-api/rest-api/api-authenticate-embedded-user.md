@@ -14,9 +14,11 @@ The body should contain one value indicating a user email address on which to ba
 
 NOTE This email address is prefixed with additional identifying information , so the email address won't receive emails, and the account will not be the same as any account created by a user signing up with that email address.
 
-You can also use a string that is like an email based on some othe user specific identifier meaningful to you.
+You can also use a string that is like an email based on some other user specific identifier meaningful to you.
 
+This must conform to a general email address format. Generally it should be just text or numbers, must have an @ and contain something that looks like a domain at the end.
 
+If it cannot be parsed as an email address then you will receive an error from this API.
 
 Optionally you can specify accounts to join the user to.\
 To do this pass an additional parameter `addToAccounts` which should be an array of objects of the form `{accountUid:"<uid-of-account-to-be-joined>"}`\
