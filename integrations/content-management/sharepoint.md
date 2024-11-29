@@ -30,7 +30,7 @@ Our SharePoint integration requires secure access to your selected Sites and fol
 
 You can currently ingest the following formats using the SharePoint integration:
 
-* Videos and audio (MP4, MP4)
+* Videos and audio (MP3, MP4)
 * PDF
 * Microsoft Office (Word, PowerPoint)
 

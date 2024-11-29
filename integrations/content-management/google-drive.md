@@ -33,7 +33,7 @@ You can currently ingest the following formats using the Google Drive integratio
 * Google Docs
 * Google Slides
 * PDFs
-* Videos (MP3, MP4, MOV)
+* Audio and Videos (MP3, MP4)
 
 ### How to get started
 
