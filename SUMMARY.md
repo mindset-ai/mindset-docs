@@ -46,7 +46,7 @@
     * [What are Capabilities?](platform/features/agents/what-are-capabilities-and-how-do-they-add-value.md)
     * [How to configure Capabilities](platform/features/agents/how-to-configure-capabilities.md)
     * [Capabilities Best Practices](platform/features/agents/capabilities-best-practices.md)
-  * [Language Translation FAQs](platform/features/language-translation-faqs.md)
+    * [Language Translation FAQs](platform/features/agents/language-translation-faqs.md)
   * [Tags](platform/features/tags/README.md)
     * [General Tags](platform/features/tags/general-tags.md)
     * [Tags FAQ](platform/features/tags/tags-faq.md)

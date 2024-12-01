@@ -9,11 +9,11 @@ description: How to resize & compress large images using your system's own tool
 **Windows (Microsoft Paint) :**
 
 1. Open your large-size image in the Microsoft Paint program.
-2.  Click on the **Resize** option**.** This option is on the middle-right side of the "Image" section at the top of the Paint window.
+2.  Click on the **Resize** optio&#x6E;**.** This option is on the middle-right side of the "Image" section at the top of the Paint window.
 
     ![](https://api.media.atlassian.com/file/f4bdfcd9-37d1-4d79-b7ce-ca210ac91e12/image?allowAnimated=true\&client=dc131102-4189-4db9-884e-b565213b2ec3\&collection=contentId-257261571\&height=492\&max-age=2592000\&mode=full-fit\&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJkYzEzMTEwMi00MTg5LTRkYjktODg0ZS1iNTY1MjEzYjJlYzMiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpjb2xsZWN0aW9uOmNvbnRlbnRJZC0yNTcyNjE1NzEiOlsicmVhZCJdfSwiZXhwIjoxNjc4OTcyMzU2LCJuYmYiOjE2Nzg5Njk0NzZ9.aBgdfM-mI9cm4h3xLXdLKdrhj9iyWF4hB2OHrTMCMXk\&width=1543#media-blob-url=true\&id=f4bdfcd9-37d1-4d79-b7ce-ca210ac91e12\&collection=contentId-257261571\&contextId=257261571\&height=289\&width=906\&alt=) ![](https://info.mindset.ai/hubfs/image-20230316-073138-png.png)
 
-3\. Make sure **"Percentage"** has a black dot next to it**.** If not, click the circle next to "**Percentage**" to ensure that your image's changes will be measured in percentages.
+3\. Make sure **"Percentage"** has a black dot next to i&#x74;**.** If not, click the circle next to "**Percentage**" to ensure that your image's changes will be measured in percentages.
 
 * Your image will start at 100 for both the vertical and horizontal values, so changing these to "75" will reduce your image to three-quarters of its original size.
 * If you know the exact horizontal or vertical pixel count you want, you can click the circle next to "**Pixels**" instead.
@@ -22,7 +22,7 @@ description: How to resize & compress large images using your system's own tool
 
 &#x20;
 
-4\. Check the **"Maintain aspect ratio"** box**.** If there is no checkmark in the box next to "**Maintain aspect ratio**", click the box; otherwise, any changes you make to one aspect of your image (e.g., vertical size) won't scale with the other aspects.
+4\. Check the **"Maintain aspect ratio"** bo&#x78;**.** If there is no checkmark in the box next to "**Maintain aspect ratio**", click the box; otherwise, any changes you make to one aspect of your image (e.g., vertical size) won't scale with the other aspects.
 
 * If this box is already checked, proceed to the next step.
 
@@ -36,7 +36,7 @@ description: How to resize & compress large images using your system's own tool
 
 &#x20;
 
-6\. Click the **OK** button**.** Doing so will apply your changes to the image.
+6\. Click the **OK** butto&#x6E;**.** Doing so will apply your changes to the image.
 
 ![](https://api.media.atlassian.com/file/0d784225-50a5-42a6-a2cd-2566287fc112/image?allowAnimated=true\&client=dc131102-4189-4db9-884e-b565213b2ec3\&collection=contentId-257261571\&height=2300\&max-age=2592000\&mode=full-fit\&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJkYzEzMTEwMi00MTg5LTRkYjktODg0ZS1iNTY1MjEzYjJlYzMiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpjb2xsZWN0aW9uOmNvbnRlbnRJZC0yNTcyNjE1NzEiOlsicmVhZCJdfSwiZXhwIjoxNjc4OTcyMzU2LCJuYmYiOjE2Nzg5Njk0NzZ9.aBgdfM-mI9cm4h3xLXdLKdrhj9iyWF4hB2OHrTMCMXk\&width=1543#media-blob-url=true\&id=0d784225-50a5-42a6-a2cd-2566287fc112\&collection=contentId-257261571\&contextId=257261571\&height=644\&width=432\&alt=) ![](https://info.mindset.ai/hubfs/image-20230316-074258-png.png)
 
