@@ -2,9 +2,9 @@
 description: This article explains how language translation works for Agents.
 ---
 
-# Language Translation FAQs
+# Language Translation within Agents
 
-## Detecting and responding in the user's input language
+
 
 The agent is currently instructed to detect the user’s input language and respond back in that same language.
 
