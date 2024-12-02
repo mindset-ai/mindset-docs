@@ -66,6 +66,7 @@
 
 * [Overview](developers/overview.md)
 * [Embed SDK](developers/embed-sdk/README.md)
+  * [A Step by Step Guide](developers/embed-sdk/a-step-by-step-guide.md)
   * [Embed SDK](developers/embed-sdk/embed-sdk.md)
   * [Testing the Embedded Agent](developers/embed-sdk/testing-the-embedded-agent.md)
   * [Authentication](developers/embed-sdk/authentication.md)
