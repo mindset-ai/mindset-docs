@@ -66,10 +66,10 @@
 
 * [Overview](developers/overview.md)
 * [Embed SDK](developers/embed-sdk/README.md)
-  * [A Step by Step Guide](developers/embed-sdk/a-step-by-step-guide.md)
   * [Embed SDK](developers/embed-sdk/embed-sdk.md)
   * [Testing the Embedded Agent](developers/embed-sdk/testing-the-embedded-agent.md)
   * [Authentication](developers/embed-sdk/authentication.md)
+  * [Embed an AI agent: step by step guide](developers/embed-sdk/embed-an-ai-agent-step-by-step-guide.md)
   * [Components](developers/embed-sdk/components.md)
   * [iFrame Embedding](developers/embed-sdk/iframe-embedding.md)
 * [Mindset API](developers/mindset-api/README.md)

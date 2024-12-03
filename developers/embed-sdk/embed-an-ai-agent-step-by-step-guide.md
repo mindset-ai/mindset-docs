@@ -1,8 +1,8 @@
-# A Step by Step Guide
+# Embed an AI agent: step by step guide
 
 ## Introduction
 
-Mindset provides Embed SDK to embed the AI agents Components in your web application or portal.
+Mindset provides Embed SDK to embed the AI agents Component into your web application or portal.
 
 This documentation provides the technical instructions and important points in order achieve that.
 
@@ -118,7 +118,7 @@ Below an example of an EXPRESS API script :
 import express from "express";
 
 
-const MINDSET_HOST = `https://europe-west2-mindset-prod2.cloudfunctions.net`;
+const MINDSET_HOST = `TO-BE-PROVIDED-by-MINDSET`;
 
 const mindset_api_key = 'YOUR-MINDSET-API-KEY' 
 
