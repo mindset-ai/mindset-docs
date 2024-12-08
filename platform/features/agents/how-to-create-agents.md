@@ -88,6 +88,12 @@ _**Please note:**_ You do not have to select all 3 of these features together fo
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-08-15 at 14.49.58.png" alt=""><figcaption></figcaption></figure>
 
+**Sources and topics UI style:**&#x20;
+
+This is where administrators can select how the content used in agent's responses and related topics are displayed to users in the agent interface. This can either be displayed as pills below the agent's response, or display as panels above and below the agent's responses.
+
+Segments, topics, and speakers can be displayed in agent responses by toggling the 'display segments', 'display topics' and 'display speakers' switches on. The names of each of these can also be altered via the text box below the toggles. **Please note:** there is a character limit of 15 for these headings.
+
 #### Segment Recommendation & Accuracy Controls&#x20;
 
 Accuracy and relevance are something Mindset is constantly focused on improving. These new controls solve a few important challenges users were facing with getting the right level of detail and relevance in agent responses.
