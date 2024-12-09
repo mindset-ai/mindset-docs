@@ -41,6 +41,7 @@
     * [How to Create Agents](platform/features/agents/how-to-create-agents.md)
     * [How to Configure Agents](platform/features/agents/configuration.md)
     * [How to use Tools](platform/features/agents/tools.md)
+    * [How to add an Agent disclaimer message](platform/features/agents/how-to-add-an-agent-disclaimer-message.md)
     * [Agent Testing Framework](platform/features/agents/agent-testing-framework.md)
     * [Agent entitlement and Knowledge banks](platform/features/agents/agent-entitlement-and-knowledge-banks.md)
     * [What are Capabilities?](platform/features/agents/what-are-capabilities-and-how-do-they-add-value.md)
