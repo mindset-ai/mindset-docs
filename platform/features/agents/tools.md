@@ -69,6 +69,14 @@ Even with this option in place, the agents response is not 100% failsafe. Though
 
 Segments, topics, and speakers can be displayed in agent responses by toggling the 'display segments', 'display topics' and 'display speakers' switches on. The names of each of these can also be altered via the text box below the toggles. **Please note:** there is a character limit of 15 for these headings.&#x20;
 
+**Display follow-up questions:** This generates relevant and appropriate follow-up questions, these prompts guide users deeper into the source material. Instead of relying on the user to know what to ask next, the system gently nudges them toward further discovery.
+
+<figure><img src="../../../.gitbook/assets/Screenshot (5).png" alt=""><figcaption></figcaption></figure>
+
+These questions are automatically generated and appear at the bottom of an Agent's message for a user to select.
+
+<figure><img src="../../../.gitbook/assets/Screenshot (6).png" alt=""><figcaption></figcaption></figure>
+
 **Display Citations:** Finally, admins can select whether to display citations in agent responses by toggling the 'display citations' switch on.
 
 Citations refer to a reference to the source of information used by the agent to support a specific claim, fact, or statement. Citations allow users to see where the information they’ve been served has come from. This builds trust and enables users to verify the source. Users can consult the cited sources to verify claims, double-check facts, or explore a topic further.
