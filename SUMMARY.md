@@ -67,6 +67,8 @@
 
 * [Overview](developers/overview.md)
 * [Embed SDK](developers/embed-sdk/README.md)
+  * [Enhanced API for embedding agents](developers/embed-sdk/enhanced-api-for-embedding-agents.md)
+  * [How to embed an agent in your site](developers/embed-sdk/how-to-embed-an-agent-in-your-site.md)
   * [Embed SDK](developers/embed-sdk/embed-sdk.md)
   * [Testing the Embedded Agent](developers/embed-sdk/testing-the-embedded-agent.md)
   * [Authentication](developers/embed-sdk/authentication.md)

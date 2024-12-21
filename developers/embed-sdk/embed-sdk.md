@@ -2,6 +2,12 @@
 
 ## Installation
 
+#### Enhanced functionality available
+
+**This API is now deprecated.**&#x20;
+
+Please use [how-to-embed-an-agent-in-your-site.md](how-to-embed-an-agent-in-your-site.md "mention")
+
 #### **Overview:**
 
 The Mindset Embed SDK is integrated directly into your web application by including a script reference in the HTML document. This script is hosted on the server where your Mindset application resides.
@@ -124,7 +130,7 @@ mindset.init({
 
 The `mindset.render()` function is responsible for rendering a specified component within a designated container on the web page. It is a key function of the Mindset SDK used to display SDK components dynamically.
 
-Multiple Mindset components can be rendered on the same page, and they will maintain state change between each other automatically.&#x20;
+Multiple Mindset components can be rendered on the same page, and they will maintain state change between each other automatically.
 
 ```javascript
 mindset.render({
