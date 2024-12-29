@@ -1,8 +1,8 @@
 ---
-description: Learn about the Welcome workflow
+description: Learn about the Welcome workflow feature.
 ---
 
-# Welcome
+# Welcome workflow
 
 The Welcome workflow gives you the opportunity to create excitement for your users about the experience ahead, and motivate them to sign up by highlighting key features and benefits and helps to understand who the user is from their first experience to curate a personalized experience.&#x20;
 

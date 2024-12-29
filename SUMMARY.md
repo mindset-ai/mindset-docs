@@ -12,10 +12,11 @@
 
 * [Overview](platform/overview.md)
 * [Features](platform/features/README.md)
-  * [Welcome](platform/features/welcome/README.md)
+  * [Welcome workflow](platform/features/welcome/README.md)
     * [How to configure the Welcome workflow](platform/features/welcome/how-to-configure-the-welcome-workflow.md)
     * [Welcome workflow best practices](platform/features/welcome/welcome-workflow-best-practices.md)
-  * [Onboarding](platform/features/onboarding/README.md)
+  * [Onboarding workflow](platform/features/onboarding/README.md)
+    * [How to configure the Onboarding workflow](platform/features/onboarding/how-to-configure-the-onboarding-workflow.md)
     * [Onboarding best practices](platform/features/onboarding/onboarding-best-practices.md)
     * [How to Configure Multi Factor Authentication (MFA)](platform/features/onboarding/how-to-configure-multi-factor-authentication-mfa.md)
   * [Knowledge Graph](platform/features/knowledge-graph-workflow/README.md)

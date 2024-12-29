@@ -1,7 +1,5 @@
 ---
-description: >-
-  A description of what the Welcome workflow is and how to configure it
-  effectively.
+description: Learn how you can configure the Welcome workflow in your platform.
 ---
 
 # How to configure the Welcome workflow
@@ -22,11 +20,7 @@ Below is an example of the carousel on the welcome page from the end-user perspe
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-28 at 09.44.09.png" alt=""><figcaption></figcaption></figure>
 
-<div align="left">
-
-<figure><img src="https://lh7-us.googleusercontent.com/jgOBrfXIhXP2H9T-xj5PO20MpKHXL6CwyU6MDm1ZgtoeXhwr-GeqXj8wW3_oA9BF1A-wGudhh_B7BX-yvTKZ-s_lY0n1OOVS2vvnQhTP6i2ytaJh1Su66lZrxPaeJQsFl7uYMabrnHkWWDcRMLGBJas" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://lh7-us.googleusercontent.com/jgOBrfXIhXP2H9T-xj5PO20MpKHXL6CwyU6MDm1ZgtoeXhwr-GeqXj8wW3_oA9BF1A-wGudhh_B7BX-yvTKZ-s_lY0n1OOVS2vvnQhTP6i2ytaJh1Su66lZrxPaeJQsFl7uYMabrnHkWWDcRMLGBJas" alt="" width="375"><figcaption></figcaption></figure></div>
 
 \
 \
