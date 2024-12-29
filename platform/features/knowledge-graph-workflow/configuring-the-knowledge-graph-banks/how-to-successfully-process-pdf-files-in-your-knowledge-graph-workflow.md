@@ -1,14 +1,12 @@
 ---
 description: >-
   How to optimise the value of your content when uploading PDF files into your
-  Knowledge Graph Workflow.
+  Knowledge Workflow.
 ---
 
-# How to Process PDF Files
+# How to process PDF files
 
-**How can PDFs add value to your Knowledge Graph Workflow?**&#x20;
-
-You can upload PDF files to your Knowledge Bank in the Knowledge Graph Workflow. The information in these files can be utilized to help answer end-user questions through the Agent.&#x20;
+You can upload PDF files to your Knowledge Bank in the Knowledge Workflow. The information in these files can be utilized to help answer end-user questions through the Agent.&#x20;
 
 Agents can now ingest and index images to analyze visual information alongside text.
 
@@ -26,10 +24,6 @@ Before you upload your PDF files, it's important to follow the guidelines below.
 Always review the transcription of your content to ensure that data has been accurately captured. If you see issues, consider updating the source content to improve the AI detection of important elements.
 
 Following these guidelines will help maximize the effectiveness of the Mindset platform in reading and comprehending your PDF documents, allowing you to derive maximum value from your content.
-
-
-
-***
 
 **Understanding Content Segmentation: Audio/Visual vs. PDFs**
 

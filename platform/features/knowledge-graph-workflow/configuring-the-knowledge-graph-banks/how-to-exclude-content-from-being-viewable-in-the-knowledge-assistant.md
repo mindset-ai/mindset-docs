@@ -4,7 +4,7 @@ description: >-
   Content Discovery & segments
 ---
 
-# How to Exclude Content From Being Visible
+# How to exclude Content from being visible
 
 Once you have uploaded a piece of content into your Knowledge Bank, you have the option to exclude the content item from the Content Discovery player and segments in the Knowledge Graph workflow.&#x20;
 
@@ -19,3 +19,4 @@ Please note: excluding the content item here will still enable the Agent to lear
 
 <figure><img src="https://lh7-us.googleusercontent.com/ly_IKocVGY1OajoYWhZ5awawRLQcXxnocYF_jdndejB5oE6xDLhAqqJUxyno5_tiH-HoeV0aiVIxWSd_iYrSAvUHZ41iXMKnAvDGORWiccRNXqGVwIMPhfzTtCRWLOXd0xfqAevZWnfA1Dd9LdIULdc" alt=""><figcaption></figcaption></figure>
 
+If you need any help at all, please ask your Customer Success Executive.
