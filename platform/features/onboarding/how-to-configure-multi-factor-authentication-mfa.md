@@ -1,7 +1,7 @@
 ---
 description: >-
-  This article explains how to configure Multi-Factor Authentication and the
-  end-user experience.
+  This article explains how to configure Multi-Factor Authentication ion the
+  platform.
 ---
 
 # How to Configure Multi Factor Authentication (MFA)
@@ -30,8 +30,6 @@ Proceed with your chosen option and select save.
 
 MFA is now turned on for your application for all users.
 
-
-
 ### End-users Perspective
 
 As an end-users passing through onboarding once they have verified their email address, they will be asked to add extra protection to their account.
@@ -48,9 +46,7 @@ Once verified by their password they will need to enter their phone number.
 <figure><img src="https://lh7-us.googleusercontent.com/iHahzG1eagQzGuIkZh0lU2Cm42WnJzDpCI50pC1tkh1V-GrsYmVabjLm2cEPyMVopWJsTVR2KTXVDqQdc4Eft6DDWxb49nufrZFQd3tgpElk1hW1p76GAjNc6iySLRtlFJWO-6DvOSCxksyRaiuR1gg" alt="" width="375"><figcaption></figcaption></figure>
 
 \
-When they enter their phone number, a text will be sent to their phone with a 6-digit code.
-
-\
+When they enter their phone number, a text will be sent to their phone with a 6-digit code.\
 
 
 <figure><img src="https://lh7-us.googleusercontent.com/FLE8cL0kRnYX36T1ZbMzM26ffSG0JTWmnrSrxX_PTYDMhV0hwM3Z4gTSXyhCoHkxd0JOuEnfvxDLhYVD4Qa2zmOsFg17D7XedmhtGwAct71MJIQTETwr9gK9u6WEDWM7NRi-T_rsAykUD9LvWQMY0fw" alt="" width="375"><figcaption></figcaption></figure>
@@ -82,7 +78,4 @@ Clicking on this, they can amend their number or add an additional number.
 
 <figure><img src="https://lh7-us.googleusercontent.com/9SUUsqB5SR4paD2ZNAPRdeLtMGnnLjHuGH4RJYk96ZGZjf0tEm9EnOUX0PSUcs_OjjnTdXH_bn9y6pZ7RllxCBhAOZoGTqDPzkYhkY4AWut3v7JNCq_5HtF3c5UddnZn9XJt-uvq5CPAXcTaTrlLcVw" alt=""><figcaption></figcaption></figure>
 
-\
-
-
-\
+Once done, you have successfully configured MFA. If you need any help at all, please ask your Customer Success Executive.
