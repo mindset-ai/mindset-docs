@@ -1,8 +1,8 @@
 ---
-description: Common questions about the Knowledge Graph Workflow.
+description: Common questions about the Knowledge Workflow.
 ---
 
-# Knowledge Graph Workflow FAQs
+# Knowledge workflow FAQs
 
 Knowledge Graphs (KGs) organize data from multiple sources, capture information about entities of interest in a given domain or task (like people, places, or events), and forge connections between them.
 

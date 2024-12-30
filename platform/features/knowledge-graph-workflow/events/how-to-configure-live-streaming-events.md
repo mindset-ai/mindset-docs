@@ -1,18 +1,14 @@
 ---
-description: >-
-  Learn about the process of setting up a live-streaming event within the
-  Mindset platform.
+description: Learn about the process of setting up a live-streaming event.
 ---
 
 # How to Configure Live Streaming Events
 
-### Create a New Live Event
-
-To create a new live event within your application, navigate to the Events workflow under Manage, in your administration portal. If you cannot see this within your application, please contact your Customer Success Representative.
+To create a **Live stream event** within your application, navigate to the **Events workflow** under **Manage**, in your administration portal. If you cannot see this within your application, please contact your Customer Success Representative.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-07-08 141030 (1).png" alt=""><figcaption></figcaption></figure>
 
-Click ‘Add a new Event ’ and select "Live Stream Event." Now populate the Event with:
+Click **Add Event** and select **Live Stream Event.** Now populate the Event with:
 
 * **Name:** Give your event a descriptive name.
 * **Description:** Optional but recommended for clarity.
@@ -26,27 +22,27 @@ Next, add Labels. Labels help categorize and manage your events for end-users.&#
 
 ### Creating Labels
 
-You can create new event labels under Manage → Events workflow and choose the ‘Labels’ tab.
+You can create new event labels under **Manage → Events workflow** and choose the **Labels** tab.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdYlZGWkiPwEtVOQHRxP3S9lhIPLxUfVMYvKycVUMgMfb4anJ98fbE6yPQsgPgTpIMhqPHdz8LtSUQ4gMg7ctBUqjm94ppGdUoOnD3_qXqTrFPBPkc770BkPgRnlEunOtjHl5bHTp6ohq12lj-oAenc_L1g?key=WQuBy3J-WFOuBRUJnfvGFA" alt=""><figcaption></figcaption></figure>
 
-Under the ‘Labels’ tab, select the ‘Create Label’ button.&#x20;
+Under the **Labels** tab, select the ‘Create Label’ button.&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeZDJUe25DsnKS7xEjZK9cnzW-lQJdy7J1bTyxywuoGv4qr1OnffXAn9ssaeWc3LGNW62yWUL84vikrr7b-AebQf-k5gq5f_ItaIZ7C8uGQ40DLSMY2X6PB68CrLM0WX2MAodgpIZ7deeA54ivZyEEULFkL?key=WQuBy3J-WFOuBRUJnfvGFA" alt=""><figcaption></figcaption></figure>
 
-Next, type in your label name and then toggle on the ‘show label in Events’ button.&#x20;
+Next, type in your label name and then toggle on the **Show label in Events** button.&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfLdSh4VPxR-QOzPl_CyewGeh7-665QwB-lE7tJ7KiOplE7Hns4xu6oo5ELdLy9twOLiLSG1Zg-hPT1kzvaRPDkGqM07ueWmPBej6afTZmKX869-THUq5fosXxoDF4JsslHPHY558DCHc1EqczDSKlP-Rvf?key=WQuBy3J-WFOuBRUJnfvGFA" alt=""><figcaption></figcaption></figure>
 
 ### Publishing the Event
 
-After saving, find the event in your event list, select the three dots in the top right corner of the event, and choose ‘Publish event’. This makes the event visible in the end-user interface. To ensure users can see the event, go to the design tab and add the live events workflow to your chosen Navigation tab.
+After saving, find the event in your event list, select the three dots in the top right corner of the event, and choose **Publish event.** This makes the event visible in the end-user interface. To ensure users can see the event, go to the design tab and add the live events workflow to your chosen Navigation tab.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXf57xtx8pYwp-cXCpKIs_lCBpRtRSFAbFyXEgu3Oe0ktVO7aGe7Q8himysEFy1H42g7i6JXn97AAx-YXYkahXQkBjb4gW2sCVizs6GMUf5pP0rb96Dr8HTchGndKflCTsIYQxNuyNXa7xj5GSYrq7sUDt8?key=WQuBy3J-WFOuBRUJnfvGFA" alt=""><figcaption></figcaption></figure>
 
 ### Stream Management
 
-Once the event is published, click on the selected event, navigate to the “stream management” heading and click "Open Live Stream Channel.”&#x20;
+Once the event is published, click on the selected event, navigate to the **Stream management** heading and click **Open Live Stream Channel.**
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcx8-uS4zwcbseUAQyFOb861QSh7gfcDWUHTJD8KSJWpUGUAja5WP7eZ-PDcIHDgpZENab-E46GYXG4n-NXgTNtrxeHb4ux_kRqJKa6EqjHrhD-oJbUGpYClrNu5EWxiqKTKFfss74kmOVfTr4I00nF9r6h?key=WQuBy3J-WFOuBRUJnfvGFA" alt=""><figcaption></figcaption></figure>
 
@@ -54,9 +50,7 @@ Select between SRT (Secure Reliable Transport) and RTMP (Real-Time Messaging Pro
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfqVJ_fkg9wAQMDZeLUxbDZ0CcWNaRGG9RGgRa54o-D1S-MAopdEtSIN3TTR0yJmOEg2pKY7LJ2yHHilHFuV-c91XqRJdaRZ2kUGJpju4Qtx3QcJO05qPpAKNCgahZJr8CRr_S1dlZN4mJTNtkoF4IGo6aX?key=WQuBy3J-WFOuBRUJnfvGFA" alt=""><figcaption></figcaption></figure>
 
-After selecting the protocol, click "Open Channel." This will provide you with the necessary streaming details.
-
-
+After selecting the protocol, click **Open Channel**. This will provide you with the necessary streaming details.
 
 ### Configure Streaming Software
 
@@ -68,11 +62,9 @@ For RTMP, you'll get a server link and a stream key from the administration port
 
 Copy these details and open your streaming software e.g. OBS Studio. Next, choose the ‘Custom’ service choice  (other options like Twitch, YouTube, etc., might be available but we use custom here).
 
-In the Server box, paste the server link and in the Stream Key box, paste the stream key.
+In the Server box, paste the server link and in the Stream Key box, paste the Stream key.
 
 Apply the settings and start streaming from your software. The stream feed should now be updated in your event management area of the Mindset platform.
-
-
 
 ### Manage the Live Stream
 
@@ -90,9 +82,7 @@ When ready, click "Start" to go live. End-users will begin to see the stream fro
 
 ### Post-Event Management
 
-Once the event ends, the video stream will be processed and made available for download.The processed video can be downloaded, paused, or played directly from the event interface.
-
-
+Once the event ends, the video stream will be processed and made available for download. The processed video can be downloaded, paused, or played directly from the event interface.
 
 ### Additional Tips
 
@@ -100,4 +90,4 @@ Once the event ends, the video stream will be processed and made available for d
 * User Notifications: Ensure clear notifications are set up for users about the stream status (e.g., "Stream will start soon").
 * Testing: Always test the setup before the actual event to iron out any potential issues.
 
-\
+If you need any help at all, please ask your Customer Success Executive.\
