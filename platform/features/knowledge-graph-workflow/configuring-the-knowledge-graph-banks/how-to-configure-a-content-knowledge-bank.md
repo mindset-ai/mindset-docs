@@ -1,5 +1,5 @@
 ---
-description: Learn how to configure a Content Knowledge Bank
+description: Learn how to configure a Content Knowledge Bank.
 ---
 
 # How to configure a Content Knowledge Bank
@@ -59,7 +59,7 @@ If the file is an MP3, MP4 or Mov you will see a **Segments** tab next to the Co
 
 For each **segment**, you can choose a **speaker,** or add one by selecting the **Speaker - unknown** boxes.
 
-![](https://lh4.googleusercontent.com/FLnKKh\_pW-oC-HCbNvL1ZBXOtIgKrWNe0gGdEDUSCBgzitBhKGO2nfKYiYT6CrTzwswdFrMVEx1sOw5CUZeDarUIRUoq48VwX\_8Ir-mZyBicEl8hB-\_rk0PM0EWk7BE1mvAaJLP9bsUZyqrcCnVmYZg)
+![](https://lh4.googleusercontent.com/FLnKKh_pW-oC-HCbNvL1ZBXOtIgKrWNe0gGdEDUSCBgzitBhKGO2nfKYiYT6CrTzwswdFrMVEx1sOw5CUZeDarUIRUoq48VwX_8Ir-mZyBicEl8hB-_rk0PM0EWk7BE1mvAaJLP9bsUZyqrcCnVmYZg)
 
 Select the box and type the person's name who spoke in that **segment**, when you have added that person once it will automatically populate them for any other segments where they speak. They will also be added as a speaker in the dropdown list.
 
@@ -69,15 +69,15 @@ This is important because the end-user can start engaging directly with specific
 
 If you select the pencil button for each segment you can amend the transcript or update the **Segment** heading and summary. For example, if it has spelled someone's name wrong you can go and amend it.
 
-![](https://lh4.googleusercontent.com/7DzYIMVNC8d2fkHTI44GhX\_FKWo88JiePDU6m-2x3QYvW2YQAofqUVEBvC-Wq2kkk9sN3wqwpzXNqICVRHcUjXAlCEgFd\_RBRGaH6ARmfIBSmVw\_6MBjcV10dEfw5ukluDiydkPP6yqu3fFaPb2i6sE)
+![](https://lh4.googleusercontent.com/7DzYIMVNC8d2fkHTI44GhX_FKWo88JiePDU6m-2x3QYvW2YQAofqUVEBvC-Wq2kkk9sN3wqwpzXNqICVRHcUjXAlCEgFd_RBRGaH6ARmfIBSmVw_6MBjcV10dEfw5ukluDiydkPP6yqu3fFaPb2i6sE)
 
 &#x20;If you want to double-check what that **segment** is referring to, in your content you can play the video segment directly.&#x20;
 
-![](https://lh5.googleusercontent.com/zqUOIeyaOoC06Eu4jl4CrlN-EG8cNqDTxtnEtkdzGndmEeC0O\_s\_X2hZgqTMxS\_qjXkF6cgBtsz9jnaTOT9xrZXulIVBVW\_JmvofmLvrC9d3vMbwvndjwO7FeKN6gHVBMqqWjXqg-aeuyy406TOgYrk)
+![](https://lh5.googleusercontent.com/zqUOIeyaOoC06Eu4jl4CrlN-EG8cNqDTxtnEtkdzGndmEeC0O_s_X2hZgqTMxS_qjXkF6cgBtsz9jnaTOT9xrZXulIVBVW_JmvofmLvrC9d3vMbwvndjwO7FeKN6gHVBMqqWjXqg-aeuyy406TOgYrk)
 
 If you find the transcription consistently gets a word incorrect, you can use the **search and replace** feature to update this throughout the content.
 
-![](https://lh6.googleusercontent.com/Cyh-Pu-6AtHFOWFkK90exmoJgVU-3NV8KvNuNI9kgd212-4gxHM79mD9PPVKYd0-AoT-BHQUkIDd2-1n28b1odP5u1mgwobtNSb\_sOMtQG85M0W-jJnRVWwbI41vtheuvYu\_6Hm\_r841yq84I8qe2UI)
+![](https://lh6.googleusercontent.com/Cyh-Pu-6AtHFOWFkK90exmoJgVU-3NV8KvNuNI9kgd212-4gxHM79mD9PPVKYd0-AoT-BHQUkIDd2-1n28b1odP5u1mgwobtNSb_sOMtQG85M0W-jJnRVWwbI41vtheuvYu_6Hm_r841yq84I8qe2UI)
 
 Once you are happy with the transcription, segments, and speakers, click back to your list of content inside the bank. You can now start publishing these pieces of content to the **Knowledge** workflow for end-users to instantly engage with
 
@@ -87,11 +87,11 @@ On each piece of content select the three dots in the right-hand corner and clic
 
 &#x20;
 
-![](https://lh4.googleusercontent.com/UMC3DDCqaBeHQGB65Ohfco6uHC4BUJ23f\_9dD4ossrdm7QC\_31LwKZcriBYrcoSA0RPxo7vtNovf-0OxWkC6mAJg6II\_imUFpMyocHG5xvOTQz7mdfggfKYI4sCRWnssB4-aXTq3T8ZD26DSDLx7sBc)
+![](https://lh4.googleusercontent.com/UMC3DDCqaBeHQGB65Ohfco6uHC4BUJ23f_9dD4ossrdm7QC_31LwKZcriBYrcoSA0RPxo7vtNovf-0OxWkC6mAJg6II_imUFpMyocHG5xvOTQz7mdfggfKYI4sCRWnssB4-aXTq3T8ZD26DSDLx7sBc)
 
 Once **Published** you will see the green tick appear in the left-hand corner.
 
-![](https://lh3.googleusercontent.com/xt9w\_fgr9BnG2Bn5EGcKSQP4TLmr9OXTgAzOk9gIjDYzH77LRra0EI93nRF4D48toVMeY17HZCOjdHEYBBMkuZuhexTRdRPZIA5EVzdfKSVNEUAWijX2\_gCk1KWr2D7ObBylQODPM8W77vVW\_Xroo9o)
+![](https://lh3.googleusercontent.com/xt9w_fgr9BnG2Bn5EGcKSQP4TLmr9OXTgAzOk9gIjDYzH77LRra0EI93nRF4D48toVMeY17HZCOjdHEYBBMkuZuhexTRdRPZIA5EVzdfKSVNEUAWijX2_gCk1KWr2D7ObBylQODPM8W77vVW_Xroo9o)
 
 Within the selected knowledge bank, you will see additional tab headings: **Prompts, Bias** and **Access Management**.&#x20;
 

@@ -1,4 +1,8 @@
-# Prompts Best Practices
+---
+description: Learn about best practices to follow when creating Prompts.
+---
+
+# Prompts best practices
 
 ## Introduction to Prompts Best Practices
 
@@ -30,15 +34,4 @@ Whether you're looking to generate creative content, extract specific informatio
 \
 **Should examples be real or hypothetical?**  They can be either, as long as they clearly illustrate the desired outcome.
 
-**How do I handle prompts that return unexpected results?**  Review the prompt for clarity and specificity, and adjust as needed to guide the model more precisely.
-
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+**How do I handle prompts that return unexpected results?**  Review the prompt for clarity and specificity, and adjust as needed to guide the model more precisely.\
