@@ -29,4 +29,30 @@ End-Users will see the Prompt library on the left-hand side of the text box with
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot (81) (1).png" alt=""><figcaption></figcaption></figure>
 
+**Examples of prompts:**
+
+Below are some examples of prompts that could be utilized in different scenarios, they may be helpful in guiding the configuration of your prompts.&#x20;
+
+**Professional Development**
+
+* Discuss the role of mentorship in career growth.
+* Provide tips for balancing work and personal life for improved well-being.
+
+**Role-playing**
+
+* Imagine you're an HR manager conducting a job interview.&#x20;
+* What questions would you ask?
+* Pretend you're giving a motivational speech to employees during a challenging period.
+
+**Team Building**
+
+* Provide strategies for fostering effective teamwork within a diverse group. Discuss the role of team-building exercises in boosting morale and productivity.
+
+**Benefits of having prompts**
+
+* Prompts help guide the end-user's interactions with the Agent.&#x20;
+* Using prompts can help improve the relevance of questions asked by end-users.
+* Prompts can help to encourage end-user topic exploration.
+* Prompts can be used to help enhance end-user experiences in the application.&#x20;
+
 If you need any help at all, please ask your Customer Success Executive.

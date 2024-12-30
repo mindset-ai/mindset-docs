@@ -16,33 +16,5 @@ The idea is to offer users a set of suggested prompts that cover a range of topi
 
 The prompts in a prompt library can be diverse, covering general topics, specific questions, or even role-playing scenarios to engage the model in a more interactive and dynamic conversation. The goal is to enhance the user experience by providing a starting point for generating effective interactions with the language model.
 
-
-
-**Examples of prompts:**
-
-Below are some examples of prompts that could be utilized in different scenarios, they may be helpful in guiding the configuration of your prompts.&#x20;
-
-**Professional Development**
-
-* Discuss the role of mentorship in career growth.
-* Provide tips for balancing work and personal life for improved well-being.
-
-**Role-playing**
-
-* Imagine you're an HR manager conducting a job interview.&#x20;
-* What questions would you ask?
-* Pretend you're giving a motivational speech to employees during a challenging period.
-
-**Team Building**
-
-* Provide strategies for fostering effective teamwork within a diverse group. Discuss the role of team-building exercises in boosting morale and productivity.
-
-**Benefits of having prompts**
-
-* Prompts help guide the end-user's interactions with the Agent.&#x20;
-* Using prompts can help improve the relevance of questions asked by end-users.
-* Prompts can help to encourage end-user topic exploration.
-* Prompts can be used to help enhance end-user experiences in the application.&#x20;
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>How to configure Prompts</td><td></td><td></td><td><a href="../../../../../.gitbook/assets/Frame 1533208565.jpg">Frame 1533208565.jpg</a></td></tr><tr><td>Prompts best practices</td><td></td><td></td><td><a href="../../../../../.gitbook/assets/Frame 1533208565 (3).jpg">Frame 1533208565 (3).jpg</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>How to configure Prompts</td><td></td><td></td><td><a href="how-to-configure-prompts.md">how-to-configure-prompts.md</a></td><td><a href="../../../../../.gitbook/assets/Frame 1533208565.jpg">Frame 1533208565.jpg</a></td></tr><tr><td>Prompts best practices</td><td></td><td></td><td><a href="prompts-best-practices.md">prompts-best-practices.md</a></td><td><a href="../../../../../.gitbook/assets/Frame 1533208565 (3).jpg">Frame 1533208565 (3).jpg</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
