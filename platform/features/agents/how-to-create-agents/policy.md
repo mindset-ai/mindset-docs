@@ -4,7 +4,7 @@ description: Learn about the Policy options within the Agent workflow.
 
 # Policy
 
-The P**olicy** section provides guidelines to keep the agent on track and within your defined scope. Unlike other sections, you can apply multiple policy options at the same time, which combine to produce a focused and consistent agent.  Many of the options available under the policy heading have additional supporting fields to help define the policy boundaries.
+The Policy section provides guidelines to keep the agent on track and within your defined scope. Unlike other sections, you can apply multiple policy options at the same time, which combine to produce a focused and consistent agent.  Many of the options available under the policy heading have additional supporting fields to help define the policy boundaries.
 
 You can include additional policy rules if you want to enhance the policy option available, or can use this field on its own to define a policy behavior from scratch.
 
