@@ -4,10 +4,11 @@ description: Learn how to configure the Settings tab within the Agents workflow.
 
 # Settings
 
-The **Settings** tab, allows you to add basic details about your Agent. Including:
+The **Settings** tab, allows you to add basic details about your Agent.&#x20;
 
-* **Agent name**, **Agent handle**, and **Agent description** are used for identification and display to help you and your users recognize the agent. Both **handle** and **description** can be visible to users of your application.
-* **Agent purpose** is a very important field and has a significant impact on the way your agent will behave, how it will interpret questions, and how it will structure answers.
+#### Agent name, handle and description
+
+These fields are used for identification and display to help you and your users recognize the agent. Both **handle** and **description** can be visible to users of your application.
 
 #### Purpose
 

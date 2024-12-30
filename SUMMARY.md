@@ -56,7 +56,6 @@
       * [Testing](platform/features/agents/how-to-create-agents/testing.md)
       * [Preview](platform/features/agents/how-to-create-agents/preview.md)
       * [Access](platform/features/agents/how-to-create-agents/access.md)
-    * [How to use Tools](platform/features/agents/tools.md)
     * [Language Translation within Agents](platform/features/agents/language-translation-within-agents.md)
   * [Tags](platform/features/tags/README.md)
     * [General Tags](platform/features/tags/general-tags.md)
