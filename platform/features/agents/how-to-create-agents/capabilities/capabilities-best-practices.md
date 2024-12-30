@@ -1,4 +1,8 @@
-# Capabilities Best Practices
+---
+description: Learn about some of the best practices for configuring Capabilities.
+---
+
+# Capabilities best practices
 
 Here are some **best practices** for configuring **capabilities** to ensure your **agent** is powerful and effective:\
 \

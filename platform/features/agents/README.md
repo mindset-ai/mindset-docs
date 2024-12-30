@@ -1,5 +1,5 @@
 ---
-description: An Introduction to Agents in the Mindset platform.
+description: An introduction to the Agents workflow.
 ---
 
 # Agents
@@ -46,13 +46,9 @@ These agents are not only task-oriented but can also collaborate amongst themsel
 
 Consider, for instance, a smart bot analyzing a salesperson's performance and then collaborating with an L\&D program bot to create personalized upskilling plans ready for human approval.
 
-
-
 #### How Agents differ from Assistants
 
 Each agent represents a specific use case and purpose. Often, an agent can be built for a task or role. They can provide answers to any queries, if they have been connected to the right data sources, and execute tasks that align with their role.&#x20;
-
-
 
 Think of an Agent as a digital employee hired to perform a specific role. The Agent configuration is much like a job spec, it describes how the Agent should behave, what information it has access to and what process and policies it should follow. \
 

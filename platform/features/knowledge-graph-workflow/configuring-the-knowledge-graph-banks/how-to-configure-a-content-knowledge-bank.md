@@ -4,7 +4,11 @@ description: Learn how to configure a Content Knowledge Bank.
 
 # How to configure a Content Knowledge Bank
 
-Under the **Manage** tab of the left-hand navigation bar, go to the **Knowledge** section, here you will be able to configure the **Banks** for your agents.  Select **Add New Bank,** then **New content bank.**
+When configuring a Knowledge Bank, note that a user's access to content within a knowledge bank is managed through their entitlement to use agents.&#x20;
+
+<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Entitlement to Agents and Knowledge banks</p></figcaption></figure>
+
+To configure a Knowledge Bank, go to **Manage** > **Knowledge**, here you will be able to configure the **Banks** for your agents.  Select **Add New Bank,** then **New Content Bank.**
 
 <figure><img src="../../../../.gitbook/assets/summit10 2024-06-19 21-03-09.png" alt=""><figcaption></figcaption></figure>
 
