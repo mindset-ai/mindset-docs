@@ -1,5 +1,6 @@
 ---
 description: An explanation of tags and how they are used on the platform
+hidden: true
 ---
 
 # Tags
