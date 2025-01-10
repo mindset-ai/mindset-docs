@@ -64,6 +64,8 @@ window.mindset.initApp({
 
 Once initialised the mindset application displays empty whitespace in its UI until an agent is invoked.
 
+Calling this will automatically discard any current instance of a mindset agent. See [#starting-agent-threads-1](how-to-embed-an-agent-in-your-site.md#starting-agent-threads-1 "mention")
+
 ### 3. Starting Agent Threads <a href="#starting-agent-threads" id="starting-agent-threads"></a>
 
 You can start a conversation for the user with an agent by calling a second method.
@@ -109,6 +111,27 @@ For example - you might have a branded site for your content that means you want
 If you are [acme.com](http://acme.com/) & your customer is BigCorp then this allows you to have content URLs that resolve to:
 
 https://**bigcorp**.acme.com/content/specific-item?role=**supervisor**
+
+### 4. Starting again <a href="#starting-agent-threads" id="starting-agent-threads"></a>
+
+If you wish to discard any reference & UI for an existing Agent instance you can call
+
+```
+window.mindset.deleteAppInstance();
+```
+
+This will:
+
+* remove any existing agent active in the page.
+* reset any stored appUid, authToken or loadingText
+
+To use an agent again you will need to call `initApp()` again with valid parameters.
+
+If your code was already removed the agent UI then the only thing you need to make sure of to call initApp again is that there will be an element with the id you pass in `containerId`
+
+
+
+Note: This happens automatically whenever `initApp()`  (or `init()`) is called.
 
 ## Other details <a href="#other-details" id="other-details"></a>
 
