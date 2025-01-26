@@ -18,6 +18,7 @@
   * [Onboarding workflow](platform/features/onboarding/README.md)
     * [How to configure the Onboarding workflow](platform/features/onboarding/how-to-configure-the-onboarding-workflow.md)
     * [Onboarding best practices](platform/features/onboarding/onboarding-best-practices.md)
+    * [How to configure Single Sign-On (SSO)](platform/features/onboarding/how-to-configure-single-sign-on-sso.md)
     * [How to Configure Multi Factor Authentication (MFA)](platform/features/onboarding/how-to-configure-multi-factor-authentication-mfa.md)
   * [Knowledge workflow](platform/features/knowledge-graph-workflow/README.md)
     * [Content Discovery](platform/features/knowledge-graph-workflow/content-discovery/README.md)

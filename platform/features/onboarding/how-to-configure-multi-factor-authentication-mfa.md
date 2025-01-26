@@ -1,6 +1,6 @@
 ---
 description: >-
-  This article explains how to configure Multi-Factor Authentication ion the
+  This article explains how to configure Multi-Factor Authentication the
   platform.
 ---
 
