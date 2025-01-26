@@ -12,7 +12,7 @@ Labels can be created in the administration portal of your application under **M
 
 Selecting this will then invite you to input your label name and decide on user visibility.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (55) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can order your labels by selecting the three dots in the top right corner of the label and selecting **‘Move Up’** or ‘**Move Down**’ accordingly. This will determine the order of each carousel in the Content Discovery workflow.&#x20;
 
