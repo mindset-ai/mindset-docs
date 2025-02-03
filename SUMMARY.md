@@ -86,7 +86,7 @@
   * [Components](developers/embed-sdk/components.md)
   * [iFrame Embedding](developers/embed-sdk/iframe-embedding.md)
 * [Mindset API](developers/mindset-api/README.md)
-  * [gPRC API](developers/mindset-api/gprc-api.md)
+  * [gRPC API](developers/mindset-api/gprc-api.md)
   * [HTTP API](developers/mindset-api/rest-api/README.md)
     * [API Key authentication](developers/mindset-api/rest-api/api-key-authentication.md)
     * [API Servers](developers/mindset-api/rest-api/api-servers.md)
