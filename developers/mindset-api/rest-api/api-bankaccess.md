@@ -2,7 +2,7 @@
 
 Grants or removes access to a knowledge bank
 
-DEPRECATED - This method of controlling access to restricted knowledge will soon be replaced by a similar API to manage account access to agents
+DEPRECATED - **This method of controlling access to restricted knowledge is no longer in use and will soon be replaced by a similar API to manage account access to agents.**
 
 ## Path
 
