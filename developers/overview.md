@@ -1,7 +1,3 @@
----
-description: Overview of the Mindset API and Mindset Embedded
----
-
 # Overview
 
 ## Integration Options
