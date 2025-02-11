@@ -6,9 +6,7 @@ Mindset provides Embed SDK to embed the AI agents Component into your web applic
 
 This documentation provides the technical instructions and important points in order achieve that.
 
-_Example of the Mindset Agents component embedded in a web page:_
 
-<figure><img src="../../.gitbook/assets/cbd78cbe-59e5-42a9-bbab-3bacc973e5b7.png" alt=""><figcaption></figcaption></figure>
 
 ## Global overview
 
@@ -21,11 +19,9 @@ There are 2 scripts to integrate :
 
 ## Front-end script
 
-See the Mindset SDK doc for details : [https://docs.mindset.ai/developers/embed-sdk/embed-sdk](https://docs.mindset.ai/developers/embed-sdk/embed-sdk)
-
 Below a sample HTML page including the Javascript script:
 
-```
+```html
 <html>
     <head>
         <!-- Replace 'YOUR-MINDSET-URL' with the actual URL where your Mindset SDK is hosted -->
@@ -64,16 +60,17 @@ Below a sample HTML page including the Javascript script:
                 fetch(userAuthokenServerUrl)
                 .then((response) => response.json())
                 .then(data => {
-                    mindset.init({ 
+                    mindset.initApp({ 
                         appUid: "YOUR-APP-UID", 
-                        authToken: data.authToken     <--- Here is injected the final AUTH TOKEN
+                        authToken: data.authToken,     <--- Here is injected the final AUTH TOKEN
+                        containerId: "agent-div",      <--- ID of the HTML element embeding the Agent module
+                        loadingText: "Please wait ..." <--- Customized loading text 
                     })
                   
-                    mindset.render({
-                        containerId: "agent-div",
-                        component: "agent",
-                        options: { agentUid: "YOUR-AGENT-UID" }
-                        });
+                    mindset.startAgentThread({
+                        agentUid: "51jjWExDjSZWRgNzcnLK",
+                        initialQuestion: "Some text to send to the agent"
+                    });
                 }
             )
                 
@@ -85,16 +82,16 @@ Below a sample HTML page including the Javascript script:
 
 #### PARAMETERS required to fit your configuration:
 
-YOUR-MINDSET-URL : your Mindset app URL (for example [https://app.mycompany.com)](https://app.mycompany.com\))
+**YOUR-MINDSET-URL** : your Mindset app URL (for example [https://app.mycompany.com)](https://app.mycompany.com\))
 
-YOUR-BACKEND-API-RETURNING-AUTHTOKEN : your BE script URL which need in the request to get the user Email and which will ask the Auth Token to your Mindset app instance (cf the Backen-end script below).\
-Sample URL : http://mycompany-backend/api/getusertoken/${userEmail}
+**YOUR-BACKEND-API-RETURNING-AUTHTOKEN** : your BE script URL which need in the request to get the user Email and which will ask the Auth Token to your Mindset app instance (cf the Backen-end script below).\
+Sample URL : _http://mycompany-backend/api/getusertoken/${userEmail}_
 
-YOUR-APP-UID : Your appUid is provided by mindset to you. (it is often just the name of your company).
+**YOUR-APP-UID** : Your appUid is provided by mindset. (it is often just the name of your company).
 
-YOUR-AGENT-UID: The agent Uid you want the user chat with. You can find that Agent Uid in the setting of the agent on the Mindset Admin Ui portal :
+**YOUR-AGENT-UID**: The agent Uid you want the user chat with. You can find that Agent Uid in the setting of the agent on the Mindset Admin Ui portal :
 
-<figure><img src="../../.gitbook/assets/236af782-3ca9-4cb4-82b4-d5c18ddbb8e8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/236af782-3ca9-4cb4-82b4-d5c18ddbb8e8.png" alt=""><figcaption><p>Mindset admin UI: agent settings</p></figcaption></figure>
 
 #### Note on the user email :
 
@@ -108,13 +105,13 @@ The important concept to understand is the AI agent thread session: if you want 
 
 ## Back-end Script
 
-See the Mindset SDK for more details: [https://docs.mindset.ai/developers/embed-sdk/authentication](https://docs.mindset.ai/developers/embed-sdk/authentication)
+See the doc for more details about [Authentication](authentication.md) flow.
 
-On your server, you should create an end point which will get the user email as request from your FE side, and which will query an AUTH TOKEN from the Mindset server. This AUTH TOKEN will be injected in the FE script.\
+On your server, you should create an end point which will get the user email as request from your FE side, and which will query an **AUTH TOKEN** from the Mindset server. This **AUTH TOKEN** will be injected in the FE script.\
 \
 Below an example of an EXPRESS API script :
 
-```
+```javascript
 import express from "express";
 
 
@@ -155,8 +152,12 @@ export default app;
 
 #### PARAMETERS required to fit your configuration:
 
-MINDSET\_HOST: This URL is provided by the Mindset team.
+**MINDSET\_HOST**: This URL is provided by the Mindset team.
 
-YOUR-MINDSET-API-KEY: This API KEY can be generated in your Mindset App Admin portal:
+**YOUR-MINDSET-API-KEY**: This API KEY can be generated in your Mindset App Admin portal:
 
 <figure><img src="../../.gitbook/assets/bdacf415-9ef2-4d6b-a0d7-cc74a00cfadc.png" alt=""><figcaption></figcaption></figure>
+
+
+
+Please read the next chapter for more further details on all the Mindset embed SDK.

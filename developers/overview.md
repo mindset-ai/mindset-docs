@@ -8,12 +8,8 @@ description: Overview of the Mindset API and Mindset Embedded
 
 Mindset provides two modes of integration:
 
-* [Mindset API](mindset-api/)&#x20;
+* [Mindset API](embed-sdk/)&#x20;
 * [Embed SDK](embed-sdk/) (embedding Mindset AI agents on webpages)
-
-All of the UI configuration is handled through the [Mindset Platform](broken-reference).
-
-
 
 
 

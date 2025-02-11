@@ -2,6 +2,7 @@
 description: >-
   This page details the exposed Mindset components. If a component you would
   like to use is not referenced here, please speak to support to have it added.
+hidden: true
 ---
 
 # Components

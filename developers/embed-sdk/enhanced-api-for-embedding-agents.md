@@ -1,5 +1,6 @@
 ---
 description: We have made some enhancements
+hidden: true
 ---
 
 # Enhanced API for embedding agents

@@ -1,13 +1,5 @@
 # How to embed an agent in your site
 
-## What you can do <a href="#what-you-can-do" id="what-you-can-do"></a>
-
-You can embed your Mindset agent into a web page you are building for your users.
-
-Typically this will form part of a range of resources you make available to specific people - students studying certain courses, team members in a particular group.
-
-Identifying the user and controlling access to the agent, and the knowledge it has access to, is in the control of your site.
-
 ## Mindset Agent code flow <a href="#mindset-agent-code-flow" id="mindset-agent-code-flow"></a>
 
 There are three distinct steps that must happen in order to display an agent to an end user.
@@ -16,7 +8,7 @@ There are three distinct steps that must happen in order to display an agent to 
 
 This happens under the control of your server systems. Ideally it can happen as your site builds the page to return to the end user, but you could implement your own server side API that will respond to authorised (as a user of your site) requests.
 
-Same as before - [![](https://1456005154-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5dRId4QrAnQV7eKBUoK5%2Ficon%2FgBwS2A1GsF0OqDEzROje%2Fmindset-fav-48.png?alt=media\&token=d099863c-fc9f-40e2-b9b3-93e126db791e)Authentication | Mindset AI Documentation](https://docs.mindset.ai/developers/embed-sdk/authentication)
+More details in the [Authentication](authentication.md) page.
 
 ### 2. Mindset application initialisation <a href="#mindset-application-initialisation" id="mindset-application-initialisation"></a>
 
