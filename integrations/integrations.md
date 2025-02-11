@@ -1,6 +1,8 @@
+---
+hidden: true
+---
+
 # Embedding vs. Integration: Key Differences
-
-
 
 ### What is Embedding?
 
