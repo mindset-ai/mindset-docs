@@ -7,6 +7,10 @@
   * [AI Guidelines](general/ai-and-security/ai-guidelines.md)
   * [Security Q\&A](general/ai-and-security/security-q-and-a.md)
   * [AI Buyers Guide](general/ai-and-security/ai-buyers-guide.md)
+* [GUIDES](general/guides/README.md)
+  * [How to write prompts effectively](general/guides/how-to-write-prompts-effectively.md)
+  * [Ask & Find](general/guides/ask-and-find.md)
+  * [Utilising data insights](general/guides/utilising-data-insights.md)
 
 ## Platform
 
