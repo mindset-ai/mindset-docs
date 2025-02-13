@@ -42,7 +42,7 @@ This functionality is provided for internal use by Mindset's partners developing
 ### You will need to know
 
 * **appUid** - It is likely to be the main part of your domain name.
-* **agentUid** - This will soon be available in the Admin UI
+* **agentUid** - You can get it from your Mindset App Admin UI (agents section)
 * **Your API host server**
 
 Your Mindset contact can help you with these pieces of information.
