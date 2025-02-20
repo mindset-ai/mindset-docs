@@ -1,3 +1,7 @@
+---
+description: (more information coming soon)
+---
+
 # api-bankcontent
 
 api-bankcontent enables ingestion of content from an external source into a knowledge bank.
