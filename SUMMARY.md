@@ -90,6 +90,7 @@
   * [Embed SDK](developers/embed-sdk/embed-sdk.md)
   * [iFrame Embedding](developers/embed-sdk/iframe-embedding.md)
 * [Mindset API](developers/mindset-api/README.md)
+  * [Mindset Public APIs](developers/mindset-api/mindset-public-apis.md)
   * [HTTP API](developers/mindset-api/rest-api/README.md)
     * [API Key authentication](developers/mindset-api/rest-api/api-key-authentication.md)
     * [API Servers](developers/mindset-api/rest-api/api-servers.md)
