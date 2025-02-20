@@ -101,6 +101,7 @@
     * [api-accountmembership](developers/mindset-api/rest-api/api-accountmembership.md)
     * [api-bankaccess](developers/mindset-api/rest-api/api-bankaccess.md)
     * [api-agentaccess](developers/mindset-api/rest-api/api-agentaccess.md)
+    * [api-bankcontent](developers/mindset-api/rest-api/api-bankcontent.md)
 
 ## Analytics
 
