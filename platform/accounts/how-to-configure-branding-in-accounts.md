@@ -14,6 +14,8 @@ App administrators can enable “Account branding” on a per-account basis, giv
 
 Once enabled for an account, a new "Account Branding" tab will appear in the account admin portal, where branding customization can begin.&#x20;
 
+<figure><img src="../../.gitbook/assets/Screenshot (92).png" alt=""><figcaption><p>Account Branding toggle</p></figcaption></figure>
+
 #### Customizing an Account's Branding
 
 By default, an account starts with the app’s branding. From there, app admins or account admins can apply custom branding elements, including:&#x20;
@@ -23,6 +25,8 @@ By default, an account starts with the app’s branding. From there, app admins 
   * Surface color&#x20;
   * Icon & text color&#x20;
   * Active & inactive tab colors
+
+<figure><img src="../../.gitbook/assets/Screenshot (93).png" alt=""><figcaption><p>Account branding logo options</p></figcaption></figure>
 
 If an admin ever wants to revert to the original app branding, they can simply select "**Reset to Default.**"
 
