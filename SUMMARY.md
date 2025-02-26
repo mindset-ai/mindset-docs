@@ -74,7 +74,7 @@
     * [Selecting the Right Image for your Application](platform/design/images/selecting-the-right-image-for-your-application.md)
 * [Accounts](platform/accounts/README.md)
   * [How to configure Accounts](platform/accounts/how-to-configure-accounts.md)
-  * [How to configure branding in Accounts](platform/accounts/how-to-configure-branding-in-accounts.md)
+  * [How to configure Account branding](platform/accounts/how-to-configure-account-branding.md)
   * [How to invite end-users to an Account](platform/accounts/how-to-invite-end-users-to-an-account.md)
 * [Humans](platform/humans.md)
 
