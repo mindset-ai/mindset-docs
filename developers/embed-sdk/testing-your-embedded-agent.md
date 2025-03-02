@@ -43,7 +43,7 @@ This functionality is provided for internal use by Mindset's partners developing
 
 * **appUid** - It is likely to be the main part of your domain name.
 * **agentUid** - You can get it from your Mindset App Admin UI (agents section)
-* **Your API host server**
+* **Your API host server -** also known as **MINDSET-API-HOST**
 
 Your Mindset contact can help you with these pieces of information.
 
@@ -59,7 +59,7 @@ You should also pick an email address to use as a test user.
 
 ## Testing page starting point
 
-Open that URL in your browser : **http://your-api-host-server/api-embed-agent-test-initform**, then fill all INPUT fields with your own information, and click the submit button.
+Open that URL in your browser : **https://your-api-host-server/api-embed-agent-test-initform**, then fill all INPUT fields with your own information, and click the submit button.
 
 <figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 

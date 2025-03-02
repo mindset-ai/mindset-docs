@@ -115,7 +115,7 @@ Below an example of an EXPRESS API script :
 import express from "express";
 
 
-const MINDSET_HOST = `TO-BE-PROVIDED-by-MINDSET`;
+const MINDSET-API-HOST = `TO-BE-PROVIDED-by-MINDSET`;
 
 const mindset_api_key = 'YOUR-MINDSET-API-KEY' 
 
@@ -127,7 +127,7 @@ app.get("/api/getusertoken/:user", async (req, res) => {
   
   try {
     const embedUserToken: any = await axios.post(
-      `${MINDSET_HOST}/api-authenticate-embedded-user`,
+      `https://${MINDSET-API-HOST}/api-authenticate-embedded-user`,
       {
         userEmail: req.params.user,
       },
@@ -152,7 +152,7 @@ export default app;
 
 #### PARAMETERS required to fit your configuration:
 
-**MINDSET\_HOST**: This URL is provided by the Mindset team.
+**MINDSET-API-HOST**: This URL is provided by the Mindset team.
 
 **YOUR-MINDSET-API-KEY**: This API KEY can be generated in your Mindset App Admin portal:
 
