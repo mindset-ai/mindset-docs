@@ -8,6 +8,10 @@ Account branding gives an account or app admin the ability to customize the colo
 
 But it’s not just about the visual experience. Account branding also gives app owners the flexibility to offer a more exclusive, tailored experience to certain customers. Whether it’s as a premium feature, a value-added service, or even an upsell opportunity, this feature helps businesses strengthen their brand, build customer loyalty, and create new revenue opportunities.
 
+{% embed url="https://www.loom.com/share/9a8a441e79364846b35c1ea683856d39?sid=a62d8ac4-0d0e-459c-8878-23328d0cfe04" %}
+Walkthrough Video
+{% endembed %}
+
 ### Configuring the brand of an Account
 
 App administrators can enable “**Account branding**” on a per-account basis, giving them full control over which accounts have access to this feature. App administrators can do this via the Account Details tab.&#x20;
