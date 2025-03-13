@@ -8,7 +8,7 @@ description: Learn about the Synced Knowledge Banks feature
 
 A **Synced Bank** has no 'upload' area, instead, this bank will show any integrated content from your chosen source. These banks will contain any content sourced from an integration such as Google Drive or Sharepoint.&#x20;
 
-If content is ingested into a Synced Bank, any changes you make to the content at source, will be reflected in the knowledge bank. Remember: this also means that if content is deleted at source, it will be deleted from the knowledge bank too.
+If content is ingested into a Synced Bank, any changes you make to the content at source, will be reflected in the knowledge bank.&#x20;
 
 Files cannot be directly deleted from a synced bank, in order to delete a file, you must delete it at source.&#x20;
 
