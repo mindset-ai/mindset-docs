@@ -121,10 +121,14 @@
 
 ## Integrations
 
-* [Overview](integrations/overview.md)
+* [Overview](integrations/overview/README.md)
+  * [Choosing Data for your Agent](integrations/overview/choosing-data-for-your-agent.md)
+  * [Supported Files](integrations/overview/supported-files.md)
 * [Content management](integrations/content-management/README.md)
-  * [Google Drive](integrations/content-management/google-drive.md)
-  * [SharePoint](integrations/content-management/sharepoint.md)
+  * [Google Drive](integrations/content-management/google-drive/README.md)
+    * [Google Drive Integration Set-Up](integrations/content-management/google-drive/google-drive-integration-set-up.md)
+  * [SharePoint](integrations/content-management/sharepoint/README.md)
+    * [SharePoint Integration Set-Up](integrations/content-management/sharepoint/sharepoint-integration-set-up.md)
   * [Hubspot](integrations/content-management/hubspot.md)
   * [Podbean](integrations/content-management/podbean.md)
   * [Wistia](integrations/content-management/wistia.md)

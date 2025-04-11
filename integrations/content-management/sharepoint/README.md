@@ -22,9 +22,9 @@ Our SharePoint integration requires secure access to your selected Sites and fol
 
 
 
-| SharePoint | Direction of data flow                                                                      | Mindset        |
-| ---------- | ------------------------------------------------------------------------------------------- | -------------- |
-| Folder     | <img src="../../.gitbook/assets/arrow - left to right (2).png" alt="" data-size="original"> | Knowledge Bank |
+| SharePoint | Direction of data flow                                                                         | Mindset        |
+| ---------- | ---------------------------------------------------------------------------------------------- | -------------- |
+| Folder     | <img src="../../../.gitbook/assets/arrow - left to right (2).png" alt="" data-size="original"> | Knowledge Bank |
 
 ### File Formats Supported
 

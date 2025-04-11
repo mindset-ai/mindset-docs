@@ -22,7 +22,7 @@ Our Google Drive integration requires secure access to your selected Drive and f
 
 
 
-<table><thead><tr><th width="283">Google Drive</th><th align="center">Direction of data flow</th><th>Mindset</th></tr></thead><tbody><tr><td>Folder</td><td align="center"><img src="../../.gitbook/assets/arrow - left to right (2).png" alt="" data-size="original"></td><td>Knowledge Bank</td></tr></tbody></table>
+<table><thead><tr><th width="283">Google Drive</th><th align="center">Direction of data flow</th><th>Mindset</th></tr></thead><tbody><tr><td>Folder</td><td align="center"><img src="../../../.gitbook/assets/arrow - left to right (2).png" alt="" data-size="original"></td><td>Knowledge Bank</td></tr></tbody></table>
 
 
 

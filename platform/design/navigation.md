@@ -62,11 +62,11 @@ Go to the Workflows tab to configure what you want to add to the navigation tab 
 
 The next aspect under the Navigation and Layout tab is Navigation Styling. You can customize branding aspects of your application like the Surface color, Active tab icon and text color, Active tab highlight area and Inactive tab icon and text color.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Once you have all these options configured, you can see the preview on the right-hand side of the Navigation and Layout tab.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 You can also see how the preview looks on different devices by clicking on Preview by device size.&#x20;
