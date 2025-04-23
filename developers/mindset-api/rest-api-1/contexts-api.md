@@ -4,19 +4,19 @@
 
 Create a new context
 
-#### name (String) <a href="#name-string" id="name-string"></a>
+#### name \[String] <a href="#name-string" id="name-string"></a>
 
 Displayed name of the context
 
-#### description (String) <a href="#description-string" id="description-string"></a>
+#### description \[String] <a href="#description-string" id="description-string"></a>
 
 Description of the context
 
-#### externalId (String) <a href="#externalid-string" id="externalid-string"></a>
+#### externalId \[String] <a href="#externalid-string" id="externalid-string"></a>
 
 Unique Identifier of the context you can optionally provide
 
-#### isSynced (Boolean) <a href="#issynced-boolean" id="issynced-boolean"></a>
+#### isSynced \[Boolean] <a href="#issynced-boolean" id="issynced-boolean"></a>
 
 When a context is synced, files ingestion are synced with automatic mechanism (external process).\
 Hence, the files ingested in the context cannot be managed manually via the Mindset App admin portal.
@@ -27,11 +27,11 @@ Hence, the files ingested in the context cannot be managed manually via the Mind
 
 This method and endpoints using it are used for updating a context values.
 
-#### name (String) <a href="#name-string-.1" id="name-string-.1"></a>
+#### name \[String] <a href="#name-string-.1" id="name-string-.1"></a>
 
 Displayed name of the context
 
-#### description (String) <a href="#description-string-.1" id="description-string-.1"></a>
+#### description \[String] <a href="#description-string-.1" id="description-string-.1"></a>
 
 Description of the context
 
@@ -60,24 +60,24 @@ Note: You cannot delete a context containing files. You will receive a 422 respo
 
 You will get the same response data when calling POST, PATCH or GET
 
-#### uid (string) <a href="#uid-string" id="uid-string"></a>
+#### uid \[string] <a href="#uid-string" id="uid-string"></a>
 
 Mindset internal context uid
 
-#### externalId (string) <a href="#externalid-string" id="externalid-string"></a>
+#### externalId \[string] <a href="#externalid-string" id="externalid-string"></a>
 
 Unique Identifier of the context you can optionally provide
 
-#### name (String) <a href="#name-string-.2" id="name-string-.2"></a>
+#### name \[String] <a href="#name-string-.2" id="name-string-.2"></a>
 
 Displayed name of the context
 
-#### description (String) <a href="#description-string-.2" id="description-string-.2"></a>
+#### description \[String] <a href="#description-string-.2" id="description-string-.2"></a>
 
 Description of the context
 
-#### createdAt (ISO timestamp) <a href="#createdat-iso-timestamp" id="createdat-iso-timestamp"></a>
+#### createdAt \[ISO timestamp] <a href="#createdat-iso-timestamp" id="createdat-iso-timestamp"></a>
 
 Context creation date
 
-#### isSynced (Boolean) <a href="#issynced-boolean-.1" id="issynced-boolean-.1"></a>
+#### isSynced \[Boolean] <a href="#issynced-boolean-.1" id="issynced-boolean-.1"></a>
