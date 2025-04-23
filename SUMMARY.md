@@ -101,7 +101,10 @@
     * [api-accounts](developers/mindset-api/rest-api/api-accounts.md)
     * [api-accountmembership](developers/mindset-api/rest-api/api-accountmembership.md)
     * [api-bankaccess](developers/mindset-api/rest-api/api-bankaccess.md)
-  * [REST API](developers/mindset-api/rest-api-1.md)
+  * [REST API](developers/mindset-api/rest-api-1/README.md)
+    * [Contexts API](developers/mindset-api/rest-api-1/contexts-api.md)
+    * [Context Files API](developers/mindset-api/rest-api-1/context-files-api.md)
+    * [Labels API](developers/mindset-api/rest-api-1/labels-api.md)
 
 ## Analytics
 

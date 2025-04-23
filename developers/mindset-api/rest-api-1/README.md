@@ -2,6 +2,8 @@
 
 Mindset provides 3 REST APIs:
 
-* Labels API
+
+
 * Contexts API
 * Context Files API
+* Labels API
