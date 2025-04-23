@@ -4,15 +4,15 @@
 
 Create a new label (which can be assigned later to a Context File)
 
-#### name (String) <a href="#name-string" id="name-string"></a>
+#### name \[String] <a href="#name-string" id="name-string"></a>
 
 Displayed name of the label
 
-#### externalId (string) <a href="#externalid-string" id="externalid-string"></a>
+#### externalId \[String] <a href="#externalid-string" id="externalid-string"></a>
 
 Unique Identifier of the label you can optionally provide
 
-#### **showInDiscovery** (Boolean) <a href="#showindiscovery-boolean" id="showindiscovery-boolean"></a>
+#### **showInDiscovery** \[Boolean] <a href="#showindiscovery-boolean" id="showindiscovery-boolean"></a>
 
 Is this label will be visible to the end users ?
 
@@ -22,11 +22,11 @@ Is this label will be visible to the end users ?
 
 This method and endpoints using it are used for updating a Label updatable values.
 
-#### name (String) <a href="#name-string-.1" id="name-string-.1"></a>
+#### name \[String] <a href="#name-string-.1" id="name-string-.1"></a>
 
 Displayed name of the label
 
-#### **showInDiscovery** (Boolean) <a href="#showindiscovery-boolean-.1" id="showindiscovery-boolean-.1"></a>
+#### **showInDiscovery** \[Boolean] <a href="#showindiscovery-boolean-.1" id="showindiscovery-boolean-.1"></a>
 
 Is this label will be visible to the end users ?
 
@@ -54,22 +54,22 @@ You can delete a label by providing its uid
 
 You will get the same response data when calling POST, PATCH or GET
 
-#### uid (string) <a href="#uid-string" id="uid-string"></a>
+#### uid \[String] <a href="#uid-string" id="uid-string"></a>
 
 Mindset internal label uid
 
-#### externalId (string) <a href="#externalid-string-.1" id="externalid-string-.1"></a>
+#### externalId \[String] <a href="#externalid-string-.1" id="externalid-string-.1"></a>
 
 Unique Identifier of the label you can optionally provide
 
-#### name (String) <a href="#name-string-.2" id="name-string-.2"></a>
+#### name \[String] <a href="#name-string-.2" id="name-string-.2"></a>
 
 Displayed name of the label
 
-#### **showInDiscovery** (Boolean) <a href="#showindiscovery-boolean-.2" id="showindiscovery-boolean-.2"></a>
+#### **showInDiscovery** \[Boolean] <a href="#showindiscovery-boolean-.2" id="showindiscovery-boolean-.2"></a>
 
 Will this label be visible to the end users ?
 
-#### createdAt (ISO timestamp) <a href="#createdat-iso-timestamp" id="createdat-iso-timestamp"></a>
+#### createdAt \[ISO timestamp] <a href="#createdat-iso-timestamp" id="createdat-iso-timestamp"></a>
 
 Label creation date
