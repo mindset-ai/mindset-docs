@@ -60,11 +60,11 @@ Note: You cannot delete a context containing files. You will receive a 422 respo
 
 You will get the same response data when calling POST, PATCH or GET
 
-#### uid \[string] <a href="#uid-string" id="uid-string"></a>
+#### uid \[String] <a href="#uid-string" id="uid-string"></a>
 
 Mindset internal context uid
 
-#### externalId \[string] <a href="#externalid-string" id="externalid-string"></a>
+#### externalId \[String] <a href="#externalid-string" id="externalid-string"></a>
 
 Unique Identifier of the context you can optionally provide
 
