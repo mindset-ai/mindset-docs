@@ -4,17 +4,17 @@
 
 Create a new file in a context
 
-#### externalId \[string] <a href="#externalid-string" id="externalid-string"></a>
+#### externalId \[String] <a href="#externalid-string" id="externalid-string"></a>
 
 When synchronising content from an external source this field can be used to track an id in the source system.
 
 If you provide a value for this field then the API will enforce uniqueness of items with this ID. To update content for an externalId you must first delete any existing item.
 
-#### name \[string] <a href="#name-string" id="name-string"></a>
+#### name \[String] <a href="#name-string" id="name-string"></a>
 
 This is the name that will be used for this file when it is shown to the end user in some way. This could be through content discovery, as a source or citation in an agent response. It is also the name shown in the admin UI
 
-#### mimeType \[string] (one of the listed below value) <a href="#mimetype-string-one-of-the-listed-below-value" id="mimetype-string-one-of-the-listed-below-value"></a>
+#### mimeType \[String] (one of the listed below value) <a href="#mimetype-string-one-of-the-listed-below-value" id="mimetype-string-one-of-the-listed-below-value"></a>
 
 This should be the mime type of the content you are sending for ingestion.
 
@@ -71,7 +71,7 @@ This should be the mime type of the content you are sending for ingestion.
   * Content will be converted to PDF during ingestion
   * can be viewed using built in viewer
 
-#### &#x20;sourceUrl \[string]  <a href="#sourceurl-string" id="sourceurl-string"></a>
+#### &#x20;sourceUrl \[String]  <a href="#sourceurl-string" id="sourceurl-string"></a>
 
 A URL from which files for ingestion can be downloaded, or for web pages opened for printing to PDF.
 
