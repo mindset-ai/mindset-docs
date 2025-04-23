@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # api-accountmembership
 
 Joins someone to an account using their email address, triggering an invitation & validation email

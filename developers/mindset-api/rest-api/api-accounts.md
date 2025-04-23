@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # api-accounts
 
 Allows creation & querying of accounts (grouping of users). This is the basis for granting entitlement to restricted access content

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # api-humans
 
 Provides some information about end users who may or may not yet have signed up to the application, given their email address.

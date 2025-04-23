@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # api-getappuid
 
 A simple method that can be used to check the health of your API key

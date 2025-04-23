@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # api-bankaccess
 
 Grants or removes access to a knowledge bank
