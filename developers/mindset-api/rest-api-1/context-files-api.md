@@ -28,14 +28,14 @@ This should be the mime type of the content you are sending for ingestion.
 **text/plain**
 
 * Content must be in `documentContent`
-  * cannot be viewed using built in viewer?
+  * Cannot be viewed using built-in viewer
 
 **text/html**
 
 * Content can be in `documentContent`
   * Content provided this way will be converted to markdown text for better agent understanding
   * Only text in the provided content will be ingested
-  * cannot be viewed using built in viewer
+  * Cannot be viewed using built-in viewer
 * Content can be provided as a link to an external web page in `sourceUrl`
   * Content provided this way will be converted to PDF by printing the external page
   * Can be viewed using internal viewer, but not recommended for web pages converted to PDF
@@ -43,33 +43,33 @@ This should be the mime type of the content you are sending for ingestion.
 **video/mp4**
 
 * Content must be downloadable from a URL provided in `sourceUrl`
-  * can be viewed using built in viewer
+  * Can be viewed using built-in viewer
   * Only audio is transcribed during ingestion. Videos without speech (or an unrecognised codec) will result in ingestion failure
-  * No conversion, upscaling or downscaling takes place, so if you wish end users to view this content then make sure it suitable for playing on the devices & bandwidth requirements you expect for your users
+  * No conversion, upscaling or downscaling takes place, so if you wish end users to view this content then make sure it is suitable for playing on the devices & bandwidth requirements you expect for your users
 
 **audio/mpeg**
 
 * Content must be downloadable from a URL provided in `sourceUrl`
-  * can be played using built in viewer
+  * Can be played using built in viewer
 
 **application/pdf**
 
 * Content (for small PDFs) can be provided base64 encoded in `documentContent`
-  * can be viewed using built in viewer
+  * Can be viewed using built in viewer
 * Content can be downloadable from the URL provided in `sourceUrl`
-  * can be viewed using built in viewer
+  * Can be viewed using built-in viewer
 
 **application/vnd.openxmlformats-officedocument.presentationml.presentation**
 
 * Content must be downloadable from a URL provided in `sourceUrl`
   * Content will be converted to PDF during ingestion
-  * can be viewed using built in viewer
+  * Can be viewed using built-in viewer
 
 **application/vnd.openxmlformats-officedocument.wordprocessingml.document**
 
 * Content must be downloadable from a URL provided in `sourceUrl`
   * Content will be converted to PDF during ingestion
-  * can be viewed using built in viewer
+  * Can be viewed using built-in viewer
 
 #### &#x20;sourceUrl \[String]  <a href="#sourceurl-string" id="sourceurl-string"></a>
 
