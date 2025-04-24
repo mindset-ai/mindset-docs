@@ -99,9 +99,9 @@ If a final review is needed to check details in the admin UI then provide false 
 
 #### hideContentSegments \[Boolean] <a href="#hidecontentsegments-boolean" id="hidecontentsegments-boolean"></a>
 
-For published files allow the agent to use the knowledge in the files, but never to directly provide this file to an end user.
+For published files - allow the agent to use the knowledge in the files, but never to directly provide this file to an end user.
 
-This can be updated later
+This can be updated later.
 
 #### knownAs \[String] <a href="#knownas-string" id="knownas-string"></a>
 
@@ -330,7 +330,7 @@ Do not set this to true unless you have provided a valid URL in `externalUrl`
 
 #### thumbnailUpdatedByAdmin \[Boolean] <a href="#thumbnailupdatedbyadmin-boolean" id="thumbnailupdatedbyadmin-boolean"></a>
 
-&#x20;
+&#x20;Please see FAQ section below.
 
 &#x20;
 
