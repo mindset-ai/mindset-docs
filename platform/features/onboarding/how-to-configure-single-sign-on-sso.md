@@ -15,6 +15,29 @@ For added convenience, you can now log in to the platform using either your pass
 
 <figure><img src="../../../.gitbook/assets/Screenshot (55).png" alt=""><figcaption></figcaption></figure>
 
+### How to Set Up SSO for Microsoft
+
+To enable Single Sign-On (SSO), the owner or admin of your Microsoft tenant must approve the connection.
+
+This security step ensures that only authorised users can access the platform.
+
+Steps to Approve the SSO Connection
+
+1. Log in to your Microsoft Entra admin account.
+2. Open the admin consent link (this will be provided by Mindset)
+3. Approve the connection request when prompted.
+
+**Note:**
+
+* The process might not display a clear success message. To confirm setup, try logging in via SSO on the app.
+* If you see an error when clicking the link, it could be due to:
+  * Insufficient permissions: You may need to escalate the request to someone with higher admin privileges.
+  * Microsoft environment restrictions: You may have specific restrictions on your Microsoft environment and may need to replace {tenant} in the URL (provided by Mindset) with your Microsoft Tenant ID or verified domain name (be sure to remove the curly braces from the tenant ID).
+
+**Will users always be logged in automatically when using SSO (Microsoft or Google)?**
+
+In most cases, users who are already signed into their Microsoft or Google account will be logged in when selecting the corresponding SSO option. However, they may occasionally be prompted to re-enter their password. This behaviour is determined by Microsoft or Google and can depend on factors such as browser settings, security policies, or the time elapsed since the last authentication. This is still part of the standard SSO experience. Users will always log in using their Microsoft or Google credentials.
+
 ### Frequently Asked Questions
 
 **Can an application have both MFA and SSO enabled?**
