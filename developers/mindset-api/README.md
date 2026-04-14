@@ -1,5 +1,0 @@
-# Mindset API
-
-
-
-&#x20;
